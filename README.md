@@ -49,7 +49,7 @@ nav:
     - Home: index.md
     - Umbauanleitung:
         - SR24:
-            - S75: Umbauanleitung/SR24/s75-anleitung/index.md  # Neue Zeile
+            - S50: Umbauanleitung/SR24/s50-anleitung/index.md  # Neue Zeile
 ```
 
 ### Markdown Dateien bearbeiten
