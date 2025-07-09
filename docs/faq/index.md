@@ -1,5 +1,4 @@
 # FAQ
-# FAQ
 ## Details zum Umbausatz
 ### Wie weit komme ich mit dem Akku wirklich?
 Bis zu 70 km! Es stehen zwei unterschiedliche Akkugrößen zur Auwahl. Die Basis-Version verfügt über 1,8 kWh, was einer Reichweite von 50 km entspricht. Die größere Version reicht mit 2.5 kWh für bis zu 70 km.
