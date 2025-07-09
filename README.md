@@ -1,6 +1,6 @@
 # SecondRide Documentation
 
-This repository contains the official documentation for SecondRide.
+Dieses repo enthält die offizielle Second-Ride Dokumentation.
 
 ## Live Documentation
 
@@ -34,7 +34,7 @@ docs/
 
 **Schritt 1: Ordner erstellen**
 - Erstelle einen neuen Ordner mit einem aussagekräftigen Namen (nur Kleinbuchstaben, Bindestriche statt Leerzeichen)
-- Beispiel: `s75-anleitung` für eine S75 Anleitung
+- Beispiel: `S50-anleitung` für eine S50 Anleitung
 
 **Schritt 2: index.md Datei erstellen**
 - In dem neuen Ordner muss eine Datei namens `index.md` erstellt werden
