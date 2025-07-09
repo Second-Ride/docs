@@ -95,11 +95,11 @@ nav:
         - Übersicht: Umbauanleitung/index.md
         - SR24:
             - Übersicht: Umbauanleitung/SR24/index.md
-            - S50/S51: Umbauanleitung/SR24/01-S50S51/S50S51_Montageanleitung.md
-            - Schwalbe: Umbauanleitung/SR24/02-Schwalbe/Schwalbe_Montageanleitung.md
-            - SR50: Umbauanleitung/SR24/03-SR50/SR50_Montageanleitung.md
-            - Duo: Umbauanleitung/SR24/04-Duo/Duo_Montageanleitung.md
-            - Vogelserie: Umbauanleitung/SR24/05-Vogelserie/Vogelserie_Montageanleitung.md
+            - S50/S51: Umbauanleitung/SR24/s50-s51/index.md
+            - Schwalbe: Umbauanleitung/SR24/schwalbe/index.md
+            - SR50: Umbauanleitung/SR24/sr50/index.md
+            - Duo: Umbauanleitung/SR24/duo/index.md
+            - Vogelserie: Umbauanleitung/SR24/vogelserie/index.md
     - FAQ: faq/index.md
 
 extra_javascript:
