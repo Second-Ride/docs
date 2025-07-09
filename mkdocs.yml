@@ -1,7 +1,8 @@
 site_name: SecondRide Documentation
+site_description: 'Umfassende Dokumentation und FAQs zu Second Ride E-Bike Motoren, Installation, Wartung und Fehlerbehebung'
 site_url: https://docs.second-ride.de/
-repo_url: https://github.com/secondride/docs/
-edit_uri: https://github.com/secondride/docs/edit/main/docs
+repo_url: https://github.com/Second-Ride/docs/
+edit_uri: https://github.com/Second-Ride/docs/edit/main/docs
 
 extra_css:
     - stylesheets/extra.css
@@ -27,16 +28,19 @@ markdown_extensions:
 
 theme:
     name: material
-    # logo: img/opulo.webp  # Removed - image not available
     favicon: img/favicon.ico
     font:
         text: Figtree
     features:
         # Turning off footer nav as it can be misleading, and we have explicit links to the appropriate next section for every page
         #- navigation.footer
+        - navigation.instant
+        - navigation.instant.prefetch
+        - navigation.instant.progress
         - navigation.tracking
         - navigation.tabs
         - navigation.tabs.sticky
+        - navigation.top
         - content.tabs.link
         - content.action.edit
         - toc.integrate
@@ -75,15 +79,16 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/opuloinc
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/OpuloInc
+      link: https://www.facebook.com/secondridegmbh
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/opulo.io
+      link: https://www.instagram.com/second_ride_/
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCMf49SMPnhxdLormhEpfyfg
+      link: https://www.youtube.com/@second-ride
     - icon: fontawesome/brands/discord
-      link: https://discord.com/invite/TCwy6De
+      link: https://discord.com/invite/jbWrdN6NK7
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/company/second-ride
+
 nav:
     - Home: index.md
     - Umbauanleitung:
@@ -96,4 +101,7 @@ nav:
     - Bedienungsanleitung:
         - SR24: Bedienungsanleitung/SR24_Bedienungsanleitung.md
     - FAQ: faq/index.md
+
+extra_javascript:
+  - javascripts/typebot.js
 
