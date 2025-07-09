@@ -1,7 +1,7 @@
 site_name: SecondRide Documentation
 site_url: https://docs.second-ride.de/
-repo_url: https://github.com/lukaskunhardt/secondride-docs/
-edit_uri: https://github.com/lukaskunhardt/secondride-docs/edit/main/docs
+repo_url: https://github.com/secondride/docs/
+edit_uri: https://github.com/secondride/docs/edit/main/docs
 
 extra_css:
     - stylesheets/extra.css
