@@ -86,5 +86,14 @@ extra:
       link: https://discord.com/invite/TCwy6De
 nav:
     - Home: index.md
+    - Umbauanleitung:
+        - SR24:
+            - S50/S51: Montageanleitung/SR24/S50S51/S50S51_Montageanleitung.md
+            - Schwalbe: Montageanleitung/SR24/S50S51/S50S51_Montageanleitung.md
+            - SR50: Montageanleitung/SR24/S50S51/S50S51_Montageanleitung.md
+            - Duo: Montageanleitung/SR24/S50S51/S50S51_Montageanleitung.md
+            - Vogelserie: Montageanleitung/SR24/S50S51/S50S51_Montageanleitung.md
+    - Bedienungsanleitung:
+        - SR24: Bedienungsanleitung/SR24_Bedienungsanleitung.md
     - FAQ: faq/index.md
 
