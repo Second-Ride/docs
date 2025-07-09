@@ -1,7 +1,4 @@
 document$.subscribe(function() {
-    console.log("Typebot script loaded");
-    
-    // Load the Typebot library
     const script = document.createElement("script");
     script.type = "module";
     script.innerHTML = `
