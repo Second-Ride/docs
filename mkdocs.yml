@@ -28,12 +28,12 @@ markdown_extensions:
 
 theme:
     name: material
+    logo: img/Bildmarke_Weiss.svg
     favicon: img/favicon.ico
     font:
         text: Figtree
     features:
-        # Turning off footer nav as it can be misleading, and we have explicit links to the appropriate next section for every page
-        #- navigation.footer
+        - navigation.footer
         - navigation.instant
         - navigation.instant.prefetch
         - navigation.instant.progress
@@ -69,11 +69,11 @@ plugins:
     - glightbox:
         draggable: false
     - search
-    # - social:  # Disabled - requires logo image
-    #     cards_layout_options:
-    #         background_color: "#111111"
-    #         color: "#daa520"
-    #         font_family: Figtree
+    - social:
+        cards_layout_options:
+            background_color: "#111111"
+            color: "#E4B854"
+            font_family: Figtree
     - neoteroi.mkdocsoad:
         use_pymdownx: true
 extra:

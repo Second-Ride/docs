@@ -49,14 +49,6 @@ site/
 # Docker build context (optional)
 .dockerignore
 
-# Images (can be large - add back specific ones as needed)
-*.webp
-*.png
-*.jpg
-*.jpeg
-*.gif
-docs/**/images/
-
 # Server-specific files (deployment infrastructure)
 webhook.py
 docker-compose.yml
@@ -75,3 +67,4 @@ venv/
 
 .env
 start.sh
+f
