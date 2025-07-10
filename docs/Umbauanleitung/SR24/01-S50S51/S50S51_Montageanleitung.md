@@ -86,20 +86,23 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 **Bedeutung der Warnzeichen:**   
 
 
-<img width="943" alt="warnung" src="https://github.com/user-attachments/assets/4480aa9f-15aa-4e0d-bed3-668015365578" />
+<img width="900" alt="warnung" src="https://github.com/user-attachments/assets/4480aa9f-15aa-4e0d-bed3-668015365578" />
 
 ## Demontage
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.  
 
 
-**1. Motoranschlüsse**
+### **1. Motoranschlüsse**
 
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Stell sicher, dass der Benzinhahn zugedreht ist und zieh den Schlauch vom Vergaser ab. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas- (2) und Starter-Bowdenzug (1) vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock (5) und drehe die Tachowelle aus der Halterung (6). Entferne nun noch den Zündkerzenstecker (3) und das Massekabel vom Motorblock. Entferne den linken Herzkastendeckel, um die von der Lichtmaschine kommenden Kabel abstecken und entfernen zu können. 
-<img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="700" />
 
 
 
-**2.Auspuff**
+<img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="500" />
+
+
+
+### **2.Auspuff**
 
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
@@ -117,7 +120,7 @@ Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. Die Auspuffstrebe (7) kannst du gleich mit entfernen. Dafür einfach oben am hinteren Federbein die Schraube demontieren, die Auspuffstrebe entfernen und das Federbein wieder mit dem Rahmenobergurt und der Obergurtstützstrebe verschrauben.
 
-**3. Kette**
+### **3. Kette**
 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. 
@@ -133,7 +136,7 @@ Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel gen
 
 Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt.
 
-**4. Motor**
+### **4. Motor**
 
 
 Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Wenn beide Schrauben raus sind, sollte der Motor in der Regel von selbst noch in der Lagerung hängen. Indem du den Motor jetzt anhebst, kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Deine Simson ist nun kein Verbrennungsfahrzeug mehr.
@@ -147,12 +150,12 @@ Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schr
   </tr>
 </table>
 
-**5. Lenker-Anbauteile**
+### **5. Lenker-Anbauteile**
 
 
 Am Lenker kannst du nun den linken Handhebel sowie den Kupplungs- und Starter-Bowdenzug demontieren.
 
-**6. Sitzbank**
+### **6. Sitzbank**
 
 
 Damit du unsere neue Sitzbank gleich montieren kannst, solltest du nun die Originale entfernen. Diese ist mit drei Schrauben am Rahmenobergurt befestigt. Die erste ist vorne und kann von der linken Seite mit einem Schraubenzieher entfernt werden. Die anderen beiden befinden sich hinten über dem Gepäckträger. Et voila! Dein Moped erwartet nun seinen Elektroumbausatz!
@@ -166,27 +169,31 @@ M5: 5,7 Nm<br>
 M6: 9,8 Nm<br>
 M8: 24 Nm<br>
 
-**1. Antriebsmodul-Lagerung**
+### **1. Antriebsmodul-Lagerung**
 
-Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung und die M8x90 Außensechskantschraube für die untere Bohrung. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. 
+Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung und die M8x90 Außensechskantschraube für die untere Bohrung. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an.<br>
 
 
-<img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="700" />
+
+<img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" />
 
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
       <strong>🖋️  Tipp :</strong><br>
-      Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen: 
-➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner) durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
-
+      Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
+     ➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner)  
+     durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
     </td>
   </tr>
 </table>
 
 Überprüfe in jedem Fall nach der Montage des Antriebsmoduls, dass alle 4 Schrauben des Adapterblocks (9) sowohl auf der Fahrzeugseite als auch auf der Motorseite ausreichend fest angeschraubt sind.
 
-**2. Kette**
+### **2. Kette**
 
 
 Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Wenn du eine S50 hast (gilt nicht für S51), und bereits eine 420er Kette aufgezogen hast, kannst du diese weiterverwenden, wenn du willst. Du erkennst, ob es eine 420er Kette ist, indem du die Breite an den äußersten Punkten eines Glieds misst. Die 420er Kette ist innen 6,35 mm breit. Die originale Simson Kette ist innen 5,2 mm breit. Entscheidest du dich, die mitgelieferte Kette verbauen zu wollen, dann suche jetzt das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. Achtung: Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette, bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du erfühlen, wenn du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
+
+
+<img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" />
