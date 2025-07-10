@@ -263,6 +263,19 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
    <img width="200" height="288" alt="qrcode-6" src="https://github.com/user-attachments/assets/fa8b2a1e-3bca-46fc-8e09-c61083ebc768" />
 </p>
 
+### 5. Elektrik 
+Das dicke orange Kabel kannst du mit Kabelbindern bis zur vorderen Aufnahme hoch binden. Generell solltest du vermeiden, dass Kabel an scharfen Kanten oder Ecken reiben kann.<br>
+
+Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt noch ein schwarzes Kabel mit weißem Stecker heraus. Führe dieses ebenso wie zuvor das Armaturenkabel in den Herzkasten. Wir haben dir einen Kabelbaum mitgeliefert, an dessen einem Ende ein passender weißer Stecker und an den anderen Enden mehrere Flachsteckhülsen und ein Ringkabelschuh sind. Verbinde nun die weißen 2-Pol-Stecker. Die schwarze Ader kannst du am Masse-Sammelpunkt im Herzkasten befestigen. Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an folgenden Kontakten:
+**59, 59B, 30, unbeschrifteter Dreifachstecker**<br>
+Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.<br>
+
+Unter folgendem QR-Code findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können und wo du die roten Kabel anstecken musst. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
+
+<p align="center">
+   <img width="200" height="296" alt="qrcode2" src="https://github.com/user-attachments/assets/3019086e-2b7a-4622-8e46-ef159f22b6ea" />
+</p>
+
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen und den Blinkgeber gegen 12V Komponenten austauschen. 
 
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
