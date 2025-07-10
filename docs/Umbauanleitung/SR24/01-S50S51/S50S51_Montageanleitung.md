@@ -269,7 +269,11 @@ In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spiel
 </p>
 
 Drehe dafür den Vergaserkolben (19) wie im Bild gezeigt, so dass die Nut (29)  zum Hinterreifen zeigt. Im Zylinder (20) ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (18) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.<br>
-Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringerst du das Spiel. Später wenn der Akku verbunden ist, kannst du deine Einstellung überprüfen:
+
+
+Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringerst du das Spiel. Später wenn der Akku verbunden ist, kannst du deine Einstellung überprüfen:<br>
+
+
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
 
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
