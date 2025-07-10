@@ -263,10 +263,34 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
    <img width="200" height="288" alt="qrcode-6" src="https://github.com/user-attachments/assets/fa8b2a1e-3bca-46fc-8e09-c61083ebc768" />
 </p>
 
+In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47a1d52a-a043-487c-84a1-bdac1f482267" width="700" />
+</p>
+
+Drehe dafür den Vergaserkolben (19) wie im Bild gezeigt, so dass die Nut (29)  zum Hinterreifen zeigt. Im Zylinder (20) ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (18) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.<br>
+Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringerst du das Spiel. Später wenn der Akku verbunden ist, kannst du deine Einstellung überprüfen:
+Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+     <strong>⚠️  Achtung: :</strong><br>
+    Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
+    </td>
+  </tr>
+</table>
+
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
+
+<p align="center">
+  <img width="200" height="299" alt="qrcodeoublie" src="https://github.com/user-attachments/assets/7c90c114-b10b-42bb-a8e0-7a83d664013b" />
+</p>
+
 ### 5. Elektrik 
 Das dicke orange Kabel kannst du mit Kabelbindern bis zur vorderen Aufnahme hoch binden. Generell solltest du vermeiden, dass Kabel an scharfen Kanten oder Ecken reiben kann.<br>
 
-Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt noch ein schwarzes Kabel mit weißem Stecker heraus. Führe dieses ebenso wie zuvor das Armaturenkabel in den Herzkasten. Wir haben dir einen Kabelbaum mitgeliefert, an dessen einem Ende ein passender weißer Stecker und an den anderen Enden mehrere Flachsteckhülsen und ein Ringkabelschuh sind. Verbinde nun die weißen 2-Pol-Stecker. Die schwarze Ader kannst du am Masse-Sammelpunkt im Herzkasten befestigen. Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an folgenden Kontakten:
+Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt noch ein schwarzes Kabel mit weißem Stecker heraus. Führe dieses ebenso wie zuvor das Armaturenkabel in den Herzkasten. Wir haben dir einen Kabelbaum mitgeliefert, an dessen einem Ende ein passender weißer Stecker und an den anderen Enden mehrere Flachsteckhülsen und ein Ringkabelschuh sind. Verbinde nun die weißen 2-Pol-Stecker. Die schwarze Ader kannst du am Masse-Sammelpunkt im Herzkasten befestigen. Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an folgenden Kontakten:<br>
 **59, 59B, 30, unbeschrifteter Dreifachstecker**<br>
 Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.<br>
 
