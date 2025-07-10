@@ -180,7 +180,7 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
-      <strong>🖋️  Tipp :</strong><br>
+     <strong>🖋️  Tipp :</strong><br>
       Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
      ➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner)  
      durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
@@ -195,5 +195,27 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Wenn du eine S50 hast (gilt nicht für S51), und bereits eine 420er Kette aufgezogen hast, kannst du diese weiterverwenden, wenn du willst. Du erkennst, ob es eine 420er Kette ist, indem du die Breite an den äußersten Punkten eines Glieds misst. Die 420er Kette ist innen 6,35 mm breit. Die originale Simson Kette ist innen 5,2 mm breit. Entscheidest du dich, die mitgelieferte Kette verbauen zu wollen, dann suche jetzt das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. Achtung: Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette, bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du erfühlen, wenn du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
+Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
 
 <img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" />
+
+Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
+
+![molecule-5](https://github.com/user-attachments/assets/13c78985-795b-4719-a658-3f991196ccda)
+
+Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben.
+
+### 3. Armaturen
+
+Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert nun dein Originaltacho (16) nun einfach weiter.
+
+ <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+     <strong>⚠️  Achtung: :</strong><br>
+     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
+    </td>
+  </tr>
+</table>
+
+Die Armatureneinheit bestehend aus Zündschloss (14) und Taster (15) wird an der vorderen linken M6 Schraube der Lenkerauflage befestigt. Die Ladestandsanzeige (13) sollte zuerst an das Halterungsblech geschraubt und der rechteckige Stecker vom Zündschloss an der Rückseite eingesteckt werden.  In der Pappschachtel der Ladestandsanzeige sind Unterlegscheiben und Muttern zur Befestigung am Blech beigelegt. Dann kann das Halterungsblech analog zum Tacho an der linken Stoßdämpferschraube befestigt werden. Stecke nun den schwarzen Stecker welcher vom Zündschloss kommt in die Ladestandsanzeige. Das lange Kabel vom Zündschloss kannst du entlang des Rahmens unter dem Tank hindurch in den Herzkasten führen. Auf der Unterseite des Antriebsmodul kommt ein Kabel mit passendem Stecker heraus. Führe es in den Herzkasten und verbinde die Stecker dort. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Befestige die Kabel sicher am Rahmen mithilfe der mitgelieferten Kabelbinder. Achte darauf, dass bei vollem Lenkeinschlag in beide Richtungen das Kabel nicht gezerrt wird, oder es sogar das Lenken behindert. 
