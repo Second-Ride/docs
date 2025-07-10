@@ -1,6 +1,7 @@
 # S50/S51 Montageanleitung 
 für Simson S50
-<img width="601" alt="Screenshot 2025-07-09 171347" src="https://github.com/user-attachments/assets/e2974f5d-040a-41db-a9c8-927e2db56dc0" />
+![la-bonne-s50](https://github.com/user-attachments/assets/d775d04a-2e4a-475d-a5fd-0a2738d7a58b)
+
 
 
 
