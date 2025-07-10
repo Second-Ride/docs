@@ -86,15 +86,69 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 <img width="943" alt="warnung" src="https://github.com/user-attachments/assets/4480aa9f-15aa-4e0d-bed3-668015365578" />
 
 ## Demontage
-Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.   
+Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.  
+
+
 **1. Motoranschlüsse**
 
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Stell sicher, dass der Benzinhahn zugedreht ist und zieh den Schlauch vom Vergaser ab. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas- (2) und Starter-Bowdenzug (1) vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock (5) und drehe die Tachowelle aus der Halterung (6). Entferne nun noch den Zündkerzenstecker (3) und das Massekabel vom Motorblock. Entferne den linken Herzkastendeckel, um die von der Lichtmaschine kommenden Kabel abstecken und entfernen zu können. 
 ![expl-pdf](https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b)
 
-**2.Auspruff**
+**2.Auspuff**
+
+
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
-> 💡 **Tipp :** Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
 
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong>🖋️  Tipp :</strong><br>
+      Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+    </td>
+  </tr>
+</table>
+
+
+Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. Die Auspuffstrebe (7) kannst du gleich mit entfernen. Dafür einfach oben am hinteren Federbein die Schraube demontieren, die Auspuffstrebe entfernen und das Federbein wieder mit dem Rahmenobergurt und der Obergurtstützstrebe verschrauben.
+
+**3. Kette**
+
+
+Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. 
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong>🖋️  Tipp :</strong><br>
+      Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
+    </td>
+  </tr>
+</table>
+
+Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt.
+
+**4. Motor**
+
+
+Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Wenn beide Schrauben raus sind, sollte der Motor in der Regel von selbst noch in der Lagerung hängen. Indem du den Motor jetzt anhebst, kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Deine Simson ist nun kein Verbrennungsfahrzeug mehr.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong>💡Interessant zu wissen :</strong><br>
+      Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
+    </td>
+  </tr>
+</table>
+
+**5. Lenker-Anbauteile**
+
+
+Am Lenker kannst du nun den linken Handhebel sowie den Kupplungs- und Starter-Bowdenzug demontieren.
+
+**6. Sitzbank**
+
+
+Damit du unsere neue Sitzbank gleich montieren kannst, solltest du nun die Originale entfernen. Diese ist mit drei Schrauben am Rahmenobergurt befestigt. Die erste ist vorne und kann von der linken Seite mit einem Schraubenzieher entfernt werden. Die anderen beiden befinden sich hinten über dem Gepäckträger. Et voila! Dein Moped erwartet nun seinen Elektroumbausatz!
 
