@@ -1,6 +1,7 @@
 # S50/S51 Montageanleitung 
 für Simson S50
-![ina](https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885)
+
+<img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" />
 
 
 
@@ -83,6 +84,8 @@ Einige Flüssigkeiten, die in Fahrzeugen verwendet werden (Batteriesäure, Batte
 Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt der Drucklegung aktuell. Da aber die kontinuierliche Verbesserung eines der Hauptziele ist, behalten wir uns das Recht vor, jederzeit Veränderungen an den Produkten vorzunehmen. Wenn du Irrtümer oder Auslassungen in diesem Dokument bemerkst, schreib das bitte unbedingt in den Discord-Channel (siehe Fußnote). 
           
 **Bedeutung der Warnzeichen:**   
+
+
 <img width="943" alt="warnung" src="https://github.com/user-attachments/assets/4480aa9f-15aa-4e0d-bed3-668015365578" />
 
 ## Demontage
@@ -92,7 +95,9 @@ Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kur
 **1. Motoranschlüsse**
 
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Stell sicher, dass der Benzinhahn zugedreht ist und zieh den Schlauch vom Vergaser ab. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas- (2) und Starter-Bowdenzug (1) vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock (5) und drehe die Tachowelle aus der Halterung (6). Entferne nun noch den Zündkerzenstecker (3) und das Massekabel vom Motorblock. Entferne den linken Herzkastendeckel, um die von der Lichtmaschine kommenden Kabel abstecken und entfernen zu können. 
-![expl-pdf](https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b)
+<img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="700" />
+
+
 
 **2.Auspuff**
 
@@ -152,3 +157,36 @@ Am Lenker kannst du nun den linken Handhebel sowie den Kupplungs- und Starter-Bo
 
 Damit du unsere neue Sitzbank gleich montieren kannst, solltest du nun die Originale entfernen. Diese ist mit drei Schrauben am Rahmenobergurt befestigt. Die erste ist vorne und kann von der linken Seite mit einem Schraubenzieher entfernt werden. Die anderen beiden befinden sich hinten über dem Gepäckträger. Et voila! Dein Moped erwartet nun seinen Elektroumbausatz!
 
+## Montage des Umbaukits
+
+Bei der Montage des Umbaukits werden ausschließlich Schrauben der Größe M4, M5, M6 und M8 verwendet. Damit die einzelnen Teile wie vorgesehen halten und festgeschraubt sind, solltest du die folgenden Anzugsmomente verwenden: 
+
+M4: 2,9 Nm<br>
+M5: 5,7 Nm<br>
+M6: 9,8 Nm<br>
+M8: 24 Nm<br>
+
+**1. Antriebsmodul-Lagerung**
+
+Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung und die M8x90 Außensechskantschraube für die untere Bohrung. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. 
+
+
+<img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="700" />
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong>🖋️  Tipp :</strong><br>
+      Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen: 
+➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner) durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
+
+    </td>
+  </tr>
+</table>
+
+Überprüfe in jedem Fall nach der Montage des Antriebsmoduls, dass alle 4 Schrauben des Adapterblocks (9) sowohl auf der Fahrzeugseite als auch auf der Motorseite ausreichend fest angeschraubt sind.
+
+**2. Kette**
+
+
+Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Wenn du eine S50 hast (gilt nicht für S51), und bereits eine 420er Kette aufgezogen hast, kannst du diese weiterverwenden, wenn du willst. Du erkennst, ob es eine 420er Kette ist, indem du die Breite an den äußersten Punkten eines Glieds misst. Die 420er Kette ist innen 6,35 mm breit. Die originale Simson Kette ist innen 5,2 mm breit. Entscheidest du dich, die mitgelieferte Kette verbauen zu wollen, dann suche jetzt das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. Achtung: Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette, bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du erfühlen, wenn du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
