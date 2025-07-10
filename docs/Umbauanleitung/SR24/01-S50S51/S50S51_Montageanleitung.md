@@ -88,5 +88,13 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 ## Demontage
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.   
 **1. Motoranschlüsse**
+
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Stell sicher, dass der Benzinhahn zugedreht ist und zieh den Schlauch vom Vergaser ab. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas- (2) und Starter-Bowdenzug (1) vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock (5) und drehe die Tachowelle aus der Halterung (6). Entferne nun noch den Zündkerzenstecker (3) und das Massekabel vom Motorblock. Entferne den linken Herzkastendeckel, um die von der Lichtmaschine kommenden Kabel abstecken und entfernen zu können. 
+![expl-pdf](https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b)
+
+**2.Auspruff**
+Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
+
+> 💡 **Tipp :** Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+
 
