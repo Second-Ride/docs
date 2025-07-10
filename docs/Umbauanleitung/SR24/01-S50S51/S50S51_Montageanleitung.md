@@ -94,10 +94,21 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
           
 **Bedeutung der Warnzeichen:**   
 
+| Warnzeichen | Bedeutung  |
+|-------|-------------|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Allgemeine Warnung**|
+|  <img width="60" height="70" alt="pano-2" src="https://github.com/user-attachments/assets/b2d5a5af-66ff-4332-8912-08eadcd88763" />| **Elektrische Spannung (insbesondere Hochvoltspannung)**|
+|  <img width="60" height="70" alt="pano 3" src="https://github.com/user-attachments/assets/00e79ba6-97b7-4db3-80cd-7cb1c075f4ee" />| **Feuergefährliche Stoffe**|
+| <img width="60" height="70" alt="pano-4" src="https://github.com/user-attachments/assets/6928edeb-e4ee-4df8-a955-02d98a470508" />| **Gefahr der Handverletzung**|
+| <img width="60" height="70" alt="pano-5" src="https://github.com/user-attachments/assets/44008484-7f90-47a9-9aa5-69cff520dd81" />| **Gefahren durch das Aufladen von Batterien**|
+| <img width="60" height="70" alt="pano-6" src="https://github.com/user-attachments/assets/4ffd37cc-9e3d-4827-ba92-6ecfed437dd1" />| **Heiße Oberfläche**|
+| <img width="60" height="70" alt="pano-7" src="https://github.com/user-attachments/assets/9d294377-405f-4fe9-8152-5f08f62f9a40" />| **Giftige Stoffe**|
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4480aa9f-15aa-4e0d-bed3-668015365578" width="1100" />
-</p>
+
+
+
+
+
 
 ## Demontage
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.  
