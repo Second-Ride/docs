@@ -330,9 +330,9 @@ Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul
 Für das Anschließen der Flachsteckhülsen ist es einfacher, die Steckerleiste über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die roten Kabel des Second Ride Kabels  mit den Kontakten an dem Leitungsverteiler an den für dein Fahrzeugmodell korrekten Kontakten. Das Anstecken kann aufgrund der Isolierung kniffelig sein, ist aber mit der richtigen Technik möglich. Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="500" />
+  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="100" />
 </p>
- [Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
+[Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
 
 Die schwarze Ader kannst du am linken Anschraubpunkt des Masse-Sammelpunktes () befestigen. Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
 
@@ -353,6 +353,73 @@ Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wi
 
 Bei den /1 Modellen muss das mitgelieferte Relais so wie im Schaltplan gezeigt angeschlossen werden. Falls hier die Kabellänge nicht ausreicht, tausche die Seiten der beiden Steckverbinder am Leitungsverbinder. Das Relais ist notwendig, da die Bremslichtlogik bei den /1 Modellen invertiert ist und 12V anstelle von Masse schaltet. Schraube das Relais (49) an dem linken Anschraubpunkt (50) auf mittlerer Höhe des Elektronikbereichs der SR fest.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="400" />
+</p>
+
+Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wir dir das Tacho- & Standlichtkabel mitgeliefert (Rot). Um dieses anzuschließen, musst du den Scheinwerfer entfernen. Schraube dafür die Schraube an der unteren linken Seite des Scheinwerfers ein paar Umdrehungen raus, sodass sich die Lampenmaske abnehmen lässt. Hake nun die Federspannung oben am Scheinwerfer aus und bewege den Scheinwerfer vorsichtig so heraus, dass du an die Kontakte der Lampenfassung kommst. Hier verbindest du das Tacho- & Standlichtkabel mit mit dem Kontakt, an dem das grau/rote Kabel anschließt. Dieses steckst du anschließend auf die freie Fahne an den gleichen Kontakt. Das andere Ende des Tacho- & Standlichtkabels führst du zur Hupe und verbindest es dort mit dem Kontakt, an dem das schwarz/gelbe Kabel anliegt. Hier steckst du das schwarz gelbe Kabel in Anschluss wieder auf den gleichen Kontakt an die  freie Fahne des Tacho- & Standlichtkabels.
 
 
+**SR50/1 C, SR80/1 C, SR50/1 CE, SR80/1 CE**
 
+Bei diesen Modellen musst du das Massekabel für die Zündspule auf die Klemmenleistenposition wie im Schaltplan spezifiziert umstecken, damit das Bremslichtrelais mit Masse versorgt ist.
+
+
+Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Tachobeleuchtung sowie die anderen Birnen am Tacho zu tauschen. 
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> 💡Interessant zu wissen :</strong><br>
+      Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.    
+    </td>
+  </tr>
+</table>
+
+Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebmodul und führe das Kabel zu dem Leitungsverbinder und stecke die Flachsteckhülse an die, für dein Fahrzeug, im Schaltplan definierte Position..
+
+
+Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
+
+
+Schalte nun das originale Zündschloss auf Stellung aus und entnehme den Zündschlüssel, den brauchst du ab jetzt nicht mehr für die Fahrt mit deiner elektrischen SR50.
+
+### **5. Armaturen**
+
+Bei der SR50N muss der Lenkerlichtschalter an der rechten Seite des Lenkers ausgebaut und das Licht auf Dauer-an gesetzt werden, damit dort der Platz für die SR50 Armaturen verwendet werden kann.
+
+
+Die Armaturen (38)  mit Taster, Ladestandsanzeige und Zündschloss müssen anstelle des Chokes und der dazugehörigen Abdeckung angebracht werden. Schraube diesen dafür ab und bringe die mitgelieferte Armatur an der selben Stelle an
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88a9a855-00a2-4585-84b3-71b005fbff8f" width="400" />
+</p>
+
+Führe  zuletzt das Kabel unter oder durch die Armaturenabdeckung in den Elektronikbereich entlang und leite es zum Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. 
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Wichtig :</strong><br>
+      Dabei ist wichtig, dass das Kabel vom Antriebsmodul kommend direkt nach vorne gelegt wird und nicht unten durch,da es sonst zu kurz ist.    
+    </td>
+  </tr>
+</table>
+
+Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Achte hierbei darauf, dass die Kabelverbindung genug Spiel beim
+Lenken zulässt.      
+Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter. 
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+        Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.   
+    </td>
+  </tr>
+</table>
+
+
+### **6. Akku/ Sitzbank**
+
+Nun kannst du die SR50 Staufachabdeckung (41), welche zur Aufnahme der Sitzbank dient, am Tank Staufach festschrauben. Dafür benötigst du 4x M6 Unterlegscheibe (42) und 4x M6 Mutter (42). Führe die 4 Bolzen durch die dafür vorgesehenen Bohrungen in dem Tank Staufach und verschraube sie mit den Unterlegscheiben und Muttern. Ziehe diese erst locker an und versuche dann die Staufachabdeckung herunterzuklappen und schaue, ob der Schlosshaken in das Schloss einrasten würde. Sollte dies nicht der Fall sein, korrigiere die Position der Staufachabdeckung in dem Tank Staufach bis die Orientierung stimmt und ziehe dann fest.
