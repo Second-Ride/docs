@@ -1,6 +1,6 @@
 # Second Ride Umbaukit SR24 für Simson Schwalbe -  KR51/2, KR51/1 & KR51
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
+  <img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" />
 </p>
 
 ## Bitte bewahre deine Verpackung auf!
