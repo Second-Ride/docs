@@ -278,7 +278,7 @@ Nun kannst du das Antriebsmodul hochklappen und  die vordere Abstützung der SR5
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
-      <strong> ⚠️Tipp zu wissen :</strong><br>
+      <strong> ⚠️ Achtung :</strong><br>
       Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
     </td>
   </tr>
@@ -443,13 +443,13 @@ Nun kannst du das erste Mal die Staufachabdeckung schließen. drücke es dafür 
 Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6759a130-3912-453a-90a7-77e193fc87ad" width="400" />
+  <img src="https://github.com/user-attachments/assets/6759a130-3912-453a-90a7-77e193fc87ad" width="150" />
 </p>
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="150" />
+  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
