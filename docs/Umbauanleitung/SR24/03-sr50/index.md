@@ -153,8 +153,9 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 Entferne die beiden Schrauben auf der Rückseite des Luftfilterkastens (10) und entferne diesen. Schraube den Gas- und Choke-Bowdenzug vom Vergaser (9) ab. Drehe die Tachowelle aus dem Kettendeckel (12). Entferne nun noch den Zündkerzenstecker (13) und das Massekabel vom Motorblock. Stecke die von der Lichtmaschine kommenden Kabel vom Fahrzeug ab. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4badf110-efb9-4059-987b-1654f9609ce9" width="500" />
+  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="500" />
 </p>
+
 
 
 ### **4. Auspuff**
@@ -212,13 +213,12 @@ M8: 24 Nm<br>
 
 Bitte klebe jetzt das Etikett mit der Seriennummer (37) oben auf die flache schwarze Seite des Controllers. Das ist wichtig, da im eingebauten Zustand die Seriennummer auf dem Adapterblock des Antriebsmoduls nicht mehr zu sehen ist.
 
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9501c003-4e5a-497a-8466-b626e7613028" width="500" />
+  <img src="https://github.com/user-attachments/assets/9f196df3-8634-42d9-89af-0e1498197e15" width="500" />
 </p>
 
-Damit unser Antriebsmodul in die SR50, SR80 passt, musst du eine kleine Anpassung an dem Antriebsmodul vornehmen. Der Adapterblock (31) muss um 30° entlang der Motorachse und der Kettenschutz um 5° versetzt werden. 
+Damit unser Antriebsmodul in die SR50, SR80 passt, musst du eine kleine Anpassung an dem Antriebsmodul vornehmen. Der Adapterblock (31) muss um 30° entlang der Motorachse und der Kettenschutz um 5° versetzt werden.
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="500" />
@@ -247,12 +247,111 @@ Tausche nun den Kettenschlauchhalter, der links neben der Motorwelle eingespannt
 
 Tausche nun den Kettenschlauchhalter, der links neben der Motorwelle eingespannt sitzt, mit dem, der deinem Kit beiliegt (47). Nach dem Tausch sollte die Fläche (48) unten sitzen. Die Funktion dieses Bauteils ist es, die Kettenschläuche zusammen mit dem Kettenschutz zu halten.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" />
+</p>
+
+### **2. Tank Staufach **
+
+Jetzt, wo das Antriebsmodul heruntergeklappt eingebaut ist, ist der Zeitpunkt gekommen, das Tank Staufach (23) einzubauen. Nimm dir dafür das Tank Staufach, 2x M6 Schrauben, 4x M6 Muttern, 4x M6 Unterlegscheiben und die beiden Gasdruckdämpfer.
+Das Tank Staufach (23) hat einen Kabelkanal, durch welchen das Hauptkabel (24) vom Antriebsmodul zur Sitzbank und das SR50 Rücklicht- & Blinkerkabel geführt wird. Während du das Tank Staufach in seine Position bringst, führe die beiden Kabel so in den Kabelkanal, dass der Stecker des Hauptkabels (25) in dem dafür vorgesehenen Platz sitzt. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="500" />
+</p>
+
+Sobald das Tank Staufach an seiner Position sitzt, kannst durch die unteren beiden Bohrungen des Staufachs die 2x M6 Schrauben (26) & 4x Unterlegscheiben (27) mit den 2x M6 Muttern (28) locker anbringen und das Tank Staufach vorläufig fixieren. Nimm dir die beiden Gasdruckdämpfer (29) und führe die Gewindebolzen durch die oberen beiden Anschraubpunkte und schraube die Muttern mit Unterlegscheiben auf. Hierbei ist es wichtig, dass im ausgefahrenen Zustand die beiden schwarzen Gasdruckbehälter nach unten und der Metallschaft nach oben zeigen.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27464caa-3321-4ba0-a25f-50c0ea576ad1" width="500" />
+</p>
+
+Schraube nun den Motorabdeckung Haken (53) mit den beiden M4 Schrauben und Muttern am Tank Staufach fest, damit die Originale SR50 Motorabdeckung weiterhin eingehakt werden kann.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fa3ba98-d2a7-4028-bd82-bc4ded67c650" width="500" />
+</p>
 
 
+Nun kannst du das Antriebsmodul hochklappen und  die vordere Abstützung der SR50 Motoraufnahme anbringen. Hierbei kann es sein, dass die Schraube des Fußbremshebels im Weg ist. Für das Hochklappen des Antriebsmodul kannst du diese temporär entfernen und nach dem Hochklappen wieder anbringen. Es kann sein, dass beim Hochklappen das Antriebsmodul an der rechten Rahmenseite anliegt und Vibrationen während der Fahrt übertragen würde. Dafür haben wir dir einen 50x50mm großen Moosgummistreifen mitgegeben, den du zwischen das Antriebsmodul und dem SR50 Rahmen positionieren kannst.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️Tipp zu wissen :</strong><br>
+      Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
+    </td>
+  </tr>
+</table>
+
+Damit unser Antriebsmodul in die SR50 passt, wird diese mit den 2x Motorhalterung-Adapterblechen (30) an die Rahmenaufnahme (41) angebracht. Dafür benötigst du zusätzlich 2x M8x70 Sechskanschraube (35), 2x M8 Sechskantmutter (36), 2x M8x20x1,25 Unterlegscheibe (37), 1x M8x24x2 Unterlegscheibe (38), 2x M8x6 Distanzscheibe (39) und 1x M8x12,5 Distanzscheibe (40).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/768e845c-35df-4120-b747-83bb37a18b02" width="500" />
+</p>
+
+### **3. Kette & Ritzeltausch**
+
+Entferne den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. 
 
 
+Bevor du mit dem Tausch der Kette loslegst, nimm dir das 11er Ritzel zur Hand und tausche das 10er gegen dieses. Dafür entfernst du den Sprengring, der das Ritzel auf der Motorwelle hält. Hierfür eignet sich gut ein Schlitzschraubendreher zum abhebeln. Sobald der Sprengring entfernt ist, kannst du das Tachoantrieb-Mitnehmerblech und das Ritzel von der Motorwelle nehmen. Nun setze das 11er Ritzel auf die Welle, dann das Mitnehmerblech und montiere zum Schluss den Sprengring. Hierfür eignet sich besonders eine Wasserpumpen- oder Spitzzange.
+Nun hat deine Simson die korrekte Übersetzung, um weiterhin 60 km/h zu fahren.
 
 
+Es wird wieder Zeit für die Handschuhe! Suche das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. 
+**Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34cc3743-73a9-4da5-bb01-20d2ad6b17f3" width="500" />
+</p>
+
+Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c30bcc2-07da-4d5b-b500-d3728711fbd7" width="500" />
+</p>
+
+Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben. 
+
+
+Jetzt sind alle Arbeiten am Antriebsmodul abgeschlossen, daher kannst du jetzt die Trittbretter wieder an die SR50 anbringen. Bringe davor bei dem linken Trittbrett den beigelegten transparenten Kantenschutz (51) an die Blechkante an, die auf die Phasenkabel des Antriebsmoduls drückt.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59cba14d-3f23-47c7-95f8-7fdf10f3bd54" width="500" />
+</p>
+
+
+### **4. Elektrik**
+
+Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt ein schwarzes Kabel mit weißem, 2-poligem Stecker heraus. Führe dieses auf die Oberseite des Motors. Wir haben dir zwei Rot-Schwarze Kabel mitgeliefert. Stecke das Kabel mit den weißen 2-poligen Steckern an beiden Enden mit dem 2-poligen weißen Stecker vom Antriebsmodul zusammen. Am anderen Ende steckst du das zweite Kabel, an dessen einem Ende ein passender weißer Stecker und am anderen Ende mehrere Flachsteckhülsen und ein Ringkabelschuh sind. 
+
+
+Für das Anschließen der Flachsteckhülsen ist es einfacher, die Steckerleiste über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die roten Kabel des Second Ride Kabels  mit den Kontakten an dem Leitungsverteiler an den für dein Fahrzeugmodell korrekten Kontakten. Das Anstecken kann aufgrund der Isolierung kniffelig sein, ist aber mit der richtigen Technik möglich. Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="500" />
+</p>
+ [Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
+
+Die schwarze Ader kannst du am linken Anschraubpunkt des Masse-Sammelpunktes () befestigen. Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
+
+
+Bei den folgenden Modellunterscheidungen geht es um Unterschiede in der Elektronik. Bei den /1 Modellen ändert sich die. Bremslichtversorgung/Schaltungslogik und diese besitzen ein Standlicht.
+Sei dir deshalb genau bewusst, welches Modell du besitzt.
+
+Alle die folgenden Verkabelungsbeschreibungen sind auch in den Schaltplänen ersichtlich.
+
+**SR50-B3, SR50-B4 SR50C, SR50CE, SR80CE**
+
+Das beigelegte Relais ist bei diesen Fahrzeugen nicht notwendig. Vielleicht findest du ja anderweitige Verwendung dafür.
+
+
+Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wir dir das Tacho- & Standlichtkabel (rot) mitgeliefert. Um dieses anzuschließen, musst du die Tachoabdeckung entfernen. Schraube dafür die 4 Schrauben der Tachoabdeckung heraus, sodass sich diese abnehmen lässt. Hier verbindest du das Tacho- & Standlichtkabel mit mit dem Tachobeleuchtungskontakt, an dem das grau/rote Kabel anschließt. Dieses steckst du anschließend auf die freie Fahne an den gleichen Kontakt. Das andere Ende des Tacho- & Standlichtkabels führst du zur Hupe und verbindest es dort mit dem Kontakt, an dem das schwarz/gelbe Kabel anliegt. Hier steckst du das schwarz gelbe Kabel in Anschluss wieder auf den gleichen Kontakt an die  freie Fahne des Tacho- & Standlichtkabels.
+
+**SR50/1-B3, SR50/1-B4, SR50/1 C, SR50/1 CE, SR80/1 CE**
+
+Bei den /1 Modellen muss das mitgelieferte Relais so wie im Schaltplan gezeigt angeschlossen werden. Falls hier die Kabellänge nicht ausreicht, tausche die Seiten der beiden Steckverbinder am Leitungsverbinder. Das Relais ist notwendig, da die Bremslichtlogik bei den /1 Modellen invertiert ist und 12V anstelle von Masse schaltet. Schraube das Relais (49) an dem linken Anschraubpunkt (50) auf mittlerer Höhe des Elektronikbereichs der SR fest.
 
 
 
