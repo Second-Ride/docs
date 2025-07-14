@@ -330,7 +330,7 @@ Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul
 Für das Anschließen der Flachsteckhülsen ist es einfacher, die Steckerleiste über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die roten Kabel des Second Ride Kabels  mit den Kontakten an dem Leitungsverteiler an den für dein Fahrzeugmodell korrekten Kontakten. Das Anstecken kann aufgrund der Isolierung kniffelig sein, ist aber mit der richtigen Technik möglich. Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="100" />
+  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="150" />
 </p>
 [Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
 
@@ -449,7 +449,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" />
+  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="150" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
@@ -474,7 +474,7 @@ Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswider
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ccac4b83-b805-447c-ba91-5bb788d74464" width="100" />
+  <img src="https://github.com/user-attachments/assets/ccac4b83-b805-447c-ba91-5bb788d74464" width="150" />
 </p>
 
 
