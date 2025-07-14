@@ -251,7 +251,7 @@ Tausche nun den Kettenschlauchhalter, der links neben der Motorwelle eingespannt
   <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" />
 </p>
 
-### **2. Tank Staufach **
+### **2. Tank Staufach**
 
 Jetzt, wo das Antriebsmodul heruntergeklappt eingebaut ist, ist der Zeitpunkt gekommen, das Tank Staufach (23) einzubauen. Nimm dir dafür das Tank Staufach, 2x M6 Schrauben, 4x M6 Muttern, 4x M6 Unterlegscheiben und die beiden Gasdruckdämpfer.
 Das Tank Staufach (23) hat einen Kabelkanal, durch welchen das Hauptkabel (24) vom Antriebsmodul zur Sitzbank und das SR50 Rücklicht- & Blinkerkabel geführt wird. Während du das Tank Staufach in seine Position bringst, führe die beiden Kabel so in den Kabelkanal, dass der Stecker des Hauptkabels (25) in dem dafür vorgesehenen Platz sitzt. 
@@ -423,3 +423,38 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 ### **6. Akku/ Sitzbank**
 
 Nun kannst du die SR50 Staufachabdeckung (41), welche zur Aufnahme der Sitzbank dient, am Tank Staufach festschrauben. Dafür benötigst du 4x M6 Unterlegscheibe (42) und 4x M6 Mutter (42). Führe die 4 Bolzen durch die dafür vorgesehenen Bohrungen in dem Tank Staufach und verschraube sie mit den Unterlegscheiben und Muttern. Ziehe diese erst locker an und versuche dann die Staufachabdeckung herunterzuklappen und schaue, ob der Schlosshaken in das Schloss einrasten würde. Sollte dies nicht der Fall sein, korrigiere die Position der Staufachabdeckung in dem Tank Staufach bis die Orientierung stimmt und ziehe dann fest.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="400" />
+</p>
+
+Als letztes müssen noch die Stoßdämpfer an der Staufachabdeckung festgeschraubt werden. Führe dafür die Gewindestücke der Gasdruckfedern (44) in die Aufnahmepunkte des Staufachabdeckung und schraube diese dort mit 2x M6 Unterlegscheibe (45) und 2x M6 Mutter (46) fest.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="400" />
+</p>
+
+Nun kannst du das erste Mal die Staufachabdeckung schließen. drücke es dafür am hinteren Ende mit Kraft in die Schlossaufnahme. Jetzt sollte es klicken und im Schloss eingerastet sein. Sollte sich hier der Haken nicht im Schloss einrasten, überprüfe noch einmal die Positionierung des Staufachs. Diese kannst du über Lösen der Schrauben um ein paar mm vor und zurück verschieben. 
+
+
+### **7. Gaszug**
+
+
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6759a130-3912-453a-90a7-77e193fc87ad" width="400" />
+</p>
+
+In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" />
+</p>
+
+Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
+
+
+Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringert du das Spiel. Später wenn der Akku verbunden ist kannst du deine Einstellung überprüfen:
+
+Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgas geben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
