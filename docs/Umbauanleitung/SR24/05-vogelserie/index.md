@@ -216,14 +216,14 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="700" />
+  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="600" />
 </p>
 
 Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
 Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst sie wie in der folgenden Abb. dargestellt so, dass die 1 dicke Unterlegscheibe innerhalb der oberen Motorlagerblechen sitzt und die dünneren außerhalb. Je nach Zustand der originalen Haltebleche kann auf die innere Unterlegscheibe verzichtet werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="700" />
+  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="500" />
 </p>
 
 
@@ -231,7 +231,7 @@ Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstän
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="700" />
+  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="600" />
 </p>
 
 
@@ -244,7 +244,7 @@ Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben 
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="700" />
+  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="500" />
 </p>
 
 
@@ -305,7 +305,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst, um den Kreuzschlitz der Madenschrauben nicht zu beschädigen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="600" />
+  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="750" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen der Lampenhaube und Lenkerrohr und leite es zur Unterseite des Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen.
@@ -327,13 +327,13 @@ Nun erfolgt die Anbringung der vorderen und hinteren Aufnahme, die in deine Sitz
 Schraube nun den Gepäckträgerbügel verkehrt herum auf den Gepäckträger und kontere die Schrauben, wie in folgender Abb. dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="600" />
+  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="500" />
 </p>
 
 Nun nimm dir die beiseite gelegte hintere Sitzbank Auflage (30) und schraube die hintere Aufnahme wie abgebildet fest. Achte hierbei darauf, dass die Gewindestangen zentral in den großen Bohrungen liegen. Das ist wichtig, damit deine Sitzbank später ordentlich auf die Aufnahmen passt. Wenn die Position stimmt, ziehe die Muttern ordentlich fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="600" />
+  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="500" />
 </p>
 
 
@@ -388,7 +388,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="200" />
+  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="500" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
