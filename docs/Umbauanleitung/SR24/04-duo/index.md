@@ -35,9 +35,9 @@ Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
 - [ ] 4x M6x16 Linsenkopfschraube
 - [ ] 4x M6 Selbstsichernde Muttern
 - [ ] 4x M6 Unterlegscheibe
+    <td>
 - [ ] 1x Kantenschutz transparent
 - [ ] 1x 10cm Moosgummistreifen
-    <td>
 - [ ] 2x Anschlagwinkel
 - [ ] 4x Spax Schraube
 - [ ] 1x M8x100 Außensechskantschraube
