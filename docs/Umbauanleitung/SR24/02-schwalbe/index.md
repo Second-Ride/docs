@@ -20,7 +20,7 @@ Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
  
 ## Lieferumfang
 
-#### **KR51/2, KR51/1, KR51** 
+#### KR51/2, KR51/1, KR51
 
 <table>
  <tr> 
@@ -90,7 +90,7 @@ Anschlussblech Gummiteile :
    </tr>
  </table>
 
-#### **KR51/1, KR51**
+#### KR51/1, KR51
  
 <table>
  <tr> 
@@ -140,7 +140,7 @@ Bremszug Adapter :
    </tr>
  </table>
 
-#### **KR51**
+#### KR51
  
 <table>
  <tr> 
@@ -214,7 +214,7 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.  
 
 
-### **1. Karosserie **
+### 1. Karosserie 
 
 Bei der Schwalbe ist der Umbau etwas aufwendiger als bei den Modellen S50, S51 und S70. Das liegt vor allem an der großzügigen Verkleidung, welche den Zugang zu Motor, Elektrik und Tank erschweren. Fang also am Besten gleich erstmal damit an, den Motortunnel zu entfernen. 
 
@@ -224,12 +224,12 @@ Bei der Schwalbe ist der Umbau etwas aufwendiger als bei den Modellen S50, S51 u
 
 Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Sitzbank inklusive des Scharniers (5). Entferne nun die fünf Schrauben die die Haube noch halten: eine Schraube oben, mittig hinter dem Tankdeckel (2), zwei Schrauben mit denen die Soziusrasten befestigt sind (3), und zwei jeweils an den vorderen, unteren Ecken der Haube (4). Damit du die Haube gleich abnehmen kannst, müssen noch die Kabel, die zum Rücklicht führen, abgeklemmt werden. In der Nähe des Motors solltest du eine 3-polige Klemmbuchse mit Kabeln, die nach hinten führen, finden. Entferne die Kabel von einer Seite der Buchse. Nun kann die Haube herunter gehoben werden. Ist die Haube runter, kannst du den Tank demontieren. Das ist notwendig, um später das dicke Kabel vom Antriebsmodul zur Sitzbank zu leiten und gibt dir außerdem jede Menge mehr Stauraum.
 
-### **2. Motoranschlüsse **
+### 2. Motoranschlüsse
 
 Nun können alle elektrischen und mechanischen Verbindungen am Motor gelöst werden. Stell sicher, dass der Benzinhahn zugedreht ist (nach links in Fahrtrichtung) und zieh den Schlauch vom Vergaser ab. Wenn du möchtest, kannst du an dieser Stelle auch den Tank demontieren. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas- und Starterzug vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock und drehe die Tachowelle aus der Halterung. Falls du eine Schwalbe mit Handschaltung hast, entferne auch den zugehörigen Bowdenzug. Entferne nun noch den Zündkerzenstecker und das Massekabel vom Motorblock. 
 Falls du eine KR51/1 oder KR51 mit einer Seilzug Hinterradbremse, hänge noch den Bremszug aus dem Motordeckel rechts aus. Dazu hilft es, am Hinterrad die zylinderförmige Mutter am Hinterradbremshebel zu lösen.
 
-### **3. Armaturenabdeckung **
+### 3. Armaturenabdeckung 
 
 #### KR51/1
 
@@ -249,7 +249,7 @@ Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Si
   <img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" />
 </p>
 
-### **4. Auspuff**
+### 4. Auspuff
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
@@ -265,7 +265,7 @@ Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. 
 
-### **5. Kette**
+### 5. Kette
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt. 
 
@@ -278,14 +278,14 @@ Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel gen
   </tr>
 </table>
 
-### **6. Motor**
+### 6. Motor
 
 Nach all dieser Vorarbeit ist der Motor jetzt bereit, entfernt zu werden. Dieser ist bei der KR51/2 mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Bei der KR51/1 und der KR51 ist dort nur eine M8 Schraube, die zweite sitzt oben am Zylinderkopf. 
 
 
 Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Nun kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! deine Simson ist kein Verbrennungsfahrzeug mehr!
 
-### **7. Lenker-Anbauteile**
+### 7. Lenker-Anbauteile
 
 Am Lenker kannst du nun den linken Handhebel sowie den Kupplungs- und Starter/Choke-Bowdenzug demontieren. Et voila! dein Moped erwartet nun den Elektroumbausatz!
 
@@ -297,8 +297,8 @@ M5: 5,7 Nm<br>
 M6: 9,8 Nm<br>
 M8: 24 Nm<br>
 
-### **1. Antriebsmodul Montage**
-#### **KR51/1, KR51**
+### 1. Antriebsmodul Montage
+#### KR51/1, KR51
 
 Bevor du das Antriebsmodul in deine Schwalbe einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
@@ -340,7 +340,7 @@ Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstän
 
 Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Motoraufnahme ordentlich fest, Nutze hierfür  eine Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern.
 
-#### **KR51/2**
+#### KR51/2
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug und führe das orangene/schwarze Kabel wie im Bild zu sehen hoch, wo später die Sitzbank sein wird. Montiere das geschlitzte Wellrohr um das Kabel, sodass es vor Blechkanten der Schwalbe Karosserie geschützt ist.
 Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). 
