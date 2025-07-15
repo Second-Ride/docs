@@ -393,7 +393,7 @@ Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterra
 Jetzt sollte deine Hinterradbremse wieder funktionieren. Vergewissere dich nach dem vollendeten Umbau, dass deine Hinterradbremse auch gut eingestellt ist und ordentlich bremst.   
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="500" />
+  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="300" />
 </p>
 
 ### 3. Elektrik
@@ -444,7 +444,144 @@ Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das or
 Zuletzt musst du noch unser Bremssignalkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmoduls und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremssignalkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="200" />
+  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="500" />
 </p>
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
+
+### 4. Armaturen
+
+Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.  
+    </td>
+  </tr>
+</table>
+
+#### KR51 
+
+Die KR51 Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech Bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst und den Kreuzschlitz der Madenschrauben beschädigst.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="500" />
+</p>
+
+Führe  zuletzt das Kabel durch die Öffnung zwischen dem Armaturenblech und Lenkerrohr und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht,
+welche die richtige Orientierung zum Zusammenstecken anzeigen.
+
+#### KR51/1, KR51/2
+
+Anstelle des zuvor demontierten Armaturenblechs, kannst du nun das von uns mitgelieferte Armaturenblech (13) mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) montieren. Führe dafür zuerst das Kabel durch die Öffnung auf die das Armaturenblech gehört, und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1535860d-1659-40f9-8623-95915e654d8c" width="500" />
+</p>
+
+
+### 5. Sitzbank
+
+Bevor du mit der Sitzbankmontage beginnst, musst du das Schwalbe Anschlussblech mit den unter Lieferumfang -> Anschlussblech Gummiteile aufgezählten Bauteilen versehen. Klebe die Moosgummistreifen auf die Unterseite des Anschlussbleches, wie unten dargestellt. Das Moosgummi lässt sich auch faltenfrei um den Radius vorne legen, wenn man es Stück für Stück anlegt und erst zum Schluss das Ganze richtig fest drückt. Wir haben diese Montage nicht bei uns durchgeführt, da das weiche Moosgummi sich sonst in der Verpackung schon verformt hätte und sich dadurch nicht perfekt an dein Fahrzeug anpasst.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="500" />
+</p>
+
+Die nachfolgende Sitzbankmontage ist einfacher, wenn die Haube der Schwalbe demontiert ist, da man dann deutlich einfacher an die Muttern der Schrauben des Gepäckträgers kommt. Es geht aber auch mit etwas verrenken ohne die Haubendemontage.
+
+#### KR51
+
+Da die Gepäckträgerbohrungen in der Karosserie bei der KR51 im Vergleich zur KR51/1 und -/2 um 2cm verschoben sitzen, muss vor der Sitzbankmontage die Position des Gepäckträgers angepasst werden. Nimm dir dafür die notwendigen Bauteile, die unter Lieferumfang  >  KR51  >  Gepäckträgeradapter aufgeführt sind und lege diese bereit.  Schraube nun den Gepäckträger ab. Montiere nun den Gepäckträger vor, so wie in folgender Abb. dargestellt.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="500" />
+</p>
+
+Hake nun das Aufnahmeblech vorne unter die Haube und schraube es über die beiden oberen Gepäckträgeraufnahmepunkte an der Haube fest. Nutze hierfür die mitgelieferten 2xKR51 Abstandshalter Gepäckträger. Das Kontern der Muttern ist deutlich leichter, wenn die Haube demontiert ist, klappt aber auch im montierten Zustand, wenn man einen langen Arm und etwas Geduld hat. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d0e3d9f-69fd-4163-a7d0-6d3c97408042" width="500" />
+</p>
+
+Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeblechs fest. Befestige den Gepäckträger an den originalen unteren Gepäckträgeraufnahmen wie unten abgebildet.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="500" />
+</p>
+
+Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+     Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
+    </td>
+  </tr>
+</table>
+
+
+#### KR51/2, KR51/1
+
+Nun kannst du an der abgebauten Haube hinten am Gepäckträger das Aufnahmeblech  anschrauben, bevor sie dann wieder am Fahrzeug montiert wird. Entferne dafür zuerst die beiden oberen Schrauben des Gepäckträgers, falls nicht schon geschehen. Hake nun das Aufnahmeblech vorne unter die Blechkante der Haube und schraub dann das Aufnahmeblech mit dem Aufbockgriff wieder an. Der Aufbockgriff muss mit dem Griff nach hinten-unten angeschraubt werden, da sonst nicht genügend Platz zum Ein- und Aushaken der Sitzbank wäre. Das Kontern der Muttern ist deutlich leichter, wenn die Haube demontiert ist, klappt aber auch im montierten Zustand, wenn man einen langen Arm und etwas Geduld hat. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c4058f9-aaac-44c3-94c5-f420f94904e6" width="500" />
+</p>
+
+Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
+
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+      Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
+    </td>
+  </tr>
+</table>
+
+### 3. Gaszug
+
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12, Seite 15). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e168d311-533d-48e2-8021-7de82638d0cf" width="200" />
+</p>
+
+In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="200" />
+</p>
+
+
+Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
+
+
+Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringert du das Spiel. Später wenn der Akku verbunden ist kannst du deine Einstellung überprüfen:<br>
+Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+      Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
+    </td>
+  </tr>
+</table>
+
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bfeb5b4-4310-46be-9a6a-8f7cd373b028" width="200" />
+</p>
+
+Montiere zum Schluss wieder den Motortunnel.
+
+
+
+
