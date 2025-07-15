@@ -383,7 +383,7 @@ Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. 
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen anstelle des Starterknopfes an der rechten Lenkerseite anstelle des Elektrostartertasters angebracht werden. Schraube diesen dafür ab und bringe die mitgelieferte Armatur an der selben Stelle an
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="200" />
+  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="600" />
 </p>
 
 Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Achte hierbei darauf, dass die Kabelverbindung genug Spiel beim
@@ -394,34 +394,66 @@ Lenken zulässt.
 Um die Akkuaufnahme an der Spritzwand anzubringen, nimm dir die Rahmenklemme und das Aufnahmeblech und schraube sie wie unten dargestellt an die Querstrebe des ehemaligen Bleiakkuhalters lose an. Trage nun den Kantenschutz auf die innere Kante der Rahmenklemme auf und setze diese wie unten dargestellt über die beiden oberen Rohre, die am Lenkerrohr münden. Schraube auch hier die beiden M6 Schrauben nur lose mit dem Aufnahmeblech zusammen. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="200" />
+  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="600" />
 </p>
 
 Nimm dir jetzt den Akku/Sitzbank zur Hand und stelle ihn senkrecht an die Spritzwand, während du die Schlossaufnahme der Akku Aufnahme in die Unterschale des Akkus einführst. Wenn du die Aufnahme nun nur lose an der Duo angeschraubt hast, sollte diese in die richtige Position rutschen. Achte dabei darauf, dass der Akku/Sitzbank wirklich senkrecht auf dem Boden der Duo steht und mit der unteren hinteren Kante an der Spritzwand anliegt. Nimm dir nun die beiden Winkel und setze sie wie folgt unter die beiden Kanten der Akkustandplatte. Markiere dir ihre Position auf der Bodenplatte, sodass du sie nach dem Wegnehmen des Akkus wieder an die genau gleiche Position setzen kannst. Gut geht das Ganze mit Kreppband.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="200" />
+  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="600" />
 </p>
 
 Die obere Aufnahme sollte so im Schloss sitzen, dass Sie nach oben möglichst wenig Spiel hat, wie in der folgenden Abbildung dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="200" />
+  <img src="https://github.com/user-attachments/assets/f12bd0e6-2567-4c44-8929-d57fe7bfc872" width="600" />
 </p>
 
+Ziehe nun die unteren Muttern der Aufnahme fest, um die Position zu sichern. Im Anschluss ziehst du die oberen beiden Muttern fest..
 
 
+Entferne den Akku/Sitzbank aus der Halterung und setze die beiden Winkel auf ihre vorher markierte Position. Markiere jeweils die beiden Lochmittelpunkte der Winkel und bohre jeweils entweder ein 2-2.5mm breites Loch in die markierten Stellen oder schraube die Winkel mit den Schrauben direkt in die markierten Stellen. Allerdings ist es deutlich genauer und leichter, wenn du, vor dem einschrauben, vorbohrst. 
 
 
+Nimm als letztes den mitgelieferten 10 cm langen Moosgummistreifen und klebe ihn auf den Akku unter die Schlossöffnung, sodass beim einrasten der Aufnahme, das Moosgummi komprimiert wird und so den Akku/Sitzbank unter Vorspannung setzt. Somit verhinderst du ungewolltes Klappern beim Fahren.
 
 
+### 6. Gaszug 
+
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/015363fd-f385-4bbd-b981-42e9443afa61" width="200" />
+</p>
+
+In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a45e3f6b-749d-4a08-a293-f5275c8bd753" width="600" />
+</p>
+
+Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
 
 
+Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellschraube dafür. Wenn der Gasgriff ganz nach vorne gedreht ist, also kein Gas gegeben wird, sollte gerade so kein Spiel auf der Hülle des Gaszugs sein. Indem du die Schraube heraus drehst, verringert du das Spiel. Später wenn der Akku verbunden ist kannst du deine Einstellung überprüfen:
+Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgas geben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
 
 
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> ⚠️ Achtung :</strong><br>
+  Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen. 
+    </td>
+  </tr>
+</table>
 
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef4f8ba0-31ad-4311-b030-d08c719ba244" width="200" />
+</p>
 
 
 
