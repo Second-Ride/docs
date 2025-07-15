@@ -101,20 +101,17 @@ nav:
             - Duo: umbauanleitung/SR24/04-duo/index.md
             - Vogelserie: umbauanleitung/SR24/05-vogelserie/index.md
         - Änderungsabnahme und Zulassung: aenderungsabnahmeUndZulassung/index.md
-    - Bedienungsanleitung: Bedienungsanleitung/index.md
-       - SR24: 
-          - An-/Ausschalten: Bedienungsanleitung/SR24/an-ausschalten/index.md
-          - Armaturentaster-LED: Bedienungsanleitung/S24/armaturentaster-led/index.md
-          - Beschleunigen: Bedienungsanleitung/SR24/beschleunigen/index.md
-          - Bremsen: Bedienungsanleitung/SR24/bremsen/index.md
-          - Rekuperation: Bedienungsanleitung/SR24/rekuperation/index.md
-          - Licht: Bedienungsanleitung/SR24/licht/index.md
-          - Ladestandsanzeigen: Bedienungsanleitung/SR24/ladestandsanzeigen/index.md
-          - Akku Aufladen: Bedienungsanleitung/SR24/akku-aufladen/index.md
-
-
-
-            - 
+    - Bedienungsanleitung:
+        - Übersicht: Bedienungsanleitung/index.md
+        - SR24: 
+            - An-/Ausschalten: Bedienungsanleitung/SR24/an-ausschalten/index.md
+            - Armaturentaster-LED: Bedienungsanleitung/S24/armaturentaster-led/index.md
+            - Beschleunigen: Bedienungsanleitung/SR24/beschleunigen/index.md
+            - Bremsen: Bedienungsanleitung/SR24/bremsen/index.md
+            - Rekuperation: Bedienungsanleitung/SR24/rekuperation/index.md
+            - Licht: Bedienungsanleitung/SR24/licht/index.md
+            - Ladestandsanzeigen: Bedienungsanleitung/SR24/ladestandsanzeigen/index.md
+            - Akku Aufladen: Bedienungsanleitung/SR24/akku-aufladen/index.md
     - FAQ: faq/index.md
 
 extra_javascript:
