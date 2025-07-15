@@ -6,3 +6,4 @@ Welcome to the Second Ride site! Here you'll find FAQs, build guides, setup inst
 
 You can make helpful changes to this doc by editing the markdown files in this repository. Changes will immediately show up in the docs.second-ride.de website
 
+## TODO: Auf deutsch übersetzen
