@@ -360,4 +360,91 @@ Mithilfe einer Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulsch
 Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Suche das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. 
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="700" />
+</p>
 
+Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72519124-0455-4d84-83e4-c5ac0fe80871" width="700" />
+</p>
+
+Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben. Bei KR51/1 und KR51 müssen hier die mitgelieferten 2x Kettenschlauchadapter verwendet werden. Drücke dazu die Kettenschlauchadapter mit dem schmaleren Ende vorran in die Kettenschläuche bis diese merklich einrasten. Jetzt kannst du den Kettenschlauch montieren.
+
+#### KR51/1, KR51 - Bremszugadapter
+
+Um den Hinterradbremse- Kabelzug abzustützen, muss nun der Bremszugadapter verbaut werden. Nimm dir dafür die unter Lieferumfang  >  KR51/1, KR51  >  Bremszugadapter aufgeführten Bauteile und montiere den Bremszugadapter auf der rechten Seite des Antriebmoduls.
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> 📝 Hinweis :</strong><br>
+     Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
+    Somit ist eine Verstellung des Bremszuges weiterhin möglich.
+    </td>
+  </tr>
+</table>
+
+Nimm dir zuerst die Schelle und spreize diese, führe Sie vorsichtig um das Rahmenrohr und schraube das Bremszugblech mit der M8 Schraube, Schnorrscheibe und M8 Mutter lose an. Als nächstes führe die schwarze Bremszughülse über den Bremszug, führe dann das Bremskabel in die geschlitzte Bohrung des Bremszugsblechs wie unten abgebildet. Verriegele nun den Bremszug mit dem Federsplint. Hänge nun den Bremszug im Fußbremshebel ein und richte den Bremszugadapter so aus, dass er 1 cm links neben der Rahmenquerstrebe mit dem Stehbolzen zur Tunnelabdeckungssicherung sitzt. Ziehe nun die M8 Schraube und Mutter ordentlich an.
+Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterradbremse über den Bremszugspanner am Hinterrad. 
+
+
+Jetzt sollte deine Hinterradbremse wieder funktionieren. Vergewissere dich nach dem vollendeten Umbau, dass deine Hinterradbremse auch gut eingestellt ist und ordentlich bremst.   
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="500" />
+</p>
+
+### 3. Elektrik
+
+Das dicke Kabel am Antriebsmodul kannst du mit Kabelbindern bis zur Sitzbank hochbinden. Bei den mitgelieferten Kleinteilen findest du ein Stück Klettband mit Klebeflächen. Klebe die eine Fläche auf die Rückseite des dicken Steckers und die andere an eine geeignete Stelle unter dem Blechkleid. Der Zweck hiervon ist es, den Stecker an einem vor Regen geschützten Ort verstauen zu können, wenn die Sitzbank nicht auf dem Fahrzeug ist. Säubere die Stelle, an die du den Klettverschluss kleben möchtest, vorher gründlich. 
+Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt noch ein schwarzes Kabel mit weißem, 2-poligem Stecker heraus. Führe dieses auf die Oberseite des Motors. Wir haben dir zwei Kabel (Rot, Schwarz) mitgeliefert. Stecke das Kabel mit den weißen 2-poligen Steckern an beiden Enden mit dem 2-poligen weißen Stecker vom Antriebsmodul zusammen. Am anderen Ende steckst du das zweite Kabel, an dessen einem Ende ein passender weißer Stecker und am anderen Ende mehrere Flachsteckhülsen und ein Ringkabelschuh sind. 
+
+
+Für das Anschließen der Flachsteckhülsen ist es notwendig, die Lampenmaske über die zwei Kreuzschlitzschrauben abzunehmen. Zum Anstecken der Flachstecker ist es von Vorteil, das Zündschloss aus seiner Halterung zu lösen. Hebel dazu die Zündschlossabdeckung ab und entferne die 3 Schrauben, die das Zündschloss halten. Nun hast du mehr Spielraum, um an die Flachsteckverbindungen zu kommen.
+
+Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an folgenden Kontakten:
+
+**59, 59B, 30, unbeschrifteter Dreifachstecker** 
+
+Die schwarze Ader kannst du am Masse-Sammelpunkt, am Lenker (16, Seite 21) rechts unter dem Blinkschalter, befestigen. du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
+
+
+Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4daac01b-ab57-43f5-8ba6-4ca76040632e" width="200" />
+</p>
+
+Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> 📝 Hinweis :</strong><br>
+     Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
+    </td>
+  </tr>
+</table>
+
+
+<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+  <tr>
+    <td>
+      <strong> 💡 Interessant zu wissen :</strong><br>
+     Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
+    </td>
+  </tr>
+</table>
+
+Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
+
+
+Zuletzt musst du noch unser Bremssignalkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmoduls und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremssignalkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="200" />
+</p>
+
+Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
