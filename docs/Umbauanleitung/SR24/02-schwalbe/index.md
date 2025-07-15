@@ -1,6 +1,6 @@
 # Second Ride Umbaukit SR24 für Simson Schwalbe -  KR51/2, KR51/1 & KR51
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" />
+  <img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" width="700" />
 </p>
 
 ## Bitte bewahre deine Verpackung auf!
@@ -219,7 +219,7 @@ Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kur
 Bei der Schwalbe ist der Umbau etwas aufwendiger als bei den Modellen S50, S51 und S70. Das liegt vor allem an der großzügigen Verkleidung, welche den Zugang zu Motor, Elektrik und Tank erschweren. Fang also am Besten gleich erstmal damit an, den Motortunnel zu entfernen. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" />
+  <img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" width="700" />
 </p>
 
 Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Sitzbank inklusive des Scharniers (5). Entferne nun die fünf Schrauben die die Haube noch halten: eine Schraube oben, mittig hinter dem Tankdeckel (2), zwei Schrauben mit denen die Soziusrasten befestigt sind (3), und zwei jeweils an den vorderen, unteren Ecken der Haube (4). Damit du die Haube gleich abnehmen kannst, müssen noch die Kabel, die zum Rücklicht führen, abgeklemmt werden. In der Nähe des Motors solltest du eine 3-polige Klemmbuchse mit Kabeln, die nach hinten führen, finden. Entferne die Kabel von einer Seite der Buchse. Nun kann die Haube herunter gehoben werden. Ist die Haube runter, kannst du den Tank demontieren. Das ist notwendig, um später das dicke Kabel vom Antriebsmodul zur Sitzbank zu leiten und gibt dir außerdem jede Menge mehr Stauraum.
@@ -246,7 +246,7 @@ Schraube im nächsten Schritt das Armaturenblech ab und entnehme das Befestigung
 Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Sitzbank inklusive des Scharniers (5). Entferne nun die fünf Schrauben die die Haube noch halten: eine Schraube oben, mittig hinter dem Tankdeckel (2), zwei Schrauben mit denen die Soziusrasten befestigt sind (3), und zwei jeweils an den vorderen, unteren Ecken der Haube (4). Damit du die Haube gleich abnehmen kannst, müssen noch die Kabel, die zum Rücklicht führen, abgeklemmt werden. In der Nähe des Motors solltest du eine 3-polige Klemmbuchse mit Kabeln, die nach hinten führen, finden. Entferne die Kabel von einer Seite der Buchse. Nun kann die Haube herunter gehoben werden. Ist die Haube runter, kannst du den Tank demontieren. Das ist notwendig, um später das dicke Kabel vom Antriebsmodul zur Sitzbank zu leiten und gibt dir außerdem jede Menge mehr Stauraum.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" />
+  <img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" />
 </p>
 
 ### **4. Auspuff**
@@ -303,8 +303,61 @@ M8: 24 Nm<br>
 Bevor du das Antriebsmodul in deine Schwalbe einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" />
+  <img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" width="700" />
 </p>
 
 Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung” aufgeführt sind und baue diese nach folgender Abb. zusammen. Drehe die M8 Mutter nur 2-3 volle Umdrehungen auf die M8x70 Außensechskantschraube.  Lasse dabei die zwei M6 Muttern noch weg und lege die vormontierte M5x Motoranbindung zur Seite.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1203ef3-5b85-4926-9d0a-a63e9514623a" width="700" />
+</p>
+
+Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug und führe das schwarze Kabel wie im Bild zu sehen hoch, wo später die Sitzbank sein wird. Montiere das geschlitzte Wellrohr um das Kabel, sodass es vor Blechkanten der Schwalbe Karosserie geschützt ist.
+
+
+Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10).
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80f38a51-24bd-4e87-ae69-02ba5bfd312d" width="700" />
+</p>
+
+Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
+
+
+Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst Sie wie in der folgenden Abb. dargestellt so, dass die 3 dicken Unterlegscheiben (Rot) innerhalb der Schwalbe Motorlagerblechen sitzen und die dünneren (Gelb) außerhalb. Je nach Zustand der originalen Haltebleche müssen diese gerade gebogen werden.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08e73735-1e52-4b2e-8dd2-fb214e1276b3" width="700" />
+</p>
+
+Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstände der Controllerschrauben in die unteren beiden Bohrungen der M5x Motoraufnahme geführt bekommst. Schraube mit den M6 Muttern die M5x Motoraufnahme an dem Antriebsmodul fest.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/561895fb-6a99-487a-ac37-a35d6238ba11" width="700" />
+</p>
+
+Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Motoraufnahme ordentlich fest, Nutze hierfür  eine Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern.
+
+#### **KR51/2**
+
+Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug und führe das orangene/schwarze Kabel wie im Bild zu sehen hoch, wo später die Sitzbank sein wird. Montiere das geschlitzte Wellrohr um das Kabel, sodass es vor Blechkanten der Schwalbe Karosserie geschützt ist.
+Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). 
+
+
+Die mitgelieferte M8x100 Außensechskantschraube ist für die obere und die M8x90 Außensechskantschraube für die untere Bohrung vorgesehen. Stecke erstmal nur die M8x100 durch die obere Bohrung in den Motorlagerblechen, um das Antriebsmodul zu sichern. Jetzt kannst du die M8x90 Schraube durch die untere Bohrung setzen.
+
+
+Mithilfe einer Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2da6e5e-7548-4c83-939d-09c6f7112fcd" width="700" />
+</p>
+
+### 2. Kette
+
+Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Suche das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. 
+**Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
+
 
