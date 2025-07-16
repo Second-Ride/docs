@@ -102,24 +102,7 @@ nav:
             - Vogelserie: Umbauanleitung/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
         - Übersicht: Bedienungsanleitung/index.md
-        - SR24: 
-            - An-/Ausschalten: Bedienungsanleitung/SR24/an-ausschalten/index.md
-            - Armaturentaster-LED: Bedienungsanleitung/SR24/armaturentaster-led/index.md
-            - Beschleunigen: Bedienungsanleitung/SR24/beschleunigen/index.md
-            - Bremsen: Bedienungsanleitung/SR24/bremsen/index.md
-            - Rekuperation: Bedienungsanleitung/SR24/rekuperation/index.md
-            - Licht: Bedienungsanleitung/SR24/licht/index.md
-            - Ladestandsanzeigen: Bedienungsanleitung/SR24/ladestandsanzeigen/index.md
-            - Akku Aufladen: Bedienungsanleitung/SR24/akku-aufladen/index.md
-            - Handhabung der Sitzbank: Bedienungsanleitung/SR24/handhabung-der-sitzbank/index.md
-            - Handhabungsempfehlung für Li-Ionen Akku: Bedienungsanleitung/SR24/handhabungsempfehlung/index.md
-            - Reichweite Maximieren: Bedienungsanleitung/SR24/reichweite-maximieren/index.md
-            - Notlauf und Notabschaltung: Bedienungsanleitung/SR24/notlauf-und-notabschaltung/index.md
-            - Diebstahlschutz: Bedienungsanleitung/SR24/diebstahlschutz/index.md
-            - Handhabung des Fahrzeugs: Bedienungsanleitung/SR24/handhabung-des-fahrzeugs/index.md
-            - Reinigung: Bedienungsanleitung/SR24/reinigung/index.md
-            - Wartung/Reparatur: Bedienungsanleitung/SR24/wartung-reparatur/index.md
-            - Sonstiges: Bedienungsanleitung/SR24/sonstiges/index.md
+        - SR24: Bedienungsanleitung/SR24/index.md
 
 
     - FAQ: faq/index.md
