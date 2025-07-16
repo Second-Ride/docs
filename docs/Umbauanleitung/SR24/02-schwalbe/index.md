@@ -287,6 +287,8 @@ M6: 9,8 Nm<br>
 M8: 24 Nm<br>
 
 ### 1. Antriebsmodul Montage
+
+
 #### KR51/1, KR51
 
 Bevor du das Antriebsmodul in deine Schwalbe einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
@@ -416,7 +418,7 @@ Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das or
 Zuletzt musst du noch unser Bremssignalkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmoduls und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremssignalkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="500" />
+  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="650" />
 </p>
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
