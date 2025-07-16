@@ -153,14 +153,9 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>🖋️ Tipp zu wissen :</strong><br>
-     Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.    
-    </td>
-  </tr>
-</table>
+!!! note "Tipp"
+        Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.    
+  
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. 
 
