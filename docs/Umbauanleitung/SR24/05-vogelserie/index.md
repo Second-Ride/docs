@@ -7,12 +7,6 @@
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
 
-| Colonne 1       | Colonne 2        | Colonne 3       |
-|-----------------|------------------|------------------|
-| Valeur ligne 1  | Valeur ligne 1   | Valeur ligne 1   |
-| Valeur ligne 2  | Valeur ligne 2   | Valeur ligne 2   |
-
-
 ## Voraussetzungen
 <table>
  <tr> 
