@@ -276,7 +276,7 @@ Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) is
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
     Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
@@ -315,7 +315,7 @@ Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kab
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
     Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br> 
 Sollte das bei dir der Fall sein, verbinde einfach den Stecker (22) mit einem der 4 freien roten 12V Versorgungsstecker, die vom Antriebsmodul kommen, um das Antriebsmodul freizuschalten. Damit in Zukunft die Motorabschaltung mittels Bremslichterkennung funktioniert, melde dich bitte bei support@second-ride.de und frage nach dem “S51/1 Bremslichtkabelsatz”. Das schicken wir dir dann umsonst zu.
 
@@ -340,7 +340,7 @@ Nun wird einmal probehalber die Sitzbank aufgelegt, damit sich die vordere Aufna
 Jetzt sind die vordere Aufnahme und der Tank korrekt ausgerichtet. Schließe die Sitzbank wieder auf, nimm sie entgegen der Reihenfolge des Aufsetzens wieder ab und ziehe die Schrauben der vorderen Aufnahme (25) (27) fest an.
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
     Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Stützbügel (8) montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.
 
 
