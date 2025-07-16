@@ -136,7 +136,7 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="500" />
+  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" />
 </p>
 
 
