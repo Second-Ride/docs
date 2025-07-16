@@ -239,14 +239,6 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert nun dein Originaltacho (16) nun einfach weiter.
 
- <table style="background-color: #fff3e7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-     <strong>⚠️  Achtung: :</strong><br>
-     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
-    </td>
-  </tr>
-</table>
 
 !!! danger "Achtung"
     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
@@ -280,14 +272,9 @@ Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) is
 
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
 
-<table style="background-color: #fff3e7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-     <strong>⚠️  Achtung: :</strong><br>
+
+!!! danger "Achtung"
     Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
-    </td>
-  </tr>
-</table>
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
 
@@ -330,15 +317,10 @@ Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kab
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
-<table style="background-color: #fff3e7; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-     <strong>⚠️  Achtung: :</strong><br>
-     Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br> 
+
+!!! danger "Achtung"
+    Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br> 
 Sollte das bei dir der Fall sein, verbinde einfach den Stecker (22) mit einem der 4 freien roten 12V Versorgungsstecker, die vom Antriebsmodul kommen, um das Antriebsmodul freizuschalten. Damit in Zukunft die Motorabschaltung mittels Bremslichterkennung funktioniert, melde dich bitte bei support@second-ride.de und frage nach dem “S51/1 Bremslichtkabelsatz”. Das schicken wir dir dann umsonst zu.
-   </td>
-  </tr>
-</table>
 
 ### 6. Sitzbank
 
@@ -360,13 +342,9 @@ Die hintere Aufnahme (28) wird an den anderen zwei Befestigungspunkten der origi
 Nun wird einmal probehalber die Sitzbank aufgelegt, damit sich die vordere Aufnahme und der Tank an die richtige Stelle verschieben. Hake dafür zuerst die Sitzbank in die hintere Aufnahme (28) ein und lass dann das vordere Ende der Sitzbank auf die vordere Aufnahme (26) absinken. Ob die Sitzbank richtig positioniert ist, kannst du überprüfen, indem du den Schließzylinder der Sitzbank mit dem Schlüssel drehst und rein drückst. Wenn der Schließzylinder sich nicht bis zum Einrasten reindrücken lässt, ist die Sitzbank noch nicht tief genug auf die Aufnahme geschoben.
 Jetzt sind die vordere Aufnahme und der Tank korrekt ausgerichtet. Schließe die Sitzbank wieder auf, nimm sie entgegen der Reihenfolge des Aufsetzens wieder ab und ziehe die Schrauben der vorderen Aufnahme (25) (27) fest an.
 
-<table style="background-color: #fff3e7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-     <strong>⚠️  Achtung: </strong><br>
-     Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Stützbügel (8) montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.
-   </td>
-  </tr>
-</table>
+
+!!! danger "Achtung"
+    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Stützbügel (8) montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.
+
 
 Nun kannst du die Sitzbank wieder für deine erste Funktionsprüfung auf dem Fahrzeug montieren. Vergiss nur dieses Mal nicht, das orange Kabel nach dem Einhaken hinten in den entsprechenden Stecker in der Sitzbank zu stecken.
