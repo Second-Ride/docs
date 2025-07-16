@@ -68,74 +68,34 @@
   </tr>
 </table>
 
-## Voraussetzungen
-<table>
- <tr> 
-  <td> 
-   
-- [ ] 12V Glühbirnen, Blinkgeber und Hupe
-- [ ] Haltebügel am Gepäckträger
-- [ ] N1 Vergaserkappe und -kolben am Gaszug
-     </td>
-   </tr>
- </table>
- 
-## Lieferumfang
-<table>
- <tr> 
-  <td> 
-     
-- [ ] 1x Antriebsmodul                          
-- [ ] 1x Sitzbank                                
-- [ ] 1x Ladegerät (0,4kW oder 1kW)              
-- [ ] 1x Bordnetzkabel
-- [ ] 1x Bordnetzkabel-Verlängerung
-- [ ] 1x Bremskontaktkabel
-- [ ] 1x Armaturen
-- [ ] 1x Ladestandsanzeige
-- [ ] 1x Halteblech Ladestandsanzeige
-- [ ] 1x Kette 112 Glieder
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 1x M8x90 Außensechskantschraube
-- [ ] 2x M8 Mutter
-- [ ] 10x Kabelbinder
-- [ ] 1x Vordere Sitzbankaufnahme
-       <td>
-- [ ] 1x Hintere Sitzbankaufnahme
-- [ ] 1x M8x30 Außensechskantschraube
-- [ ] 1x M8 Unterlegscheibe
-- [ ] 1x 12mm Distanzscheibe
-- [ ] 1x 6mm Distanzscheibe
-- [ ] 1x M6x8 Innensechskantschrauben
-- [ ] 2x M6x16 Innensechskantschrauben
-- [ ] 2x Zündschlüssel
-- [ ] 2x Sitzbankschlüssel
-- [ ] 1x Ersatz-O-Ring für Sitzbankstecker
-- [ ] 1x Einmalhandschuhe
-- [ ] Optional: 12V Glühbirnenset und Blinkgeber
-- [ ] 1x USB Update kabel
-    </td>
-   </tr>
- </table>
 
-## Benötigte Werkzeuge
+<h3>Benötigte Werkzeuge</h3>
 <table>
- <tr> 
-  <td>
-   
-- [ ] 10er, 13er, 19er Maulschlüssel
-- [ ] 13er Nuss, Knarre und Verlängerungsstück
-- [ ] Inbusschlüssel SW3, SW4 und SW6
-- [ ] Seitenschneider
-- [ ] Spitze Zange
-- [ ] Kreuzschlitz- und Schlitzschraubenzieher
-   <td>
-- [ ] Hakenschlüssel, Rohrzange oder Hammer
-- [ ] Evt. Maßband, Zollstock oder Messschieber
-- [ ] Evt. Gewindestange, Muttern und Unterlegscheiben
-      </td>
-   </tr>
- </table>
+  <tr>
+    <td valign="top" style="padding-right: 30px;">
+
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
+        <li>10er, 13er, 19er Maulschlüssel</li>
+        <li>13er Nuss, Knarre und Verlängerungsstück</li>
+        <li>Inbusschlüssel SW3, SW4 und SW6</li>
+        <li>Seitenschneider</li>
+      </ul>
+
+    </td>
+    <td valign="top" style="padding-left: 30px;">
+
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
+        <li>Spitze Zange</li>
+        <li>Kreuzschlitz- und Schlitzschraubenzieher</li>
+        <li>Hakenschlüssel, Rohrzange oder Hammer</li>
+        <li>Evt. Maßband, Zollstock oder Messschieber</li>
+        <li>Evt. Gewindestange, Muttern und Unterlegscheiben</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
 
 ## Bevor du mit dem Umbau beginnst
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
