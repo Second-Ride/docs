@@ -377,7 +377,7 @@ Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterra
 Jetzt sollte deine Hinterradbremse wieder funktionieren. Vergewissere dich nach dem vollendeten Umbau, dass deine Hinterradbremse auch gut eingestellt ist und ordentlich bremst.   
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="300" />
+  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="650" />
 </p>
 
 ### 3. Elektrik
