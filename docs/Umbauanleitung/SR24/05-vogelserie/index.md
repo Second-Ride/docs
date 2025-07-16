@@ -7,93 +7,104 @@
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
 
-## Voraussetzungen
+<h2>Voraussetzungen</h2>
 <table>
- <tr> 
-  <td> 
-    
-- [ ] 12V Glühbirnen, Blinkgeber und Hupe
-- [ ] N1 Vergaserkappe und -kolben am Gaszug
-     </td>
-   </tr>
- </table>
- 
-## Lieferumfang
-<table>
- <tr> 
-  <td> 
-     
-- [ ] 1x Antriebsmodul                          
-- [ ] 1x Sitzbank                                
-- [ ] 1x Ladegerät (0,4kW oder 1kW)              
-- [ ] 1x Vordere Aufnahme
-- [ ] 1x Hintere Aufnahme
-- [ ] 1x Armatur
-- [ ] 1x Bordnetzkabel
-- [ ] 1x Bremskontaktkabel
-- [ ] 1x Bordnetzkabel Verlängerung
-- [ ] 1x Kette 110 Glieder
-- [ ] 4x M6 Unterlegscheiben
-- [ ] 4x M6 Selbstsichernde Muttern
-- [ ] 2x M6x20 Sechskantschraube
-- [ ] 1x 15mm Kantenschutz transparent
+  <tr>
     <td>
-- [ ] 2x M6 Mutter mit Sperrverzahnung
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 2x M8 Mutter
-- [ ] 1x Kontaktzunge M6 für Bremskontakt
-- [ ] 2x Zündschlüssel
-- [ ] 2x Sitzbankschlüssel
-- [ ] 10x Kabelbinder
-- [ ] 1x Einmalhandschuhe
-- [ ] 1x Klettverschluss
-- [ ] 1x Ersatz-O-Ring für Sitzbankstecker
-- [ ] Optional: 12V Glühbirnenset und Blinkgeber
-- [ ] 1x Seitenblech links
-- [ ] 1x Seitenblech rechts
-- [ ] 1x USB Update kabel
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 12V Glühbirnen, Blinkgeber und Hupe</li>
+        <li><input type="checkbox"> N1 Vergaserkappe und -kolben am Gaszug</li>
+      </ul>
     </td>
-   </tr>
- </table>
+  </tr>
+</table>
 
-
-M5x Motoranbindung:
-
+<h2>Lieferumfang</h2>
 <table>
- <tr> 
-  <td> 
-     
-- [ ] 1x M5x Motoraufnahmeblech
-- [ ] 1x Schwarze 46 mm Hülse
-- [ ] 1x M8x70 Außensechskantschraube
-- [ ] 2x M8 x 24 x 2 Unterlegscheibe
-    <td>
-- [ ] 2x M8 x 20 x 1,25 Unterlegscheibe
-- [ ] 1x M8 Mutter
-- [ ] 2x M6 x 90  Linsenkopfschraube 
-- [ ] 2x M6 Mutter mit Sperrverzahnung
+  <tr>
+    <td valign="top" style="padding-right: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 1x Antriebsmodul</li>
+        <li><input type="checkbox"> 1x Sitzbank</li>
+        <li><input type="checkbox"> 1x Ladegerät (0,4kW oder 1kW)</li>
+        <li><input type="checkbox"> 1x Vordere Aufnahme</li>
+        <li><input type="checkbox"> 1x Hintere Aufnahme</li>
+        <li><input type="checkbox"> 1x Armatur</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel</li>
+        <li><input type="checkbox"> 1x Bremskontaktkabel</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel Verlängerung</li>
+        <li><input type="checkbox"> 1x Kette 110 Glieder</li>
+        <li><input type="checkbox"> 4x M6 Unterlegscheiben</li>
+        <li><input type="checkbox"> 4x M6 Selbstsichernde Muttern</li>
+        <li><input type="checkbox"> 2x M6x20 Sechskantschraube</li>
+        <li><input type="checkbox"> 1x 15mm Kantenschutz transparent</li>
+      </ul>
     </td>
-   </tr>
- </table>
+    <td valign="top" style="padding-left: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 2x M6 Mutter mit Sperrverzahnung</li>
+        <li><input type="checkbox"> 1x M8x100 Außensechskantschraube</li>
+        <li><input type="checkbox"> 2x M8 Mutter</li>
+        <li><input type="checkbox"> 1x Kontaktzunge M6 für Bremskontakt</li>
+        <li><input type="checkbox"> 2x Zündschlüssel</li>
+        <li><input type="checkbox"> 2x Sitzbankschlüssel</li>
+        <li><input type="checkbox"> 10x Kabelbinder</li>
+        <li><input type="checkbox"> 1x Einmalhandschuhe</li>
+        <li><input type="checkbox"> 1x Klettverschluss</li>
+        <li><input type="checkbox"> 1x Ersatz-O-Ring für Sitzbankstecker</li>
+        <li><input type="checkbox"> Optional: 12V Glühbirnenset und Blinkgeber</li>
+        <li><input type="checkbox"> 1x Seitenblech links</li>
+        <li><input type="checkbox"> 1x Seitenblech rechts</li>
+        <li><input type="checkbox"> 1x USB Update kabel</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Benötigte Werkzeuge
-
+<h3>M5x Motoranbindung</h3>
 <table>
- <tr> 
-  <td> 
-     
-- [ ] 10er, 13er, 19er Maulschlüssel
-- [ ] 13er Nuss, Knarre und Verlängerungsstück
-- [ ] Inbusschlüssel SW3, SW6
-- [ ] Seitenschneider
-- [ ] Spitze Zange
-    <td>
-- [ ] Kreuzschlitz- und Schlitzschraubenzieher
-- [ ] Hakenschlüssel, Rohrzange oder Hammer
-- [ ] Evt. Maßband, Zollstock oder Messschieb
+  <tr>
+    <td valign="top" style="padding-right: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 1x M5x Motoraufnahmeblech</li>
+        <li><input type="checkbox"> 1x Schwarze 46 mm Hülse</li>
+        <li><input type="checkbox"> 1x M8x70 Außensechskantschraube</li>
+        <li><input type="checkbox"> 2x M8 x 24 x 2 Unterlegscheibe</li>
+      </ul>
     </td>
-   </tr>
- </table>
+    <td valign="top" style="padding-left: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 2x M8 x 20 x 1,25 Unterlegscheibe</li>
+        <li><input type="checkbox"> 1x M8 Mutter</li>
+        <li><input type="checkbox"> 2x M6 x 90 Linsenkopfschraube</li>
+        <li><input type="checkbox"> 2x M6 Mutter mit Sperrverzahnung</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2>Benötigte Werkzeuge</h2>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> 10er, 13er, 19er Maulschlüssel</li>
+        <li><input type="checkbox"> 13er Nuss, Knarre und Verlängerungsstück</li>
+        <li><input type="checkbox"> Inbusschlüssel SW3, SW6</li>
+        <li><input type="checkbox"> Seitenschneider</li>
+        <li><input type="checkbox"> Spitze Zange</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left: 30px;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li><input type="checkbox"> Kreuzschlitz- und Schlitzschraubenzieher</li>
+        <li><input type="checkbox"> Hakenschlüssel, Rohrzange oder Hammer</li>
+        <li><input type="checkbox"> Evt. Maßband, Zollstock oder Messschieb</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## Bevor du mit dem Umbau beginnst
 
