@@ -7,11 +7,11 @@
 ## Bitte bewahre deine Verpackung auf
  Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird.
 
+ <h3>Voraussetzungen</h3>
 <table>
   <tr>
     <td valign="top">
 
-      <h3>Voraussetzungen</h3>
       <ul style="list-style-type: none; padding-left: 0;">
         <li><input type="checkbox"> 12V Glühbirnen, Blinkgeber und Hupe</li>
         <li><input type="checkbox"> Haltebügel am Gepäckträger</li>
@@ -22,11 +22,11 @@
   </tr>
 </table>
 
+<h3>Lieferumfang</h3>
 <table>
   <tr>
     <td valign="top" style="padding-right: 30px;">
-
-      <h3>Lieferumfang</h3>
+      
       <ul style="list-style-type: none; padding-left: 0;">
         <li><input type="checkbox"> 1x Antriebsmodul</li>
         <li><input type="checkbox"> 1x Sitzbank</li>
