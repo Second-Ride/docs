@@ -155,14 +155,6 @@ Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. 
 
 Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Wenn beide Schrauben raus sind, sollte der Motor in der Regel von selbst noch in der Lagerung hängen. Indem du den Motor jetzt anhebst, kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Deine Simson ist nun kein Verbrennungsfahrzeug mehr.
 
-<table style="background-color: #ffffe7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>💡Interessant zu wissen :</strong><br>
-      Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
-    </td>
-  </tr>
-</table>
 
 !!! tip "Interessant zu wissen"
     Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
@@ -289,14 +281,8 @@ Unter folgendem QR-Code findest du den für dein Moped passenden Schaltplan. Dor
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen und den Blinkgeber gegen 12V Komponenten austauschen. 
 
-<table style="background-color: #ffffe7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>💡Interessant zu wissen :</strong><br>
-       Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.      
-    </td>
-  </tr>
-</table>
+!!! tip "Interessant zu wissen"
+    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 Jetzt kannst du das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigesinn) stellen.<br>
 
