@@ -161,11 +161,15 @@ Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
       </ul>
     </td>
     <td valign="top" style="padding-left:30px;">
-      <ul style="list-style-type:none; padding-left:0; margin-top
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> Hakenschlüssel, Rohrzange oder Hammer</li>
+        <li><input type="checkbox"> Evt. Maßband, Zollstock oder Messschieber</li>
+        <li><input type="checkbox"> Evt. Gewindestange, Muttern und Unterlegscheiben</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 ## Bevor du mit dem Umbau beginnst
