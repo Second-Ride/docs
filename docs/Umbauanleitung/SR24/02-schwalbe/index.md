@@ -162,6 +162,10 @@ Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
     </td>
     <td valign="top" style="padding-left:30px;">
       <ul style="list-style-type:none; padding-left:0; margin-top
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ## Bevor du mit dem Umbau beginnst
