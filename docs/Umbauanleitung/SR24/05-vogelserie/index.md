@@ -360,7 +360,7 @@ Schraube nun die vordere Aufnahme mit den Unterlegscheiben und Muttern lose an. 
 
 Hebe nun vorsichtig die Sitzbank aus dem Schloss, ohne die Position der vorderen Aufnahme zu verschieben und ziehe diese in genau dieser Position an.
 
-!!! danger "Check Your Machine's Version Number"
+!!! warning "Check Your Machine's Version Number"
     Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf. 
 
 
@@ -388,7 +388,7 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
 
 
 
-!!! danger "Check Your Machine's Version Number"
+!!! warning "Check Your Machine's Version Number"
     Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 Achte darauf, dass der Gaszug und der Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
