@@ -366,7 +366,7 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 Um den Hinterradbremse- Kabelzug abzustützen, muss nun der Bremszugadapter verbaut werden. Nimm dir dafür die unter Lieferumfang  >  KR51/1, KR51  >  Bremszugadapter aufgeführten Bauteile und montiere den Bremszugadapter auf der rechten Seite des Antriebmoduls.
 
 
-!!! note "Tipp"
+!!! note "Hinweis"
          Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
     Somit ist eine Verstellung des Bremszuges weiterhin möglich.
 
