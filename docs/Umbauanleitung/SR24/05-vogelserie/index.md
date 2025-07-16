@@ -267,16 +267,9 @@ Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort i
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 💡 Interessant  zu wissen :</strong><br>
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.  
-    </td>
-  </tr>
-</table>
 
-Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
+!!! tip "Interessant zu wissen"
+   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmodul und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremskontaktkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
