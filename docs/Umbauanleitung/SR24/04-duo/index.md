@@ -226,8 +226,9 @@ Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung�
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug. Hebe das Antriebsmodul an und führe es zwischen die Rahmenaufnahme (10).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3b87793-4859-490e-80fc-de0c9a50008b" width="600" />
+  <img src="https://github.com/user-attachments/assets/8a3ca4bc-7786-40c3-8851-500d4b38d349" width="600" />
 </p>
+
 
 Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
 Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst sie wie in der folgenden Abb. dargestellt so, dass die 1 dicke Unterlegscheibe innerhalb der oberen Motorlagerblechen sitzt und die dünneren außerhalb. Je nach Zustand der originalen Haltebleche kann auf die innere Unterlegscheibe verzichtet werden.
