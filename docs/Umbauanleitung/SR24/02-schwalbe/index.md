@@ -426,7 +426,7 @@ Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit 
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter.
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.  
  
 
@@ -483,7 +483,7 @@ Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeb
 
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
 
-!!! danger "Achtung"
+!!! warning "Achtung"
    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
 
 
@@ -499,7 +499,7 @@ Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen
 
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
     Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
 
 
@@ -526,7 +526,7 @@ Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellsch
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
 
 
-!!! danger "Achtung"
+!!! warning "Achtung"
    Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 
