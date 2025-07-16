@@ -248,6 +248,11 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
   </tr>
 </table>
 
+!!! danger "Achtung"
+    Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
+
+
+
 Die Armatureneinheit bestehend aus Zündschloss (14) und Taster (15) wird an der vorderen linken M6 Schraube der Lenkerauflage befestigt. Die Ladestandsanzeige (13) sollte zuerst an das Halterungsblech geschraubt und der rechteckige Stecker vom Zündschloss an der Rückseite eingesteckt werden.  In der Pappschachtel der Ladestandsanzeige sind Unterlegscheiben und Muttern zur Befestigung am Blech beigelegt. Dann kann das Halterungsblech analog zum Tacho an der linken Stoßdämpferschraube befestigt werden. Stecke nun den schwarzen Stecker welcher vom Zündschloss kommt in die Ladestandsanzeige. Das lange Kabel vom Zündschloss kannst du entlang des Rahmens unter dem Tank hindurch in den Herzkasten führen. Auf der Unterseite des Antriebsmodul kommt ein Kabel mit passendem Stecker heraus. Führe es in den Herzkasten und verbinde die Stecker dort. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Befestige die Kabel sicher am Rahmen mithilfe der mitgelieferten Kabelbinder. Achte darauf, dass bei vollem Lenkeinschlag in beide Richtungen das Kabel nicht gezerrt wird, oder es sogar das Lenken behindert. 
 
 
