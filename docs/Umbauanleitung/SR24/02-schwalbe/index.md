@@ -6,173 +6,163 @@
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
 
-## Voraussetzungen
+<h2>Voraussetzungen</h2>
 <table>
- <tr> 
-  <td> 
-   
-- [ ] 12V Glühbirnen, Blinkgeber und Hupe
-- [ ] Bei KR51:  BA15D Frontlicht Birnenfassung
-- [ ] N1 Vergaserkappe und -kolben am Gaszug
-     </td>
-   </tr>
- </table>
- 
-## Lieferumfang
-
-#### KR51/2, KR51/1, KR51
-
-<table>
- <tr> 
-  <td> 
-    
-- [ ] 1x Antriebsmodul                          
-- [ ] 1x Sitzbank                                
-- [ ] 1x Ladegerät (0,4kW oder 1kW)              
-- [ ] 1x Aufnahmeblech
-- [ ] 1x Armatur
-- [ ] 1x Bordnetzkabel
-- [ ] 1x Bordnetzkabel-Verlängerung
-- [ ] 1x Bremskontaktkabel
-- [ ] 1x Kette 114 Glieder
-- [ ] 2x M6 Unterlegscheiben
-- [ ] 2x M6 Selbstsichernde Muttern
-- [ ] 2x M4x10 Schlitzschrauben
-- [ ] 1x geschlitztes Wellrohr
-- [ ] 2x M4 Unterlegscheiben
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 1x M8x90 Außensechskantschraube (bei KR51/1 und KR51 nicht dabei)
-- [ ] 2x M8 Mutter
-- [ ] 2x Zündschlüssel
-- [ ] 2x Sitzbankschlüssel
-- [ ] 10x Kabelbinder
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 1x M8x90 Außensechskantschraube (bei KR51/1 und KR51 nicht dabei)
-    <td>
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 1x M8x90 Außensechskantschraube (bei KR51/1 und KR51 nicht dabei)
-- [ ] 2x M8 Mutter
-- [ ] 2x Zündschlüssel
-- [ ] 2x Sitzbankschlüssel
-- [ ] 10x Kabelbinder
-- [ ] 1x Einmalhandschuhe
-- [ ] 1x Klettverschluss
-- [ ] 1x Ersatz-O-Ring für Sitzbankstecker
-- [ ] Optional: 12V Glühbirnenset und Blinkgeber
-- [ ] 1x USB Update kabel
-- [ ] 1x M8x100 Außensechskantschraube
-- [ ] 1x M8x90 Außensechskantschraube (bei KR51/1 und KR51 nicht dabei)
-- [ ] 2x M8 Mutter
-- [ ] 2x Zündschlüssel
-- [ ] 2x Sitzbankschlüssel
-- [ ] 10x Kabelbinder
-- [ ] 1x Einmalhandschuhe
-- [ ] 1x Klettverschluss
-- [ ] 1x Ersatz-O-Ring für Sitzbankstecker
-- [ ] Optional: 12V Glühbirnenset und Blinkgeber
-- [ ] 1x USB Update kabel
+  <tr>
+    <td valign="top">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 12V Glühbirnen, Blinkgeber und Hupe</li>
+        <li><input type="checkbox"> Bei KR51: BA15D Frontlicht Birnenfassung</li>
+        <li><input type="checkbox"> N1 Vergaserkappe und -kolben am Gaszug</li>
+      </ul>
     </td>
-   </tr>
- </table>
+  </tr>
+</table>
 
-Anschlussblech Gummiteile :
+<h2>Lieferumfang</h2>
 
-
+<h4>KR51/2, KR51/1, KR51</h4>
 <table>
- <tr> 
-  <td> 
-   
-- [ ] 1x 85 x 60 x 10mm Moosgummi Auflage Rechts
-- [ ] 1x 85 x 60 x 10mm Moosgummi Auflage Rechts
-- [ ] 1x 800mm x 15 x 3mm Moosgummi Auflage
-
-     </td>
-   </tr>
- </table>
-
-#### KR51/1, KR51
- 
-<table>
- <tr> 
-  <td>
-    
-  - [ ] 2x Kettenschlauchadapter
-  </td>
-   </tr>
- </table>
-
-M5x Motoranbindung:
-
-<table>
- <tr> 
-  <td>    
-
-- [ ] 1x M5x Motoraufnahmeblech
-- [ ] 1x Schwarze 35 mm Hülse
-- [ ] 1x M8x70 Außensechskantschraube
-- [ ] 2x M8 x 24 x 2 Unterlegscheibe     
-    <td>
-- [ ] 2x M8 x 20 x 1,25 Unterlegscheibe
-- [ ] 1x M8 Mutter
-- [ ] 2x M6 x 90  Linsenkopfschraube 
-- [ ] 2x M6 Mutter mit Sperrverzahnung
-     </td>
-   </tr>
- </table>
-
-Bremszug Adapter :
-
- <table>
-  <tr> 
-   <td>
-     
-- [ ] 1x Bremszugblech
-- [ ] 1x Bremszughülse
-- [ ] 1x Federsplint
-- [ ] 1x Rohrschelle
-    <td>
-- [ ]1x Einstellschraube Bremszug
-- [ ] 1x M8x18 Innensechskant
-- [ ] 1x M8 Mutter
-- [ ] 1x M8 Sicherungsring
-- [ ] 1x Kantenschutz transparent
-     </td>
-   </tr>
- </table>
-
-#### KR51
- 
-<table>
- <tr> 
-  <td>
-    
-  - [ ] 2x KR51 Gepäckträger Adapterblech
-  - [ ] 2x KR51 Distanzhülse Gepäckträger
-    <td>
-  - [ ] 4x M6 x 16 Linsenkopf Innensechskant
-  - [ ] 4x M6 Muttern mit Sperrverzahnung
+  <tr>
+    <td valign="top" style="padding-right:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x Antriebsmodul</li>
+        <li><input type="checkbox"> 1x Sitzbank</li>
+        <li><input type="checkbox"> 1x Ladegerät (0,4kW oder 1kW)</li>
+        <li><input type="checkbox"> 1x Aufnahmeblech</li>
+        <li><input type="checkbox"> 1x Armatur</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel-Verlängerung</li>
+        <li><input type="checkbox"> 1x Bremskontaktkabel</li>
+        <li><input type="checkbox"> 1x Kette 114 Glieder</li>
+        <li><input type="checkbox"> 2x M6 Unterlegscheiben</li>
+        <li><input type="checkbox"> 2x M6 Selbstsichernde Muttern</li>
+        <li><input type="checkbox"> 2x M4x10 Schlitzschrauben</li>
+        <li><input type="checkbox"> 1x geschlitztes Wellrohr</li>
+        <li><input type="checkbox"> 2x M4 Unterlegscheiben</li>
+        <li><input type="checkbox"> 1x M8x100 Außensechskantschraube</li>
+      </ul>
     </td>
-   </tr>
- </table>
- 
-## Benötigte Werkzeuge
+    <td valign="top" style="padding-left:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x M8x90 Außensechskantschraube (bei KR51/1 und KR51 nicht dabei)</li>
+        <li><input type="checkbox"> 2x M8 Mutter</li>
+        <li><input type="checkbox"> 2x Zündschlüssel</li>
+        <li><input type="checkbox"> 2x Sitzbankschlüssel</li>
+        <li><input type="checkbox"> 10x Kabelbinder</li>
+        <li><input type="checkbox"> 1x Einmalhandschuhe</li>
+        <li><input type="checkbox"> 1x Klettverschluss</li>
+        <li><input type="checkbox"> 1x Ersatz-O-Ring für Sitzbankstecker</li>
+        <li><input type="checkbox"> Optional: 12V Glühbirnenset und Blinkgeber</li>
+        <li><input type="checkbox"> 1x USB Update kabel</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>Anschlussblech Gummiteile</h3>
 <table>
- <tr> 
-  <td>
-   
-- [ ] 10er, 13er, 19er Maulschlüssel
-- [ ] 13er Nuss, Knarre und Verlängerungsstück
-- [ ] Inbusschlüssel SW3, SW6
-- [ ] Seitenschneider
-- [ ] Spitze Zange
-- [ ] Kreuzschlitz- und Schlitzschraubenzieher
-   <td>
-- [ ] Hakenschlüssel, Rohrzange oder Hammer
-- [ ] Evt. Maßband, Zollstock oder Messschieber
-- [ ] Evt. Gewindestange, Muttern und Unterlegscheiben
-      </td>
-   </tr>
- </table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x 85 x 60 x 10mm Moosgummi Auflage Rechts</li>
+        <li><input type="checkbox"> 1x 85 x 60 x 10mm Moosgummi Auflage Rechts</li>
+        <li><input type="checkbox"> 1x 800mm x 15 x 3mm Moosgummi Auflage</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h4>KR51/1, KR51</h4>
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 2x Kettenschlauchadapter</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>M5x Motoranbindung</h3>
+<table>
+  <tr>
+    <td valign="top" style="padding-right:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x M5x Motoraufnahmeblech</li>
+        <li><input type="checkbox"> 1x Schwarze 35 mm Hülse</li>
+        <li><input type="checkbox"> 1x M8x70 Außensechskantschraube</li>
+        <li><input type="checkbox"> 2x M8 x 24 x 2 Unterlegscheibe</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 2x M8 x 20 x 1,25 Unterlegscheibe</li>
+        <li><input type="checkbox"> 1x M8 Mutter</li>
+        <li><input type="checkbox"> 2x M6 x 90 Linsenkopfschraube</li>
+        <li><input type="checkbox"> 2x M6 Mutter mit Sperrverzahnung</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>Bremszug Adapter</h3>
+<table>
+  <tr>
+    <td valign="top" style="padding-right:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x Bremszugblech</li>
+        <li><input type="checkbox"> 1x Bremszughülse</li>
+        <li><input type="checkbox"> 1x Federsplint</li>
+        <li><input type="checkbox"> 1x Rohrschelle</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 1x Einstellschraube Bremszug</li>
+        <li><input type="checkbox"> 1x M8x18 Innensechskant</li>
+        <li><input type="checkbox"> 1x M8 Mutter</li>
+        <li><input type="checkbox"> 1x M8 Sicherungsring</li>
+        <li><input type="checkbox"> 1x Kantenschutz transparent</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h4>KR51</h4>
+<table>
+  <tr>
+    <td valign="top" style="padding-right:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 2x KR51 Gepäckträger Adapterblech</li>
+        <li><input type="checkbox"> 2x KR51 Distanzhülse Gepäckträger</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 4x M6 x 16 Linsenkopf Innensechskant</li>
+        <li><input type="checkbox"> 4x M6 Muttern mit Sperrverzahnung</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2>Benötigte Werkzeuge</h2>
+<table>
+  <tr>
+    <td valign="top" style="padding-right:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li><input type="checkbox"> 10er, 13er, 19er Maulschlüssel</li>
+        <li><input type="checkbox"> 13er Nuss, Knarre und Verlängerungsstück</li>
+        <li><input type="checkbox"> Inbusschlüssel SW3, SW6</li>
+        <li><input type="checkbox"> Seitenschneider</li>
+        <li><input type="checkbox"> Spitze Zange</li>
+        <li><input type="checkbox"> Kreuzschlitz- und Schlitzschraubenzieher</li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left:30px;">
+      <ul style="list-style-type:none; padding-left:0; margin-top
+
 
 ## Bevor du mit dem Umbau beginnst
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines  Fahrzeugs unsicher sein, kontaktiere uns gerne.
