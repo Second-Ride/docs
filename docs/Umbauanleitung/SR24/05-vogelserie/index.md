@@ -366,14 +366,9 @@ Schraube nun die vordere Aufnahme mit den Unterlegscheiben und Muttern lose an. 
 
 Hebe nun vorsichtig die Sitzbank aus dem Schloss, ohne die Position der vorderen Aufnahme zu verschieben und ziehe diese in genau dieser Position an.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> ⚠️ Achtung :</strong><br>
-   Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf. 
-    </td>
-  </tr>
-</table>
+!!! danger "Check Your Machine's Version Number"
+    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf. 
+
 
 ### 6. Gaszug
 
@@ -398,14 +393,9 @@ Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellsch
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgas geben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> ⚠️ Achtung :</strong><br>
-      Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
-    </td>
-  </tr>
-</table>
+
+!!! danger "Check Your Machine's Version Number"
+    Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 Achte darauf, dass der Gaszug und der Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
 
