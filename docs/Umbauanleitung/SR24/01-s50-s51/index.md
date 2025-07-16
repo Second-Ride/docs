@@ -275,7 +275,7 @@ Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) is
 
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+<table style="background-color: #fff3e7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
      <strong>⚠️  Achtung: :</strong><br>
@@ -305,7 +305,7 @@ Unter folgendem QR-Code findest du den für dein Moped passenden Schaltplan. Dor
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen und den Blinkgeber gegen 12V Komponenten austauschen. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+<table style="background-color: #ffffe7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
       <strong>💡Interessant zu wissen :</strong><br>
@@ -325,7 +325,7 @@ Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kab
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+<table style="background-color: #fff3e7; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
      <strong>⚠️  Achtung: :</strong><br>
@@ -355,7 +355,7 @@ Die hintere Aufnahme (28) wird an den anderen zwei Befestigungspunkten der origi
 Nun wird einmal probehalber die Sitzbank aufgelegt, damit sich die vordere Aufnahme und der Tank an die richtige Stelle verschieben. Hake dafür zuerst die Sitzbank in die hintere Aufnahme (28) ein und lass dann das vordere Ende der Sitzbank auf die vordere Aufnahme (26) absinken. Ob die Sitzbank richtig positioniert ist, kannst du überprüfen, indem du den Schließzylinder der Sitzbank mit dem Schlüssel drehst und rein drückst. Wenn der Schließzylinder sich nicht bis zum Einrasten reindrücken lässt, ist die Sitzbank noch nicht tief genug auf die Aufnahme geschoben.
 Jetzt sind die vordere Aufnahme und der Tank korrekt ausgerichtet. Schließe die Sitzbank wieder auf, nimm sie entgegen der Reihenfolge des Aufsetzens wieder ab und ziehe die Schrauben der vorderen Aufnahme (25) (27) fest an.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
+<table style="background-color: #fff3e7 ; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
     <td>
      <strong>⚠️  Achtung: </strong><br>
