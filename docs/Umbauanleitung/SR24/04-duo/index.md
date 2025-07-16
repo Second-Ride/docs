@@ -313,7 +313,7 @@ Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbi
 
 
 !!! tip "Interessant zu wissen"
-   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
@@ -348,7 +348,7 @@ Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbi
 
 
 !!! tip "Interessant zu wissen"
-   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
