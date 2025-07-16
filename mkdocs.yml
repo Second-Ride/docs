@@ -111,6 +111,17 @@ nav:
             - Licht: Bedienungsanleitung/SR24/licht/index.md
             - Ladestandsanzeigen: Bedienungsanleitung/SR24/ladestandsanzeigen/index.md
             - Akku Aufladen: Bedienungsanleitung/SR24/akku-aufladen/index.md
+            - Handhabung der Sitzbank: Bedienungsanleitung/SR24/handhabung-der-sitzbank/index.md
+            - Handhabungsempfehlung für Li-Ionen Akku: Bedienungsanleitung/SR24/handhabungsempfehlung/index.md
+            - Reichweite Maximieren: Bedienungsanleitung/SR24/reichweite-maximieren/index.md
+            - Notlauf und Notabschaltung: Bedienungsanleitung/SR24/notlauf-und-notabschaltung/index.md
+            - Diebstahlschutz: Bedienungsanleitung/SR24/diebstahlschutz/index.md
+            - Handhabung des Fahrzeugs: Bedienungsanleitung/SR24/handhabung-des-fahrzeugs/index.md
+            - Reinigung: Bedienungsanleitung/SR24/reinigung/index.md
+            - Wartung/Reparatur: Bedienungsanleitung/SR24/wartung-reparatur/index.md
+            - Sonstiges: Bedienungsanleitung/SR24/sonstiges/index.md
+
+
     - FAQ: faq/index.md
 
 extra_javascript:
