@@ -162,7 +162,7 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 Entferne die beiden Schrauben auf der Rückseite des Luftfilterkastens (10) und entferne diesen. Schraube den Gas- und Choke-Bowdenzug vom Vergaser (9) ab. Drehe die Tachowelle aus dem Kettendeckel (12). Entferne nun noch den Zündkerzenstecker (13) und das Massekabel vom Motorblock. Stecke die von der Lichtmaschine kommenden Kabel vom Fahrzeug ab. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="500" />
+  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="600" />
 </p>
 
 
@@ -187,7 +187,7 @@ Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel gen
 Nach all dieser Vorarbeit ist der Motor jetzt bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben (16) in der Motoraufnahme verschraubt. Um diese beiden Schrauben lösen zu können, muss die vordere Abstützung der Motoraufnahme (17) gelöst und der Motor heruntergeklappt werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="500" />
+  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="600" />
 </p>
 
 Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Nun kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! deine Simson ist kein Verbrennungsfahrzeug mehr! 
@@ -225,7 +225,7 @@ Damit unser Antriebsmodul in die SR50, SR80 passt, musst du eine kleine Anpassun
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="500" />
+  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="600" />
 </p>
 
 Schraube dafür die 4 Innensechskantschrauben (33) und Schnorrscheiben (32) mit einem Inbus SW6 von dem Antriebsmodul ab. Lege den Adapterblock nun zur Seite und schraube die beiden M8 Madenschrauben (34) aus dem Motor. Hierbei kann noch etwas feuchtes Silikon an den Schraubenenden sein. Keine Sorge, die Dämpfe davon sind nicht giftig, sondern nur ungefährlicher Essig. 
@@ -237,13 +237,13 @@ Schraube dafür die 4 Innensechskantschrauben (33) und Schnorrscheiben (32) mit 
 Schraube nun die Madenschrauben, wie im folgenden Bild gezeigt, in die beiden untersten Bohrungen des Motors, sodass sie etwas tiefer als die Motoroberfläche liegen. Nimm dir nun den Adapterblock und schraube ihn über die übrigen Bohrungen im Motor fest. Ziehe hierbei die Schrauben mit einem Drehmoment von 15 Nm an. Falls du keinen Drehmomentschlüssel hast, ziehe die Schrauben nach Gefühl ordentlich, aber auf keinen Fall zu stark, da sonst das Gewinde beschädigt wird und dann der Motor getauscht werden muss.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="500" />
+  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="550" />
 </p>
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es in die Motorhalterung (20). Die mitgelieferte M8x100 Außensechskantschraube (22) ist für die obere Bohrung und die M8x90 Außensechskantschraube (21) für die untere Bohrung.    
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="500" />
+  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="550" />
 </p>
 
 Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. Zur vollständigen Anbindung der Motorhalterung muss jetzt noch die vordere Abstützung, so wie in der folgenden Abbildung dargestellt, befestigt werden. 
@@ -261,7 +261,7 @@ Jetzt, wo das Antriebsmodul heruntergeklappt eingebaut ist, ist der Zeitpunkt ge
 Das Tank Staufach (23) hat einen Kabelkanal, durch welchen das Hauptkabel (24) vom Antriebsmodul zur Sitzbank und das SR50 Rücklicht- & Blinkerkabel geführt wird. Während du das Tank Staufach in seine Position bringst, führe die beiden Kabel so in den Kabelkanal, dass der Stecker des Hauptkabels (25) in dem dafür vorgesehenen Platz sitzt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="500" />
+  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="600" />
 </p>
 
 Sobald das Tank Staufach an seiner Position sitzt, kannst durch die unteren beiden Bohrungen des Staufachs die 2x M6 Schrauben (26) & 4x Unterlegscheiben (27) mit den 2x M6 Muttern (28) locker anbringen und das Tank Staufach vorläufig fixieren. Nimm dir die beiden Gasdruckdämpfer (29) und führe die Gewindebolzen durch die oberen beiden Anschraubpunkte und schraube die Muttern mit Unterlegscheiben auf. Hierbei ist es wichtig, dass im ausgefahrenen Zustand die beiden schwarzen Gasdruckbehälter nach unten und der Metallschaft nach oben zeigen.
@@ -353,7 +353,7 @@ Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wi
 Bei den /1 Modellen muss das mitgelieferte Relais so wie im Schaltplan gezeigt angeschlossen werden. Falls hier die Kabellänge nicht ausreicht, tausche die Seiten der beiden Steckverbinder am Leitungsverbinder. Das Relais ist notwendig, da die Bremslichtlogik bei den /1 Modellen invertiert ist und 12V anstelle von Masse schaltet. Schraube das Relais (49) an dem linken Anschraubpunkt (50) auf mittlerer Höhe des Elektronikbereichs der SR fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="400" />
+  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="500" />
 </p>
 
 Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wir dir das Tacho- & Standlichtkabel mitgeliefert (Rot). Um dieses anzuschließen, musst du den Scheinwerfer entfernen. Schraube dafür die Schraube an der unteren linken Seite des Scheinwerfers ein paar Umdrehungen raus, sodass sich die Lampenmaske abnehmen lässt. Hake nun die Federspannung oben am Scheinwerfer aus und bewege den Scheinwerfer vorsichtig so heraus, dass du an die Kontakte der Lampenfassung kommst. Hier verbindest du das Tacho- & Standlichtkabel mit mit dem Kontakt, an dem das grau/rote Kabel anschließt. Dieses steckst du anschließend auf die freie Fahne an den gleichen Kontakt. Das andere Ende des Tacho- & Standlichtkabels führst du zur Hupe und verbindest es dort mit dem Kontakt, an dem das schwarz/gelbe Kabel anliegt. Hier steckst du das schwarz gelbe Kabel in Anschluss wieder auf den gleichen Kontakt an die  freie Fahne des Tacho- & Standlichtkabels.
@@ -410,13 +410,13 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Nun kannst du die SR50 Staufachabdeckung (41), welche zur Aufnahme der Sitzbank dient, am Tank Staufach festschrauben. Dafür benötigst du 4x M6 Unterlegscheibe (42) und 4x M6 Mutter (42). Führe die 4 Bolzen durch die dafür vorgesehenen Bohrungen in dem Tank Staufach und verschraube sie mit den Unterlegscheiben und Muttern. Ziehe diese erst locker an und versuche dann die Staufachabdeckung herunterzuklappen und schaue, ob der Schlosshaken in das Schloss einrasten würde. Sollte dies nicht der Fall sein, korrigiere die Position der Staufachabdeckung in dem Tank Staufach bis die Orientierung stimmt und ziehe dann fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="400" />
+  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="500" />
 </p>
 
 Als letztes müssen noch die Stoßdämpfer an der Staufachabdeckung festgeschraubt werden. Führe dafür die Gewindestücke der Gasdruckfedern (44) in die Aufnahmepunkte des Staufachabdeckung und schraube diese dort mit 2x M6 Unterlegscheibe (45) und 2x M6 Mutter (46) fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="400" />
+  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="440" />
 </p>
 
 Nun kannst du das erste Mal die Staufachabdeckung schließen. drücke es dafür am hinteren Ende mit Kraft in die Schlossaufnahme. Jetzt sollte es klicken und im Schloss eingerastet sein. Sollte sich hier der Haken nicht im Schloss einrasten, überprüfe noch einmal die Positionierung des Staufachs. Diese kannst du über Lösen der Schrauben um ein paar mm vor und zurück verschieben. 
