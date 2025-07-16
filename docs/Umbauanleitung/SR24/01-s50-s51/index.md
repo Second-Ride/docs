@@ -4,11 +4,53 @@
   <img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" />
 </p>
 
-
-
-
 ## Bitte bewahre deine Verpackung auf
  Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird.
+
+<table>
+  <tr>
+    <td valign="top">
+
+      <h3>Voraussetzungen</h3>
+      <ul>
+        <li><input type="checkbox"> 12V Glühbirnen, Blinkgeber und Hupe</li>
+        <li><input type="checkbox"> Haltebügel am Gepäckträger</li>
+        <li><input type="checkbox"> N1 Vergaserkappe und -kolben am Gaszug</li>
+      </ul>
+
+      <h3>Lieferumfang</h3>
+      <ul>
+        <li><input type="checkbox"> 1x Antriebsmodul</li>
+        <li><input type="checkbox"> 1x Sitzbank</li>
+        <li><input type="checkbox"> 1x Ladegerät (0,4kW oder 1kW)</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel</li>
+        <li><input type="checkbox"> 1x Bordnetzkabel-Verlängerung</li>
+        <li><input type="checkbox"> 1x Bremskontaktkabel</li>
+        <li><input type="checkbox"> 1x Armaturen</li>
+        <li><input type="checkbox"> 1x Ladestandsanzeige</li>
+        <li><input type="checkbox"> 1x Halteblech Ladestandsanzeige</li>
+        <li><input type="checkbox"> 1x Kette 112 Glieder</li>
+        <li><input type="checkbox"> 1x M8x100 Außensechskantschraube</li>
+        <li><input type="checkbox"> 1x M8x90 Außensechskantschraube</li>
+        <li><input type="checkbox"> 2x M8 Mutter</li>
+        <li><input type="checkbox"> 10x Kabelbinder</li>
+        <li><input type="checkbox"> 1x Vordere Sitzbankaufnahme</li>
+      </ul>
+
+    </td>
+    <td valign="top" style="padding-left: 30px;">
+
+      <ul>
+        <li><input type="checkbox"> 1x Hintere Sitzbankaufnahme</li>
+        <li><input type="checkbox"> 1x M8x30 Außensechskantschraube</li>
+        <li><input type="checkbox"> 1x M8 Unterlegscheibe</li>
+        <li><input type="checkbox"> 1x 12mm Distanzscheibe</li>
+        <li><input type="checkbox"> 1x 6mm Distanzscheibe</li>
+        <li><input type="checkbox"> 1x M6x8 Innensechskantschrauben</li>
+        <li><input
+
+
+ 
 ## Voraussetzungen
 <table>
  <tr> 
