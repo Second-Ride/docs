@@ -438,7 +438,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die KR51 Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech Bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst und den Kreuzschlitz der Madenschrauben beschädigst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="500" />
+  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="700" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen dem Armaturenblech und Lenkerrohr und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht,
@@ -458,7 +458,7 @@ Anstelle des zuvor demontierten Armaturenblechs, kannst du nun das von uns mitge
 Bevor du mit der Sitzbankmontage beginnst, musst du das Schwalbe Anschlussblech mit den unter Lieferumfang -> Anschlussblech Gummiteile aufgezählten Bauteilen versehen. Klebe die Moosgummistreifen auf die Unterseite des Anschlussbleches, wie unten dargestellt. Das Moosgummi lässt sich auch faltenfrei um den Radius vorne legen, wenn man es Stück für Stück anlegt und erst zum Schluss das Ganze richtig fest drückt. Wir haben diese Montage nicht bei uns durchgeführt, da das weiche Moosgummi sich sonst in der Verpackung schon verformt hätte und sich dadurch nicht perfekt an dein Fahrzeug anpasst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="500" />
+  <img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="650" />
 </p>
 
 Die nachfolgende Sitzbankmontage ist einfacher, wenn die Haube der Schwalbe demontiert ist, da man dann deutlich einfacher an die Muttern der Schrauben des Gepäckträgers kommt. Es geht aber auch mit etwas verrenken ohne die Haubendemontage.
@@ -468,7 +468,7 @@ Die nachfolgende Sitzbankmontage ist einfacher, wenn die Haube der Schwalbe demo
 Da die Gepäckträgerbohrungen in der Karosserie bei der KR51 im Vergleich zur KR51/1 und -/2 um 2cm verschoben sitzen, muss vor der Sitzbankmontage die Position des Gepäckträgers angepasst werden. Nimm dir dafür die notwendigen Bauteile, die unter Lieferumfang  >  KR51  >  Gepäckträgeradapter aufgeführt sind und lege diese bereit.  Schraube nun den Gepäckträger ab. Montiere nun den Gepäckträger vor, so wie in folgender Abb. dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="500" />
+  <img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="650" />
 </p>
 
 Hake nun das Aufnahmeblech vorne unter die Haube und schraube es über die beiden oberen Gepäckträgeraufnahmepunkte an der Haube fest. Nutze hierfür die mitgelieferten 2xKR51 Abstandshalter Gepäckträger. Das Kontern der Muttern ist deutlich leichter, wenn die Haube demontiert ist, klappt aber auch im montierten Zustand, wenn man einen langen Arm und etwas Geduld hat. 
@@ -517,7 +517,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="200" />
+  <img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="650" />
 </p>
 
 
