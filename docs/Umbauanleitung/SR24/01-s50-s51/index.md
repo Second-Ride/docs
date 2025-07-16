@@ -12,14 +12,22 @@
     <td valign="top">
 
       <h3>Voraussetzungen</h3>
-      <ul>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li><input type="checkbox"> 12V Glühbirnen, Blinkgeber und Hupe</li>
         <li><input type="checkbox"> Haltebügel am Gepäckträger</li>
         <li><input type="checkbox"> N1 Vergaserkappe und -kolben am Gaszug</li>
       </ul>
 
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+
       <h3>Lieferumfang</h3>
-      <ul>
+      <ul style="list-style-type: none; padding-left: 0;">
         <li><input type="checkbox"> 1x Antriebsmodul</li>
         <li><input type="checkbox"> 1x Sitzbank</li>
         <li><input type="checkbox"> 1x Ladegerät (0,4kW oder 1kW)</li>
@@ -31,24 +39,7 @@
         <li><input type="checkbox"> 1x Halteblech Ladestandsanzeige</li>
         <li><input type="checkbox"> 1x Kette 112 Glieder</li>
         <li><input type="checkbox"> 1x M8x100 Außensechskantschraube</li>
-        <li><input type="checkbox"> 1x M8x90 Außensechskantschraube</li>
-        <li><input type="checkbox"> 2x M8 Mutter</li>
-        <li><input type="checkbox"> 10x Kabelbinder</li>
-        <li><input type="checkbox"> 1x Vordere Sitzbankaufnahme</li>
-      </ul>
-
-    </td>
-    <td valign="top" style="padding-left: 30px;">
-
-      <ul>
-        <li><input type="checkbox"> 1x Hintere Sitzbankaufnahme</li>
-        <li><input type="checkbox"> 1x M8x30 Außensechskantschraube</li>
-        <li><input type="checkbox"> 1x M8 Unterlegscheibe</li>
-        <li><input type="checkbox"> 1x 12mm Distanzscheibe</li>
-        <li><input type="checkbox"> 1x 6mm Distanzscheibe</li>
-        <li><input type="checkbox"> 1x M6x8 Innensechskantschrauben</li>
-        <li><input
-
+        <li><input type="checkbox"> 1x M8x90 Außensechskantsc
 
  
 ## Voraussetzungen
