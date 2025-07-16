@@ -367,15 +367,10 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 
 Um den Hinterradbremse- Kabelzug abzustützen, muss nun der Bremszugadapter verbaut werden. Nimm dir dafür die unter Lieferumfang  >  KR51/1, KR51  >  Bremszugadapter aufgeführten Bauteile und montiere den Bremszugadapter auf der rechten Seite des Antriebmoduls.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 📝 Hinweis :</strong><br>
-     Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
+
+!!! note "Tipp"
+         Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
     Somit ist eine Verstellung des Bremszuges weiterhin möglich.
-    </td>
-  </tr>
-</table>
 
 Nimm dir zuerst die Schelle und spreize diese, führe Sie vorsichtig um das Rahmenrohr und schraube das Bremszugblech mit der M8 Schraube, Schnorrscheibe und M8 Mutter lose an. Als nächstes führe die schwarze Bremszughülse über den Bremszug, führe dann das Bremskabel in die geschlitzte Bohrung des Bremszugsblechs wie unten abgebildet. Verriegele nun den Bremszug mit dem Federsplint. Hänge nun den Bremszug im Fußbremshebel ein und richte den Bremszugadapter so aus, dass er 1 cm links neben der Rahmenquerstrebe mit dem Stehbolzen zur Tunnelabdeckungssicherung sitzt. Ziehe nun die M8 Schraube und Mutter ordentlich an.
 Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterradbremse über den Bremszugspanner am Hinterrad. 
@@ -414,14 +409,8 @@ Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbi
 !!! note "Hinweis"
         Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 💡 Interessant zu wissen :</strong><br>
-     Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
-    </td>
-  </tr>
-</table>
+!!! tip "Interessant zu wissen"
+    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
