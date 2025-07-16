@@ -484,7 +484,7 @@ Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeb
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
 
 !!! warning "Achtung"
-   Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
+    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
 
 
 #### KR51/2, KR51/1
