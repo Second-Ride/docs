@@ -84,9 +84,9 @@ Zum Aufladen die Sitzbank abnehmen und das Ladegerät mit der Sitzbank und einer
 
 | Ladegerät Modell:                     | 0,4 kW           | 1,0 kW                       |
 |----------------------------|------------------|------------------------------|
-| Kein Akku verbunden        | 🟢 Dauerlicht     | 🟢 …1s… ⚫ …1s… (blinkt)      |
-| Akku lädt                  | 🔴 Dauerlicht     | 🔴 Dauerlicht                |
-| Akku voll / lädt nicht     | 🟢 Dauerlicht     | 🟢 Dauerlicht                |
+| Kein Akku verbunden        | 🟢 grüne LED dauerhaft an    | 🟢…1s… ⚫…1s… grüne LED blinkt im 2S Takt      |
+| Akku lädt                  | 🔴 rote LED dauerhaft an     | 🔴 rote LED dauerhaft an                        |
+| Akku voll / lädt nicht     | 🟢 grüne LED dauerhaft an    | 🟢 grüne LED dauerhaft an                       |
 
 Auf dem Gehäuse des 1 kW Ladegeräts sind noch für verschiedene Fehlerfälle andere LED-Nachrichten beschrieben.
 
