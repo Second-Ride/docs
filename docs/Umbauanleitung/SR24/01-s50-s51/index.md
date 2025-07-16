@@ -73,28 +73,25 @@
 <table>
   <tr>
     <td valign="top" style="padding-right: 30px;">
-
       <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-        <li>10er, 13er, 19er Maulschlüssel</li>
-        <li>13er Nuss, Knarre und Verlängerungsstück</li>
-        <li>Inbusschlüssel SW3, SW4 und SW6</li>
-        <li>Seitenschneider</li>
+        <li><input type="checkbox"> 10er, 13er, 19er Maulschlüssel</li>
+        <li><input type="checkbox"> 13er Nuss, Knarre und Verlängerungsstück</li>
+        <li><input type="checkbox"> Inbusschlüssel SW3, SW4 und SW6</li>
+        <li><input type="checkbox"> Seitenschneider</li>
       </ul>
-
     </td>
     <td valign="top" style="padding-left: 30px;">
-
       <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
-        <li>Spitze Zange</li>
-        <li>Kreuzschlitz- und Schlitzschraubenzieher</li>
-        <li>Hakenschlüssel, Rohrzange oder Hammer</li>
-        <li>Evt. Maßband, Zollstock oder Messschieber</li>
-        <li>Evt. Gewindestange, Muttern und Unterlegscheiben</li>
+        <li><input type="checkbox"> Spitze Zange</li>
+        <li><input type="checkbox"> Kreuzschlitz- und Schlitzschraubenzieher</li>
+        <li><input type="checkbox"> Hakenschlüssel, Rohrzange oder Hammer</li>
+        <li><input type="checkbox"> Evt. Maßband, Zollstock oder Messschieber</li>
+        <li><input type="checkbox"> Evt. Gewindestange, Muttern und Unterlegscheiben</li>
       </ul>
-
     </td>
   </tr>
 </table>
+
 
 
 ## Bevor du mit dem Umbau beginnst
