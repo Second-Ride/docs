@@ -280,7 +280,7 @@ Schraube nun den Motorabdeckung Haken (53) mit den beiden M4 Schrauben und Mutte
 Nun kannst du das Antriebsmodul hochklappen und  die vordere Abstützung der SR50 Motoraufnahme anbringen. Hierbei kann es sein, dass die Schraube des Fußbremshebels im Weg ist. Für das Hochklappen des Antriebsmodul kannst du diese temporär entfernen und nach dem Hochklappen wieder anbringen. Es kann sein, dass beim Hochklappen das Antriebsmodul an der rechten Rahmenseite anliegt und Vibrationen während der Fahrt übertragen würde. Dafür haben wir dir einen 50x50mm großen Moosgummistreifen mitgegeben, den du zwischen das Antriebsmodul und dem SR50 Rahmen positionieren kannst.
 
 !!! warning "Achtung"
-   Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
+    Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
  
 
 Damit unser Antriebsmodul in die SR50 passt, wird diese mit den 2x Motorhalterung-Adapterblechen (30) an die Rahmenaufnahme (41) angebracht. Dafür benötigst du zusätzlich 2x M8x70 Sechskanschraube (35), 2x M8 Sechskantmutter (36), 2x M8x20x1,25 Unterlegscheibe (37), 1x M8x24x2 Unterlegscheibe (38), 2x M8x6 Distanzscheibe (39) und 1x M8x12,5 Distanzscheibe (40).
@@ -367,7 +367,7 @@ Bei diesen Modellen musst du das Massekabel für die Zündspule auf die Klemmenl
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Tachobeleuchtung sowie die anderen Birnen am Tacho zu tauschen. 
 
 !!! tip "Interessant zu wissen"
-   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
+    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebmodul und führe das Kabel zu dem Leitungsverbinder und stecke die Flachsteckhülse an die, für dein Fahrzeug, im Schaltplan definierte Position..
