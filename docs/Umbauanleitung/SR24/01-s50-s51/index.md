@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" style="padding-right: 30px;">
 
       <h3>Lieferumfang</h3>
       <ul style="list-style-type: none; padding-left: 0;">
@@ -39,9 +39,35 @@
         <li><input type="checkbox"> 1x Halteblech Ladestandsanzeige</li>
         <li><input type="checkbox"> 1x Kette 112 Glieder</li>
         <li><input type="checkbox"> 1x M8x100 Außensechskantschraube</li>
-        <li><input type="checkbox"> 1x M8x90 Außensechskantsc
+        <li><input type="checkbox"> 1x M8x90 Außensechskantschraube</li>
+        <li><input type="checkbox"> 2x M8 Mutter</li>
+        <li><input type="checkbox"> 10x Kabelbinder</li>
+        <li><input type="checkbox"> 1x Vordere Sitzbankaufnahme</li>
+      </ul>
 
- 
+    </td>
+    <td valign="top" style="padding-left: 30px;">
+
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li><input type="checkbox"> 1x Hintere Sitzbankaufnahme</li>
+        <li><input type="checkbox"> 1x M8x30 Außensechskantschraube</li>
+        <li><input type="checkbox"> 1x M8 Unterlegscheibe</li>
+        <li><input type="checkbox"> 1x 12mm Distanzscheibe</li>
+        <li><input type="checkbox"> 1x 6mm Distanzscheibe</li>
+        <li><input type="checkbox"> 1x M6x8 Innensechskantschrauben</li>
+        <li><input type="checkbox"> 2x M6x16 Innensechskantschrauben</li>
+        <li><input type="checkbox"> 2x Zündschlüssel</li>
+        <li><input type="checkbox"> 2x Sitzbankschlüssel</li>
+        <li><input type="checkbox"> 1x Ersatz-O-Ring für Sitzbankstecker</li>
+        <li><input type="checkbox"> 1x Einmalhandschuhe</li>
+        <li><input type="checkbox"> Optional: 12V Glühbirnenset und Blinkgeber</li>
+        <li><input type="checkbox"> 1x USB Update kabel</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
 ## Voraussetzungen
 <table>
  <tr> 
