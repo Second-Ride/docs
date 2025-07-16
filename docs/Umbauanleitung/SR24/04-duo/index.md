@@ -296,14 +296,9 @@ Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dor
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 💡 Interessant  zu wissen :</strong><br>
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.  
-    </td>
-  </tr>
-</table>
+
+!!! tip "Interessant zu wissen"
+   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
@@ -336,14 +331,9 @@ Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dor
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evtl. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 💡 Interessant  zu wissen :</strong><br>
-   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
-    </td>
-  </tr>
-</table>
+
+!!! tip "Interessant zu wissen"
+   Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
