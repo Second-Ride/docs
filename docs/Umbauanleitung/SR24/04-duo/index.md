@@ -234,13 +234,13 @@ Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in d
 Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst sie wie in der folgenden Abb. dargestellt so, dass die 1 dicke Unterlegscheibe innerhalb der oberen Motorlagerblechen sitzt und die dünneren außerhalb. Je nach Zustand der originalen Haltebleche kann auf die innere Unterlegscheibe verzichtet werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="400" />
+  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="300" />
 </p>
 
 Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstände der Controllerschrauben in die unteren beiden Bohrungen der M5x Motoraufnahme geführt bekommst. Schraube mit den M6 Muttern die M5x Motoraufnahme an dem Antriebsmodul fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="400" />
+  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="500" />
 </p>
 
 Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Motoraufnahme ordentlich fest, Nutze hierfür  eine Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern.
@@ -300,7 +300,11 @@ Das dicke Kabel am Antriebsmodul kannst du unten am Rahmen mit Kabelbindern bis 
 
 Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt ein schwarzes Kabel mit weißem, 2-poligem Stecker heraus. Führe dieses auf die Oberseite des Motors. Wir haben dir zwei Rot-Schwarze Kabel mitgeliefert. Stecke das Kabel mit den weißen 2-poligen Steckern an beiden Enden mit dem 2-poligen weißen Stecker vom Antriebsmodul zusammen. Am anderen Ende steckst du das zweite Kabel, an dessen einem Ende ein passender weißer Stecker und am anderen Ende mehrere Flachsteckhülsen und ein Ringkabelschuh sind. 
 Für das Anschließen der Flachsteckhülsen ist es einfacher, die Duo Armatur über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an folgenden Kontakten:<br>
+
+
 **59, 59B, 30, unbeschrifteter Dreifachstecker** <br>
+
+
 Die schwarze Ader kannst du am Masse-Sammelpunkt, am Lenker (16, Seite 19) rechts unter dem Blinkschalter, befestigen. du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
 
 Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
@@ -323,6 +327,7 @@ Damit dein 6V Scheibenwischer auch mit dem 12V Bordnetz  funktioniert, haben wir
 Nun verbindest du das gelb-schwarze Kabel mit dem roten Kabel des Wandlers, indem du die beiden Ringkabelschuhe mit der M4 Schraube verschraubst. Das gleiche machst du mit dem schwarzen Kabel und dem braunen Massekabel. Am besten isolierst du die Schraubverbindung der beiden Ringkabelschuhe mit etwas Isolierband. Den Wandler kannst du mit einem der mitgelieferten Kabelbinder an dem nächstgelegenen Rahmenrohr befestigen.Nun funktioniert dein Wischermotor wie gewohnt.
 
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmodul und führe das Kabel unter die linke Haube hinter der gepolsterten Abdeckung auf der Fahrerseite zum Bremslichtschalter. Hier verbindest du Das Bremskontaktkabel mit der Flachsteckhülse mit extra-Fahne mit dem der Seite des Bremslichtschalters, welche direkt zum Bremslicht führt. 
+
 
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Bremse betätigen muss, um die Leistung des Motors wegzunehmen. 
@@ -381,7 +386,7 @@ Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. 
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen anstelle des Starterknopfes an der rechten Lenkerseite anstelle des Elektrostartertasters angebracht werden. Schraube diesen dafür ab und bringe die mitgelieferte Armatur an der selben Stelle an
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="700" />
+  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="740" />
 </p>
 
 Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Achte hierbei darauf, dass die Kabelverbindung genug Spiel beim
