@@ -130,14 +130,9 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>🖋️  Tipp :</strong><br>
-      Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
-    </td>
-  </tr>
-</table>
+!!! note "Tipp"
+     Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+
 
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. Die Auspuffstrebe (7) kannst du gleich mit entfernen. Dafür einfach oben am hinteren Federbein die Schraube demontieren, die Auspuffstrebe entfernen und das Federbein wieder mit dem Rahmenobergurt und der Obergurtstützstrebe verschrauben.
@@ -147,14 +142,11 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>🖋️  Tipp :</strong><br>
+
+!!! note "Tipp"
       Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
-    </td>
-  </tr>
-</table>
+
+
 
 Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt.
 
@@ -201,16 +193,12 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
   <img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" />
 </p>
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-     <strong>🖋️  Tipp :</strong><br>
-      Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
+
+
+!!! note "Tipp"
+       Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
      ➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner)  
      durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
-    </td>
-  </tr>
-</table>
 
 Überprüfe in jedem Fall nach der Montage des Antriebsmoduls, dass alle 4 Schrauben des Adapterblocks (9) sowohl auf der Fahrzeugseite als auch auf der Motorseite ausreichend fest angeschraubt sind.
 
