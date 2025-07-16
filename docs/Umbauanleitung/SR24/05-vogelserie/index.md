@@ -203,7 +203,7 @@ M8: 24 Nm<br>
 Bevor du das Antriebsmodul in deinen Vogel einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="700" />
+  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="740" />
 </p>
 
 Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung” aufgeführt sind und baue diese nach folgender Abb. zusammen. Drehe die M8 Mutter nur 2-3 volle Umdrehungen auf die M8x70 Außensechskantschraube.  Lasse dabei die zwei M6 Muttern noch weg und lege die vormontierte M5x Motoranbindung zur Seite.
@@ -217,7 +217,7 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="600" />
+  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="570" />
 </p>
 
 Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
@@ -232,7 +232,7 @@ Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstän
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="600" />
+  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="570" />
 </p>
 
 
@@ -283,6 +283,9 @@ Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbi
     Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 
+Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
+
+
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmodul und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremskontaktkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
 
 <p align="center">
@@ -299,7 +302,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst, um den Kreuzschlitz der Madenschrauben nicht zu beschädigen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="750" />
+  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="790" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen der Lampenhaube und Lenkerrohr und leite es zur Unterseite des Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen.
