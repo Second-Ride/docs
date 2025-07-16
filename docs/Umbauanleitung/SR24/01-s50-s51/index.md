@@ -164,7 +164,7 @@ Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schr
   </tr>
 </table>
 
-!!! warning "Interessant zu wissen"
+!!! tip "Interessant zu wissen"
     Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
  
 
