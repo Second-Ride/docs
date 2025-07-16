@@ -360,7 +360,7 @@ Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit 
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter.
 
 
-!!! warning "Check Your Machine's Version Number"
+!!! warning "Achtung"
     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.
 
 
@@ -438,7 +438,7 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
 
 
 
-!!! warning "Check Your Machine's Version Number"
+!!! warning "Achtung"
     Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen. 
 
 
