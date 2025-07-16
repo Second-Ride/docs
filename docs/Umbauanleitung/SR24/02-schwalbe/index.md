@@ -254,14 +254,10 @@ Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Si
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>🖋️  Tipp :</strong><br>
-      Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen. 
-    </td>
-  </tr>
-</table>
+
+!!! note "Tipp"
+        Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen. 
+
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. 
 
@@ -269,14 +265,9 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong>🖋️  Tipp :</strong><br>
-      Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
-    </td>
-  </tr>
-</table>
+!!! note "Tipp"
+       Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
+
 
 ### 6. Motor
 
@@ -419,15 +410,9 @@ Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort i
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
-<table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
-  <tr>
-    <td>
-      <strong> 📝 Hinweis :</strong><br>
-     Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
-    </td>
-  </tr>
-</table>
 
+!!! note "Hinweis"
+        Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
 
 <table style="background-color: #e7f3ff; border-left: 4px solid #0078d7; padding: 10px; border-radius: 6px; margin: 10px 0; width: 100%;">
   <tr>
