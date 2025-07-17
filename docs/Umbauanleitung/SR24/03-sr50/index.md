@@ -326,12 +326,7 @@ Jetzt sind alle Arbeiten am Antriebsmodul abgeschlossen, daher kannst du jetzt d
 Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul versorgt. Unter dem Antriebsmodul kommt ein schwarzes Kabel mit weißem, 2-poligem Stecker heraus. Führe dieses auf die Oberseite des Motors. Wir haben dir zwei Rot-Schwarze Kabel mitgeliefert. Stecke das Kabel mit den weißen 2-poligen Steckern an beiden Enden mit dem 2-poligen weißen Stecker vom Antriebsmodul zusammen. Am anderen Ende steckst du das zweite Kabel, an dessen einem Ende ein passender weißer Stecker und am anderen Ende mehrere Flachsteckhülsen und ein Ringkabelschuh sind. 
 
 
-Für das Anschließen der Flachsteckhülsen ist es einfacher, die Steckerleiste über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die roten Kabel des Second Ride Kabels  mit den Kontakten an dem Leitungsverteiler an den für dein Fahrzeugmodell korrekten Kontakten. Das Anstecken kann aufgrund der Isolierung kniffelig sein, ist aber mit der richtigen Technik möglich. Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/82324e3b-9b01-4f25-afad-124dfa40ace4" width="150" />
-</p>
-[Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
+Für das Anschließen der Flachsteckhülsen ist es einfacher, die Steckerleiste über die zwei Kreuzschlitzschrauben abzunehmen. Verbinde nun die roten Kabel des Second Ride Kabels  mit den Kontakten an dem Leitungsverteiler an den für dein Fahrzeugmodell korrekten Kontakten. Das Anstecken kann aufgrund der Isolierung kniffelig sein, ist aber mit der richtigen Technik möglich. Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast: [Schaltpläne, Technische Dokumente, Montage- & Bedienungsanleitung](https://www.second-ride.de/docs)
 
 Die schwarze Ader kannst du am linken Anschraubpunkt des Masse-Sammelpunktes () befestigen. Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
 
@@ -425,11 +420,7 @@ Nun kannst du das erste Mal die Staufachabdeckung schließen. drücke es dafür 
 ### **7. Gaszug**
 
 
-Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6759a130-3912-453a-90a7-77e193fc87ad" width="150" />
-</p>
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: [Youtube-Kanal Simson Werkstatt](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
@@ -448,12 +439,6 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
 !!! warning "Achtung"
      Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
-Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ccac4b83-b805-447c-ba91-5bb788d74464" width="150" />
-</p>
-
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber  [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 
 
