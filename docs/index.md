@@ -1,15 +1,16 @@
 
-# Second Ride Documentation
+# Second Ride Dokumentation
 
-Welcome to the **Second Ride** site! Here you'll find FAQs, build guides, setup instructions, and troubleshooting steps for Second Ride products. 
+Willkommen auf der **Second Ride**-Website! Hier findest du häufig gestellte Fragen, Aufbauanleitungen, Einrichtungshinweise und Problemlösungen für Second Ride Produkte.
 
 - ❓ FAQ
-- 🛠️ build guides
-- ⚙️ setup instructions
-- 🧰 troubleshooting steps
+- 🛠️ Aufbauanleitungen
+- ⚙️ Einrichtung
+- 🧰 Fehlerbehebung
 
 ---
 
-# How do I use this?
+# Wie benutze ich das?
 
-You can make helpful changes to this doc by editing the markdown files in this repository. Changes will immediately show up in the [docs.second-ride.de](https://docs.second-ride.de).
+Du kannst diese Dokumentation verbessern, indem du die Markdown-Dateien in diesem Repository bearbeitest.  
+Die Änderungen werden automatisch auf [docs.second-ride.de](https://docs.second-ride.de) angezeigt.
