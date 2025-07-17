@@ -16,9 +16,9 @@
   <li><input type="checkbox"> N1 carburetor cap and slide on throttle cable</li>
 </ul>
 
-<h3>Included in the Kit</h3>
+<h3>Inclus dans le kit</h3>
 <div style="display: flex; flex-wrap: wrap;">
-  <ul style="list-style-type: none; width: 50%; padding-left: 0;">
+  <ul style="list-style-type: none; padding-left: 0; width: 50%;">
     <li><input type="checkbox"> 1x Drive module</li>
     <li><input type="checkbox"> 1x Seat</li>
     <li><input type="checkbox"> 1x Charger (0.4kW or 1kW)</li>
@@ -35,7 +35,8 @@
     <li><input type="checkbox"> 10x Cable ties</li>
     <li><input type="checkbox"> 1x Front seat mount</li>
   </ul>
-  <ul style="list-style-type: none; width: 50%; padding-left: 0;">
+
+  <ul style="list-style-type: none; padding-left: 0; width: 50%;">
     <li><input type="checkbox"> 1x Rear seat mount</li>
     <li><input type="checkbox"> 1x M8x30 hex bolt</li>
     <li><input type="checkbox"> 1x M8 washer</li>
@@ -52,6 +53,7 @@
   </ul>
 </div>
 
+
 <h3>Required Tools</h3>
 <div style="display: flex; flex-wrap: wrap;">
   <ul style="list-style-type: none; width: 50%; padding-left: 0;">
@@ -60,6 +62,7 @@
     <li><input type="checkbox"> Allen keys: 3 mm, 4 mm, 6 mm</li>
     <li><input type="checkbox"> Side cutters</li>
   </ul>
+  
   <ul style="list-style-type: none; width: 50%; padding-left: 0;">
     <li><input type="checkbox"> Needle nose pliers</li>
     <li><input type="checkbox"> Phillips and flat screwdrivers</li>
@@ -68,6 +71,7 @@
     <li><input type="checkbox"> Optional: threaded rod, nuts, and washers</li>
   </ul>
 </div>
+
 
 <h2>Before You Begin the Conversion</h2>
 
