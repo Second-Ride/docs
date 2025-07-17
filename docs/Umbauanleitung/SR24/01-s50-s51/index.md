@@ -253,11 +253,8 @@ Die Armatureneinheit bestehend aus Zündschloss (14) und Taster (15) wird an der
 </p>
 
 ### 4. Gaszug
-Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an dem Bowdenzugsensor anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt:<br>
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an dem Bowdenzugsensor anschrauben. Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt [hier entlang!](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 
-<p align="center">
-   <img width="200" height="288" alt="qrcode-6" src="https://github.com/user-attachments/assets/fa8b2a1e-3bca-46fc-8e09-c61083ebc768" />
-</p>
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 <p align="center">
@@ -276,11 +273,7 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die S
 !!! warning "Achtung"
     Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
-Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
-
-<p align="center">
-  <img width="200" height="299" alt="qrcodeoublie" src="https://github.com/user-attachments/assets/7c90c114-b10b-42bb-a8e0-7a83d664013b" />
-</p>
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber [hier entlang!](https://www.bing.com/videos/riverview/relatedvideo?q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&FORM=VAMGZC)
 
 ### 5. Elektrik 
 Das dicke orange Kabel kannst du mit Kabelbindern bis zur vorderen Aufnahme hoch binden. Generell solltest du vermeiden, dass Kabel an scharfen Kanten oder Ecken reiben kann.<br>
@@ -289,7 +282,7 @@ Das Bordnetz (Lichter und Hupe) wird von einem Spannungswandler im Antriebsmodul
 **59, 59B, 30, unbeschrifteter Dreifachstecker**<br>
 Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.<br>
 
-Unter folgendem QR-Code findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können und wo du die roten Kabel anstecken musst. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
+Unter [diesem link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ?usp=gmail)  findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können und wo du die roten Kabel anstecken musst. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
 
 <p align="center">
    <img width="200" height="296" alt="qrcode2" src="https://github.com/user-attachments/assets/3019086e-2b7a-4622-8e46-ef159f22b6ea" />
