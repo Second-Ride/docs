@@ -45,6 +45,10 @@ theme:
         - content.action.edit
         - toc.integrate
         - content.code.copy
+        - navigation.instant
+        - navigation.sections
+        - i18n
+   
 
     palette:
         #primary: custom
@@ -76,6 +80,12 @@ plugins:
             font_family: Figtree
     - neoteroi.mkdocsoad:
         use_pymdownx: true
+    - i18n:
+      default_language: de
+      languages:
+        de: Deutsch
+        fr: Français
+        en: English
 extra:
   social:
     - icon: fontawesome/brands/facebook-f
@@ -110,21 +120,4 @@ nav:
 extra_javascript:
   - javascripts/typebot.js
 
-theme:
-  name: material
-  language: de
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - content.code.copy
 
-plugins:
-  - search
-  - i18n:
-      default_language: de
-      languages:
-        de: Deutsch
-        fr: Français
-        en: English
