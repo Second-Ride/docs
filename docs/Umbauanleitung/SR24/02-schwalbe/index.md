@@ -349,10 +349,12 @@ Mithilfe einer Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulsch
 ### 2. Kette
 
 Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben löst und lege alles für später beiseite. Es wird wieder Zeit für die Handschuhe! Suche das Kettenschloss an der verbauten Kette und öffne es. Dafür einfach das schwebende Hinterrad solang drehen, bis das Kettenglied mit Kettenschloss erscheint. Das Kettenschloss kann mit einer spitzen Zange oder einem Schlitzschraubenzieher geöffnet werden. 
+
+
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="700" />
+  <img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="600" />
 </p>
 
 Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
@@ -379,7 +381,7 @@ Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterra
 Jetzt sollte deine Hinterradbremse wieder funktionieren. Vergewissere dich nach dem vollendeten Umbau, dass deine Hinterradbremse auch gut eingestellt ist und ordentlich bremst.   
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="650" />
+  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="700" />
 </p>
 
 ### 3. Elektrik
@@ -435,7 +437,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die KR51 Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech Bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst und den Kreuzschlitz der Madenschrauben beschädigst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="700" />
+  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="800" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen dem Armaturenblech und Lenkerrohr und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht,
@@ -477,7 +479,7 @@ Hake nun das Aufnahmeblech vorne unter die Haube und schraube es über die beide
 Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeblechs fest. Befestige den Gepäckträger an den originalen unteren Gepäckträgeraufnahmen wie unten abgebildet.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="500" />
+  <img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="650" />
 </p>
 
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
