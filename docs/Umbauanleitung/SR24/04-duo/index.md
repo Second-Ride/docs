@@ -307,11 +307,7 @@ Für das Anschließen der Flachsteckhülsen ist es einfacher, die Duo Armatur ü
 
 Die schwarze Ader kannst du am Masse-Sammelpunkt, am Lenker (16, Seite 19) rechts unter dem Blinkschalter, befestigen. du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
 
-Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9465d745-b46e-4eb5-a029-c2ff6cdccf97" width="200" />
-</p>
+Unter [folgendem Link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ) findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
 
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
@@ -344,11 +340,10 @@ Nun müssen die roten Kabelenden überall dort angeschlossen werden, wo dein Fah
 **Kontakte 59 und 30 müssen versorgt werden.**
 
 Die schwarze Ader kannst du am nächsten Masse-Sammelpunkt befestigen. Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
-Unter folgendem Link findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80ffe306-31c8-4d33-bd1d-9a4b55dde7be" width="200" />
-</p>
+
+Unter [folgendem Link](https://drive.google.com/drive/folders/1KnJVBPeOQDE3Jo1bdCY01oL4jRIgUjQ6) findest du den für dein Fahrzeug passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
+
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evtl. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
@@ -358,7 +353,14 @@ Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbi
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
+
+Damit dein 6V Scheibenwischer auch mit dem 12V Bordnetz  funktioniert, haben wir dir einen 12V auf 6V Wandler mitgegeben. Entferne zuerst das gelb-schwarze Kabel von deinem Scheibenwischer und schließe dort das gelbe Kabel des Wandlers an. Schraube nun das braune Massekabel an deinem Scheibenwischer ab und schraube an der freigewordenen Stelle das schwarze Kabel, welches neben dem gelben Kabel am Wandler rauskommt, an.
+Nun verbindest du das gelb-schwarze Kabel mit dem roten Kabel des Wandlers, indem du die beiden Ringkabelschuhe mit der M4 Schraube verschraubst. Das gleiche machst du mit dem schwarzen Kabel und dem braunen Massekabel. Am besten isolierst du die Schraubverbindung der beiden Ringkabelschuhe mit etwas Isolierband. Den Wandler kannst du mit einem der mitgelieferten Kabelbinder an dem nächstgelegenen Rahmenrohr befestigen.Nun funktioniert dein Wischermotor wie gewohnt.
+
+
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmodul und führe das Kabel unter die linke Haube hinter der gepolsterten Abdeckung auf der Fahrerseite zum Bremslichtschalter. Hier verbindest du das Bremskontaktkabel mit der Flachsteckhülse mit extra-Fahne mit dem der Seite des Bremslichtschalters, welche direkt zum Bremslicht führt. 
+
+
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Bremse betätigen muss, um die Leistung des Motors wegzunehmen. 
 
 ### 4. Armaturen
@@ -424,11 +426,8 @@ Nimm als letztes den mitgelieferten 10 cm langen Moosgummistreifen und klebe ihn
 
 ### 6. Gaszug 
 
-Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem [Youtube-Kanal Simson Werkstatt](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/015363fd-f385-4bbd-b981-42e9443afa61" width="200" />
-</p>
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
@@ -448,11 +447,7 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
     Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen. 
 
 
-Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef4f8ba0-31ad-4311-b030-d08c719ba244" width="200" />
-</p>
+Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?&q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&mmscn=mtsc&aps=40&FORM=VRDGAR)
 
 
 
