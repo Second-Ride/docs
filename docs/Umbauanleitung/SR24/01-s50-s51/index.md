@@ -284,9 +284,6 @@ Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im
 
 Unter [diesem link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ?usp=gmail)  findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können und wo du die roten Kabel anstecken musst. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
 
-<p align="center">
-   <img width="200" height="296" alt="qrcode2" src="https://github.com/user-attachments/assets/3019086e-2b7a-4622-8e46-ef159f22b6ea" />
-</p>
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen und den Blinkgeber gegen 12V Komponenten austauschen. 
 
