@@ -36,27 +36,3 @@ Achtung: Versand nur nach Deutschland.
 ### Bekomme ich eine Rechnung?
 Ja, während des Bestellvorgangs gibst du alle entsprechenden Informationen an und bekommst eine Rechnung zugesandt.
 
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .color-box {
-      width: 100px;
-      height: 100px;
-      background-color: blue;
-      animation: changeColor 3s infinite alternate;
-    }
-
-    @keyframes changeColor {
-      0% { background-color: blue; }
-      100% { background-color: red; }
-    }
-  </style>
-</head>
-<body>
-
-<div class="color-box"></div>
-
-</body>
-</html>
