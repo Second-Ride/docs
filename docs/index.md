@@ -3,11 +3,6 @@
 
 Willkommen auf der **Second Ride**-Website! Hier findest du häufig gestellte Fragen, Aufbauanleitungen, Einrichtungshinweise und Problemlösungen für Second Ride Produkte.
 
-❓ FAQ<br>
-🛠️ Aufbauanleitungen<br>
-⚙️ Einrichtung<br>
-🧰 Fehlerbehebung<br>
-
 ---
 
 ## Wie benutze ich das?
