@@ -80,6 +80,7 @@ plugins:
             font_family: Figtree
     - neoteroi.mkdocsoad:
         use_pymdownx: true
+    - search
     - i18n:
       default_language: de
       languages:
