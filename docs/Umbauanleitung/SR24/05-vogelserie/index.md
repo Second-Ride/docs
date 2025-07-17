@@ -256,8 +256,7 @@ Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Ke
   <img src="https://github.com/user-attachments/assets/e6a567d5-69f4-4bd5-b935-8b2a7496f5ab" width="700" />
 </p>
 
-
-Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben. Bei KR51/ und KR51 müssen hier die mitgelieferten 2x Kettenschlauchadapter verwendet werden. Drücke dazu die Kettenschlauchadapter mit dem schmaleren Ende vorran in die Kettenschläuche bis diese merklich einrasten. Jetzt kannst du den Kettenschlauch montieren.
+Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben.Nun müssen hier die mitgelieferten 2x Kettenschlauchadapter verwendet werden. Drücke dazu die Kettenschlauchadapter mit dem schmaleren Ende vorran in die Kettenschläuche bis diese merklich einrasten. Jetzt kannst du den Kettenschlauch montieren.
 
 
 ### 3. Elektrik 
