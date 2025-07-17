@@ -10,7 +10,7 @@ Willkommen auf der **Second Ride**-Website! Hier findest du häufig gestellte Fr
 
 ---
 
-# Wie benutze ich das?
+## Wie benutze ich das?
 
 Du kannst diese Dokumentation verbessern, indem du die Markdown-Dateien in diesem Repository bearbeitest.  
 Die Änderungen werden automatisch auf [docs.second-ride.de](https://docs.second-ride.de) angezeigt.
