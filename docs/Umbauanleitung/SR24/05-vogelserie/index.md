@@ -269,11 +269,8 @@ Verbinde nun die Roten Kabel des Second Ride Kabels  mit dem Zündschloss an fol
 **59, 59B, 30, unbeschrifteter Dreifachstecker**
 
 Die schwarze Ader kannst du am Masse-Sammelpunkt im Lampengehäuse befestigen. Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
-Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
+Unter [folgendem Link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ) findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser Antriebsmodul hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d70cd04-f678-49da-9760-2d8450c8fb8a" width="200" />
-</p>
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
@@ -368,12 +365,7 @@ Hebe nun vorsichtig die Sitzbank aus dem Schloss, ohne die Position der vorderen
 
 ### 6. Gaszug
 
-Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt: 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b7468e4-c726-41f1-8ef4-13b01de49cd4" width="200" />
-</p>
+Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdeckel nun an das Antriebsmodul anschrauben (12). Wenn du einen anderen Vergasertyp am Verbrennungsmotor hattest, passt der Vergaserdeckel und -kolben nicht und du musst diese tauschen. Gute Erklärvideos gibt es dazu auf dem Youtube-Kanal Simson Werkstatt [hier entlang!](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
@@ -393,8 +385,5 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
 !!! warning "Achtung"
     Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
-Achte darauf, dass der Gaszug und der Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber:
+Achte darauf, dass der Gaszug und der Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?&q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&mmscn=mtsc&aps=40&FORM=VRDGAR)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/48576838-0597-40f6-a08d-741e64dc5c3b" width="200" />
-</p>
