@@ -87,6 +87,7 @@ plugins:
         de: Deutsch
         fr: Français
         en: English
+        
 extra:
   social:
     - icon: fontawesome/brands/facebook-f
