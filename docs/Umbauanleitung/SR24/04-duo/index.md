@@ -144,18 +144,6 @@ Einige Flüssigkeiten, die in Fahrzeugen verwendet werden (Batteriesäure, Batte
 
 Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt der Drucklegung aktuell. Da aber die kontinuierliche Verbesserung eines der Hauptziele ist, behalten wir uns das Recht vor, jederzeit Veränderungen an den Produkten vorzunehmen. Wenn du Irrtümer oder Auslassungen in diesem Dokument bemerkst, schreib das bitte unbedingt in den Discord-Channel (siehe Fußnote). 
 
-**Bedeutung der Warnzeichen:**   
-
-| Warnzeichen | Bedeutung  |
-|-------|-------------|
-| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/d32f95dc-b94e-4223-bd3b-aae52ce98167" /> | **Allgemeine Warnung**|
-|  <img width="60" height="70" alt="pano-2" src="https://github.com/user-attachments/assets/378807f4-4f85-465f-ab4e-3aec7a422683" />| **Elektrische Spannung (insbesondere Hochvoltspannung)**|
-|  <img width="60" height="70" alt="pano 3" src="https://github.com/user-attachments/assets/00e79ba6-97b7-4db3-80cd-7cb1c075f4ee" />| **Feuergefährliche Stoffe**|
-| <img width="60" height="70" alt="pano-4" src="https://github.com/user-attachments/assets/9e08c535-9945-4b10-b7bc-8a7add6f6ef9" />| **Gefahr der Handverletzung**|
-| <img width="60" height="70" alt="pano-5" src="https://github.com/user-attachments/assets/b3868ba2-48e2-4823-96d3-df40656dd4df" />| **Gefahren durch das Aufladen von Batterien**|
-| <img width="60" height="70" alt="pano-6" src="https://github.com/user-attachments/assets/10d4b118-e987-4bb1-93ed-41815df9d6a0" />| **Heiße Oberfläche**|
-| <img width="60" height="70" alt="pano-7" src="https://github.com/user-attachments/assets/9d294377-405f-4fe9-8152-5f08f62f9a40" />| **Giftige Stoffe**|
-
 ## 1. Demontage 
 
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.
