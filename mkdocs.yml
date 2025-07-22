@@ -104,20 +104,30 @@ extra:
 nav:
     - Home: index.md
     - Umbauanleitung:
-        - Übersicht: Umbauanleitung/index.md
+        - Übersicht: conversion-manual/index.md
         - SR24:
-            - Übersicht: Umbauanleitung/SR24/index.md
-            - S50/S51: Umbauanleitung/SR24/01-s50-s51/index.md
-            - Schwalbe: Umbauanleitung/SR24/02-schwalbe/index.md
-            - SR50: Umbauanleitung/SR24/03-sr50/index.md
-            - Duo: Umbauanleitung/SR24/04-duo/index.md
-            - Vogelserie: Umbauanleitung/SR24/05-vogelserie/index.md
+            - Übersicht: conversion-manual/SR24/index.md
+            - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
+            - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
+            - SR50: conversion-manual/SR24/03-sr50/index.md
+            - Duo: conversion-manual/SR24/04-duo/index.md
+            - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
-        - Übersicht: Bedienungsanleitung/index.md
-        - SR24: Bedienungsanleitung/SR24/index.md
+        - Übersicht: instruction-manual/index.md
+        - Änderungsabnahme & Zulassung: instruction-manual/modification-approval-and-homologation/index.md
+        - SR24: 
+            - 01 Antrieb & Akku: instruction-manual/SR24/01-drive-unit-and-battery/index.md
+            - 03 App: instruction-manual/SR24/03-app/index.md
+            - 04 Externer Ladeport: instruction-manual/SR24/04-externer-ladeport/index.md
+            - 05 E-Kupplung: docs/instruction-manual/SR24/05-electric-clutch
 
-
+    - Für Entwickler : 
+        - SR24: 
+            - Communication protocols: for-developers/SR24/communication-protocol/index.md
+            - Schaltplan: for-developers/SR24/circuit-diagram/index.md
+    - 
     - FAQ: faq/index.md
+    
 
 extra_javascript:
   - javascripts/typebot.js
