@@ -1,10 +1,15 @@
 # Fahrzeug fährt nicht
 
 ## Fahrzeug fährt nicht - Betätigung des Zündschloss führt aber zu leuchtendem Taster
+![alt text](img/system-on-or-off.png)
+
 
 ### Im Antriebsmodul ist rote LED zu sehen
 
 ## Fahrzeug fährt nicht - Betätigung des Zündschloss führt NICHT zu leuchtendem Taster
+Sitzbank mehr als 10% aufgeladen 
+Sitzbank ist mit Deinem Antriebsmodul verbunden
+Armaturen sind mit Deinem Antriebsmodul verbunden
 
 # System lässt sich nicht ausschalten
 
