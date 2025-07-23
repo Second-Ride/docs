@@ -9,7 +9,7 @@ Stelle sicher, dass folgende Bedingungen vorherrschen:
 ![system-on-or-off (3)](https://github.com/user-attachments/assets/5b0ea9d6-8f0c-41b0-a053-96a9db88a894)
 
 
-## Fahrzeug fährt nicht - Betätigung des Zündschloss führt aber zu leuchtendem Taster
+## die LED pulsiert und zeigt den inaktiven Fahrbetrieb an
 
 Scheinwerfer geht nach Einschalten an.
 
@@ -17,6 +17,9 @@ Scheinwerfer geht nach Einschalten an.
 
 
 ### der Scheinwerfer geht an, nachdem das Zündschloss betätigt wurde
+
+Bordnetz wird mit Spannung versorgt
+
 Dreht der Motor, wenn Du das System in den aktiven Fahrbetrieb versetzt und Gas gibst?
 
 Den aktiven Fahrbetrieb erreichst Du durch Betätigung des Zündschlosses und anschließendes Drücken des pulsierenden Tasters. Der aktive Fahrbetrieb wird dann durch dauerhaftes Leuchten oder schnelles Blinken (->Notlauf) der Ring-LED bestätigt.
@@ -93,10 +96,30 @@ Prüfe folgendes um diese Theorie zu bestätigen bzw. zu widerlegen:
 
 Ist das der Fall, dann heisst das für Dich die Theorie stimmt und du musst die Stellschraube im Bowdenzug des Gaszugs so einstellen, dass der Gaszug gerade so kein Spiel hat (siehe [Montageanleitung](https://drive.google.com/drive/u/0/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ). Falls Du dabei Hilfe benötigen solltest, kontaktiere bitte eine unserer [Partnerwerkstätten](https://second-ride.de/service).
 
+### Nein, das Scheinwerferlicht geht nach Betätigung des Zündschlosses nicht an.
+
+Bordnetz wird NICHT mit Spannung versorgt
+
+Wenn ein Kurzschluss in Deinem System vorliegt, dann schaltet die 12V Spannungsversorgung des Antriebmoduls solang ab, bis der Kurzschluss aufgehoben wurde. Um zu prüfen ob es sich bei Dir um einen Kurzschluss handelt, trenne den weißen 2-poligen Stecker zwischen Bordnetz und Antriebsmodul. Miss auf der Seite des Antriebmoduls die Spannung.
+
+Wenn 12V anliegen, heisst dass, dass Du in Deinem Bordnetz einen Kurzschluss hast. Du kannst diesen Suchen in dem Du den Stecker wieder verbindest und Verbraucher für Verbraucher vom Simson-Zündschloss abklemmst. Irgendwann sollte einer der noch angeschlossenen Verbraucher wieder anfangen zu funktionieren und du weisst der zuletzt abgeklemmte Verbraucher ist der Übeltäter. Wenn Du bei dieser Suche Hilfe benötigst, dann kontaktiere bitte eine unserer [Partnerwerkstätten](https://second-ride.de/service).
+
+wenn am demontierten Stecker **ca. 12V (+-1V)** Spannung anliegt, ist das problem gelöst. Andernfalls kontaktieren sie uns.
+
 ### Im Antriebsmodul ist rote LED zu sehen
 
 
-## Fahrzeug fährt nicht - Betätigung des Zündschloss führt NICHT zu leuchtendem Taster
+## die LED bleibt aus
+
+Trenne das Armaturenkabel vom Antriebsmodul und sieh dir die männlichen Pins im armaturenseitigen Stecker an. Es sollten 8 Pins zu sehen sein.
+
+### Einer der Pins im Armaturenstecker ist verbogen oder abgebrochen.
+
+Kontaktieren uns 
+
+### Keiner der Pins im Armaturenstecker ist verbogen oder abgebrochen.
+
+Es könnte sein, dass Dein Akku zu warm oder zu kalt ist und deshalb komplett abgeschaltet hat. Lass ihn mindestens für 5 Stunden akklimatisieren bevor Du es erneut versuchst. Stecke den Akku außerdem für kurze Zeit ans Ladegerät. Dass kann ihn manchmal "aus einem Tiefschlaf wieder aufwecken".
 
 
 # System lässt sich nicht ausschalten
