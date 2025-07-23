@@ -121,6 +121,52 @@ Kontaktieren uns
 
 Es könnte sein, dass Dein Akku zu warm oder zu kalt ist und deshalb komplett abgeschaltet hat. Lass ihn mindestens für 5 Stunden akklimatisieren bevor Du es erneut versuchst. Stecke den Akku außerdem für kurze Zeit ans Ladegerät. Dass kann ihn manchmal "aus einem Tiefschlaf wieder aufwecken".
 
+# Aufladen des Akkus
+
+Überhitzter Akku
+
+Wenn das Ladegerät anzeigt, dass der Akku vollgeladen ist, die Ladestandsanzeige unter Sitzbank jedoch etwas anderes sagt, dann lässt der Akku das Laden nicht zu. Meistens liegt es daran, dass der Akku zu warm oder zu kalt ist. Die Rekuperation ist dann ebenso nicht möglich.
+
+Stelle den Akku für mindestens 5 Stunden bei Raumtemperatur ab und lasse ihn akklimatisieren. Stecke dann das Ladegerät noch einmal erneut an (angesteckt lassen reicht nicht) und sieh ob der Akku sich laden lässt, bzw. die Rekuperation wieder funktioniert. Es wird häufig unterschätzt, wie lang der Akku zur Akklimatisierung benötigt.
+
+# Verhalten während der Fahrt
+
+## Es lässt sich manchmal kein Gas geben.
+
+Bremskontaktsensor
+
+
+Höchstwahrscheinlich hat Dein Bremslichtschalter einen Wackelkontakt. Ob das die Ursache ist, kannst Du testen, indem Du das "Bremssignalkabel" (schwarz mit weißen Steckern) direkt an eines unserer roten "+12V" Kabel anschließt, welche vom Motor kommen. 
+
+Achtung! Damit umgehst Du den Bremslichtschalter, was dazu führt, dass der Motor auch noch Leistung abgeben kann wenn Du die Bremse betätigst. Damit hast Du keine Möglichkeit mehr falls der Motor ungewollt Leistung abgibt ihn abzuschalten. Diese Maßnahme sollte also nur zu Diagnosezwecken, nicht aber zum dauerhaften Gebrauch umgesetzt werden.
+
+Wenn Die Probleme nun nicht mehr auftreten, ist nachgewiesen, dass dein Bremslichtschalter sporadisch das Signal gibt es würde gebremst werden. Falls Du noch den Bremslichtschalter in der Hinterradnabe verwenden solltest, empfehlen wir Dir dringend einen [externen Bremslichtschalter](https://www.google.com/search?q=simson+externer+bremslichtschalter) zu verbauen. In beiden Fällen sollte das Problem aber behoben werden können, indem Du den Bremslichtschalter neu einstellst. 
+
+Wenn Du Dir das selbst nicht zutraust oder dabei Hilfe benötigst, kontaktiere eine unserer [Partnerwerkstätten](https://second-ride.de/service).
+
+### das Problem tritt auch mit überbrücktem Bremslichtschalter auf.
+
+
+Wenn beim Einschalten des Systems der Motor erkennt, dass mehr als 0% Gas gegeben werden soll, dann gibt er solang keine Leistung frei, bis die Gaszugstellung einmal zurück auf 0% gebracht wurde. Erst dann ist Gas geben wieder möglich. Wenn Dein Gaszug zu viel Vorspannung haben sollte, dann wäre der Ausgangswert der Gaszugstellung über 0% und folglich ließe sich kein Gas geben. 
+
+Prüfe folgendes um diese Theorie zu bestätigen bzw. zu widerlegen: 
+
+1. System vollständig ausschalten (Taster an den Armaturen leuchtet gar nicht)
+
+2. Fahrzeug so aufbocken, dass das Hinterrad frei drehen kann. Es wird bei den folgenden Schritten zur schlagartigen Beschleunigung des Hinterrads kommen! Für sicheren Stand des Mopeds sorgen.
+
+3. Vergasergehäusekappe vom Gaszugzylinder abschrauben und Vergaserkolben vollständig abnehmen.
+
+4. System in den aktiven Fahrbetrieb bringen (Taster an den Armaturen leuchtet durchgängig)
+
+5. Mit dem Finger in den Gaszugzylinder fühlen und den Stift ertasten. Diesen Stift bis zum Anschlag eindrücken. Wenn Du nun den Stift vorsichtig anhebst, müsste das Hinterrad beschleunigen. 
+
+Ist das der Fall, dann heisst das für Dich die Theorie stimmt und du musst die Stellschraube im Bowdenzug des Gaszugs so einstellen, dass der Gaszug gerade so kein Spiel hat (siehe [Montageanleitung](https://drive.google.com/drive/u/0/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ). Falls Du dabei Hilfe benötigen solltest, kontaktiere bitte eine unserer [Partnerwerkstätten](https://second-ride.de/service).
+
+# Es fehlt etwas im Lieferumfang bzw. es wurde nicht geliefert wie bestellt.
+
+Am Anfang der beigelegten Montage- und Bedienungsanleitung findest Du eine Liste mit allen Teilen die in Deinem Lieferumfang enthalten sein sollten. Die Quadrate daneben helfen Dir die Teile abzuhaken und so eine Bestandsaufnahme zu machen. 
+Unter folgendem Link findest Du nochmal die digitale Version der Anleitung: [second-ride.de/docs](https://www.google.com/url?sa=j&url=http%3A%2F%2Fsecond-ride.de%2Fdocs&uct=1751872144&usg=rJpIP1Esq7dYvK0hTATlM4edfwo.&source=editors)
 
 # System lässt sich nicht ausschalten
 
@@ -141,6 +187,7 @@ Du hast das Problem nun auf das Antriebsmodul eingegrenzt. Es wird entweder an G
 ## System geht aus, wenn Armaturen abgesteckt werden
 
 Wenn das System ohne Betätigung des Zündschlosses an ist und ausgeht sobald du die Armaturen absteckst, dann bedeutet das, auf der Key-Leitung in den Armaturen ist irgendwo ein Kurzschluss.
+
 
 # Licht geht nicht an
 
