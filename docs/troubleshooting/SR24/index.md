@@ -111,6 +111,9 @@ wenn am demontierten Stecker **ca. 12V (+-1V)** Spannung anliegt, ist das proble
 
 ## die LED bleibt aus
 
+
+
+
 Trenne das Armaturenkabel vom Antriebsmodul und sieh dir die männlichen Pins im armaturenseitigen Stecker an. Es sollten 8 Pins zu sehen sein.
 
 ### Einer der Pins im Armaturenstecker ist verbogen oder abgebrochen.
@@ -190,5 +193,4 @@ Wenn das System ohne Betätigung des Zündschlosses an ist und ausgeht sobald du
 
 
 # Licht geht nicht an
-
 
