@@ -111,6 +111,9 @@ wenn am demontierten Stecker **ca. 12V (+-1V)** Spannung anliegt, ist das proble
 
 ## die LED bleibt aus
 
+1. Prüfe, ob die Steckverbindungen zwischen Zündschloss und Antriebsmodul, sowie Antriebsmodul und Sitzbank richtig verbunden sind. 
+
+2. Weiterhin könnte der Akku zu wenig Ladung haben oder die Temperatur des Akkus außerhalb von -20°C und 60°C sein. Sorge dann zuerst dafür, dass der Akku wieder Raumtemperatur annimmt (was einige Stunden dauern kann) und verbinde ihn dann mit dem Ladegerät.
 
 
 
