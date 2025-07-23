@@ -120,8 +120,9 @@ nav:
             - 03 App: instruction-manual/SR24/03-app/index.md
             - 04 Externer Ladeport: instruction-manual/SR24/04-externer-ladeport/index.md
             - 05 E-Kupplung: docs/instruction-manual/SR24/05-electric-clutch/index.md
-
-    - Für Entwickler : 
+    - Fehlerbehebung:
+        - SR24: troubleshooting/SR24/index.md
+    - Für Entwickler: 
         - SR24: 
             - Communication protocols: for-developers/SR24/communication-protocol/index.md
             - Schaltplan: for-developers/SR24/circuit-diagram/index.md
