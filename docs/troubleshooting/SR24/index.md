@@ -1,20 +1,36 @@
 # Fahrzeug fährt nicht
 
-### Vorraussetzungen:
 Stelle sicher, dass folgende Bedingungen vorherrschen:
 1. Sitzbank mehr als 10% aufgeladen 
 2. Sitzbank ist mit Deinem Antriebsmodul verbunden
 3. Armaturen sind mit Deinem Antriebsmodul verbunden
 
+
+## Fahrzeug fährt nicht - System lässt sich nicht einschalten & Fahrzeuglichter gehen an
+
+Wenn das Zündschloss betätigt wird, sollte die LED des Tasters pulsieren und damit den inaktiven Fahrbetrieb anzeigen, wie in folgender Animation zu sehen:
+
 ![system-on-or-off (3)](https://github.com/user-attachments/assets/5b0ea9d6-8f0c-41b0-a053-96a9db88a894)
 
-
-## die LED pulsiert und zeigt den inaktiven Fahrbetrieb an
-
-Scheinwerfer geht nach Einschalten an.
+Außerdem gehen die Scheinwerfer an wie hier zu sehen:
 
 ![gif-2](https://github.com/user-attachments/assets/f007ee1f-0c30-45a7-86ee-67346fe9fd5c)
 
+Wenn das nicht der Fall ist, schau welche der folgenden Unterkapitel zutrifft.
+
+### Fahrzeug fährt nicht - System lässt sich aber einschalten aber Fahrzeuglichter gehen nicht an
+
+Deine 12V Versorgung vom Antriebsmodul scheint nicht zu funktionieren. Das könnte auch der Grund sein, warum das Fahrzeug nicht fährt: Um zu erkennen, dass der Fahrer nicht gerade nicht bremst, benötigt das Antriebsmodul nämlich 12V (wenn es über die App nicht anders konfiguriert ist). 
+
+Prüfe mit einem Spannungsmessgerät, ob wenn du die 12V-Leitung absteckst 12V anliegen. Wenn das der Fall ist, dann hast du einen Fehler in deinem Fahrzeugkabelbaum. 
+
+#### Ursache: Kurzschluss im Fahrzeugkabelbaum
+
+Die eine Möglichkeit ist, dass du einen Kurzschluss im Fahrzeugkabelbaum hast. Das ist der Fall wenn 12V vom Antriebsmodul kommt wenn die Versorgung nicht angesteckt ist, die Spannung aber auf 0V einbricht, sobald du den Fahrzeugkabelbaum anschliesst. Ziehe dann einen Verbraucher nach dem anderen ab, bis die 12V Spannung wieder anliegt. Der Verbraucher letzte Verbraucher den du getrennt hast vor dem Wiederkehren der Spannung ist dein Übeltäter mit dem Kurzschluss.
+
+#### Ursache: Anderer Fehler im Fahrzeugkabelbaum
+
+Die andere Möglichkeit ist, dass du einen Fehler oder disfunktionale Verschaltung im Fahrzeugkabelbaum hast. Das ist der Fall wenn 12V vom Antriebsmodul kommt wenn die Versorgung nicht angesteckt ist, die Spannung aber auf 0V einbricht, sobald du den Fahrzeugkabelbaum anschliesst. Ziehe dann einen Verbraucher nach dem anderen ab, bis die 12V Spannung wieder anliegt. Der Verbraucher letzte Verbraucher den du getrennt hast vor dem Wiederkehren der Spannung ist dein Übeltäter mit dem Kurzschluss.
 
 ### der Scheinwerfer geht an, nachdem das Zündschloss betätigt wurde
 
