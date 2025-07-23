@@ -10,10 +10,21 @@ Stelle sicher, dass folgende Bedingungen vorherrschen:
 
 
 ## Fahrzeug fährt nicht - Betätigung des Zündschloss führt aber zu leuchtendem Taster
+
+Scheinwerfer geht nach Einschalten an.
+
+![gif-2](https://github.com/user-attachments/assets/f007ee1f-0c30-45a7-86ee-67346fe9fd5c)
+
+
 ### der Scheinwerfer geht an, nachdem das Zündschloss betätigt wurde
 Dreht der Motor, wenn Du das System in den aktiven Fahrbetrieb versetzt und Gas gibst?
 
 Den aktiven Fahrbetrieb erreichst Du durch Betätigung des Zündschlosses und anschließendes Drücken des pulsierenden Tasters. Der aktive Fahrbetrieb wird dann durch dauerhaftes Leuchten oder schnelles Blinken (->Notlauf) der Ring-LED bestätigt.
+
+Aktivieren des Fahrbetriebs
+
+![gif3](https://github.com/user-attachments/assets/cea427ac-80f1-4483-a4a7-1f7d34043fc8)
+
 
 #### Der Motor dreht
 Kontaktieren Sie uns
@@ -37,7 +48,8 @@ Welches Blinkmuster siehst Du am Antriebsmodul unter der horizontalen Abdeckung?
 
 Das rote Licht unter der Abdeckung zeigt an, dass der Motor das Signal empfängt, es würde gebremst werden. Folglich lässt der Motor es nicht zu, dass Gas gegeben werden kann. 
 
-GIF2
+![brem](https://github.com/user-attachments/assets/964ed193-8dcb-4a89-bdaa-3c5fefbcc160)
+
 
 ##### Rotes Licht ist sichtbar
 
