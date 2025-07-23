@@ -6,7 +6,8 @@ Stelle sicher, dass folgende Bedingungen vorherrschen:
 2. Sitzbank ist mit Deinem Antriebsmodul verbunden
 3. Armaturen sind mit Deinem Antriebsmodul verbunden
 
-![alt text](img/system-on-or-off.png)
+![system-on-or-off (3)](https://github.com/user-attachments/assets/5b0ea9d6-8f0c-41b0-a053-96a9db88a894)
+
 
 ## Fahrzeug fährt nicht - Betätigung des Zündschloss führt aber zu leuchtendem Taster
 ### der Scheinwerfer geht an, nachdem das Zündschloss betätigt wurde
