@@ -18,11 +18,26 @@ Den aktiven Fahrbetrieb erreichst Du durch Betätigung des Zündschlosses und an
 #### Der Motor dreht
 Kontaktieren Sie uns
 
+#### Der Motor dreht nur wenn die Bremsleuchte leuchtet
+
+
+Wenn der Motor nur dann dreht, wenn du Gas gibst und gleichzeitig bremst, dann ist dein Bremslichtschalter falsch verkabelt. Damit der Motor die Leistungsabgabe freigibt, müssen am Bremssignalkabel 12V anliegen. Das folgende Schaltbild soll vereinfacht zeigen, wie das Bremssignalkabel angeschlossen werden sollte. Ist der Bremslichtschalter offen, dann wird das Bremssignalkabel über die Bremsleuchte mit 12V versorgt und der Motor wird freigegeben. Ist der Bremslichtschalter geschlossen, dann liegt Fahrzeugmasse bzw. 0V am Bremssignalkabel an.
+Bei dir ist das genau umgekehrt, es liegt Fahrzeugmasse an, wenn der Bremslichtschalter offen ist und 12V, wenn der Bremslichtschalter geschlossen ist. 
+Deswegen denkt das Antriebsmodul es wird gebremst, obwohl du garnicht bremst.
+Dafür musst du nun den Bremslichtschalter nach dem Schaltpan verkabeln.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff37422f-a6ad-4fac-8d88-767ee41661ef" width="500" />
+</p>
+
+
 #### Der Motor dreht **nicht**
 Welches Blinkmuster siehst Du am Antriebsmodul unter der horizontalen Abdeckung?
 (Es ist nicht notwendig diese abzuschrauben. Das farbige Licht sollte in einer etwas abgedunkelten Umgebung gut sichtbar sein.)
 
 Das rote Licht unter der Abdeckung zeigt an, dass der Motor das Signal empfängt, es würde gebremst werden. Folglich lässt der Motor es nicht zu, dass Gas gegeben werden kann. 
+
+GIF2
 
 ##### Rotes Licht ist sichtbar
 
@@ -46,6 +61,25 @@ Wenn Du Dir das selbst nicht zutraust oder dabei Hilfe benötigst, kontaktiere e
 
 Es scheint so, als sei Dein Bremssignalkabel (einpoliges schwarzes Kabel welches direkt unter dem Motor angeschlossen wird) falsch angeschlossen. Damit der Motor die Leistungsabgabe freigibt, und die rote LED abschaltet, müssen am Bremssignalkabel 12V anliegen. Das folgende Schaltbild soll vereinfacht zeigen, wie das Bremssignalkabel angeschlossen werden sollte. Ist der Bremslichtschalter offen, dann wird das Bremssignalkabel über die Bremsleuchte mit 12V versorgt und der Motor wird freigegeben. Ist der Bremslichtschalter geschlossen, dann liegt Fahrzeugmasse bzw. 0V am Bremssignalkabel an.
 
+##### Kein rotes Licht. Nur grünes Blinken oder grünes Dauerlicht.
+
+Gaszug falsch eingestellt
+
+Wenn beim Einschalten des Systems der Motor erkennt, dass mehr als 0% Gas gegeben werden soll, dann gibt er solang keine Leistung frei, bis die Gaszugstellung einmal zurück auf 0% gebracht wurde. Erst dann ist Gas geben wieder möglich. Wenn Dein Gaszug zu viel Vorspannung haben sollte, dann wäre der Ausgangswert der Gaszugstellung über 0% und folglich ließe sich kein Gas geben. 
+
+Prüfe folgendes um diese Theorie zu bestätigen bzw. zu widerlegen: 
+
+1. System vollständig ausschalten (Taster an den Armaturen leuchtet gar nicht)
+
+2. Fahrzeug so aufbocken, dass das Hinterrad frei drehen kann. Es wird bei den folgenden Schritten zur schlagartigen Beschleunigung des Hinterrads kommen! Für sicheren Stand des Mopeds sorgen.
+
+3. Vergasergehäusekappe vom Gaszugzylinder abschrauben und Vergaserkolben vollständig abnehmen.
+
+4. System in den aktiven Fahrbetrieb bringen (Taster an den Armaturen leuchtet durchgängig)
+
+5. Mit dem Finger in den Gaszugzylinder fühlen und den Stift ertasten. Diesen Stift bis zum Anschlag eindrücken. Wenn Du nun den Stift vorsichtig anhebst, müsste das Hinterrad beschleunigen. 
+
+Ist das der Fall, dann heisst das für Dich die Theorie stimmt und du musst die Stellschraube im Bowdenzug des Gaszugs so einstellen, dass der Gaszug gerade so kein Spiel hat (siehe [Montageanleitung](https://drive.google.com/drive/u/0/folders/1UddQeI-xHepiVfpnFqAwRGtM2oPfappJ). Falls Du dabei Hilfe benötigen solltest, kontaktiere bitte eine unserer [Partnerwerkstätten](https://second-ride.de/service).
 
 ### Im Antriebsmodul ist rote LED zu sehen
 
