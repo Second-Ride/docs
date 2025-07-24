@@ -310,7 +310,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
 3. Firmware auswählen:  
    Wähle unter „Sitzbank & BT-Modul updaten“ die passende Firmware-Version aus dem Dropdown-Menü und drücke auf Verbinden. Die Firmware “Gisela V4 Base Version” enthält nur die Basis-Funktionalität ohne jegliche Bluetooth-Funktionen. Wähle daher die andere verfügbare Firmware aus.  
   
-   <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" />
 </p>
 
@@ -318,7 +318,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
    Nun sollte sich ein Fenster öffnen, in dem ein USB Port angezeigt wird (hier blau markiert). Diesen erkennst du daran, dass ein “gekoppelt” daneben steht.    
    Wähle diesen aus und klicke auf “Verbinden”.  
   
-   <p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" />
 </p>
 
@@ -327,7 +327,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
    Nach kurzem Laden sollte folgendes Fenster erscheinen.   
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864 />
+  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" />
 </p>
 
    Bevor du nun auf “install Gisela V4” drückst stelle sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
