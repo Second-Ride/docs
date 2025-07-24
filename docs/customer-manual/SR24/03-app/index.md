@@ -349,7 +349,11 @@ Die nächsten Schritte zur App-Nutzung werden im folgenden Kapitel beschrieben.
 ### App installieren 
 
 Um dein Fahrzeug mit dem Smartphone zu verbinden, lade dir bitte zunächst die Second Ride App herunter:
+
+
 [App Store Link](http://www.second-ride.de/app-ios)
+
+
 [Google Play Store Link](http://www.second-ride.de/app-android) 
 
 !!! warning "Achtung"
