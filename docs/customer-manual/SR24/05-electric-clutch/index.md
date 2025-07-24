@@ -186,3 +186,11 @@ Verbinde das Multimeter mit der Flachsteckhülse und dem weißen einpoligen Stec
 <p align="center">
   <img src="https://github.com/user-attachments/assets/70572ccb-18cd-4d29-8302-e8d69a746f97" />
 </p>
+
+| Warnzeichen | Bedeutung  |
+|-------|-------------|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Durch die Montage der E-Kupplung veränderst du das Fahrverhalten. Achte darauf besonders, dass bei leichtem Rollen und Gasstellung des Gasgriffes das Loslassen des Kupplungshebels zu einer abrupten Beschleunigung führt. Stelle sicher, dass du dich erst an dieses neue Verhalten gewöhnst und erst dann am Straßenverkehr teilnimmst**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Beachte, dass bei Betätigung der E-Kupplung der Motor im Normalfall rekuperiert. Ist der Ladestand des Akkus allerdings >80% oder ist die Temperatur des Akkus außerhalb der Ladelimits, dann ist die Rekuperation ausgeschaltet und das Fahrzeug segelt bei Betätigung der E-Kupplung. Gewöhn dir also nicht daran, die E-Kupplung als Ersatz der Hinterradbremse zu nutzen, da es unerwartet keinen Bremseffekt geben könnte.**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Durch die Montage der E-Kupplung schaltet der Motor nicht mehr ab, wenn die Bremse betätigt wird, sondern durch die Betätigung des Kupplungsgriffes. Weise jede weitere Person zu diesem Verhalten ein, bevor du sie mit dem Fahrzeug fahren lässt.**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Stelle nach der Montage sicher, dass alle Schraubverbindungen fest angezogen sind und alle Kabelverbindungen gut gesichert sind und nicht durch Lenkbewegungen oder normalen Gebrauch des Fahrzeugs beschädigt werden.**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Bei der Montage der Feder und dem Kupplungshebel herrscht Quetschgefahr. Sei dabei besonders Vorsichtig**|
