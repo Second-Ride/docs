@@ -113,13 +113,13 @@ nav:
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
-        - Übersicht: instruction-manual/index.md
-        - Änderungsabnahme & Zulassung: instruction-manual/modification-approval-and-homologation/index.md
+        - Übersicht: customer-manual/index.md
+        - Änderungsabnahme & Zulassung: customer-manual/modification-approval-and-homologation/index.md
         - SR24: 
-            - 01 Antrieb & Akku: instruction-manual/SR24/01-drive-unit-and-battery/index.md
-            - 03 App: instruction-manual/SR24/03-app/index.md
-            - 04 Externer Ladeport: instruction-manual/SR24/04-externer-ladeport/index.md
-            - 05 E-Kupplung: docs/instruction-manual/SR24/05-electric-clutch/index.md
+            - 01 Antrieb & Akku: customer-manual/SR24/01-drive-unit-and-battery/index.md
+            - 03 App: customer-manual/SR24/03-app/index.md
+            - 04 Externer Ladeport: customer-manual/SR24/04-externer-ladeport/index.md
+            - 05 E-Kupplung: customer-manual/SR24/05-electric-clutch/index.md
     - Fehlerbehebung:
         - SR24: troubleshooting/SR24/index.md
     - Für Entwickler: 
