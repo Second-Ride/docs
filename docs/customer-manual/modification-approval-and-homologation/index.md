@@ -56,6 +56,15 @@
 - Generell bleibt das Fahrzeug mit Versicherungs-Kennzeichen versichert
 - Anruf bei der Versicherung, welche systemseitig die Antriebsart auf Elektro umträgt
 - Kosten: u.a. bei der HUK Coburg 0 €
+  
+---
+
+Vor der Änderungsabnahme: 
+Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon versucht haben einen Second Ride Umbau begutachten zu lassen. In Grün siehst du die erfolgreichen Änderungsabnahmen und in rot die gescheiterten.
+
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CDf_Qp0kNb1LnjTww2guJW_Abqq2x08&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 **Unsere Bitte an dich** : Hilf der Community weiter, indem du deine Erfahrung des Zulassungsprozesses teilst. Nutze dafür [diese Umfrage](https://second-ride.de/zulassung) (unter der Karte), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst
