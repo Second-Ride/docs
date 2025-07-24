@@ -10,11 +10,18 @@ Stelle sicher, dass folgende Bedingungen vorherrschen:
 
 Wenn das Zündschloss betätigt wird, sollte die LED des Tasters pulsieren und damit den inaktiven Fahrbetrieb anzeigen, wie in folgender Animation zu sehen:
 
-![system-on-or-off (3)](https://github.com/user-attachments/assets/5b0ea9d6-8f0c-41b0-a053-96a9db88a894)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cea427ac-80f1-4483-a4a7-1f7d34043fc8" width="800">
+</p>
+
 
 Außerdem gehen die Scheinwerfer an wie hier zu sehen:
 
-![gif-2](https://github.com/user-attachments/assets/f007ee1f-0c30-45a7-86ee-67346fe9fd5c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f007ee1f-0c30-45a7-86ee-67346fe9fd5c" width="800">
+</p>
+
 
 Wenn das nicht der Fall ist, schau welche der folgenden Unterkapitel zutrifft.
 
@@ -42,8 +49,9 @@ Den aktiven Fahrbetrieb erreichst Du durch Betätigung des Zündschlosses und an
 
 Aktivieren des Fahrbetriebs
 
-![gif3](https://github.com/user-attachments/assets/cea427ac-80f1-4483-a4a7-1f7d34043fc8)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cea427ac-80f1-4483-a4a7-1f7d34043fc8" width="800">
+</p>
 
 #### Der Motor dreht
 Kontaktieren Sie uns
@@ -67,8 +75,11 @@ Welches Blinkmuster siehst Du am Antriebsmodul unter der horizontalen Abdeckung?
 
 Das rote Licht unter der Abdeckung zeigt an, dass der Motor das Signal empfängt, es würde gebremst werden. Folglich lässt der Motor es nicht zu, dass Gas gegeben werden kann. 
 
-![brem](https://github.com/user-attachments/assets/964ed193-8dcb-4a89-bdaa-3c5fefbcc160)
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/964ed193-8dcb-4a89-bdaa-3c5fefbcc160" width="800">
+</p>
 
 ##### Rotes Licht ist sichtbar
 
