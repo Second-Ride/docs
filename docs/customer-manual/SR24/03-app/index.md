@@ -113,6 +113,8 @@ Schiebe das BT-Modul mit der Öse auf die Schraube, gefolgt von der zweiten Unte
 Sobald die gewünschte Position erreicht ist, hältst du die hintere Mutter (2) mit einem 10er-Schlüssel fest und ziehst die vordere Mutter mit einer 10er-Nuss mit 6 Nm an. Für die Montage des Kabels fahre mit Absatz 4 fort.
 
 ### KR51/2, KR51/1, KR51  
+
+
 Löse die Sternmutter am Motortunnel und nehme ihn ab. Schiebe das BT-Modul von vorne, beginnend vor der Querstrebe (1), zwischen den Rahmenrohren (2) nach hinten, bis es das Wellrohr (3) erreicht. Achte darauf, dass der Taster in Fahrtrichtung zeigt und das Logo nach oben ausgerichtet ist. Ziehe nun für die Befestigung jeweils einen Kabelbinder durch die obere (4) und dann durch die untere Lasche des Moduls und lege sie anschließend um das anliegende Rahmenrohr (2). Für einen sicheren Sitz sollten sich alle Kabelbinder hinter der Querstrebe (1) befinden.
 
 <p align="center">
@@ -163,15 +165,15 @@ Um das BT-Modul hinter dem Aufnahmeblech für den Akku (1) zu befestigen, drück
 
 Ziehe zum Schluss alle Kabelbinder gleichmäßig fest, um das Modul sicher zu fixieren. Für die Montage des Kabels fahre mit Absatz 4 fort.
 
-## 4. BT-Modul Anschließen  {#bt-modul-anschließen}
+## 4. BT-Modul Anschließen
 
 Der Male-Anschluss des BT-Moduls (langes Kabel) wird an das Diagnose-Kabel des Antriebsmoduls angeschlossen. Dadurch entsteht ein neuer Diagnosepunkt, der nun das kurze Kabelende am BT-Modul ist.
 
-### Langes Diagnose-Kabel (ab AM\#00193)
+### Langes Diagnose-Kabel 
 
 Bei Antriebsmodulen mit der Seriennummer \#00193 und höher sollte ein etwa 40cm langes Kabel unten aus dem Antriebsmodul kommen. Auf dem Stecker befindet sich eine Gummikappe. Ist dies der Fall, fahre mit Schritt 2.b fort.
 
-### Kurzes Diagnose Kabel (bis AM\#00193)
+### Kurzes Diagnose Kabel
 
 Bei Antriebsmodulen mit den Seriennummern \#00038 bis \#00192 findet ihr das Updatekabel wie folgt:
 
@@ -180,21 +182,22 @@ Bei Antriebsmodulen mit den Seriennummern \#00038 bis \#00192 findet ihr das Upd
 Entferne die Kabelblende vom Antriebsmodul, indem du die M4-Zylinderkopf-Schraube (1) an der rechten Seite abnimmst. Dazu brauchst du einen 3 mm Inbus-Schlüssel. Sollte deine Kabelblende auf der Oberseite links in Fahrtrichtung einen ovalen Ausschnitt haben, dann versteckt sich darunter noch eine zweite M4 \-Zylinderkopf-Schraube, welche du nur eine Umdrehung lösen musst, um die Blende abnehmen zu können.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c09abfb1-d620-44f7-be86-b7b039f1bf0d" width="500" />
+  <img src="https://github.com/user-attachments/assets/857a182d-25e5-4776-9fe4-8d9f7b28565d" width="500" />
 </p>
-  
+
+
 ### Diagnose-Kabel identifizieren
 
 Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ihr “Günter” getauft). Von Günter geht ein kurzes Kabel (3) ab, welches nicht weiter verbunden und mit einer Gummikappe abgedeckt ist.
 
-## 5. Montage des Kabels {#montage-des-kabels}
+## 5. Montage des Kabels 
 
 Entferne die Gummikappe und schließe das lange Kabel des BT-Moduls an. **Wichtig: Achte darauf, dass die Pfeile auf dem männlichen und weiblichen Stecker zueinander zeigen, bevor du sie mit Kraft zusammen schiebst.** Nutze nun die mitgelieferten Kabelbinder, um das Kabel zwischen dem BT-Modul und dem Antriebsmodul am Fahrzeugrahmen zu befestigen. Vermeide dabei starke Knicke im Kabel. Sollte das Kabel zu lang sein, lege es zu Schlaufen zusammen und halte diese mit einem Kabelbinder fest.
 
 Nun sollte dein BT-Modul fest an deinem Fahrzeug verbaut und angeschlossen sein.
 
 
-# Anleitung zum Firmwareupdate {#anleitung-zum-firmwareupdate}
+# Anleitung zum Firmwareupdate
 
 Seit April 2025 werden alle Komponenten des Umbausatzes mit dem neuen Webupdate-Tool programmiert. Das bisherige Programm „DFU Buddy“ wird nicht mehr verwendet. Mit dem Webupdate-Tool kannst du dein Moped bequem und sicher über den Chrome-Browser aktualisieren: [Link zum Webupdatetool](https://second-ride.de/update)		
 
