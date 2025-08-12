@@ -127,7 +127,7 @@ nav:
         - SR24: troubleshooting/SR24/index.md
     - Für Entwickler: 
         - SR24: 
-            - Kommunikationsprotokolle: for-developers/SR24/communication-protocol/index.md
+            - Kommunikationsprotokolle: for-developers/SR24/communication-protocols/index.md
             - Schaltplan: for-developers/SR24/circuit-diagram/index.md
     - FAQ: faq/index.md
     
