@@ -33,25 +33,23 @@ Zunächst muss das Antriebsmodul an deinen PC angeschlossen werden. Gehe dazu wi
 
 ### 1. Suche das Diagnose-Kabel
 
-   #### 1.1 Langes Diagnose-Kabel (ab AM\#00193)
+#### 1.1. Langes Diagnose-Kabel (ab AM\#00193)
 
-      Bei Antriebsmodulen mit der Seriennummer \#00193 und höher sollte ein drittes. etwa 40cm langes Kabel unten aus dem Antriebsmodul kommen. Auf dem Stecker befindet sich eine Gummikappe. Ist dies der Fall, fahre mit Schritt 2 fort.
+Bei Antriebsmodulen mit der Seriennummer \#00193 und höher sollte ein drittes. etwa 40cm langes Kabel unten aus dem Antriebsmodul kommen. Auf dem Stecker befindet sich eine Gummikappe. Ist dies der Fall, fahre mit Schritt 2 fort.
 
-   #### 1.2. Kurzes Diagnose Kabel (bis AM\#00193)
+#### 1.2. Kurzes Diagnose Kabel (bis AM\#00193)
+Bei Antriebsmodulen mit den Seriennummern \#00038 bis \#00192 findet ihr das Updatekabel wie folgt:
 
-      Bei Antriebsmodulen mit den Seriennummern \#00038 bis \#00192 findet ihr das Updatekabel wie folgt:
-
-      1.2.1. Kabelblende abnehmen		 
-      
-         Entferne die Kabelblende vom Antriebsmodul, indem du die M4-Zylinderkopf-Schraube (1) an der rechten Seite abnimmst. Dazu brauchst du einen 3 mm Inbus-Schlüssel. Sollte deine Kabelblende auf der Oberseite links in Fahrtrichtung einen ovalen Ausschnitt haben, dann versteckt sich darunter noch eine zweite M4         -Zylinderkopf-Schraube, welche Du nur eine Umdrehung lösen musst, um die Blende abnehmen zu können.
+##### 1.2.1. Kabelblende abnehmen		 
+Entferne die Kabelblende vom Antriebsmodul, indem du die M4-Zylinderkopf-Schraube (1) an der rechten Seite abnimmst. Dazu brauchst du einen 3 mm Inbus-Schlüssel. Sollte deine Kabelblende auf der Oberseite links in Fahrtrichtung einen ovalen Ausschnitt haben, dann versteckt sich darunter noch eine zweite M4         -Zylinderkopf-Schraube, welche Du nur eine Umdrehung lösen musst, um die Blende abnehmen zu können.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" />
 </p>
 
-      1.1.1 Diagnose-Kabel identifizieren
+##### 1.1.1 Diagnose-Kabel identifizieren
 
-      Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ihr “Günter” getauft). Von Günter geht ein kurzes Kabel (3) ab, welches nicht weiter verbunden und mit einer Gummikappe abgedeckt ist.
+Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ihr “Günter” getauft). Von Günter geht ein kurzes Kabel (3) ab, welches nicht weiter verbunden und mit einer Gummikappe abgedeckt ist.
 
 ### 2. USB-Kabel anschließen
 
@@ -139,5 +137,6 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
     Nach erfolgreichem Update erscheint eine Bestätigungsmeldung. Jetzt kannst du die USB-C Verbindung trennen.
 
 Wenn sowohl das Antriebsmodul als auch das Sitzbank-/BT-Modul auf die aktuelle Firmware aktualisiert wurden, kannst du die App wie vorgesehen nutzen und dein Fahrzeug koppeln.
+
 
 Die nächsten Schritte zur App-Nutzung werden im folgenden Kapitel beschrieben.
