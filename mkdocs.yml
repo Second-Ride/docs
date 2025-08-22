@@ -83,10 +83,9 @@ plugins:
          - locale: de
            name: Deutsch
            default: true
-         - locale: fr
-           name: Français
          - locale: en
            name: English
+           hidden: true
 
         
 extra:
