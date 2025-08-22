@@ -78,7 +78,7 @@ plugins:
             font_family: Figtree
     - search
     - i18n:
-       docs_structure: file
+       docs_structure: suffix
        languages:
          - locale: de
            name: Deutsch
@@ -129,6 +129,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
