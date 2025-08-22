@@ -78,14 +78,13 @@ plugins:
             font_family: Figtree
     - search
     - i18n:
-       docs_structure: folder
+       docs_structure: file
        languages:
          - locale: de
            name: Deutsch
            default: true
          - locale: en
            name: English
-           hidden: true
 
         
 extra:
