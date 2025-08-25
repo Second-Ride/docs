@@ -77,14 +77,14 @@ plugins:
             color: "#E4B854"
             font_family: Figtree
     - search
-    #- i18n:
-       #docs_structure: suffix
-       #languages:
-         #- locale: de
-           #name: Deutsch
-           #default: true
-         #- locale: en
-           #name: English
+    - i18n:
+       docs_structure: suffix
+       languages:
+         - locale: de
+           name: Deutsch
+           default: true
+         - locale: en
+           name: English
 
         
 extra:
