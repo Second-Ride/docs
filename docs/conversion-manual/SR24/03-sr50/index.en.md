@@ -1,5 +1,3 @@
-Englisch
-
 # Second Ride Conversion Kit SR24 for Simson SR50, SR80
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
@@ -471,3 +469,4 @@ The throttle grip should return fully to the closed position by spring force alo
 If not, it helps to remove the throttle grip, clean and re-grease it, and/or replace the Bowden cable.  
 It may also be that the rubber of the throttle grip rubs against the clamp piece. To fix this, shift the rubber outward on the removed throttle grip tube.  
 A video guide for throttle grip maintenance can be found on the *2Radgeber* YouTube channel: [YouTube Channel 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
+
