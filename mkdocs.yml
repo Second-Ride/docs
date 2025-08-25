@@ -103,16 +103,13 @@ extra:
 nav:
     - Home: index.md
     - Umbauanleitung:
-        - Übersicht: conversion-manual/index.md
         - SR24:
-            - Übersicht: conversion-manual/SR24/index.md
             - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
             - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
             - SR50: conversion-manual/SR24/03-sr50/index.md
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
-        - Übersicht: user-manual/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
         - SR24: 
             - "01 Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
