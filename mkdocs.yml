@@ -116,7 +116,7 @@ nav:
             - "01 Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
             - "02 App": user-manual/SR24/02-app/index.md
             - "03 Update": user-manual/SR24/03-update/index.md
-            - "04 Externer Ladeport": user-manual/SR24/04-externer-ladeport/index.md
+            - "04 Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
             - "05 E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
     - Für Entwickler: 
@@ -128,6 +128,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
