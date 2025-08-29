@@ -103,7 +103,7 @@ extra:
 nav:
     - Home: index.md
     - Umbauanleitung:
-        - Übersicht: Umbauanleitung/index.md
+        - Übersicht: conversion-manual/index.md
         - SR24:
             - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
             - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
@@ -128,6 +128,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
