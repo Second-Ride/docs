@@ -5,8 +5,8 @@ Hier findest du alle Informationen rund um unsere Umbaukits und Produkte – von
 
 Unten rechts auf der Seite findest du außerdem einen **Chatbot**, der die gesamte Dokumentation kennt. Er hilft dir schnell weiter und zeigt dir auf Wunsch die passende Stelle in der Doku zu deiner Frage.
 
-> 📦 **Weniger Papier, mehr Nachhaltigkeit:**  
-> Ab sofort legen wir keine Anleitungen mehr physisch bei – der Umwelt zuliebe. Wenn du dennoch etwas ausdrucken möchtest, ist die Seite natürlich dafür geeignet.
+📦 **Weniger Papier, mehr Nachhaltigkeit:**  
+Ab sofort legen wir keine Anleitungen mehr physisch bei – der Umwelt zuliebe. Wenn du dennoch etwas ausdrucken möchtest, ist die Seite natürlich dafür geeignet.
 
 ---
 
