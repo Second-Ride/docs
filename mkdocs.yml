@@ -111,7 +111,7 @@ nav:
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
-        - Übersicht: Bedienungsanleitung/index.md
+        - Übersicht: user-manual/index.md
         - SR24: 
             - "01 Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
             - "02 App": user-manual/SR24/02-app/index.md
@@ -128,6 +128,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
