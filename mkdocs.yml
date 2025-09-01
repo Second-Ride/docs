@@ -107,6 +107,7 @@ plugins:
           Kommunikationsprotokolle: "Communication protocols"
           Schaltplan: "Circuit diagram"
           FAQ: "FAQ" 
+    - search 
            
 
         
