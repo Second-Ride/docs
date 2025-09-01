@@ -126,9 +126,11 @@ extra:
   translations:
     de:
       search:
+        label: "Suche"
         placeholder: "Suche"
     en:
       search:
+        label: "Search"
         placeholder: "Search"
 
 
