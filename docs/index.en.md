@@ -5,8 +5,8 @@ Here you will find all information about our conversion kits and products – fr
 
 At the bottom right of the page, you will also find a **chatbot** that knows the entire documentation. It will help you quickly and, if you wish, show you the relevant section in the docs for your question.
 
-> 📦 **Less paper, more sustainability:**  
-> From now on, we no longer include printed manuals – for the sake of the environment. If you still want to print something, the page is of course suitable for that.
+📦 **Less paper, more sustainability:**  
+From now on, we no longer include printed manuals – for the sake of the environment. If you still want to print something, the page is of course suitable for that.
 
 ---
 
