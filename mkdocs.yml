@@ -122,6 +122,16 @@ extra:
       link: https://discord.com/invite/jbWrdN6NK7
     - icon: fontawesome/brands/linkedin
       link: https://de.linkedin.com/company/second-ride
+  
+  translations:
+    de:
+      search:
+        placeholder: "Suche"
+    en:
+      search:
+        placeholder: "Search"
+
+
 
 nav:
     - Home: index.md
