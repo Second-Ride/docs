@@ -78,14 +78,20 @@ plugins:
             font_family: Figtree
     - search
     - i18n:
-       docs_structure: suffix
-       languages:
-         - locale: de
-           name: Deutsch
-           default: true
-         - locale: en
-           name: English
-           nav_translations:
+      docs_structure: suffix
+      languages:
+        - locale: de
+          name: Deutsch
+          default: true
+          search:
+            language: de
+            translations:
+              search:
+                label: "Suche"
+                placeholder: "Suche"
+        - locale: en
+          name: English
+          nav_translations:
             "Home": "Home"
             "Umbauanleitung": "Conversion manual"
             "Übersicht": "Overview"
@@ -106,7 +112,7 @@ plugins:
             "Kommunikationsprotokolle": "Communication protocols"
             "Schaltplan": "Circuit diagram"
             "FAQ": "FAQ"
-           search:
+          search:
             language: en
             translations:
               search:
