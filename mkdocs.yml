@@ -106,7 +106,12 @@ plugins:
             "Kommunikationsprotokolle": "Communication protocols"
             "Schaltplan": "Circuit diagram"
             "FAQ": "FAQ"
-    - search 
+           search:
+            language: en
+            translations:
+              search:
+                label: "Search"
+                placeholder: "Search" 
            
 
         
@@ -122,16 +127,6 @@ extra:
       link: https://discord.com/invite/jbWrdN6NK7
     - icon: fontawesome/brands/linkedin
       link: https://de.linkedin.com/company/second-ride
-  
-  translations:
-    de:
-      search:
-        label: "Suche"
-        placeholder: "Suche"
-    en:
-      search:
-        label: "Search"
-        placeholder: "Search"
 
 
 
