@@ -78,46 +78,41 @@ plugins:
             font_family: Figtree
     - search
     - i18n:
-      docs_structure: suffix
-      languages:
-        - locale: de
-          name: Deutsch
-          default: true
-          search:
-            language: de
-            translations:
-              search:
-                label: "Suche"
-                placeholder: "Suche"
-        - locale: en
-          name: English
-          nav_translations:
-            "Home": "Home"
-            "Umbauanleitung": "Conversion manual"
-            "Übersicht": "Overview"
-            "SR24": "SR24"
-            "S50/S51": "S50/S51"
-            "Schwalbe": "Schwalbe"
-            "SR50": "SR50"
-            "Duo": "Duo"
-            "Vogelserie": "Vogelserie"
-            "Bedienungsanleitung": "User manual"
-            "01 Antrieb & Akku": "01 Drive unit & battery"
-            "02 App": "02 App"
-            "03 Update": "03 Update"
-            "04 Externer Ladeanschluss": "04 External charging port"
-            "05 E-Kupplung": "05 E-clutch"
-            "Änderungsabnahme & Zulassung": "Modification approval & homologation"
-            "Für Entwickler": "For developers"
-            "Kommunikationsprotokolle": "Communication protocols"
-            "Schaltplan": "Circuit diagram"
-            "FAQ": "FAQ"
-          search:
+       docs_structure: suffix
+       languages:
+         - locale: de
+           name: Deutsch
+           default: true
+         - locale: en
+           name: English
+           nav_translations:
+             "Home": "Home"
+             "Umbauanleitung": "Conversion manual"
+             "Übersicht": "Overview"
+             "SR24": "SR24"
+             "S50/S51": "S50/S51"
+             "Schwalbe": "Schwalbe"
+             "SR50": "SR50"
+             "Duo": "Duo"
+             "Vogelserie": "Vogelserie"
+             "Bedienungsanleitung": "User manual"
+             "01 Antrieb & Akku": "01 Drive unit & battery"
+             "02 App": "02 App"
+             "03 Update": "03 Update"
+             "04 Externer Ladeanschluss": "04 External charging port"
+             "05 E-Kupplung": "05 E-clutch"
+             "Änderungsabnahme & Zulassung": "Modification approval & homologation"
+             "Für Entwickler": "For developers"
+             "Kommunikationsprotokolle": "Communication protocols"
+             "Schaltplan": "Circuit diagram"
+             "FAQ": "FAQ"
+           search:
             language: en
             translations:
               search:
                 label: "Search"
-                placeholder: "Search" 
+                placeholder: "Search"   
+     
            
 
         
