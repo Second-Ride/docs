@@ -83,6 +83,12 @@ plugins:
          - locale: de
            name: Deutsch
            default: true
+           search:
+            language: de
+            translations:
+              search:
+                label: "Suche"
+                placeholder: "Suche"
          - locale: en
            name: English
            nav_translations:
