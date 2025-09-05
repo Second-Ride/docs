@@ -1,4 +1,4 @@
-# Second Ride Umbaukit SR24 für Simson SR50, SR80
+# Anleitung zur Elektrifizierung einer Simson SR50 mit SR24 Umbaukit
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
 </p>
