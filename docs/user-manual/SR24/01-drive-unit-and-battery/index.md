@@ -4,7 +4,7 @@
 
 ## An-/Ausschalten
 
-Um das Fahrzeug einzuschalten, einfach die Sitzbank mit dem Kabel verbinden und das Zündschloss betätigen (Schlüssel 90° im Uhrzeigersinn drehen). Nach maximal 5 Sekunden macht dann die Ladestandsanzeige einen Funktionstest (Zeiger fährt bis zum maximalen Anschlag und wieder zurück) und das Bordnetz des Fahrzeugs wird mit 12V versorgt. Wenn das originale Simson-Zündschloss auf der Stellung “II” ist und du keinen Fehler im Bordnetz hast, sollten dabei die Lichter angehen.
+Um das Fahrzeug einzuschalten, einfach die Sitzbank mit dem Kabel verbinden und das Zündschloss betätigen (Schlüssel 90° im Uhrzeigersinn drehen). Nach maximal 5 Sekunden macht dann die Ladestandsanzeige einen Funktionstest (Zeiger fährt bis zum maximalen Anschlag und wieder zurück) und das Bordnetz des Fahrzeugs wird mit 12V versorgt. Wenn das originale Zündschloss auf der Stellung “II” ist und du keinen Fehler im Bordnetz hast, sollten dabei die Lichter angehen.
 Ist das Zündschloss auf „II“ und liegt kein Fehler im Bordnetz vor, gehen die Lichter an.  
 Danach befindet sich das Fahrzeug im **inaktiven Fahrbetrieb** – angezeigt durch eine pulsierende LED am Armaturentaster.
 
@@ -59,7 +59,7 @@ Wenn der Akku ganz voll geladen ist, ist die Rekuperation jedoch ausgeschaltet, 
 ## Licht
 
 
-Das Simson-Zündschloss dient nun nur noch zum Auswählen zwischen Stellung-”II” (Licht an, Hupe und Blinker funktionsfähig) und Parklicht auf der vierten Stellung im Uhrzeigersinn. Stelle vor jeder Fahrt sicher, dass das Simson-Zündschloss auf der dritten Stellung im Uhrzeigersinn steht, da sonst Blinker, Hupe und Lichter evtl. nicht funktionieren. 
+Das originale Zündschloss dient nun nur noch zum Auswählen zwischen Stellung-”II” (Licht an, Hupe und Blinker funktionsfähig) und Parklicht auf der vierten Stellung im Uhrzeigersinn. Stelle vor jeder Fahrt sicher, dass das originale Zündschloss auf der dritten Stellung im Uhrzeigersinn steht, da sonst Blinker, Hupe und Lichter evtl. nicht funktionieren. 
 
 
 Das Licht schaltet sich von selbst aus, wenn die Zündung des Umbausatzes auf die Aus-Stellung gedreht wird.
