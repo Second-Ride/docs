@@ -1,4 +1,4 @@
-# Montageanleitung für Simson S50/S51
+# Anleitung zur Elektrifizierung einer Simson S50/S51
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" />
