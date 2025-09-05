@@ -1,4 +1,4 @@
-# Second Ride Umbaukit SR24 für Simson Schwalbe -  KR51/2, KR51/1 & KR51
+# Anleitung zur Elektrifizierung einer Simson Schwalbe KR51/2, KR51/1 & KR51 mit SR24 Umbaukit
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" width="700" />
 </p>
@@ -258,7 +258,7 @@ Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel gen
 Nach all dieser Vorarbeit ist der Motor jetzt bereit, entfernt zu werden. Dieser ist bei der KR51/2 mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Bei der KR51/1 und der KR51 ist dort nur eine M8 Schraube, die zweite sitzt oben am Zylinderkopf. 
 
 
-Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Nun kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! deine Simson ist kein Verbrennungsfahrzeug mehr!
+Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Nun kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Deine Simson ist kein Verbrennungsfahrzeug mehr!
 
 ### 7. Lenker-Anbauteile
 
