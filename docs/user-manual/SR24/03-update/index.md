@@ -27,7 +27,7 @@ Ob ein neues Update verfügbar ist und was sich geändert hat, findest du in der
     Ein Firmware-Update verändert das Fahrverhalten. Es kann zu höherer Beschleunigung, höherer Endgeschwindigkeit, anderem Bremsverhalten, etc. kommen. Sei also bei den ersten Fahrten nach dem Update besonders Aufmerksam und Vorsichtig und verlass Dich nicht auf die bisherige Erfahrung mit dem Antrieb. Ließ Dir        außerdem die Änderungshistorie aufmerksam durch. 
 
 !!! warning "Achtung" 
-    Das Aufspielen der Duo-Firmware auf einem anderen Fahrzeug als der Simson Duo führt dazu, dass die Betriebserlaubnis des Fahrzeugs erlischt. Das gleiche gilt, wenn die Nicht-Duo-Firmware auf der Simson Duo installiert wird. 
+    Das Aufspielen der Duo-Firmware auf einem anderen Fahrzeug als der Duo führt dazu, dass die Betriebserlaubnis des Fahrzeugs erlischt. Das gleiche gilt, wenn die Nicht-Duo-Firmware auf der Duo installiert wird. 
 
 Zunächst muss das Antriebsmodul an deinen PC angeschlossen werden. Gehe dazu wie folgt vor:
 
@@ -140,3 +140,4 @@ Wenn sowohl das Antriebsmodul als auch das Sitzbank-/BT-Modul auf die aktuelle F
 
 
 Die nächsten Schritte zur App-Nutzung werden im folgenden Kapitel beschrieben.
+
