@@ -7,7 +7,7 @@
 
 # Bevor du mit dem Umbau/App Nutzung beginnst
 
-Der Verwendungszweck der oben genannten Zubehörkomponente ist der Einbau gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes und Zubehör nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit und Zubehör fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
+Der Verwendungszweck der oben genannten Zubehörkomponente ist der Einbau gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes und Zubehör nach dem Originalzustand der erwähnten Fahrzeugmodelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit und Zubehör fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
 
 Das dir vorliegende Dokument wird von der Second Ride GmbH zur Verfügung gestellt und versteht sich als Ergänzung zur Original-Hersteller-Bedienungsanleitung. Beide Dokumente sind als Einheit zu sehen. Sie gehören unmittelbar zusammen, wobei die Erklärungen zum Verbrennungsmotor unberücksichtigt bleiben können.
 
@@ -293,3 +293,4 @@ Zusätzlich findest du dort alle Informationen zu Datenschutz & dessen Einstellu
 ### Datenschutz 
 
 Wir haben den Datenschutz natürlich sehr Ernst genommen und schützen deine Daten auf uns bestmögliche Weise. Alle Informationen zum Datenschutz findest du in [diesem Link](http://www.second-ride.de/datenschutz):
+
