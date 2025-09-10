@@ -22,3 +22,5 @@ Das bedeutet: Du kannst selbst Inhalte bearbeiten oder neue Bilder hinzufügen u
 4. Nimm deine Änderungen vor und klicke anschließend auf **„Commit changes...“**.
 
 Wir prüfen jede Einsendung sorgfältig und freuen uns über deine Unterstützung!
+
+.
