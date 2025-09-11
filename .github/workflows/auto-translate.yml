@@ -1,0 +1,49 @@
+name: Auto-translate DE → EN (OpenAI)  # Workflow name
+
+on:
+  push:
+    paths:
+      - 'docs/**/*.md'  # Trigger workflow whenever a markdown file in docs/ is changed
+  workflow_dispatch:  # Allow manually triggering the workflow from GitHub UI
+
+permissions:
+  contents: write  # Allow GitHub Actions to write/modify files in the repo
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest  # The workflow runs on a Linux environment
+
+    steps:
+      # 1. Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full Git history to allow commit/push
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'  # Python version used
+
+      # 3. Install OpenAI library
+      - name: Install OpenAI client
+        run: |
+          pip install openai  # Install OpenAI client to run translation script
+
+      # 4. Run the translation script
+      - name: Generate missing EN files
+        run: |
+          python tools/translate_to_en_openai.py  # Run script that creates missing index.en.md files
+
+      # 5. Commit and push generated files
+      - name: Commit and push generated EN files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then  # Check if any files changed or were added
+            git config user.name "github-actions[bot]"  # Set username for commit
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"  # Set email
+            git add -A  # Add all modified/new files
+            git commit -m "chore(i18n): auto-create missing EN docs with OpenAI"  # Commit message
+            git push  # Push changes to the repo
+          else
+            echo "No changes to commit."  # Nothing to push if no files changed
