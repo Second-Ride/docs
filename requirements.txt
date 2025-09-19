@@ -5,5 +5,5 @@ neoteroi-mkdocs==1.0.5
 mkdocs-material[imaging]
 flask
 github-webhook
-openai==0.28
+openAI==0.28
 
