@@ -32,6 +32,9 @@ jobs:
       # 4. Set OpenAI API Key
       - name: Set OpenAI API Key
         run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+      - name: Check OpenAI version
+        run: python -m pip show openai
+
 
       # 5. Run translation script
       - name: Run translation
@@ -45,3 +48,4 @@ jobs:
           git add docs/*.en.md
           git commit -m "Auto-translate DE → EN via OpenAI" || echo "No changes to commit"
           git push
+
