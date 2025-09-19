@@ -22,33 +22,30 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
-          
-      - name: Disable proxies to avoid OpenAI error
+
+      # 3. Disable proxies
+      - name: Disable proxies
         run: |
           unset HTTP_PROXY
           unset HTTPS_PROXY
           unset http_proxy
           unset https_proxy
 
+      # 4. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --upgrade openai>=1.0.0 --no-cache-dir
           pip install -r requirements.txt
 
-
-      # 4. Set OpenAI API Key
+      # 5. Set OpenAI API Key
       - name: Set OpenAI API Key
         run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
-      - name: Check OpenAI version
-        run: python -m pip show openai
 
-
-      # 5. Run translation script
+      # 6. Run translation script
       - name: Run translation
         run: python tools/translate_to_en_openai.py
 
-      # 6. Commit & push translated files
+      # 7. Commit & push translated files
       - name: Commit & Push translations
         run: |
           git config --global user.name "github-actions[bot]"
@@ -56,10 +53,3 @@ jobs:
           git add docs/*.en.md
           git commit -m "Auto-translate DE → EN via OpenAI" || echo "No changes to commit"
           git push
-
-
-
-
-
-
-
