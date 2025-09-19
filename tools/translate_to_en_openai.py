@@ -1,9 +1,9 @@
-import openai
+from openai import OpenAI
 import os
 from pathlib import Path
 
-# Set API key from environment
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Create OpenAI client using the API key from environment
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 docs_path = Path("docs")
 
@@ -11,9 +11,9 @@ def get_md_files():
     """Return all German markdown files to translate"""
     return [f for f in docs_path.rglob("*.md") if not f.name.endswith(".en.md")]
 
-def translate_to_english(text: str) -> str:
-    """Translate German text to English using OpenAI ChatCompletion API"""
-    response = openai.chat.completions.create(
+def translate_to_english(text):
+    """Translate German text to English using new OpenAI client"""
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=[
             {"role": "system", "content": "You are a translator from German to English."},
@@ -22,14 +22,14 @@ def translate_to_english(text: str) -> str:
         temperature=0.3,
         max_tokens=2000
     )
-    # Access the content of the first choice
+    # Access the generated text
     return response.choices[0].message.content.strip()
 
 def main():
     for de_file in get_md_files():
         en_file = de_file.with_name(de_file.stem + ".en.md")
         if en_file.exists():
-            continue  # Skip if English file already exists
+            continue
         with open(de_file, "r", encoding="utf-8") as f:
             de_text = f.read()
         en_text = translate_to_english(de_text)
