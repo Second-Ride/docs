@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
          python -m pip install --upgrade pip
-         pip install --upgrade openai==1.8.0 --no-cache-dir
+         pip install --upgrade openai==1.0.0 --no-cache-dir
          pip install -r requirements.txt
          # Disable automatic proxy detection (prevents TypeError)
          unset HTTP_PROXY
@@ -53,6 +53,7 @@ jobs:
           git add docs/*.en.md
           git commit -m "Auto-translate DE → EN via OpenAI" || echo "No changes to commit"
           git push
+
 
 
 
