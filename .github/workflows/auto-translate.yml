@@ -21,9 +21,9 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: 3.11  # fixed version for stability
 
-      # 3. Disable proxies
+      # 3. Disable proxies to avoid OpenAI HTTP errors
       - name: Disable proxies
         run: |
           unset HTTP_PROXY
@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt --no-cache-dir
 
       # 5. Set OpenAI API Key
       - name: Set OpenAI API Key
