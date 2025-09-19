@@ -13,7 +13,7 @@ def get_md_files():
 
 def translate_to_english(text):
     """Translate German text to English using OpenAI ChatCompletion"""
-    response = openai.chat.completions.create(
+    response = openai.ChatCompletion.create(
     model="gpt-4",
     messages=[
         {"role": "system", "content": "You are a translator from German to English."},
@@ -22,7 +22,7 @@ def translate_to_english(text):
     temperature=0.3,
     max_tokens=2000
 )
-    return response.choices[0].message.content.strip()
+    return response.choices[0].message["content"].strip()
 
 def main():
     for de_file in get_md_files():
@@ -38,4 +38,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
