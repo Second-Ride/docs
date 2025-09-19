@@ -12,17 +12,16 @@ def get_md_files():
     return [f for f in docs_path.rglob("*.md") if not f.name.endswith(".en.md")]
 
 def translate_to_english(text):
-    """Translate German text to English using OpenAI ChatCompletion"""
-    response = openai.ChatCompletion.create(
-    model="gpt-4",
-    messages=[
-        {"role": "system", "content": "You are a translator from German to English."},
-        {"role": "user", "content": text},
-    ],
-    temperature=0.3,
-    max_tokens=2000
-)
-    return response.choices[0].message["content"].strip()
+    response = openai.chat.completions.create(  # lowercase 'chat.completions.create'
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a translator from German to English."},
+            {"role": "user", "content": text},
+        ],
+        temperature=0.3,
+        max_tokens=2000
+    )
+    return response.choices[0].message["content"].strip()  # note the ["content"]
 
 def main():
     for de_file in get_md_files():
@@ -38,5 +37,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
