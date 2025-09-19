@@ -16,17 +16,14 @@ def get_md_files():
 def translate_to_english(text):
     """Translate German text to English using OpenAI Chat API."""
     # Using the latest OpenAI API interface (>=1.0.0)
-    response = openai.chat.completions.create(
-        model="gpt-4",
-        messages=[
-            {"role": "system", "content": "You are a translator from German to English."},
-            {"role": "user", "content": text}
-        ],
-        temperature=0.3,
-        max_tokens=2000
-    )
+    response = openai.Completion.create(
+      model="text-davinci-003",
+      prompt=f"Translate the following German text to English:\n\n{text}",
+      temperature=0.3,
+      max_tokens=2000
+)
     # The content of the assistant's message
-    return response.choices[0].message.content.strip()
+    return response.choices[0].text.strip()
 
 def main():
     for de_file in get_md_files():
@@ -42,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
