@@ -26,8 +26,10 @@ jobs:
       # 3. Install dependencies
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+         python -m pip install --upgrade pip
+         pip install --upgrade openai   # <--- force la dernière version
+         pip install -r requirements.txt
+
 
       # 4. Set OpenAI API Key
       - name: Set OpenAI API Key
@@ -48,4 +50,5 @@ jobs:
           git add docs/*.en.md
           git commit -m "Auto-translate DE → EN via OpenAI" || echo "No changes to commit"
           git push
+
 
