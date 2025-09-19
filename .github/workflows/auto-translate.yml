@@ -1,6 +1,5 @@
 name: auto-translate
 
-# Trigger workflow on push to main branch
 on:
   push:
     branches:
@@ -11,35 +10,34 @@ permissions:
 
 jobs:
   translate:
-    # Use the latest Ubuntu runner
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
+      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Set up Python
+      # 2. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      # 3. Install dependencies from requirements.txt
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Ensure the OpenAI API key is available
+      # 4. Set OpenAI API Key
       - name: Set OpenAI API Key
         run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
-      # 5. Run the translation script
+      # 5. Run translation script
       - name: Run translation
         run: python tools/translate_to_en_openai.py
 
-      # 6. Commit and push the translated files
+      # 6. Commit & push translated files
       - name: Commit & Push translations
         run: |
           git config --global user.name "github-actions[bot]"
