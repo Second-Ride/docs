@@ -1,4 +1,4 @@
-ja
+nein
 # FAQ
 ## Details zum Umbausatz
 ### 1. Wie weit komme ich mit dem Akku wirklich?
