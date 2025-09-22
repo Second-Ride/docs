@@ -21,7 +21,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11  # Stable version
+          python-version: 3.12  # Version compatible avec openai>=1.0
 
       # 3. Disable any proxy to avoid OpenAI errors
       - name: Disable proxies
@@ -41,7 +41,7 @@ jobs:
       - name: Set OpenAI API Key
         run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
 
-      # 6. Run translation script
+      # 6. Run translation script using modern OpenAI API
       - name: Run translation
         run: python tools/translate_to_en_openai.py
 
