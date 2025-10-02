@@ -141,6 +141,7 @@ nav:
     - Home: index.md
     - Umbauanleitung:
         - Übersicht: conversion-manual/index.md
+        - MID50: conversion-manual/MID50/index.md
         - SR24:
             - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
             - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
@@ -149,6 +150,7 @@ nav:
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
         - Übersicht: user-manual/index.md
+        - MID50: user-manual/MID50/index.md
         - SR24: 
             - "01 Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
             - "02 App": user-manual/SR24/02-app/index.md
@@ -157,6 +159,10 @@ nav:
             - "05 E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
     - Für Entwickler: 
+        - MID50: 
+            - Elektronik: for-developers/MID50/electronic/index.md
+            - Mechanik: for-developers/MID50/mechanic/index.md
+            - Software: for-developers/MID50/software/index.md
         - SR24: 
             - Kommunikationsprotokolle: for-developers/SR24/communication-protocols/index.md
             - Schaltplan: for-developers/SR24/circuit-diagram/index.md
