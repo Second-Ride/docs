@@ -34,7 +34,7 @@ Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwicke
 
 Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir einerseits euch möglichst viele Freiheiten lassen können, andererseits aber
 - keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,
-- wir das System sicher gegen Tuning nach der Änderungsabnahme machen (Anforderung für die Zulassung),
+- das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),
 - wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.
 
 ### 1. Sicherheit
