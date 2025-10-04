@@ -7,7 +7,13 @@ Wir glauben, dass Innovation schneller voranschreitet, wenn sie nicht hinter ver
 - **Integration unserer Umbaukits in neue Fahrzeugmodelle**
 - **Entwicklung von Erweiterungen wie Displays, Soundmodulen, IoT-Funktionen, Schaltgetriebe-Simulatoren ...**
 
----
+## Mechanische Integration in Fahrzeuge aller Art
+
+Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:
+- 3D-Modelle von Motor und Akku
+- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte
+- Zeichnungen der bereits entwickelten Adapterteile zur Referenz
+- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)
 
 ## Motorsteuergerät des MID50 Antrieb
 
@@ -17,18 +23,6 @@ Beim Motorsteuergerät haben wir bewusst auf das Open Source Projekt **[VESC](ht
   <img src="/docs/for-developers/img/Desktop.jpg" width="45%" />
   <img src="/docs/for-developers/img/VESC Tool_on_phone_316_0.jpg" width="45%" />
 </p>
-
----
-
-## Mechanische Integration in Fahrzeuge aller Art
-
-Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:
-- 3D-Modelle von Motor und Akku
-- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte
-- Zeichnungen der bereits entwickelten Adapterteile zur Referenz
-- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)
-
----
 
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
 
