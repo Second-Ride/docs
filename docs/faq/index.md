@@ -1,4 +1,3 @@
-ja
 # FAQ
 ## Bestellung und Lieferung
 ### 1. Wann bekomme ich den Umbausatz?
