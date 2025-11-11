@@ -1,6 +1,6 @@
 # FAQ
 ## Bestellung und Lieferung
-### 1. Wann bekomme ich den Umbausatz?
+### 1. Wann bekomme ich das Umbaukit?
 Die Lieferzeit wird dir bei den einzelnen Produkten im Online-Shop angezeigt.
 ### 2. Wie läuft der Versand ab?
 Natürlich (ver-)sicher(t)! Der Versand erfolgt über einen zuverlässigen Versanddienstleister und wird über den Warenwert versichert!
@@ -22,7 +22,7 @@ Wir haben im Shop auch Modelle aufgelistet, für die wir in Zukunft ein Kit entw
 Das Kit umfasst das Antriebsmodul, den Akku und den Motoradapter. Modellspezifisch sind außerdem Akkuhalterung, Gaszug Sensor, Armaturen, Kabel und ein Teilegutachten (für Simson) enthalten. Dies ist auch alles, was du für deinen Umbau brauchst.
 ### 5. Was kann ich alles von meinem Verbrennungsmotor weiterverwenden?
 Du kannst sowohl die Seitendeckel als auch den Zylinder und den Zylinderkopf weiterverwenden. Es wird lediglich der Motorblock an sich ausgetauscht. So bleibt die originale Optik erhalten.
-### 6. Kompatibilität mit SR24
+### 6. Kompatibilität mit SR24 Produkten
 Momentan ist MID50 noch nicht mit SR24 kompatibel. Wir wollen aber eine Schnittstelle zwischen einem SR24 Antriebsmodul und einem MID50 Akku schaffen, sodass du die Reichweite deines SR24 Kits auch mit MID50 Akkus aufstocken kannst.
 ### 7. Welche maximale Leistung ist mit MID50 möglich?
 Maximal sind 20 PS Peakleistung und 5000 U/min an der Abtriebswelle möglich.
