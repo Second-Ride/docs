@@ -11,7 +11,7 @@ Die Second Ride Community ist ein Forum, welches auf der Software-Plattform Disc
 ### 5. Kann ich zu einer Postbox liefern lassen?
 Nein, ein Umbaukit ist zum einen zu groß für eine Postbox und zum anderen ist es sicherer, wenn du das Kit persönlich entgegennimmst, damit es nicht irgendwo verloren geht.
 
-## MID50 Umbausatz
+## MID50 Umbaukit
 ### 1. Was ist das MID50-Kit?
 Das MID50-Kit ist ein Umbausatz für Mittelmotor-Fahrzeuge (<=125 ccm), der primär auf 50ccm-Fahrzeuge wie Simson ausgelegt ist, um sie in ein straßenlegales Elektromoped umzuwandeln. 
 ### 2. Welche Fahrzeuge können bis jetzt umgerüstet werden?
