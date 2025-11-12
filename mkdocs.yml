@@ -158,7 +158,8 @@ nav:
             - "04 Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
             - "05 E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
-    - Für Entwickler: 
+    - Für Entwickler:
+        - Übersicht: for-developers/index.md
         - MID50: 
             - Elektronik: for-developers/MID50/electronic/index.md
             - Mechanik: for-developers/MID50/mechanic/index.md
