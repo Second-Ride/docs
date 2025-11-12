@@ -4,16 +4,16 @@ Willkommen im Entwicklerbereich von Second Ride.
 Unsere Mission ist es, bestehende Fahrzeuge durch Elektrifizierung nachhaltig zu machen – und dabei setzen wir bewusst auf **Open Source**.
 
 Wir glauben, dass Innovation schneller voranschreitet, wenn sie nicht hinter verschlossenen Türen geschieht. Besonders in zwei Bereichen freuen wir uns über aktive Beiträge eurer Community:
-- **Integration unserer Umbaukits in neue Fahrzeugmodelle**
-- **Entwicklung von Erweiterungen wie Displays, Soundmodulen, IoT-Funktionen, Schaltgetriebe-Simulatoren ...**
+- **Integration unserer Umbaukits in neue Fahrzeugmodelle**<br>
+- **Entwicklung von Erweiterungen wie Displays, Soundmodulen, IoT-Funktionen, Schaltgetriebe-Simulatoren ...**<br>
 
 ## Mechanische Integration in Fahrzeuge aller Art
 
 Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:
-- 3D-Modelle von Motor und Akku
-- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte
-- Zeichnungen der bereits entwickelten Adapterteile zur Referenz
-- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)
+- 3D-Modelle von Motor und Akku<br>
+- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte<br>
+- Zeichnungen der bereits entwickelten Adapterteile zur Referenz<br>
+- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)<br>
 
 ## Motorsteuergerät des MID50 Antrieb
 
@@ -27,9 +27,9 @@ Beim Motorsteuergerät haben wir bewusst auf das Open Source Projekt **[VESC](ht
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
 
 Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir einerseits euch möglichst viele Freiheiten lassen können, andererseits aber
-- keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,
-- das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),
-- wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.
+- keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,<br>
+- das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),<br>
+- wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.<br>
 
 ### 1. Sicherheit
 
@@ -49,18 +49,18 @@ Selbst wenn ihr aber nicht Leistung und Geschwindigkeit verändert, aber sonst i
 
 Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, für die wir gar nichts können, haften zu müssen. Es muss klar sein, dass Modifikationen an Software und Hardware schnell zu Schäden an unserem Produkt, aber auch zu Personen- und Sachschäden führen **können**.
 
-- Jegliche Veränderungen von Software oder Hardware durch Dritte (außer Second Ride) führen zum Erlöschen der Haftung und Gewährleistung. Solche Änderungen bergen erhebliche Risiken für Personen und Sachgüter.
-- Ausnahme: Updates, die offiziell von Second Ride stammen, dürfen selbstverständlich auch durch Dritte (z. B. Händler, Werkstätten) aufgespielt werden – außer wir kommunizieren explizit etwas anderes.
+- Jegliche Veränderungen von Software oder Hardware durch Dritte (außer Second Ride) führen zum Erlöschen der Haftung und Gewährleistung. Solche Änderungen bergen erhebliche Risiken für Personen und Sachgüter.<br>
+- Ausnahme: Updates, die offiziell von Second Ride stammen, dürfen selbstverständlich auch durch Dritte (z. B. Händler, Werkstätten) aufgespielt werden – außer wir kommunizieren explizit etwas anderes.<br>
 
 **Software umfasst insbesondere:**
-- Firmware
-- Parameter
-- Steuerungs- und Konfigurationssoftware aller elektronischen Steuergeräte (insbesondere VESC-bezogen)
+- Firmware<br>
+- Parameter<br>
+- Steuerungs- und Konfigurationssoftware aller elektronischen Steuergeräte (insbesondere VESC-bezogen)<br>
 
 **Hardware umfasst insbesondere:**
-- Modifikationen an der Antriebseinheit
-- Anschließen oder paralleles Schalten von Fremdakkus
-- Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen
+- Modifikationen an der Antriebseinheit<br>
+- Anschließen oder paralleles Schalten von Fremdakkus<br>
+- Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen<br>
 
 ---
 
