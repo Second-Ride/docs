@@ -162,7 +162,7 @@ nav:
         - Übersicht: for-developers/index.md
         - MID50: 
             - Elektronik: for-developers/MID50/electronic/index.md
-            - Mechanik: for-developers/MID50/mechanic/index.md
+            - Mechanik: for-developers/MID50/mechanics/index.md
             - Software: for-developers/MID50/software/index.md
         - SR24: 
             - Kommunikationsprotokolle: for-developers/SR24/communication-protocols/index.md
@@ -172,6 +172,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
