@@ -3,7 +3,7 @@
 Willkommen im Entwicklerbereich von Second Ride.<br>
 Unsere Mission ist es, bestehende Fahrzeuge durch Elektrifizierung nachhaltig zu machen – und dabei setzen wir bewusst auf **Open Source**.<br>
 
-Wir glauben, dass Innovation schneller voranschreitet, wenn sie nicht hinter verschlossenen Türen geschieht. Besonders in zwei Bereichen freuen wir uns über aktive Beiträge eurer Community:<br>
+Wir glauben, dass Innovation schneller voranschreitet, wenn sie nicht hinter verschlossenen Türen geschieht. Besonders in zwei Bereichen freuen wir uns über aktive Beiträge der Community:<br>
 - **Integration unserer Umbaukits in neue Fahrzeugmodelle**<br>
 - **Entwicklung von Erweiterungen wie Displays, Soundmodulen, IoT-Funktionen, Schaltgetriebe-Simulatoren ...**<br>
 
