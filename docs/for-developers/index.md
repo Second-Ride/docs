@@ -20,8 +20,8 @@ Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwicke
 Beim Motorsteuergerät haben wir bewusst auf das Open Source Projekt **[VESC](https://vesc-project.com/)** gesetzt. Es ist eines der am weitesten entwickelten und funktionsreichsten Motorsteuergeräte auf dem Markt. Das VESC-Projekt macht vor allem die geniale Software aus. Softwareseitig sind endlose Weiterentwicklungen basierend auf dieser Plattform denkbar.
 
 <p align="center">
-  <img src="/docs/for-developers/img/Desktop.jpg" width="45%" />
-  <img src="/docs/for-developers/img/VESC Tool_on_phone_316_0.jpg" width="45%" />
+  <img src="img/Desktop.jpg" width="45%" />
+  <img src="img/VESC Tool_on_phone_316_0.jpg" width="45%" />
 </p>
 
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
