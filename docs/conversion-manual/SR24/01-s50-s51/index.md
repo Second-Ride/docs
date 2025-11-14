@@ -1,11 +1,9 @@
 # Anleitung zur Elektrifizierung einer Simson S50/S51
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" />
-</p>
+![Simson S51 mit Second Ride SR24 Umbaukit](img/S51-SR24.png)
 
-## Bitte bewahre deine Verpackung auf
- Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird.
+!!! tip "Bitte bewahre deine Verpackung auf"
+    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
 
  <h3>Voraussetzungen</h3>
 <table>
@@ -107,10 +105,8 @@ Einige Flüssigkeiten, die in Fahrzeugen verwendet werden (Batteriesäure, Batte
 
 Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt der Drucklegung aktuell. Da aber die kontinuierliche Verbesserung eines der Hauptziele ist, behalten wir uns das Recht vor, jederzeit Veränderungen an den Produkten vorzunehmen. Wenn du Irrtümer oder Auslassungen in diesem Dokument bemerkst, schreib das bitte unbedingt in den Discord-Channel (siehe Fußnote). 
           
-
 ## Demontage
 Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kurzschlüsse zu vermeiden.  
-
 
 ### **1. Motoranschlüsse**
 

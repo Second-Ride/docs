@@ -1,10 +1,8 @@
 # Anleitung zur Elektrifizierung einer Simson Schwalbe KR51/2, KR51/1 & KR51 mit SR24 Umbaukit
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" width="700" />
-</p>
+![Simson Schwalbe mit Second Ride SR24 Umbaukit](img/Schwalbe-SR24.png)
 
-## Bitte bewahre deine Verpackung auf!
-Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
+!!! tip "Bitte bewahre deine Verpackung auf"
+    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
 
 <h2>Voraussetzungen</h2>
 <table>
