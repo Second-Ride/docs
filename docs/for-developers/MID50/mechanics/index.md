@@ -30,16 +30,23 @@ Vom Akku gibt es für alle Modelle nur eine Variante. Der Griff des Akkus kann v
 ![MID50 Akku](img/MID50-Battery.png)
 
 ## Adapter-Kits
-Für die Montage des Antriebmoduls an den modellspezifischen Rahmenanbindungspunkten gibt es Adapterkits, bestehend aus mehreren Blechen. 
+Damit unser Antriebmodul die passenden Anschraubpunkte für den Rahmen und die Seitenteile verschiedenster Fahrzeuge annehmen kann, gibt es Adapterkits.
 
 Die Zeichnungen dafür folgen hier bald.
+
+![MID50 M500 Adapterkit](img/MID50-M500-Adapterkit.png)
 
 ## Akkuhalterungen
 Für die Montage der Akkus an den modellspezifischen Rahmenanbindungspunkten gibt es Akkuhalterungen. 
 
 Die Zeichnungen dafür folgen hier bald.
 
+![MID50 S50/S51 Akkuhalterung](img/MID50-S51-Battery-Holder.png)
+
 # Armaturen
 Am Lenker werden Ladestandsanzeige, Zündschloss und Taster untergebracht. Es gibt verschiedene Ausführungen dieser Baugruppe für verschiedene Fahrzeugmodelle. 
 
 Die Zeichnungen dafür folgen hier bald.
+
+![MID50 Schwalbe Armaturen](img/MID50-Schwalbe-Armaturen.png)
+
