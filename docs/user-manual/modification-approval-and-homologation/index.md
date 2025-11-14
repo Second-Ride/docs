@@ -18,8 +18,8 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 
 - Notwendig: Teilegutachten (im Lieferumfang enthalten)
 - Überprüft wird: 
-  - der korrekte Einbau nach Montageanleitung
-  - die allgemeine Betriebszustand des Gesamtfahrzeugs
+    - der korrekte Einbau nach Montageanleitung
+    - die allgemeine Betriebszustand des Gesamtfahrzeugs
  - Es wird ein Prüfbericht über die Begutachtung angefertigt
  - Kosten: Abrechnung nach Aufwand der Prüfer: bisherige Erfahrungswerte 90 € - 290 €
 
