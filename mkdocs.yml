@@ -42,7 +42,7 @@ theme:
         - navigation.top
         - content.tabs.link
         - content.action.edit
-        - toc.integrate
+        # - toc.integrate
         - content.code.copy
         - navigation.instant
         - navigation.sections
@@ -172,6 +172,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
