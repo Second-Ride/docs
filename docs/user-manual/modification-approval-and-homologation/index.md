@@ -5,16 +5,16 @@
 - Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
 - Beträgt das Kettenspiel ca. 2 cm?
 - Sind alle Kabel ordentlich mit Kabelbindern an Rahmenteilen befestigt? Behindern sie womöglich eine Lenkbewegung oder könnten sie von beweglichen Teilen wie Reifen, Federbeinen, etc. erfasst werden?
-- Funktionsweise von Blinkern/Lichtern, Bremsen, Stoßdämpfern, Diebstahlsicherung, Lenkerschloss, Kabelführung, Reifenprofil etc. sicherstellen
-- Sind das Vorder- und Hinterrad in einer Linie (Spur)?
+- Sind Blinker, Lichter, Bremsen, Stoßdämpfern, Diebstahlsicherung, Lenkerschloss, Kabelführung, Reifenprofil in Ordnung?
+- Sind Vorder- und Hinterrad in einer Linie (Spur)?
 
 ## Schritt 2: Änderungsabnahme
 
-Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon versucht haben einen Second Ride Umbau begutachten zu lassen. In Grün siehst du die erfolgreichen Änderungsabnahmen und in rot die gescheiterten. Wenn du auf die Stecknadeln klickst, kannst du auch mehr Informationen zu Ihren Erfahrungen sehen.
+Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon versucht haben einen Second Ride Umbau begutachten zu lassen. In Grün siehst du die erfolgreichen Änderungsabnahmen und in Rot die gescheiterten. Wenn du auf die Stecknadeln klickst, kannst du mehr Informationen einsehen.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CDf_Qp0kNb1LnjTww2guJW_Abqq2x08&ehbc=2E312F" width="100%" height="480" style="border:0;"></iframe>
 
-**Unsere Bitte an dich** : Hilf der Community weiter, indem du deine Erfahrung des Zulassungsprozesses teilst. Nutze dafür [diese Umfrage](https://second-ride.de/zulassung), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst.
+**Unsere Bitte an dich** : Hilf der Community weiter, indem du deine Erfahrung zum Zulassungsprozess teilst. Nutze dafür [diese Umfrage](https://second-ride.de/zulassung), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst.
 
 - Notwendig: Teilegutachten (im Lieferumfang enthalten)
 - Überprüft wird: 

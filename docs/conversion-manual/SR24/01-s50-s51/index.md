@@ -2,9 +2,6 @@
 
 ![Simson S51 mit Second Ride SR24 Umbaukit](img/S51-SR24.png)
 
-!!! tip "Bitte bewahre deine Verpackung auf"
-    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
-
  <h3>Voraussetzungen</h3>
 <table>
   <tr>
@@ -90,7 +87,8 @@
   </tr>
 </table>
 
-
+!!! tip "Bitte bewahre deine Verpackung auf"
+    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
 
 ## Bevor du mit dem Umbau beginnst
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
