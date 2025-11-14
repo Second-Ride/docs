@@ -2,9 +2,17 @@
 
 Willkommen im Entwicklerbereich von Second Ride.
 
-Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da draußen genauso einfach zu machen, wie wir es für Simson Mopeds bereits erreichen konnten. Doch allein schaffen wir das nicht: Nur gemeinsam als Community können wir die Vielzahl aller Modelle digitalisieren und modelspzifische Adapterkits, Akkuhalterungen und Anleitungen zu entwickeln. 
+Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da draußen genauso einfach zu machen, wie wir es für Simson Mopeds bereits gezeigt haben. Doch allein schaffen wir das nicht: Nur gemeinsam als Community können wir die Vielzahl aller Modelle digitalisieren und modelspzifische Adapterkits, Akkuhalterungen und Anleitungen entwickeln. 
 
 Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen wie Displays, Soundmodule, IoT-Funktionen, Schaltgetriebe-Simulatoren, etc. zu entwickeln ... Dafür veröffentlichen wir hier alle dafür notwendigen Schaltpläne und Kommunikationsprotokolle.
+
+!!! warning
+
+    Wir freuen uns sehr über euren Beitrag zur Weiterentwicklung von Second Ride. Bitte seid euch jedoch bewusst, dass ihr mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nehmt:<br>
+    1. Erlöschen der Haftung bzw. Garantie
+    2. Erlöschen der Betriebserlaubnis
+    3. Erhebliche Risiken für Personen und Sachgüter
+    4. Pflicht, Risiken und Warnungen transparent aufzuzeigen
 
 ## Mechanische Integration in Fahrzeuge aller Art
 
@@ -60,14 +68,3 @@ Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, f
 - Modifikationen an der Antriebseinheit<br>
 - Anschließen oder paralleles Schalten von Fremdakkus<br>
 - Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen<br>
-
----
-
-## Wenn ihr in die Weiterentwicklung einsteigt<br>
-
-Wir freuen uns sehr über euren Beitrag zur Weiterentwicklung von Second Ride. Bitte seid euch jedoch bewusst, dass ihr mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nehmt:<br>
-
-1. **Erlöschen der Haftung bzw. Garantie**
-2. **Erlöschen der Betriebserlaubnis**
-3. **Erhebliche Risiken für Personen und Sachgüter**
-4. **Pflicht, Risiken und Warnungen transparent aufzuzeigen**
