@@ -152,26 +152,27 @@ nav:
         - Übersicht: user-manual/index.md
         - MID50: user-manual/MID50/index.md
         - SR24: 
-            - "01 Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
-            - "02 App": user-manual/SR24/02-app/index.md
-            - "03 Update": user-manual/SR24/03-update/index.md
-            - "04 Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
-            - "05 E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
+            - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
+            - "App": user-manual/SR24/02-app/index.md
+            - "Update": user-manual/SR24/03-update/index.md
+            - "Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
+            - "E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
     - Für Entwickler:
         - Übersicht: for-developers/index.md
         - MID50: 
-            - Elektronik: for-developers/MID50/electronic/index.md
             - Mechanik: for-developers/MID50/mechanics/index.md
+            - Elektronik: for-developers/MID50/electronic/index.md
             - Software: for-developers/MID50/software/index.md
         - SR24: 
-            - Kommunikationsprotokolle: for-developers/SR24/communication-protocols/index.md
-            - Schaltplan: for-developers/SR24/circuit-diagram/index.md
+            - Elektronik: for-developers/SR24/circuit-diagram/index.md
+            - Software: for-developers/SR24/communication-protocols/index.md
     - FAQ: faq/index.md
     
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
