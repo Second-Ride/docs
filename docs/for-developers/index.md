@@ -9,10 +9,15 @@ Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen 
 !!! warning
 
     Wir freuen uns sehr über euren Beitrag zur Weiterentwicklung von Second Ride. Bitte seid euch jedoch bewusst, dass ihr mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nehmt:
+
         1. Erlöschen der Haftung bzw. Garantie
+
         2. Erlöschen der Betriebserlaubnis
+
         3. Erhebliche Risiken für Personen und Sachgüter
+
         4. Pflicht, Risiken und Warnungen transparent aufzuzeigen
+        
 
 ## Mechanische Integration in Fahrzeuge aller Art
 
