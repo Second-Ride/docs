@@ -6,19 +6,6 @@ Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da dr
 
 Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen wie Displays, Soundmodule, IoT-Funktionen, Schaltgetriebe-Simulatoren, etc. zu entwickeln ... Dafür veröffentlichen wir hier alle dafür notwendigen Schaltpläne und Kommunikationsprotokolle.
 
-!!! warning
-
-    Wir freuen uns sehr über euren Beitrag zur Weiterentwicklung von Second Ride. Bitte seid euch jedoch bewusst, dass ihr mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nehmt:
-
-        1. Erlöschen der Haftung bzw. Garantie
-
-        2. Erlöschen der Betriebserlaubnis
-
-        3. Erhebliche Risiken für Personen und Sachgüter
-
-        4. Pflicht, Risiken und Warnungen transparent aufzuzeigen
-        
-
 ## Mechanische Integration in Fahrzeuge aller Art
 
 Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:<br>
@@ -73,3 +60,15 @@ Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, f
 - Modifikationen an der Antriebseinheit<br>
 - Anschließen oder paralleles Schalten von Fremdakkus<br>
 - Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen<br>
+
+!!! warning
+
+    Wir freuen uns sehr über deinen Beitrag zur Weiterentwicklung von Second Ride. Bitte sei dir jedoch bewusst, dass du mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nimmst:
+
+        1. Erlöschen der Haftung bzw. Garantie
+
+        2. Erlöschen der Betriebserlaubnis
+
+        3. Erhebliche Risiken für Personen und Sachgüter
+
+        4. Pflicht, Risiken und Warnungen transparent aufzuzeigen
