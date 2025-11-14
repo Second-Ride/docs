@@ -1,10 +1,8 @@
 # Zulassung & Abnahme mit dem Teilegutachten
 
 ## Schritt 1. Moped nach dem Umbau unabhängig vom Second Ride Kit in einen generell guten Betriebszustand bringen bzw. dies überprüfen
-<input type="checkbox"> Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
-<input type="checkbox"> Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
-<input type="checkbox"> Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
-
+- <label><input type="checkbox"> Hast du alle Schrauben richtig festgezogen?  
+  Das Antriebsmodul sollte in der Lagerung kein Spiel haben.</label>
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -64,4 +62,5 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 - Generell bleibt das Fahrzeug mit Versicherungs-Kennzeichen versichert
 - Anruf bei der Versicherung, welche systemseitig die Antriebsart auf Elektro umträgt
 - Kosten: u.a. bei der HUK Coburg 0 €
+
 
