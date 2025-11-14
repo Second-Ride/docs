@@ -1,11 +1,10 @@
-# Intro für Entwickler
+# Unsere Open Source Philiosophie
 
-Willkommen im Entwicklerbereich von Second Ride.<br>
-Unsere Mission ist es, bestehende Fahrzeuge durch Elektrifizierung nachhaltig zu machen – und dabei setzen wir bewusst auf **Open Source**.<br>
+Willkommen im Entwicklerbereich von Second Ride.
 
-Wir glauben, dass Innovation schneller voranschreitet, wenn sie nicht hinter verschlossenen Türen geschieht. Besonders in zwei Bereichen freuen wir uns über aktive Beiträge der Community:<br>
-- **Integration unserer Umbaukits in neue Fahrzeugmodelle**<br>
-- **Entwicklung von Erweiterungen wie Displays, Soundmodulen, IoT-Funktionen, Schaltgetriebe-Simulatoren ...**<br>
+Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da draußen genauso einfach zu machen, wie wir es für Simson Mopeds bereits erreichen konnten. Doch allein schaffen wir das nicht: Nur gemeinsam als Community können wir die Vielzahl aller Modelle digitalisieren und modelspzifische Adapterkits, Akkuhalterungen und Anleitungen zu entwickeln. 
+
+Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen wie Displays, Soundmodule, IoT-Funktionen, Schaltgetriebe-Simulatoren, etc. zu entwickeln ... Dafür veröffentlichen wir hier alle dafür notwendigen Schaltpläne und Kommunikationsprotokolle.
 
 ## Mechanische Integration in Fahrzeuge aller Art
 
