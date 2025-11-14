@@ -20,6 +20,8 @@ h1 {
 
 .md-content {
   --md-typeset-a-color: #31a1f0;
+  text-align: justify;
+  text-align-last: left; /* letzte Zeile linksbündig */
 }
 
 /* a.md-nav__link {
