@@ -4,30 +4,24 @@
 
 ## Kompatibilität  
 
-### Unterstützte Smartphone Modelle 
-
-Die App ist kompatibel mit folgenden Geräten:
+Unterstützte Smartphone Modelle:
 
 - iOS-Geräte ab iOS 15 (mindestens iPhone X oder neuer)
-
 - Android-Geräte, ab Baujahr 2019 und mindestens Android 10
 
-### Unterstützte Umbausätze 
-
-Die App und das Update-Tool funktionieren mit folgenden Umbausätzen:
-
+Unterstützte Second Ride Umbausätze
 - SR23 in Verbindung mit unserem Bluetooth-Modul
-
 - SR24 teilweise ohne weitere Hardware und teilweise nur in Verbindung mit unserem Bluetooth-Modul (siehe nächster Abschnitt)
-
+- MID50
 - SR22 ist nicht kompatibel, da die Hardware sich deutlich unterscheidet und nicht unterstützt wird
 
-### Erkennen, ob deine Sitzbank Bluetooth unterstützt 
-Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
+!!! tip "Tipp für SR24 Nutzer"
+    Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="500" />
-</p>
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="500" />
+    </p>
+
 
 ## Second Ride App  
 
