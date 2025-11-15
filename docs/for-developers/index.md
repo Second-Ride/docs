@@ -1,4 +1,4 @@
-# Unsere Open Source Philiosophie
+# Unsere Open Source Philosophie
 
 Willkommen im Entwicklerbereich von Second Ride.
 
@@ -9,9 +9,9 @@ Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen 
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
 
 Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir einerseits euch möglichst viele Freiheiten lassen können, andererseits aber<br>
-- keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,<br>
-- das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),<br>
-- wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.<br>
+1. keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,<br>
+2. das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),<br>
+3. wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.<br>
 
 ### 1. Sicherheit
 
