@@ -1,29 +1,19 @@
 # MID50 Mechanik - Dokumentation für Entwickler
-Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:
-- 3D-Modelle von Motor und Akku
-- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte
-- Zeichnungen der bereits entwickelten Adapterteile zur Referenz
-- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)
+
+Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. 
 
 ## Antriebsmodul
 Das Antriebsmodul gibt es in drei Varianten: 
 
-### Zylinderanschraubung +60° und Abtrieb rechts
-3D-Modell: [MID50-Drive-Unit-Community-Model.step](drawings/MID50-Drive-Unit-Community-Model.step)
+- Zylinder +60° und Abtrieb in Fahrtrichtung rechts
+- Zylinder +0° und Abtrieb in Fahrtrichtung links
+- Zylinder -60° und Abtrieb in Fahrtrichtung links
 
-2D-Zeichnung: kommt bald
+3D-Modell (bisher nur +60°):    [MID50-Drive-Unit-Community-Model.step](drawings/MID50-Drive-Unit-Community-Model.step)
+
+2D-Zeichnung:                   kommt bald
 
 ![MID50 Antriebsmodul](img/MID50-Drive-Unit.png)
-
-### Zylinderanschraubung +0° und Abtrieb links
-3D-Modell: kommt bald
-
-2D-Zeichnung: kommt bald
-
-### Zylinderanschraubung -60° und Abtrieb links
-3D-Modell: kommt bald
-
-2D-Zeichnung: kommt bald
 
 ## Akku
 Vom Akku gibt es für alle Modelle nur eine Variante. Der Griff des Akkus kann vom Nutzer an zwei unterschiedlichen Stellen des Akkus festgeschraubt werden. In der Schwalbe sollte der Griff zb. an der Seite der Ladestandsanzeige angeschraubt werden, während er für die Nutzung in der S51 an der großen 45° Schrägen montiert werden sollte.
