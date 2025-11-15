@@ -20,6 +20,10 @@ h1 {
 
 .md-content {
   --md-typeset-a-color: #31a1f0;
+}
+
+/* Text in Blocksatz */
+.md-content p {
   text-align: justify;
   text-align-last: left; /* letzte Zeile linksbündig */
 }
