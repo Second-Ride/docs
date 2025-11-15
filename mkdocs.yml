@@ -149,7 +149,7 @@ nav:
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
     - Bedienungsanleitung:
-        - Übersicht: user-manual/index.md
+        #- Übersicht: user-manual/index.md
         - MID50: user-manual/MID50/index.md
         - SR24: 
             - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
@@ -159,7 +159,7 @@ nav:
             - "E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
     - Für Entwickler:
-        - Übersicht: for-developers/index.md
+        - Einleitung: for-developers/index.md
         - MID50: 
             - Mechanik: for-developers/MID50/mechanics/index.md
             - Elektronik: for-developers/MID50/electronic/index.md
