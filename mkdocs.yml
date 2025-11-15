@@ -154,7 +154,8 @@ nav:
         - SR24: 
             - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
             - "App": user-manual/SR24/02-app/index.md
-            - "Update": user-manual/SR24/03-update/index.md
+            - "BT-Modul": user-manual/SR24/06-bt-module/index.md
+            - "Firmware Update": user-manual/SR24/03-firmware-update/index.md
             - "Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
             - "E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
         - "Änderungsabnahme & Zulassung": user-manual/modification-approval-and-homologation/index.md
