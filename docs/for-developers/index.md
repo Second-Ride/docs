@@ -6,23 +6,6 @@ Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da dr
 
 Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen wie Displays, Soundmodule, IoT-Funktionen, Schaltgetriebe-Simulatoren, etc. zu entwickeln ... Dafür veröffentlichen wir hier alle dafür notwendigen Schaltpläne und Kommunikationsprotokolle.
 
-## Mechanische Integration in Fahrzeuge aller Art
-
-Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwickelnden und fertigenden Adaptern die Module in quasi alle Fahrzeuge im Hubraumbereich bis 125 ccm und mit Ketten- oder Riementrieb integriert werden können. Damit ihr nicht darauf warten müsst, dass wir diese Adapter für eure jeweiligen Fahrzeuge entwickeln, stellen wir alle Ressourcen bereit, die ihr dafür braucht. Dies beinhaltet:<br>
-- 3D-Modelle von Motor und Akku<br>
-- 2D-Zeichnungen mit Bemaßung der Anschlusspunkte<br>
-- Zeichnungen der bereits entwickelten Adapterteile zur Referenz<br>
-- 3D-Scans von Fahrzeugen (wenn ihr Zugriff auf einen 3D-Scanner habt, fügt eure Modelle ebenso hier hinzu)<br>
-
-## Motorsteuergerät des MID50 Antrieb
-
-Beim Motorsteuergerät haben wir bewusst auf das Open Source Projekt **[VESC](https://vesc-project.com/)** gesetzt. Es ist eines der am weitesten entwickelten und funktionsreichsten Motorsteuergeräte auf dem Markt. Das VESC-Projekt macht vor allem die geniale Software aus. Softwareseitig sind endlose Weiterentwicklungen basierend auf dieser Plattform denkbar.
-
-<p align="center">
-  <img src="img/Desktop.jpg" width="45%" />
-  <img src="img/VESC Tool_on_phone_316_0.jpg" width="45%" />
-</p>
-
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
 
 Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir einerseits euch möglichst viele Freiheiten lassen können, andererseits aber<br>
