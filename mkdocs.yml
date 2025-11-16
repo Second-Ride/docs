@@ -44,7 +44,6 @@ theme:
         - navigation.top
         - content.tabs.link
         - content.action.edit
-        # - toc.integrate
         - content.code.copy
         - navigation.instant
         - navigation.sections
