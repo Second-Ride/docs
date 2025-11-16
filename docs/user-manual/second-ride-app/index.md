@@ -16,7 +16,7 @@ Unterstützte Second Ride Umbausätze:
 - SR24 teilweise ohne weitere Hardware und teilweise nur in Verbindung mit unserem Bluetooth-Modul (siehe nächster Abschnitt)
 - MID50 ist kompatibel
 
-??? info "So erkennst du ob deine SR24 Sitzbank Bluetooth hat"
+!!! info "So erkennst du ob deine SR24 Sitzbank Bluetooth hat"
     Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
 
     <p align="center">
@@ -113,4 +113,5 @@ Zusätzlich findest du dort alle Informationen zu Datenschutz & dessen Einstellu
 ### Datenschutz 
 
 Wir haben den Datenschutz natürlich sehr Ernst genommen und schützen deine Daten auf uns bestmögliche Weise. Alle Informationen zum Datenschutz findest du in [diesem Link](http://www.second-ride.de/datenschutz):
+
 
