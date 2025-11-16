@@ -40,7 +40,10 @@ Tipp: Achte darauf, dass du die aktuellste Version der App verwendest. Nur so is
 Um die Sicherheit deiner Daten und Verbindung zu gewährleisten haben wir einen gesicherten Verbindungsaufbau implementiert. Dieser muss nur einmal beim ersten Verbinden mit einem neuen Smartphone, welches dein Fahrzeug noch nicht kennt, durchgeführt werden.   
 Halte dafür die Sitzbank ID (unten auf deiner Sitzbank aufgelasert) bzw. die BT-Modul-ID bereit, die auf der Seite deines BT-Moduls steht.
 
-### Erster Verbindungsaufbau mit BT-Sitzbank:  
+### Erster Verbindungsaufbau mit MID50: 
+kommt bald
+
+### Erster Verbindungsaufbau mit SR24 BT-Sitzbank:  
 
 Um deine Second Ride App mit deinem Fahrzeug zu verbinden, muss das Fahrzeug eingeschaltet sein, sodass der Taster am Zündschloss pulsiert.   
 Halte den Sitzbanktaster für 3s gedrückt, bis ein Piepton erklingt und die Logo LED blau pulsiert.  
