@@ -170,6 +170,7 @@ nav:
         - "SR23 & SR24": 
             - Elektronik: for-developers/SR24/circuit-diagram/index.md
             - Software: for-developers/SR24/communication-protocols/index.md
+            - Community Erweiterungen: for-developers/SR24/community-extensions/index.md
     - FAQ: faq/index.md
     
 
