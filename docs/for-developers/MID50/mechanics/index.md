@@ -12,11 +12,25 @@ Das Antriebsmodul gibt es in drei Varianten:
 
 === "Vorschaubild"
 
-    [![MID50 Antriebsmodul]](../img/MID50-Drive-Unit.png)
+    [![MID50 Antriebsmodul]](img/MID50-Drive-Unit.png)
 
 === "3D Model"
 
-    <iframe width="100%" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/MID50/mechanics/drawings/MID50-Drive-Unit-Community-Model.step$camera=656.37517,177.17326,434.88746,435.26201,13.20497,50.90208,0.00000,1.00000,0.00000,45.00000$projectionmode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
+    <iframe 
+        width="100%" 
+        height="480" 
+        style="border:1px solid #eeeeee;" 
+        src="
+            https://3dviewer.net/embed.html#
+            model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/MID50/mechanics/drawings/MID50-Drive-Unit-Community-Model.step$
+            camera=656.37517,177.17326,434.88746,435.26201,13.20497,50.90208,0.00000,1.00000,0.00000,45.00000$
+            projectionmode=perspective$
+            envsettings=fishermans_bastion,off$
+            backgroundcolor=42,43,46,0$
+            defaultcolor=200,200,200$
+            defaultlinecolor=100,100,100$
+            edgesettings=off,0,0,0,1
+        ">
     </iframe>
 
     Download:    [MID50-Drive-Unit-Community-Model.step](drawings/MID50-Drive-Unit-Community-Model.step)
@@ -24,19 +38,7 @@ Das Antriebsmodul gibt es in drei Varianten:
 === "2D Zeichnung"
     kommt bald
 
-
 ---
-
-=== "With tabs"
-
-    ![Navigation tabs enabled][Navigation tabs enabled]
-
-=== "Without"
-
-    [![Navigation tabs disabled]][Navigation tabs disabled]
-
-  [Navigation tabs enabled]: img/MID50-Drive-Unit.png
-  [Navigation tabs disabled]: img/MID50-Drive-Unit.png
 
 ## Akku
 Vom Akku gibt es für alle Modelle nur eine Variante. Der Griff des Akkus kann vom Nutzer an zwei unterschiedlichen Stellen des Akkus festgeschraubt werden. In der Schwalbe sollte der Griff zb. an der Seite der Ladestandsanzeige angeschraubt werden, während er für die Nutzung in der S51 an der großen 45° Schrägen montiert werden sollte.
