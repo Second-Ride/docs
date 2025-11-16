@@ -154,7 +154,6 @@ nav:
         - App: user-manual/second-ride-app/index.md
         - SR24: 
             - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
-            - "App": user-manual/SR24/02-app/index.md
             - "BT-Modul": user-manual/SR24/02-bt-module/index.md
             - "Firmware Update": user-manual/SR24/03-firmware-update/index.md
             - "Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
