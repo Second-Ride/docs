@@ -47,6 +47,7 @@ theme:
         - content.code.copy
         - navigation.instant
         #- navigation.sections
+        - navigation.expand
         - navigation.path
         - i18n
    
