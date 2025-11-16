@@ -3,6 +3,10 @@
   <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
 </p>
 
+!!! info "Info"
+
+    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
 

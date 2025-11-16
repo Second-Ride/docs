@@ -4,6 +4,10 @@
   <img src="https://github.com/user-attachments/assets/ce7d9c6e-e9cb-4f70-abea-cebe28039036" />
 </p>
 
+!!! info "Info"
+
+    Die hier beschriebene E-Kupplung ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
+
 <h2>Voraussetzungen</h2>
 <table>
   <tr>

@@ -2,6 +2,10 @@
 
 ![Simson S51 mit Second Ride SR24 Umbaukit](img/S51-SR24.png)
 
+!!! info "Info"
+
+    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+
  <h3>Voraussetzungen</h3>
 <table>
   <tr>

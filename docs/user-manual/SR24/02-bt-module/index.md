@@ -1,4 +1,8 @@
 # BT-Modul
+!!! info "Info"
+
+    Das Bluetooth-Modul ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt. Das MID50 Umbaukit hat die gesamte Funktionalität des BT-Moduls im Akku integriert.
+
 Das BT-Modul ist nur dann notwendig, wenn du eine Sitzbank ohne USB-C Anschluss neben dem Sitzbank Anschluss besitzt.   
 
 <h2>Lieferumfang & BT-Modul</h2>

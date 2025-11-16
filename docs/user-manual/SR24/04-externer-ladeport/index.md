@@ -4,6 +4,9 @@
   <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" />
 </p>
 
+!!! info "Info"
+
+    Der hier beschriebene externe Ladeanschluss ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
 
 <h2>Voraussetzungen</h2>
 <table>

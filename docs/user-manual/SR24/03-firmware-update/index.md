@@ -1,4 +1,7 @@
 # Anleitung zum Firmwareupdate
+!!! info "Info"
+
+    Der folgende Prozess gilt nur für die Second Ride Umbaukits SR23 und SR24. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
 
 Seit April 2025 werden alle Komponenten des Umbausatzes mit dem neuen Webupdate-Tool programmiert. Das bisherige Programm „DFU Buddy“ wird nicht mehr verwendet. Mit dem Webupdate-Tool kannst du dein Moped bequem und sicher über den Chrome-Browser aktualisieren: [Link zum Webupdatetool](https://second-ride.de/update)		
 
