@@ -46,7 +46,7 @@ theme:
         - content.action.edit
         - content.code.copy
         - navigation.instant
-        - navigation.sections
+        #- navigation.sections
         - navigation.path
         - i18n
    
