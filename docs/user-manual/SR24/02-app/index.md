@@ -9,7 +9,8 @@ Unterstützte Smartphone Modelle:
 - iOS-Geräte ab iOS 15 (mindestens iPhone X oder neuer)
 - Android-Geräte, ab Baujahr 2019 und mindestens Android 10
 
-Unterstützte Second Ride Umbausätze
+Unterstützte Second Ride Umbausätze:
+
 - SR23 in Verbindung mit unserem Bluetooth-Modul
 - SR24 teilweise ohne weitere Hardware und teilweise nur in Verbindung mit unserem Bluetooth-Modul (siehe nächster Abschnitt)
 - MID50
@@ -19,7 +20,7 @@ Unterstützte Second Ride Umbausätze
     Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
 
     <p align="center">
-      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="500" />
+      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="50%" />
     </p>
 
 
