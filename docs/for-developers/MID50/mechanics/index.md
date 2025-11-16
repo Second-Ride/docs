@@ -12,7 +12,7 @@ Das Antriebsmodul gibt es in drei Varianten:
 
 === "Vorschaubild"
 
-        [![MID50 Antriebsmodul]](img/MID50-Drive-Unit.png)
+        [![MID50 Antriebsmodul]](../img/MID50-Drive-Unit.png)
 
 === "3D Model"
 
@@ -26,6 +26,18 @@ Das Antriebsmodul gibt es in drei Varianten:
 
 
 ---
+
+=== "With tabs"
+
+    [![Navigation tabs enabled]][Navigation tabs enabled]
+
+=== "Without"
+
+    [![Navigation tabs disabled]][Navigation tabs disabled]
+
+  [Navigation tabs enabled]: img/MID50-Drive-Unit.png
+  [Navigation tabs disabled]: img/MID50-Drive-Unit.png
+
 ## Akku
 Vom Akku gibt es für alle Modelle nur eine Variante. Der Griff des Akkus kann vom Nutzer an zwei unterschiedlichen Stellen des Akkus festgeschraubt werden. In der Schwalbe sollte der Griff zb. an der Seite der Ladestandsanzeige angeschraubt werden, während er für die Nutzung in der S51 an der großen 45° Schrägen montiert werden sollte.
 
