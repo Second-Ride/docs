@@ -12,9 +12,15 @@
 
 Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon versucht haben einen Second Ride Umbau begutachten zu lassen. In Grün siehst du die erfolgreichen Änderungsabnahmen und in Rot die gescheiterten. Wenn du auf die Stecknadeln klickst, kannst du mehr Informationen einsehen.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CDf_Qp0kNb1LnjTww2guJW_Abqq2x08&ehbc=2E312F" width="100%" height="480" style="border:0;"></iframe>
+<iframe 
+    src="https://www.google.com/maps/d/u/0/embed?mid=1CDf_Qp0kNb1LnjTww2guJW_Abqq2x08&ehbc=2E312F" 
+    width="100%" 
+    height="480" 
+    style="border:0;">
+</iframe>
 
-**Unsere Bitte an dich** : Hilf der Community weiter, indem du deine Erfahrung zum Zulassungsprozess teilst. Nutze dafür [diese Umfrage](https://second-ride.de/zulassung), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst.
+!!! info "Unsere Bitte an dich"
+    Hilf der Community weiter, indem du deine Erfahrung zum Zulassungsprozess teilst. Nutze dafür [diese Umfrage](https://forms.gle/cgBwo8xBzBDoWcHb7), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst.
 
 - Notwendig: Teilegutachten (im Lieferumfang enthalten)
 - Überprüft wird: 
