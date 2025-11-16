@@ -36,11 +36,13 @@ Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, f
 - Ausnahme: Updates, die offiziell von Second Ride stammen, dürfen selbstverständlich auch durch Dritte (z. B. Händler, Werkstätten) aufgespielt werden – außer wir kommunizieren explizit etwas anderes.
 
 **Software umfasst insbesondere:**
+
 - Firmware
 - Parameter
 - Steuerungs- und Konfigurationssoftware aller elektronischen Steuergeräte (insbesondere VESC-bezogen)
 
 **Hardware umfasst insbesondere:**
+
 - Modifikationen an der Antriebseinheit
 - Anschließen oder paralleles Schalten von Fremdakkus
 - Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen
