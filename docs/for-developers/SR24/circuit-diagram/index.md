@@ -10,6 +10,6 @@ Der folgende Schaltplan zeigt nur die interne Verschaltung innerhalb des Umbauki
     allowfullscreen 
     frameborder="0" 
     style="width:100%; height:480px" 
-    src="https://lucid.app/documents/embedded/a897d152-4785-45de-ac02-c8e21fc53802" 
+    src="https://lucid.app/documents/embedded/a897d152-4785-45de-ac02-c8e21fc53802/edit?viewport_loc=-10159%2C-4393%2C10793%2C5960%2C0_0" 
     id="1Ht9OR9Ka_vS">
 </iframe>
