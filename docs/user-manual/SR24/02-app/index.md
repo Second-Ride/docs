@@ -28,14 +28,11 @@ Unterstützte Second Ride Umbausätze:
 
 Um dein Fahrzeug mit dem Smartphone zu verbinden, lade dir bitte zunächst die Second Ride App herunter:
 
+[Second Ride App für IPhone](http://www.second-ride.de/app-ios)
 
-[App Store Link](http://www.second-ride.de/app-ios)
+[Second Ride App für Android](http://www.second-ride.de/app-android) 
 
-
-[Google Play Store Link](http://www.second-ride.de/app-android) 
-
-!!! success
-    Achte darauf, dass du die aktuellste Version der App verwendest. Nur so ist sichergestellt, dass alle Funktionen zuverlässig arbeiten.
+Tipp: Achte darauf, dass du die aktuellste Version der App verwendest. Nur so ist sichergestellt, dass alle Funktionen zuverlässig arbeiten.
 
 ---
 ## Verbindungsaufbau 
