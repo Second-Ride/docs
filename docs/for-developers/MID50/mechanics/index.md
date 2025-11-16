@@ -29,7 +29,7 @@ Das Antriebsmodul gibt es in drei Varianten:
 
 === "With tabs"
 
-    [![Navigation tabs enabled]][Navigation tabs enabled]
+    ![Navigation tabs enabled][Navigation tabs enabled]
 
 === "Without"
 
