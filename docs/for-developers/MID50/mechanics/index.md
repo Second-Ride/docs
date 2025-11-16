@@ -16,7 +16,13 @@ Das Antriebsmodul gibt es in drei Varianten:
 
 === "3D Model"
 
-    <iframe width="100%" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/MID50/mechanics/drawings/MID50-Drive-Unit-Community-Model.step$camera=598.47776,116.27502,-206.23980,441.38857,8.05166,59.75368,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1"></iframe>
+    <iframe 
+        width="100%" 
+        height="480" 
+        style="border:1px 
+        solid #eeeeee;" 
+        src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/MID50/mechanics/drawings/MID50-Drive-Unit-Community-Model.step$camera=598.47776,116.27502,-206.23980,441.38857,8.05166,59.75368,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
+    </iframe>
 
     [STEP-Datei herunterladen :material-download:](drawings/MID50-Drive-Unit-Community-Model.step){ .md-button .md-button--primary }
 
