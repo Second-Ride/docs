@@ -80,7 +80,11 @@ plugins:
             color: "#E4B854"
             font_family: Figtree
     - search
-    #- i18n:
+     - i18n:
+       theme:
+         name: material
+         language: de
+         
        #docs_structure: suffix
        #languages:
          #- locale: de
@@ -177,5 +181,6 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
