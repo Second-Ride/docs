@@ -1,11 +1,11 @@
 # 📚 Second Ride Dokumentation
+## 💡 Änderungen an der Dokumentation vorschlagen
 
 Willkommen in der Second Ride Dokumentation!  
 Hier findest du alle Informationen rund um unsere Umbaukits und Produkte – von Umbauanleitungen über Bedienungsanleitungen bis hin zu technischen Details für Entwickler oder Wartungszwecke.
 
 Unten rechts auf der Seite findest du außerdem einen **Chatbot**, der die gesamte Dokumentation kennt. Er hilft dir schnell weiter und zeigt dir auf Wunsch die passende Stelle in der Doku zu deiner Frage.
 
-## 💡 Änderungen an der Dokumentation vorschlagen
 
 Diese Dokumentation ist **Open Source**.  
 Das bedeutet: Du kannst selbst Inhalte bearbeiten oder neue Bilder hinzufügen und deine Änderungen zur Überprüfung vorschlagen.
