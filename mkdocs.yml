@@ -29,6 +29,7 @@ markdown_extensions:
 
 theme:
     name: material
+    language: de
     logo: img/Bildmarke_Weiss.svg
     favicon: img/favicon.ico
     font:
@@ -80,11 +81,7 @@ plugins:
             color: "#E4B854"
             font_family: Figtree
     - search
-     - i18n:
-       theme:
-         name: material
-         language: de
-         
+     #-i18n:
        #docs_structure: suffix
        #languages:
          #- locale: de
@@ -181,6 +178,7 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
 
 
