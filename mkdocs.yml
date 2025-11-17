@@ -1,4 +1,4 @@
-site_name: Second Ride Documentation
+site_name: Second Ride Dokumentation
 site_description: 'Umfassende Dokumentation und FAQs zu Second Ride Umbausätzen, Installation, Wartung und Fehlerbehebung'
 site_url: https://docs.second-ride.de/ 
 repo_url: https://github.com/Second-Ride/docs/
@@ -177,4 +177,5 @@ nav:
 
 extra_javascript:
   - javascripts/typebot.js
+
 
