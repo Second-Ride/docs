@@ -1,0 +1,2 @@
+# Community Erweitungen für MID50 Umbaukits
+Es gibt bereits viele tolle [Erweiterungen für SR23 und SR24](/for-developers/SR24/community-extensions) Umbaukits, die aus der Community entwickelt wurden. Hier ist der Ort um Zubehör-Erweiterungen wie Displays, IoT-Fuktionen, etc. zu dokumentieren. Die Entwicklung von Adaptern um MID50 mit neuen Fahrzeugen kompatibel zu machen, gehört jedoch in die [Second Ride Fahrzeugdatenbank](/for-developers/vehicle-database/).

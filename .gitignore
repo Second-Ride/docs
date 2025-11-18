@@ -1,0 +1,74 @@
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Build folder
+site/
+
+.cache
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+### Node ###
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+node_modules/
+*.tsbuildinfo
+.npm
+.eslintcache
+.stylelintcache
+
+### Mac ###
+.DS_Store
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MkDocs build output (generated files)
+site/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker build context (optional)
+.dockerignore
+
+# Server-specific files (deployment infrastructure)
+webhook.py
+docker-compose.yml
+Dockerfile
+nginx.conf
+
+# Build output and cache
+site/
+.cache/
+
+# Virtual environment
+venv/
+
+# IDE settings
+.vscode/
+
+.env
+start.sh
+f
+
+# large 3d model
+docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.obj
+*.obj

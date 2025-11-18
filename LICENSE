@@ -1,0 +1,56 @@
+SECOND RIDE – LICENSE
+
+-------------------------------------------------------------------------------
+1. SECOND RIDE PROPRIETARY SOFTWARE
+-------------------------------------------------------------------------------
+
+All source code, binaries, and related software created by Second Ride that is 
+not derived from the VESC project is proprietary and closed source.
+
+Copyright (c) Second Ride GmbH. All rights reserved.
+
+You are NOT permitted to copy, modify, distribute, or use this software in any 
+form without prior written permission from Second Ride GmbH.
+
+-------------------------------------------------------------------------------
+2. VESC-DERIVED SOFTWARE COMPONENTS
+-------------------------------------------------------------------------------
+
+Parts of this repository may contain or be based on the VESC project, which is 
+licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+Those parts remain licensed under GPLv3. When redistributing these components, 
+you must comply with the GPLv3 license terms, including making source code 
+available to recipients of binaries.
+
+Full GPLv3 license text: https://www.gnu.org/licenses/gpl-3.0.html
+
+-------------------------------------------------------------------------------
+3. HARDWARE DESIGNS (CAD models, 3D files, technical drawings)
+-------------------------------------------------------------------------------
+
+All hardware design files, CAD models, and technical drawings created by 
+Second Ride are licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — You must distribute derivative works under the same license.
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-------------------------------------------------------------------------------
+4. LIABILITY AND SAFETY
+-------------------------------------------------------------------------------
+
+- Any modification of hardware or software not originating from Second Ride
+  voids warranty, liability, and road traffic approval (Betriebserlaubnis).
+- Modified designs or firmware may pose significant risks to persons and property.
+- Use at your own risk, no liability or warranty provided by Second Ride.
+- Compliance with road traffic laws and technical standards is the sole 
+  responsibility of the user.

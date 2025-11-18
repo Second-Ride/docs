@@ -1,0 +1,208 @@
+site_name: Second Ride Dokumentation
+site_description: 'Umfassende Dokumentation zu Elektro-Umbaukits von Second Ride'
+site_url: https://docs.second-ride.de/ 
+repo_url: https://github.com/Second-Ride/docs/
+edit_uri: https://github.com/Second-Ride/docs/edit/main/docs
+
+extra_css:
+    - stylesheets/extra.css
+    - stylesheets/neoteroi-cards.css
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - md_in_html
+  - neoteroi.cards
+  #- meta
+  - footnotes
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+        
+
+theme:
+    name: material
+    language: de
+    logo: img/Bildmarke_Weiss.svg
+    favicon: img/favicon.ico
+    font:
+        text: Figtree
+    features:
+        - navigation.footer
+        - navigation.instant
+        - navigation.instant.prefetch
+        - navigation.instant.progress
+        - navigation.tracking
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.top
+        - content.tabs.link
+        - content.action.edit
+        - content.code.copy
+        - navigation.path
+        #- i18n
+   
+
+    palette:
+        #primary: custom
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          primary: custom
+          accent: custom
+          scheme: slate
+          toggle:
+            icon: material/brightness-5
+            name: Switch to light mode
+
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          primary: custom
+          accent: custom
+          scheme: default
+          toggle:
+            icon: material/brightness-2
+            name: Switch to dark mode
+plugins:
+    - glightbox:
+        draggable: false
+    - social:
+        cards_layout_options:
+            background_color: "#111111"
+            color: "#E4B854"
+            font_family: Figtree
+    - search
+     #-i18n:
+       #docs_structure: suffix
+       #languages:
+         #- locale: de
+           #name: Deutsch
+           #default: true
+           #search:
+            #language: de
+            #translations:
+              #search:
+                #label: "Suche"
+                #placeholder: "Suche"
+         #- locale: en
+           #name: English
+           #nav_translations:
+             #"Home": "Home"
+             #"Umbauanleitung": "Conversion manual"
+             #"Übersicht": "Overview"
+             #"SR24": "SR24"
+             #"S50/S51": "S50/S51"
+             #"Schwalbe": "Schwalbe"
+             #"SR50": "SR50"
+             #"Duo": "Duo"
+             #"Vogelserie": "Vogelserie"
+             #"Bedienungsanleitung": "User manual"
+             #"01 Antrieb & Akku": "01 Drive unit & battery"
+             #"02 App": "02 App"
+             #"03 Update": "03 Update"
+             #"04 Externer Ladeanschluss": "04 External charging port"
+             #"05 E-Kupplung": "05 E-clutch"
+             #"Änderungsabnahme & Zulassung": "Modification approval & homologation"
+             #"Für Entwickler": "For developers"
+             #"Kommunikationsprotokolle": "Communication protocols"
+             #"Schaltplan": "Circuit diagram"
+             #"FAQ": "FAQ"
+           #search:
+            #language: en
+            #translations:
+              #search:
+                #label: "Search"
+                #placeholder: "Search"   
+     
+           
+
+        
+extra:
+  social:
+    - icon: fontawesome/brands/facebook-f
+      link: https://www.facebook.com/secondridegmbh
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/second_ride_/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@second-ride
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/jbWrdN6NK7
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/company/second-ride
+  analytics:
+    provider: google
+    property: G-YZJB651WB8
+
+
+
+nav:
+    - Home: index.md
+    - Umbauanleitung:
+        #- Übersicht: conversion-manual/index.md
+        - MID50: conversion-manual/MID50/index.md
+        - SR24:
+            - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
+            - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
+            - SR50: conversion-manual/SR24/03-sr50/index.md
+            - Duo: conversion-manual/SR24/04-duo/index.md
+            - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
+        - "Änderungsabnahme & Zulassung": conversion-manual/modification-approval-and-homologation/index.md
+    - Bedienungsanleitung:
+        #- Übersicht: user-manual/index.md
+        - MID50: user-manual/MID50/index.md
+        - App: user-manual/second-ride-app/index.md
+        - SR24: 
+            - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
+            - BT-Modul: user-manual/SR24/02-bt-module/index.md
+            - Firmware Update: user-manual/SR24/03-firmware-update/index.md
+            - Externer Ladeanschluss: user-manual/SR24/04-externer-ladeport/index.md
+            - E-Kupplung: user-manual/SR24/05-electric-clutch/index.md
+    - Für Entwickler:
+        - Einleitung: for-developers/index.md
+        - MID50: 
+            - Mechanik: for-developers/MID50/mechanics/index.md
+            - Elektronik: for-developers/MID50/electronic/index.md
+            - Software: for-developers/MID50/software/index.md
+            - Community Erweiterungen: for-developers/MID50/community-extensions/index.md
+        - Fahrzeug Datenbank:
+            - "--- Wie du beitragen kannst ---": for-developers/vehicle-database/index.md
+            - Honda:
+                - "CB50/CB125": for-developers/vehicle-database/honda/cb50/index.md
+                - "Cub50/70/90": for-developers/vehicle-database/honda/cub/index.md
+                - "Dax/ST50": for-developers/vehicle-database/honda/dax/index.md
+                - "Monkey/Gorilla": for-developers/vehicle-database/honda/monkey/index.md
+            - Jawa: for-developers/vehicle-database/jawa/index.md
+            - Kreidler: for-developers/vehicle-database/kreidler/index.md
+            - "Motobecane / MBK": for-developers/vehicle-database/mbk/index.md
+            - MZ: for-developers/vehicle-database/mz/index.md
+            - Peugeot: for-developers/vehicle-database/peugeot/index.md
+            - Piaggio: for-developers/vehicle-database/piaggio/index.md
+            - Puch: for-developers/vehicle-database/puch/index.md
+            - Simson: 
+                - "S50/S51/S70": for-developers/vehicle-database/simson/s50-s51/index.md
+                - Schwalbe: for-developers/vehicle-database/simson/schwalbe/index.md
+                - SR50: for-developers/vehicle-database/simson/sr50/index.md
+                - Duo: for-developers/vehicle-database/simson/duo/index.md
+                - Vogelserie: for-developers/vehicle-database/simson/sr4-x/index.md
+            - Tomos: for-developers/vehicle-database/tomos/index.md
+            - Yamaha: for-developers/vehicle-database/yamaha/index.md
+            - "Zündapp": for-developers/vehicle-database/zuendapp/index.md
+        - "SR23 & SR24": 
+            - Elektronik: for-developers/SR24/circuit-diagram/index.md
+            - Software: for-developers/SR24/communication-protocols/index.md
+            - Community Erweiterungen: for-developers/SR24/community-extensions/index.md
+    - FAQ: 
+        - "Bestellungen & Versand": faq/orders-shipping/index.md
+        - MID50: faq/mid50/index.md
+        - SR24: faq/sr23-sr24/index.md
+
+extra_javascript:
+  - javascripts/typebot.js
+
+
