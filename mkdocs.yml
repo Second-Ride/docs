@@ -1,5 +1,5 @@
 site_name: Second Ride Dokumentation
-site_description: 'Umfassende Dokumentation und FAQs zu Second Ride Umbausätzen, Installation, Wartung und Fehlerbehebung'
+site_description: 'Umfassende Dokumentation zu Elektro-Umbaukits von Second Ride'
 site_url: https://docs.second-ride.de/ 
 repo_url: https://github.com/Second-Ride/docs/
 edit_uri: https://github.com/Second-Ride/docs/edit/main/docs
@@ -14,7 +14,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - neoteroi.cards
-  - meta
+  #- meta
   - footnotes
   - pymdownx.tabbed:
       alternate_style: true
@@ -46,11 +46,8 @@ theme:
         - content.tabs.link
         - content.action.edit
         - content.code.copy
-        - navigation.instant
-        #- navigation.sections
-        - navigation.expand
         - navigation.path
-        - i18n
+        #- i18n
    
 
     palette:
@@ -138,6 +135,9 @@ extra:
       link: https://discord.com/invite/jbWrdN6NK7
     - icon: fontawesome/brands/linkedin
       link: https://de.linkedin.com/company/second-ride
+  analytics:
+    provider: google
+    property: G-YZJB651WB8
 
 
 
@@ -159,26 +159,50 @@ nav:
         - App: user-manual/second-ride-app/index.md
         - SR24: 
             - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
-            - "BT-Modul": user-manual/SR24/02-bt-module/index.md
-            - "Firmware Update": user-manual/SR24/03-firmware-update/index.md
-            - "Externer Ladeanschluss": user-manual/SR24/04-externer-ladeport/index.md
-            - "E-Kupplung": user-manual/SR24/05-electric-clutch/index.md
+            - BT-Modul: user-manual/SR24/02-bt-module/index.md
+            - Firmware Update: user-manual/SR24/03-firmware-update/index.md
+            - Externer Ladeanschluss: user-manual/SR24/04-externer-ladeport/index.md
+            - E-Kupplung: user-manual/SR24/05-electric-clutch/index.md
     - Für Entwickler:
         - Einleitung: for-developers/index.md
         - MID50: 
             - Mechanik: for-developers/MID50/mechanics/index.md
             - Elektronik: for-developers/MID50/electronic/index.md
             - Software: for-developers/MID50/software/index.md
+            - Community Erweiterungen: for-developers/MID50/community-extensions/index.md
+        - Fahrzeug Datenbank:
+            - "--- Wie du beitragen kannst ---": for-developers/vehicle-database/index.md
+            - Honda:
+                - "CB50/CB125": for-developers/vehicle-database/honda/cb50/index.md
+                - "Cub50/70/90": for-developers/vehicle-database/honda/cub/index.md
+                - "Dax/ST50": for-developers/vehicle-database/honda/dax/index.md
+                - "Monkey/Gorilla": for-developers/vehicle-database/honda/monkey/index.md
+            - Jawa: for-developers/vehicle-database/jawa/index.md
+            - Kreidler: for-developers/vehicle-database/kreidler/index.md
+            - "Motobecane / MBK": for-developers/vehicle-database/mbk/index.md
+            - MZ: for-developers/vehicle-database/mz/index.md
+            - Peugeot: for-developers/vehicle-database/peugeot/index.md
+            - Piaggio: for-developers/vehicle-database/piaggio/index.md
+            - Puch: for-developers/vehicle-database/puch/index.md
+            - Simson: 
+                - "S50/S51/S70": for-developers/vehicle-database/simson/s50-s51/index.md
+                - Schwalbe: for-developers/vehicle-database/simson/schwalbe/index.md
+                - SR50: for-developers/vehicle-database/simson/sr50/index.md
+                - Duo: for-developers/vehicle-database/simson/duo/index.md
+                - Vogelserie: for-developers/vehicle-database/simson/sr4-x/index.md
+            - Tomos: for-developers/vehicle-database/tomos/index.md
+            - Yamaha: for-developers/vehicle-database/yamaha/index.md
+            - "Zündapp": for-developers/vehicle-database/zuendapp/index.md
         - "SR23 & SR24": 
             - Elektronik: for-developers/SR24/circuit-diagram/index.md
             - Software: for-developers/SR24/communication-protocols/index.md
             - Community Erweiterungen: for-developers/SR24/community-extensions/index.md
-    - FAQ: faq/index.md
-    
+    - FAQ: 
+        - "Bestellungen & Versand": faq/orders-shipping/index.md
+        - MID50: faq/mid50/index.md
+        - SR24: faq/sr23-sr24/index.md
 
 extra_javascript:
   - javascripts/typebot.js
-
-
 
 

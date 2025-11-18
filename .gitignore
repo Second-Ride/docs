@@ -68,3 +68,7 @@ venv/
 .env
 start.sh
 f
+
+# large 3d model
+docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.obj
+*.obj

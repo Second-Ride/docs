@@ -1,1 +1,1 @@
-Es wurde noch kein Eintrag für Honda angelegt. Folge der [Anleitung](https://docs.second-ride.de/for-developers/vehicle-database/) um einen neuen Eintrag anzulegen.
+Es wurde noch kein Eintrag angelegt. Folge der [Anleitung](/for-developers/vehicle-database/) um einen neuen Eintrag anzulegen.

@@ -1,16 +1,18 @@
 # Unsere Open Source Philosophie
 
-Willkommen im Entwicklerbereich von Second Ride.
+Willkommen im Entwicklerbereich von Second Ride .
 
-Unsere Mission ist es, die Elektrifizierung der tausenden Fahrzeugemodelle da draußen genauso einfach zu machen, wie wir es für Simson Mopeds bereits gezeigt haben. Doch allein schaffen wir das nicht: Nur gemeinsam als Community können wir die Vielzahl aller Modelle digitalisieren und modelspzifische Adapterkits, Akkuhalterungen und Anleitungen entwickeln. 
+Unsere Mission ist es, die **Elektrifizierung ikonischer Leichtfahrzeuge** – von der Simson bis zu Tausenden anderer Modelle – so zugänglich und einfach wie möglich zu gestalten. Das erreichen wir nur durch die kollektive Stärke der Community: **Open Source** ist der Schlüssel, um die Vielfalt der weltweiten Fahrzeugrahmen zu digitalisieren und modellspezifische Adapter, Akkuhalterungen und Anleitungen schnell zu entwickeln.
 
 Darüber hinaus wollen wir euch außerdem die Möglichkeit bieten Erweiterungen wie Displays, Soundmodule, IoT-Funktionen, Schaltgetriebe-Simulatoren, etc. zu entwickeln ... Dafür veröffentlichen wir hier alle dafür notwendigen Schaltpläne und Kommunikationsprotokolle.
 
+---
+
 ## Wie wir trotz Open Source straßenverkehrskonform, sicher und haftbar bleiben
 
-Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir einerseits euch möglichst viele Freiheiten lassen können, andererseits aber
+Es war eine schwierige Aufgabe, MID50 so zu gestalten, dass wir euch einerseits möglichst viele Freiheiten lassen können, andererseits aber
 
-1. keine Gefahr durch gefährliche Modifikation von dem Akku ausgehen kann,
+1. keine Gefahr aufgrund gefährlicher Modifikation von dem Akku ausgehen kann,
 2. das System sicher gegen Tuning nach der Änderungsabnahme ist (Anforderung für die Zulassung),
 3. wir nicht mit Garantiefällen oder Kundensupport überhäuft werden, welche durch Modifikation des Systems entstehen.
 
@@ -22,7 +24,7 @@ Auch von falscher Konfiguration des Motors kann eine große Gefahr für euch und
 
 ### 2. Straßenverkehrskonformität
 
-Im deutschen und EU-Recht ist vorgeschrieben, dass wenn Fahrzeuge einmal für den Straßenverkehr zugelassen wurden, Leistung und Geschwindigkeit gegenüber den in den Fahrzeugpapieren angegebenen Werten nicht mehr gesteigert werden dürfen, ohne eine Änderungsabnahme oder Neuzulassung durchzuführen.
+Im deutschen und EU-Recht ist vorgeschrieben, dass nachdem Fahrzeuge einmal für den Straßenverkehr zugelassen wurden, Leistung und Geschwindigkeit gegenüber den in den Fahrzeugpapieren angegebenen Werten nicht mehr gesteigert werden dürfen, ohne eine Änderungsabnahme oder Neuzulassung durchzuführen.
 
 Daher haben wir zusätzlich zu dem Open Source Motorsteuergerät ein weiteres Closed-Source-Steuergerät namens "Malcolm" im Antrieb untergebracht, welches genau das sicherstellt. Wie in der Anleitung beschrieben (tbd), kann nach Kauf des Umbaukits die Drosselung frei gewählt und entweder vorübergehend oder endgültig gespeichert werden. Ist eure Drosselung endgültig gespeichert und ihr versucht, eine höhere Drehzahl oder höhere Leistung in dem VESC Motorsteuergerät zu programmieren, wird der Akku die Stromzufuhr des Akkus abschalten. Wollt ihr also z. B. euren Antrieb nur für Offroad-Einsatz nutzen, braucht ihr euren Antrieb nie endgültig zu drosseln und habt abgesehen von den Limits des Akkus keine Begrenzungen.
 
