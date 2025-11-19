@@ -40,7 +40,7 @@
         height="480" 
         style="border:1px 
         solid #eeeeee;" 
-        src="https://3dviewer.net/embed.html#model=https://github.com/Second-Ride/docs/tree/main/docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.obj$camera=598.47776,116.27502,-206.23980,441.38857,8.05166,59.75368,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
+        src="https://3dviewer.net/embed.html#model=https://github.com/Second-Ride/docs/tree/main/docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.glb$camera=598.47776,116.27502,-206.23980,441.38857,8.05166,59.75368,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
     </iframe>
 
     [3D-Model herunterladen :material-download:](technical-vehicle-docs/S51-scan-mittelrahmen.obj){ .md-button .md-button--primary }
