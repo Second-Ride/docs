@@ -2,7 +2,7 @@
 
 !!! success "Von Second Ride freigegeben"
 
-    Das MID50 Umbaukit für Simson S50/S51 ist fertig entwickelt und im [Shop](second-ride.de/shop) verfügbar.
+    Das MID50 Umbaukit für Simson S50/S51 ist fertig entwickelt und im [Shop](https://second-ride.de/shop) verfügbar.
 
 === "Foto vor der Elektrifizierung"
 
@@ -10,20 +10,13 @@
 
 === "Foto nach der Elektrifizierung"
 
-    ![Simson S51 nach der Elektrofizierung](img/S51-post-electrification.png)
+    ![Simson S51 nach der Elektrifizierung](img/S51-post-electrification.png)
 
-## Status der MID50 Entwicklung
+---
 
-| Eigenschaft                                               | Wert                          |
-| :---------------------------------------------------------| :-----------------------------|
-| 3D Scan vorhanden                                         | :white_check_mark:            |
-| Adapterkit für Antrieb entwickelt & im Shop erhältlich    | :white_check_mark:            |
-| Akkuhalterung entwickelt & im Shop erhältlich             | :white_check_mark:            |
-| Umbau- und Bedienungsanleitung veröffentlicht             | :white_check_mark:            |
-| Teilegutachten vorhanden                                  | :white_check_mark:            |
+## Dokumentation zum Fahrzeug
 
-
-## Allgemeine Technische Daten
+### Allgemeine Technische Daten
 | Eigenschaft                                               | Wert                          |
 | :---------------------------------------------------------| :-----------------------------|
 | Modellbezeichnungen                                       | S50, S51                      |
@@ -31,7 +24,7 @@
 | Originale Motorleistung                                   | 3,6 PS / 3,7 PS (S50 / S51)   |
 | Baujahre                                                  | 1975 - 1989                   |
 
-## Maßstabsgetreue Zeichnungen
+### Maßstabsgetreue Zeichnungen
 
 === "3D Model"
 
@@ -43,19 +36,30 @@
         src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.glb$camera=54.09951,6.31634,-85.95721,5.34919,-20.31723,-1.74013,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
     </iframe>
 
-    [3D-Model herunterladen :material-download:](technical-vehicle-docs/S51-scan-mittelrahmen.obj){ .md-button .md-button--primary }
+    [3D-Model herunterladen :material-download:](technical-vehicle-docs/S51-scan-mittelrahmen.glb){ .md-button .md-button--primary }
 
 === "2D Zeichnung"
 
     ![Simson S51 Zeichnung](technical-vehicle-docs/simson_s51_abmessungen.png)
     
-## Bordnetz
+### Bordnetz
 
-[Bordnetz Schaltplan](https://schaltplan.app/S51)
+<iframe src="technical-vehicle-docs/S50-51-70-schaltplan-v2.pdf" width="100%" height="450px">
+    Dieser Browser unterstützt keine PDFs. 
+    <a href="technical-vehicle-docs/S50-51-70-schaltplan-v2.pdf">PDF herunterladen</a>
+</iframe>
 
-<!--Hier könnte ein PDF-Viewer per iframe eingebunden werden.-->
+---
 
-## MID50 Entwicklungen
+## MID50 Adaption für die Simson S50 / S51
+
+| Meilenstein                                               | Status                          |
+| :---------------------------------------------------------| :---------------------------------------|
+| 3D Scan                                                   | :white_check_mark: vorhanden            |
+| Adapterkit für Antrieb                                    | :white_check_mark: entwickelt & im Shop erhältlich           |
+| Akkuhalterung                                             | :white_check_mark: entwickelt & im Shop erhältlich           |
+| Umbau- und Bedienungsanleitung                            | :white_check_mark: veröffentlicht           |
+| Teilegutachten                                            | :white_check_mark: vorhanden             |
 
 ### MID50 Adapterkits
 

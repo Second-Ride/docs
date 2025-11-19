@@ -74,3 +74,12 @@ a.md-nav__link:hover {
   text-align: center;
 }
 
+.md-typeset table {
+    width: 100% !important;
+    table-layout: auto; /* optional, für flexible Spaltenbreiten */
+}
+
+.md-typeset .md-table-container {
+    overflow-x: auto; /* falls Tabelle breiter als Bildschirm */
+}
+
