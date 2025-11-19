@@ -1,4 +1,4 @@
-# Zulassung & Abnahme mit dem Teilegutachten
+# Zulassung & Abnahme in Deutschland
 
 ## Schritt 1: Check dein Moped
 
@@ -8,7 +8,11 @@
 - Sind Blinker, Lichter, Bremsen, Stoßdämpfern, Diebstahlsicherung, Lenkerschloss, Kabelführung, Reifenprofil in Ordnung?
 - Sind Vorder- und Hinterrad in einer Linie (Spur)?
 
+---
+
 ## Schritt 2: Änderungsabnahme
+
+### Technische Sachverständigenstelle aussuchen
 
 Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon versucht haben einen Second Ride Umbau begutachten zu lassen. In Grün siehst du die erfolgreichen Änderungsabnahmen und in Rot die gescheiterten. Wenn du auf die Stecknadeln klickst, kannst du mehr Informationen einsehen.
 
@@ -25,14 +29,28 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 !!! info "Bitte teile auch deine Erfahrung mit der Community"
     Hilf der Community weiter, indem du deine Erfahrung zum Zulassungsprozess teilst. Nutze dafür [diese Umfrage](https://forms.gle/cgBwo8xBzBDoWcHb7), in die du sowohl positive als auch negative Erfahrungen aufnehmen kannst. Wir schauen uns deinen Eintrag an und fügen ihn dann innerhalb weniger Wochen der Karte hinzu.
 
-Das erwartet dich bei der Änderungsabnahme:
+### Das erwartet dich bei der Änderungsabnahme
 
-- Der Prüfer wird dich nach dem Teilegutachten fragen (im Lieferumfang enthalten).
+- Der Prüfer wird dich nach dem Teilegutachten fragen (im Lieferumfang auch in Papierform enthalten).
 - Überprüft wird: 
     - der korrekte Einbau nach Montageanleitung
     - die allgemeine Betriebszustand des Gesamtfahrzeugs
  - Anschließend wird ein Prüfbericht über die Begutachtung angefertigt
- - Kosten: Abrechnung nach Aufwand der Prüfer: bisherige Erfahrungswerte 90 € - 290 €
+ - Kosten je nach Aufwand der Prüfer 90 € - 290 €
+
+### Teilegutachten
+
+Teilegutachten für das Umbaukit SR24 (Das Teilegutachten für MID50 folgt hier bald)
+
+<iframe 
+    src="docs/Teilegutachten-SR24-SRZ00746.pdf" 
+    width="100%" 
+    height="450px">
+    Dieser Browser unterstützt keine PDFs. 
+    <a href="docs/Teilegutachten-SR24-SRZ00746.pdf">PDF herunterladen</a>
+</iframe>
+
+---
 
 ## Schritt 3: Betriebserlaubnis bei Zulassungsbehörde aktualisieren
 
@@ -40,6 +58,8 @@ Das erwartet dich bei der Änderungsabnahme:
 - Die gültigen Papiere werden mit “ungültig” entwertet
 - Ausstellung neuer Papiere mit der Antriebsart “Elektro”
 - Kosten: je nach Verwaltungspauschale, in Berlin: 20 €
+
+---
 
 ## Schritt 4: Versicherung benachrichtigen
 

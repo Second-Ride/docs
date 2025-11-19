@@ -44,7 +44,10 @@
     
 ### Bordnetz
 
-<iframe src="technical-vehicle-docs/S50-51-70-schaltplan-v2.pdf" width="100%" height="450px">
+<iframe 
+    src="technical-vehicle-docs/S50-51-70-schaltplan-v2.pdf" 
+    width="100%" 
+    height="450px">
     Dieser Browser unterstützt keine PDFs. 
     <a href="technical-vehicle-docs/S50-51-70-schaltplan-v2.pdf">PDF herunterladen</a>
 </iframe>
@@ -105,7 +108,7 @@
 
 ### MID50 Anleitung
 
-Bald werden jeweils Anleitungen in den Kapiteln [Umbauanleitung](/conversion-manual/) und [Bedienungsanleitung](/user-manual/) erscheinen.
+Bald werden jeweils Anleitungen in den Kapiteln [Umbauanleitung](/conversion-manual/MID50) und [Bedienungsanleitung](/user-manual/MID50) erscheinen.
 
 ## Referenzen
 Auf den Social Media Kanälen von Second Ride sind viele Beispiele zu sehen wie die S51 mit MID50 aussieht.
