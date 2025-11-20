@@ -138,8 +138,17 @@ extra:
   analytics:
     provider: google
     property: G-YZJB651WB8
+  consent:
+    title: Cookie-Zustimmung
+    description: >-
+      Wir verwenden Cookies, um die Wirksamkeit unserer Dokumentation zu messen und festzustellen, ob
+      du findest, wonach du suchst. Mit deiner Zustimmung hilfst du uns,
+      unsere Dokumentation zu verbessern.
+  generator: false
 
-
+copyright: >
+  <a href="#__consent">Cookie Einstellungen</a> <br>
+  <a href="https://second-ride.de/impressum">Impressum</a>
 
 nav:
     - Home: index.md
