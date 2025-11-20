@@ -26,6 +26,10 @@
 
 ### Maßstabsgetreue Zeichnungen
 
+=== "Vorschaubild"
+
+    ![Simson S51 3D Scan](technical-vehicle-docs/S51-scan-mittelrahmen.png)
+
 === "3D Model"
 
     <iframe 
