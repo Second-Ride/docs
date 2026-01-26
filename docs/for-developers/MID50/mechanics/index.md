@@ -45,7 +45,13 @@ Vom Akku gibt es für alle Modelle nur eine Variante. Der Griff des Akkus kann v
     [STEP-Datei herunterladen :material-download:](drawings/MID50-Battery-Community-Model.step){ .md-button .md-button--primary }
 
 === "2D Zeichnung"
-    kommt bald
+    <iframe 
+        src="drawings/MID50-Battery-2d-drawing.pdf" 
+        width="100%" 
+        height="450px">
+        Dieser Browser unterstützt keine PDFs. 
+        <a href="drawings/MID50-Battery-2d-drawing.pdf">PDF herunterladen</a>
+    </iframe>
 
 ---
 ## Adapter-Kits
