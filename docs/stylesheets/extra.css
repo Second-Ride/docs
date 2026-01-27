@@ -1,9 +1,25 @@
-:root {
+/* Higher specificity selectors for mkdocs-material 9.7+ */
+:root > * {
   --md-primary-fg-color:        #2F2F2F;
   --md-primary-fg-color--light: #DAA520;
   --md-primary-fg-color--dark:  #34164A;
+  --md-accent-fg-color:         #DAA520;
+}
 
-  --md-accent-fg-color: #DAA520;
+/* Dark mode (slate scheme) */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #2F2F2F;
+  --md-primary-fg-color--light: #DAA520;
+  --md-primary-fg-color--dark:  #34164A;
+  --md-accent-fg-color:         #DAA520;
+}
+
+/* Light mode (default scheme) */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #2F2F2F;
+  --md-primary-fg-color--light: #DAA520;
+  --md-primary-fg-color--dark:  #34164A;
+  --md-accent-fg-color:         #DAA520;
 }
 
 a {
