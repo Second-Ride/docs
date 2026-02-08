@@ -27,7 +27,7 @@ Maximal sind ca. 14 kW (20 PS) Spitzenleistung und bis zu 2250 U/min an der Abtr
 Die Dauerleistung liegt bei ca. 3-4 kW (bei 80 km/h Fahrtwindkühlung bis ca. 5 kW).
 
 ## Wie funktioniert die Drosselung für die Straßenzulassung?
-Das Kit wird ungedrosselt ausgeliefert. Die Drosselung erfolgt über eine WLAN-Verbindung direkt zum Fahrzeug (keine App notwendig). Hier kann die Leistung entweder temporär oder endgültig (für die Straßenzulassung) festgelegt werden.
+Das Kit wird mit einer temporären Drosselung ausgeliefert (noch kein endgültig gespeichertes Limit). Die Konfiguration erfolgt über eine WLAN-Verbindung direkt zum Fahrzeug (keine App notwendig). Hier kann die Leistung entweder temporär angepasst oder endgültig (für die Straßenzulassung) festgelegt werden.
 
 ## Kann ich die Drosselung später ändern?
 Nach der endgültigen Drosselung (z.B. auf 45 oder 60 km/h) kann die Leistung über unsere App zwar jederzeit weiter **reduziert** werden (z.B. für Fahranfänger), aber **nicht mehr über den gesetzten Grenzwert hinaus gesteigert** werden. Dies ist eine gesetzliche Anforderung.
