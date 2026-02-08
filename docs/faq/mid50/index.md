@@ -23,14 +23,14 @@ Du kannst sowohl die Seitendeckel als auch den Zylinder und den Zylinderkopf wei
 Momentan ist MID50 noch nicht mit SR24 kompatibel. Wir wollen aber eine Schnittstelle zwischen einem SR24 Antriebsmodul und einem MID50 Akku schaffen, sodass du die Reichweite deines SR24 Kits auch mit MID50 Akkus aufstocken kannst.
 
 ## Welche maximale Leistung ist mit MID50 möglich?
-Maximal sind ca. 14 kW (20 PS) Spitzenleistung und bis zu 5000 U/min an der Abtriebswelle möglich.
+Maximal sind ca. 14 kW (20 PS) Spitzenleistung und bis zu 2250 U/min an der Abtriebswelle möglich.
 Die Dauerleistung liegt bei ca. 3-4 kW (bei 80 km/h Fahrtwindkühlung bis ca. 5 kW).
 
 ## Wie funktioniert die Drosselung für die Straßenzulassung?
-Das Kit wird mit einer voreingestellten niedrigen Leistung ("offen" im Sinne von ungedrosselter Hardware, aber softwareseitig begrenzt) ausgeliefert. Die Drosselung erfolgt stufenlos über die App durch Festlegung von Drehzahl und Leistung. Die Einstellung wird dann im Antriebsmodul gespeichert.
+Das Kit wird ungedrosselt ausgeliefert. Die Drosselung erfolgt über eine WLAN-Verbindung direkt zum Fahrzeug (keine App notwendig). Hier kann die Leistung entweder temporär oder endgültig (für die Straßenzulassung) festgelegt werden.
 
 ## Kann ich die Drosselung später ändern?
-Wenn die Konfiguration endgültig gespeichert wurde (notwendig für die Änderungsabnahme), ist die Einstellung nicht mehr änderbar.
+Nach der endgültigen Drosselung (z.B. auf 45 oder 60 km/h) kann die Leistung über unsere App zwar jederzeit weiter **reduziert** werden (z.B. für Fahranfänger), aber **nicht mehr über den gesetzten Grenzwert hinaus gesteigert** werden. Dies ist eine gesetzliche Anforderung.
 
 ## Wie weit komme ich mit dem MID50 Akku?
 Mit einem 2 kWh Akku beträgt die Reichweite für ein Zweirad mit 35km/h Durchschnittsgeschwindigkeit und einem Fahrer ca. 55 km. Mit zwei Akkus (4 kWh) werden bis zu 110 km erreicht. Die Reichweite wurde unter realen Bedingungen im Stadtverkehr getestet.
