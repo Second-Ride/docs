@@ -19,7 +19,7 @@ Nun ist das Fahrzeug im **inaktiven Fahrbetrieb** , was durch die an- und ausdim
 Wenn du die Fahrt beenden möchtest, kannst du entweder das Zündschloss wieder ausschalten (90° entgegen des Uhrzeigersinns), was das gesamte Fahrzeug ausschaltet oder nochmal den Taster drücken, was das Fahrzeug wieder in den inaktiven Fahrbetrieb versetzt.
 
 
-Nach 10 Minuten ohne Verwendung des Gasdrehgriffs schaltet das Fahrzeug automatisch in den inaktiven Fahrbetrieb, um unbeabischtigtes Beschleunigen vorzubeugen.
+Nach 10 Minuten ohne Verwendung des Gasdrehgriffs schaltet das Fahrzeug automatisch in den inaktiven Fahrbetrieb, um unbeabsichtigtes Beschleunigen vorzubeugen.
 
 ---
 
