@@ -78,6 +78,17 @@ plugins:
             color: "#E4B854"
             font_family: Figtree
     - search
+    - llmstxt:
+        full_output: llms-full.txt
+        sections:
+          Umbauanleitung:
+            - conversion-manual/**/*.md
+          Bedienungsanleitung:
+            - user-manual/**/*.md
+          Für Entwickler:
+            - for-developers/**/*.md
+          FAQ:
+            - faq/**/*.md
      #-i18n:
        #docs_structure: suffix
        #languages:
