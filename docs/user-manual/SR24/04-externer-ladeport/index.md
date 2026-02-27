@@ -1,7 +1,7 @@
 # Zubehör: Externer Ladeanschluss
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" />
+  <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" loading="lazy" />
 </p>
 
 !!! info "Info"
@@ -85,7 +85,7 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 Beginne mit dem Abklemmen des Akkupacks. Bocke das Fahrzeug auf und achte darauf, dass das Vorderrad beweglich bleibt, ansonsten kommst du nicht an die Controllerschrauben heran. Entferne alle Fahrzeugteile, die beim Umbau im Weg sind. Bei der Schwalbe sind dies die Querschiene für das Knieblech und der Motortunnel, beim SR50 und SR80 die vordere Motoraufnahme. Dadurch lässt sich das Antriebsmodul herunterklappen, wodurch der Einbau erst möglich wird. Bei SR4-2 und SR4-4 müssen die Seitenbleche demontiert werden. Entferne bei Fahrzeugen mit einer oberen Motoraufnahme (KR51, KR51/1, SR4-2, SR4-4) die beiden Muttern, die die M5x Motoranbindung mit dem Antriebsmodul verbinden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" />
+  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" loading="lazy" />
 </p>
 
 
@@ -95,7 +95,7 @@ Beginne mit dem Abklemmen des Akkupacks. Bocke das Fahrzeug auf und achte darauf
 Löse mithilfe des SW4-Inbusschlüssels die vier Linsenkopfschrauben des Motorcontrollers. An den unteren beiden Schrauben befinden sich zusätzlich Hülsen, die beim Demontieren herausfallen können. Trenne den großen Stecker an der Unterseite des Controllers (1) ab und klappe den Controller samt Gehäuse zur Seite weg, sodass er nur noch an den drei Phasenkabeln hängt. Öffne die Kontaktabdeckung (2) auf der Rückseite des Controllers, indem du die beiden Kreuzschlitzschrauben (3) entfernst. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" />
+  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" loading="lazy" />
 </p>
 
 Löse die Schrauben an den Anschlüssen B+ (rotes Kabel) (4) und B- (schwarzes Kabel)(4). Stecke den Ringkabelschuh des roten Kabels des Ladeadapters (5) auf die Schraube und schraube sie zurück in das Gewinde. Ziehe die Schraube handfest an und wiederhole den Vorgang mit dem schwarzen Kabel (5) am B- Anschluss. 
@@ -103,14 +103,14 @@ Achte hierbei darauf, dass die Kabel eng beieinander liegen, da sonst die Kabela
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8665086-adad-48c8-b7ed-dbde068347e6" width="500" />
+  <img src="https://github.com/user-attachments/assets/f8665086-adad-48c8-b7ed-dbde068347e6" width="500" loading="lazy" />
 </p>
 
 Montiere anschließend die Kabelabdeckung (2) wieder und achte darauf, dass keines der alten oder neuen Kabel an den Auslässen eingeklemmt wird. Die beiden neuen Kabel müssen in Fahrtrichtung links am Controllerstecker (1) vorbeigehen und unten aus dem Controller herausgeführt werden. Stecke den Controllerstecker (1) wieder in den Controller. Führe den Ladeadapter an dem Motor entlang und montiere ihn an der linken Stirnfläche des Motors. Die Erhöhung auf der Rückseite des Ladeadapters gibt die Position vor, indem sie in eine Nut an der Stirnfläche (6) gesteckt wird. Dabei muss das Loch für die M8-Schraube genau über dem Gewinde (7) in der Stirnfläche liegen. Befestige den Ladeadapter mit der M8-Schraube am Motor. Nutze dafür den SW6-Inbusschlüssel. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a91ef741-c7bc-4244-a5e2-01470a533546" width="500" />
+  <img src="https://github.com/user-attachments/assets/a91ef741-c7bc-4244-a5e2-01470a533546" width="500" loading="lazy" />
 </p>
 
 
@@ -119,7 +119,7 @@ Entferne die Kabelblende (8) vom Antriebsmodul, indem du die M4-Zylinderkopfschr
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da0232ce-e99a-4225-bb08-f7355571cd6c" width="500" />
+  <img src="https://github.com/user-attachments/assets/da0232ce-e99a-4225-bb08-f7355571cd6c" width="500" loading="lazy" />
 </p>
 
 
@@ -127,7 +127,7 @@ Bei einem Controllerblech mit großem Ausschnitt (11) kann das dicke schwarze Ka
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42ba0cd2-0a8d-4403-92ad-39ab74716e04" width="500" />
+  <img src="https://github.com/user-attachments/assets/42ba0cd2-0a8d-4403-92ad-39ab74716e04" width="500" loading="lazy" />
 </p>
 
 
@@ -136,7 +136,7 @@ Bei einem kleinen Ausschnitt (12) müssen die beiden Enden hinter den Motorphase
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33ba2bdc-37ed-4494-a5b3-ed3af3b6c7eb" width="500" />
+  <img src="https://github.com/user-attachments/assets/33ba2bdc-37ed-4494-a5b3-ed3af3b6c7eb" width="500" loading="lazy" />
 </p>
 
 
@@ -145,7 +145,7 @@ Achte dabei auf das Hall-Kabel (15), da eine Beschädigung den Motor unbrauchbar
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba01edb8-e540-4618-8073-124005ba17a2" width="500" />
+  <img src="https://github.com/user-attachments/assets/ba01edb8-e540-4618-8073-124005ba17a2" width="500" loading="lazy" />
 </p>
 
 
@@ -153,7 +153,7 @@ Montiere den Controller wieder mit den vier neuen M6x90 Schrauben. Bei Modellen 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81c90d02-1677-4282-a720-37b108d8e02a" width="500" />
+  <img src="https://github.com/user-attachments/assets/81c90d02-1677-4282-a720-37b108d8e02a" width="500" loading="lazy" />
 </p>
 
 
@@ -167,7 +167,7 @@ Verbinde den Stecker mit dem Gegenstück des externen Ladeanschlusses (18) und d
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77b9570c-ff3c-4781-990c-7040c7d76835" width="500" />
+  <img src="https://github.com/user-attachments/assets/77b9570c-ff3c-4781-990c-7040c7d76835" width="500" loading="lazy" />
 </p>
 
 
@@ -175,7 +175,7 @@ Befestige die Kabelblende, je nach Variante, mit der einen oder den zwei Inbussc
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d4fff8a-f07d-4719-9615-ee40efcfcc05" width="500" />
+  <img src="https://github.com/user-attachments/assets/0d4fff8a-f07d-4719-9615-ee40efcfcc05" width="500" loading="lazy" />
 </p>
 
 ## Firmware Update

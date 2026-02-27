@@ -1,7 +1,7 @@
 # **S50/S51 Installation Manual for Simson S50**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" />
+  <img src="https://github.com/user-attachments/assets/831ef195-f19d-4e61-8dd9-c5dbce401885" width="700" loading="lazy" />
 </p>
 
 Please Keep Your Packaging
@@ -109,7 +109,7 @@ Before starting disassembly, disconnect the vehicle battery to avoid short circu
 Start by disconnecting all electrical and mechanical connections to the engine. Ensure the fuel valve is turned off and detach the fuel hose from the carburetor. Drain the remaining fuel into a suitable container (e.g., fuel canister). Loosen the clamp on the intake boot and remove it from the carburetor. Unscrew the throttle (2) and choke (1) cables from the carburetor, detach the clutch cable from its bracket on the engine block (5), and unscrew the speedometer cable from its mount (6). Also remove the spark plug cap (3) and ground cable from the engine block. Remove the left side cover to unplug and remove the cables from the alternator.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" />
+  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" loading="lazy" />
 </p>
 
 ### 2.Exhaust
@@ -175,7 +175,7 @@ The drive module is mounted on the vehicle in the same way as the original engin
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" />
+ <img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" loading="lazy" />
 </p>
 
 
@@ -196,14 +196,14 @@ Once you are happy with the chain tension, you can now turn your attention to th
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" />
+ <img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" loading="lazy" />
 </p>
 
 If you are satisfied with the chain tension, you can now turn your attention to the other chain tensioner. Use this chain tensioner to adjust the so-called track of the vehicle. Sounds more complicated than it is. Just make sure that both wheels are in line. You can use a long straight board for this or simply squat three steps behind the moped and aim at the front wheel with one eye over the rear wheel.
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/13c78985-795b-4719-a658-3f991196ccda" width="700" />
+ <img src="https://github.com/user-attachments/assets/13c78985-795b-4719-a658-3f991196ccda" width="700" loading="lazy" />
 </p>
 
 Now check the chain tension again and correct it if necessary. If both chain tensioners are now correctly adjusted, you can tighten the rear axle and nut again. Now you just need to screw our chain guard back on.
@@ -221,7 +221,7 @@ The dashboard unit consisting of the ignition lock (14) and button (15) is attac
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/e2119084-17cc-459c-9b04-c3a3fc77cd7f" width="700" />
+ <img src="https://github.com/user-attachments/assets/e2119084-17cc-459c-9b04-c3a3fc77cd7f" width="700" loading="lazy" />
 </p>
 
 ## 4. Throttle cable
@@ -231,7 +231,7 @@ If you have an N1 carburetor, you can now screw the throttle cable together with
 
 The notch in which the carburetor needle is mounted, or whether it is completely missing, no longer plays a role in the function of the Bowden cable sensor.
 <p align="center">
- <img src="https://github.com/user-attachments/assets/47a1d52a-a043-487c-84a1-bdac1f482267" width="700" />
+ <img src="https://github.com/user-attachments/assets/47a1d52a-a043-487c-84a1-bdac1f482267" width="700" loading="lazy" />
 </p>
 
 Turn the carburetor piston (19) as shown in the picture so that the groove (29) points towards the rear tire. There is a pin on the same side of the cylinder (20) that you can feel with your finger. The carburetor piston must then be inserted into the cylinder so that the groove is guided over the pin. You can then screw the carburetor cover (18) onto the cylinder. Make sure that the cover is screwed on until there is no longer a slot between the cover and the stop.<br>
@@ -269,7 +269,7 @@ Now you can set the original ignition switch to the position with the headlight 
 Finally, you need to connect our brake contact cable. This cable tells the drive module whether you are actuating the rear wheel brake (or the front wheel brake if you also have a brake contact there). As long as the brake is applied, it is no longer possible to accelerate. The package contains an 80 cm long black cable with a white plug housing at one end and a flat plug sleeve (22) at the other. Connect the white plug to the white plug on the underside of the drive module and run the cable along the swing arm to the brake contact (24) on the rear wheel. Remove the original brake contact cable (23) there, plug ours on and connect the original one to the extra lug that comes off our cable.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7d4af84-0254-46aa-8d38-c4f49da27c64" width="600" />
+  <img src="https://github.com/user-attachments/assets/e7d4af84-0254-46aa-8d38-c4f49da27c64" width="600" loading="lazy" />
 </p>
 
 
@@ -277,7 +277,7 @@ The rear mount (28) is screwed to the other two attachment points of the origina
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/aa1de136-e281-4ea4-b01c-fc0f5bcfd95b" width="600" />
+ <img src="https://github.com/user-attachments/assets/aa1de136-e281-4ea4-b01c-fc0f5bcfd95b" width="600" loading="lazy" />
 </p>
 
 Now place the seat bench on it once as a test so that the front mount and the tank move to the correct position. To do this, first hook the seat into the rear mount (28) and then lower the front end of the seat onto the front mount (26). You can check whether the seat is positioned correctly by turning the lock cylinder of the seat with the key and pushing it in. If the locking cylinder cannot be pushed in until it engages, the seat has not yet been pushed deep enough onto the mount.

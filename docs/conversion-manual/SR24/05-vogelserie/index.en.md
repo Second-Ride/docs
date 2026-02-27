@@ -1,7 +1,7 @@
 # Second Ride Conversion Kit SR24 for Simson Vogelserie SR4-2, SR4-2/1, SR4-4
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c197c2a5-6d8b-4fc0-b3ba-48dad91443f8" width="700" />
+  <img src="https://github.com/user-attachments/assets/c197c2a5-6d8b-4fc0-b3ba-48dad91443f8" width="700" loading="lazy" />
 </p>
 
 ## Please keep your packaging!
@@ -171,32 +171,32 @@ M8: 24 Nm<br>
 Before you can install the drive module into your Vogel, you must first loosen the two upper pan head screws that fasten the controller to the drive module at the top front. Then take the two M6x90 screws included in the kit and screw them into the freed holes, leaving a thread protrusion of about 10 mm.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="740" />
+  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="740" loading="lazy" />
 </p>
 
 Now take the components listed in the delivery contents under “M5x Motor Mounting” and assemble them as shown in the figure. Screw the M8 nut only 2–3 full turns onto the M8x70 hex bolt. Leave out the two M6 nuts for now and set the pre-assembled M5x motor mount aside.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73214222-0b4d-43c4-892c-baf824ed57e4" width="700" />
+  <img src="https://github.com/user-attachments/assets/73214222-0b4d-43c4-892c-baf824ed57e4" width="700" loading="lazy" />
 </p>
 
 The drive module is mounted in the same way as the original engine. Again, it is advisable to get help from another person. Place the drive module under the vehicle first and route the black cable upward as shown in the picture, where the seat bench will later be. Lift the drive module and guide it between the engine mounting plates (10).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="570" />
+  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="570" loading="lazy" />
 </p>
 
 The supplied M8x100 hex bolt is for the upper hole in the engine mounting plates. Using a ratchet with extension and a 13mm socket, and a 13mm open-end wrench for counterholding, tighten the nut so that the drive module can still rotate around the bolt’s axis. Now you can rest the drive module in the engine mount.  
 Next, take the pre-assembled M5x motor mount and install it as shown in the figure, ensuring that the thick washer is inside the upper engine mounting plates and the thinner ones are outside. Depending on the condition of the original mounting plates, the inner washer may be omitted.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="500" />
+  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="500" loading="lazy" />
 </p>
 
 Now push the drive module upward so that the threaded ends of the controller screws fit into the two lower holes of the M5x motor mount. Secure the M5x motor mount to the drive module with the M6 nuts.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="570" />
+  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="570" loading="lazy" />
 </p>
 
 As the last step, tighten the two M8 nuts of the rear and upper engine mount firmly. Use a ratchet with extension, 13mm socket, and a 13mm open-end wrench for counterholding.
@@ -207,13 +207,13 @@ Now remove the chain guard from the drive module by loosening the three M4 screw
 **Warning!** Do not simply pull the chain out of the chain tube once you’ve opened it. You can use the old chain to easily install the new one. Connect the new chain to the old chain with the new chain lock at one end and pull the old chain from the other end until the chain lock reappears. Now open the chain lock again, lay the chain over the drive sprocket of the drive module, and close it again. Now you can pull the rear wheel back again and turn the chain tensioner nuts forward for a rough pre-adjustment. Begin fine adjustment with the right chain tensioner: turn the nut forward until the chain in the tube has only 2 cm of vertical play. You can test this by pressing the chain tube at its thinnest point between thumb and forefinger and making an up-and-down movement.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="500" />
+  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="500" loading="lazy" />
 </p>
 
 When you are satisfied with the chain tension, adjust the other chain tensioner. With this chain tensioner, you set the so-called wheel alignment. It sounds more complicated than it is. Simply make sure that both wheels are in line. You can use a long straight board for this, or crouch three steps behind the moped and sight the front wheel over the rear wheel with one eye.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6a567d5-69f4-4bd5-b935-8b2a7496f5ab" width="700" />
+  <img src="https://github.com/user-attachments/assets/e6a567d5-69f4-4bd5-b935-8b2a7496f5ab" width="700" loading="lazy" />
 </p>
 
 Check the chain tension again and correct if necessary. Once both chain tensioners are properly adjusted, tighten the rear axle and nut again. Now you just need to reattach our chain guard. At this point, the supplied 2x chain tube adapters must be used. Press the chain tube adapters, narrower end first, into the chain tubes until they click into place. Now you can mount the chain tube.
@@ -240,7 +240,7 @@ Now you can reinstall the ignition switch and the lamp mask, and set the origina
 Finally, you need to connect our brake contact cable. With this cable, the drive module detects whether you are pressing the rear brake (or front brake if you have a brake contact there). As long as the brake is pressed, it is no longer possible to accelerate. The package includes an 80cm long black cable with a white connector housing at one end and a flat connector (22) at the other. Connect the white connector to the white connector at the bottom of the drive module and route the cable along the swingarm to the brake contact (24) at the rear wheel. Remove the original brake contact cable (23), plug in ours, and connect the original to the extra tab coming off our cable. We also included a brake tab for screwing on, in case yours is too corroded or missing entirely.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fadbd8a1-ac1d-479d-af87-7414b73f89aa" width="600" />
+  <img src="https://github.com/user-attachments/assets/fadbd8a1-ac1d-479d-af87-7414b73f89aa" width="600" loading="lazy" />
 </p>
 
 We included this feature because there is no clutch anymore, and therefore no way to disengage power transmission if an issue with throttle response occurs. For example, the throttle grip could get stuck in the open position. Such a scenario is no longer dangerous, since you only need to press the brake to cut motor power.
@@ -252,7 +252,7 @@ Now screw the speedometer cable onto the newly installed chain guard. The plasti
 The instruments (13) with button (17), charge level indicator (15), and ignition switch (14) must be clamped to the handlebar cover plate using the two instrument holders. Carefully slide the instruments over the plate facing the rider until they stop. Ensure the instruments are aligned straight and that the plastic set screws in the holders have full contact. Now firmly tighten the set screws of the instrument holders. Be careful not to overtighten to avoid damaging the Phillips slots.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="790" />
+  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="790" loading="lazy" />
 </p>
 
 Finally, route the cable through the opening between the lamp hood and handlebar tube and guide it to the underside of the drive module. There you can connect it with the matching connector and secure the cable to the frame with cable ties. Both connectors have arrows indicating the correct orientation for plugging them together.
@@ -266,43 +266,43 @@ Since the Habicht has a relatively long tank, the tank must be pushed as far for
 Next comes the installation of the front and rear mounts that hold your seat bench to the vehicle. First remove the two upper screws of the luggage rack and loosen the lower ones so that the luggage rack sits loosely. Unscrew the rear seat bench support (30) and set it aside.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4891a9e6-d473-4f07-b437-3d8e365bc0eb" width="600" />
+  <img src="https://github.com/user-attachments/assets/4891a9e6-d473-4f07-b437-3d8e365bc0eb" width="600" loading="lazy" />
 </p>
 
 Now screw the luggage rack bracket upside down onto the luggage rack and lock the screws as shown in the figure below.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="500" />
+  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="500" loading="lazy" />
 </p>
 
 Now take the previously set-aside rear seat bench support (30) and screw on the rear mount as shown. Make sure the threaded rods are centered in the large holes. This is important so that your seat bench will later fit properly onto the mounts. When the position is correct, tighten the nuts firmly.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="500" />
+  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="500" loading="lazy" />
 </p>
 
 Take the pre-assembled rear mount and loosely screw it using the slotted holes below the luggage rack mounting plates onto the screws of the pre-assembled luggage rack. Now screw the rear seat bench support (30) to the body. Finally, tighten all screw connections firmly.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6d282fc-fab0-4c98-ab2d-32d991b624c4" width="600" />
+  <img src="https://github.com/user-attachments/assets/d6d282fc-fab0-4c98-ab2d-32d991b624c4" width="600" loading="lazy" />
 </p>
 
 Before mounting the front mount, take the transparent edge protector and mount it over the front edge of the cutout under the seat bench to protect the paint from the hook of the front mount.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e4bdf89-b240-467b-b9af-b555e27a9278" width="600" />
+  <img src="https://github.com/user-attachments/assets/8e4bdf89-b240-467b-b9af-b555e27a9278" width="600" loading="lazy" />
 </p>
 
 Now take the front mount and the components shown below. Hook the front mount under the front plate of the seat bench cutout while guiding the two threaded bolts through the two front holes of the seat bench support.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da177fe5-f8e3-436e-a2c8-baae8f4a2b2a" width="600" />
+  <img src="https://github.com/user-attachments/assets/da177fe5-f8e3-436e-a2c8-baae8f4a2b2a" width="600" loading="lazy" />
 </p>
 
 Loosely screw the front mount with washers and nuts. Place the seat bench on so that it rests with all rubber pads on the vehicle body and can close properly. Make sure the front mount sits in the lock with as little play as possible, as shown in the figure below.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6673bcfa-598d-410d-ac28-96e2528a3655" width="600" />
+  <img src="https://github.com/user-attachments/assets/6673bcfa-598d-410d-ac28-96e2528a3655" width="600" loading="lazy" />
 </p>
 
 Carefully lift the seat bench out of the lock without shifting the position of the front mount and tighten it in exactly this position.
@@ -317,7 +317,7 @@ If you have an N1 carburetor, you can now screw the throttle cable with piston a
 The position of the carburetor needle, or whether it is missing entirely, no longer affects the function of the Bowden cable sensor.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="500" />
+  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="500" loading="lazy" />
 </p>
 
 To ensure that turning the throttle grip is properly converted into an electrical signal via the Bowden cable, it is important to insert the carburetor piston (22) correctly into the designated cylinder (23) on the drive module. Rotate the carburetor piston as shown in the picture so that the groove (29) faces the rear tire. Inside the cylinder, on the same side, there is a pin you can feel with your finger. The carburetor piston must be inserted so that the groove slides over the pin. Then screw the carburetor cap (21) onto the cylinder. Make sure the cap is screwed down so far that no gap remains between the cap and the stop.

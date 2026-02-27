@@ -1,6 +1,6 @@
 # Second Ride Conversion Kit SR24 for Simson SR50, SR80
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
+  <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" loading="lazy" />
 </p>
 
 ## Please keep your packaging!
@@ -136,7 +136,7 @@ To make things easier, first remove the two footboards (1). Remove the rubber ma
 Before removing the tank, close the fuel valve (6) and disconnect the fuel hose. You can drain the remaining fuel into a suitable container (e.g., fuel canister). Now you can lift the tank out of the scooter.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90848ea1-4ded-4d77-9418-c781e1680a59" width="500" />
+  <img src="https://github.com/user-attachments/assets/90848ea1-4ded-4d77-9418-c781e1680a59" width="500" loading="lazy" />
 </p>
 
 ### <strong>3. Disassembly: Engine Connections</strong>
@@ -144,13 +144,13 @@ Before removing the tank, close the fuel valve (6) and disconnect the fuel hose.
 Start by disconnecting all electrical and mechanical connections from the engine. Unscrew the shift linkage (7) and the kickstarter (8). Loosen the clamp on the intake boot and remove it from the carburetor (9).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/52d5d1fc-2da7-47a3-8ecc-8286cd788de7" width="500" />
+  <img src="https://github.com/user-attachments/assets/52d5d1fc-2da7-47a3-8ecc-8286cd788de7" width="500" loading="lazy" />
 </p>
 
 Remove the two screws on the back of the air filter box (10) and take it out. Unscrew the throttle and choke cables from the carburetor (9). Unscrew the speedometer cable from the chain cover (12). Also unplug the spark plug cap (13) and remove the ground wire from the engine block. Finally, disconnect the cables coming from the alternator.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="600" />
+  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="600" loading="lazy" />
 </p>
 
 ### **4. Exhaust**
@@ -174,7 +174,7 @@ After all this preparation, the engine is now ready to be removed. It is mounted
 To loosen these bolts, the front support of the engine mount (17) must be detached, allowing the engine to tilt down.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="600" />
+  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="600" loading="lazy" />
 </p>
 
 Removing the engine can be a bit tricky. Assistance from a second person is helpful at this point. Loosen the nuts and try to pull the bolts out of the holes. It helps to slightly lift the engine while doing this.  
@@ -185,7 +185,7 @@ Now you can remove it from the frame. Congratulations — your Simson is no long
 On the handlebar, remove the starter/choke cable including the cover (18) and the clutch lever (19).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ef18561-296b-4a39-b0b4-fa82e3d9da44" width="500" />
+  <img src="https://github.com/user-attachments/assets/7ef18561-296b-4a39-b0b4-fa82e3d9da44" width="500" loading="lazy" />
 </p>
 
 Et voilà! Your moped is now ready for the electric conversion kit!
@@ -207,14 +207,14 @@ Now stick the serial number label (37) onto the flat black side of the controlle
 This is important because once installed, the serial number is no longer visible on the adapter block.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f196df3-8634-42d9-89af-0e1498197e15" width="500" />
+  <img src="https://github.com/user-attachments/assets/9f196df3-8634-42d9-89af-0e1498197e15" width="500" loading="lazy" />
 </p>
 
 To fit the drive module into the SR50/SR80, you need to slightly adjust the module:  
 The adapter block (31) must be rotated by 30° along the motor axis, and the chain guard offset by 5°.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="600" />
+  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="600" loading="lazy" />
 </p>
 
 To do this, remove the 4 hex socket screws (33) and Schnorr washers (32) from the drive module using a 6 mm Allen key.  
@@ -222,7 +222,7 @@ Set aside the adapter block and unscrew the two M8 grub screws (34) from the mot
 There might be some moist silicone on the threads — don’t worry, the vapors are harmless and smell like vinegar.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc36563e-f65c-4398-96b6-b943f7afa59e" width="500" />
+  <img src="https://github.com/user-attachments/assets/bc36563e-f65c-4398-96b6-b943f7afa59e" width="500" loading="lazy" />
 </p>
 
 Now screw the grub screws into the two lower motor holes as shown below, so they sit slightly below the surface.  
@@ -230,7 +230,7 @@ Take the adapter block and fasten it using the remaining holes. Tighten the scre
 If you don’t have a torque wrench, tighten them firmly by hand, but not too tight to avoid damaging the threads.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="550" />
+  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="550" loading="lazy" />
 </p>
 
 The drive module is mounted to the vehicle just like the original engine. It’s best to have another person help again.  
@@ -238,7 +238,7 @@ Lift the drive module into the motor mount (20).
 Use the included M8x100 external hex bolt (22) for the upper hole and the M8x90 (21) for the lower hole.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="550" />
+  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="550" loading="lazy" />
 </p>
 
 Using a ratchet with extension and 13mm socket, and a 13mm wrench for counterhold, tighten both bolts with the supplied M8 nuts.  
@@ -249,7 +249,7 @@ After replacement, the flat surface (48) should be facing downward.
 This part keeps the chain sleeves in position along with the chain guard.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" />
+  <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" loading="lazy" />
 </p>
 
 ### **2. Tank Storage Compartment**
@@ -259,20 +259,20 @@ Take the tank storage compartment, 2x M6 screws, 4x M6 nuts, 4x M6 washers, and 
 The tank storage compartment (23) has a cable channel through which the main cable (24) from the drive module to the seat bench and the SR50 rear light & indicator cable are routed. While positioning the tank storage compartment, guide both cables through the channel so that the connector of the main cable (25) sits in the designated space.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="600" />
+  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="600" loading="lazy" />
 </p>
 
 Once the tank storage compartment is in position, loosely attach the 2x M6 screws (26) & 4x washers (27) with the 2x M6 nuts (28) through the lower holes of the compartment to temporarily secure it.  
 Take the two gas struts (29) and insert the threaded bolts through the two upper mounting points, then screw on the nuts with washers. It’s important that in the extended state the black gas containers point downward and the metal shaft upward.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27464caa-3321-4ba0-a25f-50c0ea576ad1" width="500" />
+  <img src="https://github.com/user-attachments/assets/27464caa-3321-4ba0-a25f-50c0ea576ad1" width="500" loading="lazy" />
 </p>
 
 Now screw the motor cover hook (53) onto the tank storage compartment using the two M4 screws and nuts, so the original SR50 motor cover can still be hooked in.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6fa3ba98-d2a7-4028-bd82-bc4ded67c650" width="500" />
+  <img src="https://github.com/user-attachments/assets/6fa3ba98-d2a7-4028-bd82-bc4ded67c650" width="500" loading="lazy" />
 </p>
 
 You can now fold up the drive module and install the front support of the SR50 engine mount. The brake pedal screw may get in the way here. For folding up the drive module, you can temporarily remove it and reinstall afterward. It may also happen that when folding up, the drive module rests against the right side of the frame and would transmit vibrations while riding. For this, we have included a 50x50mm foam strip, which you can place between the drive module and the SR50 frame.
@@ -284,7 +284,7 @@ To fit our drive module into the SR50, it is attached with the 2x motor mount ad
 2x M8x70 hex screws (35), 2x M8 hex nuts (36), 2x M8x20x1.25 washers (37), 1x M8x24x2 washer (38), 2x M8x6 spacers (39), and 1x M8x12.5 spacer (40).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/768e845c-35df-4120-b747-83bb37a18b02" width="500" />
+  <img src="https://github.com/user-attachments/assets/768e845c-35df-4120-b747-83bb37a18b02" width="500" loading="lazy" />
 </p>
 
 ### **3. Chain & Sprocket Replacement**
@@ -300,13 +300,13 @@ Time for gloves again! Locate the master link on the installed chain and open it
 Now for the fine adjustment: start with the right chain tensioner. Turn the nut forward until the chain inside the tube only has 2 cm of play up and down. You can test this by pinching the chain tube at its thinnest point between thumb and forefinger and moving it up and down.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34cc3743-73a9-4da5-bb01-20d2ad6b17f3" width="500" />
+  <img src="https://github.com/user-attachments/assets/34cc3743-73a9-4da5-bb01-20d2ad6b17f3" width="500" loading="lazy" />
 </p>
 
 When satisfied with the chain tension, adjust the other chain tensioner. With this, you set the so-called alignment of the vehicle. It sounds more complicated than it is—just make sure both wheels are in line. You can use a long straight board or simply crouch three steps behind the moped and sight the front wheel over the rear wheel with one eye.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c30bcc2-07da-4d5b-b500-d3728711fbd7" width="500" />
+  <img src="https://github.com/user-attachments/assets/1c30bcc2-07da-4d5b-b500-d3728711fbd7" width="500" loading="lazy" />
 </p>
 
 Check the chain tension again and correct if necessary. Once both chain tensioners are properly adjusted, tighten the rear axle and nut. Finally, reattach the chain guard.
@@ -314,7 +314,7 @@ Check the chain tension again and correct if necessary. Once both chain tensione
 All work on the drive module is now complete, so you can reinstall the footrests on the SR50. Beforehand, attach the included transparent edge protection (51) to the sheet metal edge of the left footrest, which presses against the phase cables of the drive module.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59cba14d-3f23-47c7-95f8-7fdf10f3bd54" width="500" />
+  <img src="https://github.com/user-attachments/assets/59cba14d-3f23-47c7-95f8-7fdf10f3bd54" width="500" loading="lazy" />
 </p>
 
 ### **4. Electrical**
@@ -353,7 +353,7 @@ The relay is necessary because the brake light logic on /1 models is inverted an
 Screw the relay (49) to the left mounting point (50) at mid-height of the SR’s electronics section.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="500" />
+  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="500" loading="lazy" />
 </p>
 
 To make the original SR50 ignition switch unnecessary, we have supplied you with the tachometer & parking light cable (red).  
@@ -392,7 +392,7 @@ The instrument cluster (38) with button, charge level indicator, and ignition lo
 Unscrew and remove these, then install the supplied instrument cluster in the same location.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88a9a855-00a2-4585-84b3-71b005fbff8f" width="400" />
+  <img src="https://github.com/user-attachments/assets/88a9a855-00a2-4585-84b3-71b005fbff8f" width="400" loading="lazy" />
 </p>
 
 Finally, route the cable under or through the instrument cover into the electronics section and lead it to the drive module.  
@@ -419,14 +419,14 @@ Tighten them only loosely at first, then try folding the storage cover down and 
 If it does not, adjust the position of the storage cover in the tank storage compartment until the orientation is correct, then tighten firmly.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="500" />
+  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="500" loading="lazy" />
 </p>
 
 Finally, the shock absorbers must be screwed onto the storage cover.  
 Insert the threaded ends of the gas struts (44) into the mounting points of the storage cover and fasten them with 2x M6 washers (45) and 2x M6 nuts (46).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="440" />
+  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="440" loading="lazy" />
 </p>
 
 Now you can close the storage cover for the first time.  
@@ -444,7 +444,7 @@ Good explanatory videos can be found on the YouTube channel *Simson Werkstatt*: 
 Which notch the carburetor needle is mounted in, or whether it is missing entirely, no longer matters for the function of the Bowden cable sensor.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" />
+  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" loading="lazy" />
 </p>
 
 To ensure that the rotation of the throttle grip is correctly converted into an electrical signal via the Bowden cable, it is important that you insert the carburetor piston (22) correctly into the designated cylinder (23) on the drive module.  

@@ -1,6 +1,6 @@
 # Anleitung zur Elektrifizierung einer Simson SR50 mit SR24 Umbaukit
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" />
+  <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" loading="lazy" />
 </p>
 
 !!! info "Info"
@@ -136,7 +136,7 @@ Bevor du den Tank aus dem Fahrzeug entfernst, drehe den Benzinhahn (6) zu und l�
 Nun kannst du den Tank aus dem Fahrzeug heben.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/90848ea1-4ded-4d77-9418-c781e1680a59" width="500" />
+  <img src="https://github.com/user-attachments/assets/90848ea1-4ded-4d77-9418-c781e1680a59" width="500" loading="lazy" />
 </p>
 
 ### **3. Demontage: Motoranschlüsse**
@@ -144,13 +144,13 @@ Nun kannst du den Tank aus dem Fahrzeug heben.
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Schraube zunächst das Schaltgestänge (7) und Kickstarter (8) des Rollers ab. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser (9) ab. 
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/52d5d1fc-2da7-47a3-8ecc-8286cd788de7" width="500" />
+  <img src="https://github.com/user-attachments/assets/52d5d1fc-2da7-47a3-8ecc-8286cd788de7" width="500" loading="lazy" />
 </p>
 
 Entferne die beiden Schrauben auf der Rückseite des Luftfilterkastens (10) und entferne diesen. Schraube den Gas- und Choke-Bowdenzug vom Vergaser (9) ab. Drehe die Tachowelle aus dem Kettendeckel (12). Entferne nun noch den Zündkerzenstecker (13) und das Massekabel vom Motorblock. Stecke die von der Lichtmaschine kommenden Kabel vom Fahrzeug ab. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="600" />
+  <img src="https://github.com/user-attachments/assets/9efcee2a-183b-440a-834f-ec501c5dd651" width="600" loading="lazy" />
 </p>
 
 
@@ -175,7 +175,7 @@ Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel gen
 Nach all dieser Vorarbeit ist der Motor jetzt bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben (16) in der Motoraufnahme verschraubt. Um diese beiden Schrauben lösen zu können, muss die vordere Abstützung der Motoraufnahme (17) gelöst und der Motor heruntergeklappt werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="600" />
+  <img src="https://github.com/user-attachments/assets/47a2d15e-fc92-4adf-937b-4c60f099d1e1" width="600" loading="lazy" />
 </p>
 
 Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Nun kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! deine Simson ist kein Verbrennungsfahrzeug mehr! 
@@ -185,7 +185,7 @@ Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten
 Am Lenker kannst du nun den Starter/Choke-Bowdenzug mitsamt der Abdeckung (18) und Kupplungshebel (19) demontieren.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ef18561-296b-4a39-b0b4-fa82e3d9da44" width="500" />
+  <img src="https://github.com/user-attachments/assets/7ef18561-296b-4a39-b0b4-fa82e3d9da44" width="500" loading="lazy" />
 </p>
 
 Et voila! dein Moped erwartet nun den Elektroumbausatz!
@@ -206,32 +206,32 @@ M8: 24 Nm<br>
 Bitte klebe jetzt das Etikett mit der Seriennummer (37) oben auf die flache schwarze Seite des Controllers. Das ist wichtig, da im eingebauten Zustand die Seriennummer auf dem Adapterblock des Antriebsmoduls nicht mehr zu sehen ist.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f196df3-8634-42d9-89af-0e1498197e15" width="500" />
+  <img src="https://github.com/user-attachments/assets/9f196df3-8634-42d9-89af-0e1498197e15" width="500" loading="lazy" />
 </p>
 
 Damit unser Antriebsmodul in die SR50, SR80 passt, musst du eine kleine Anpassung an dem Antriebsmodul vornehmen. Der Adapterblock (31) muss um 30° entlang der Motorachse und der Kettenschutz um 5° versetzt werden.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="600" />
+  <img src="https://github.com/user-attachments/assets/6ea9c2be-3ac6-4e85-9789-2ed091f64ed2" width="600" loading="lazy" />
 </p>
 
 Schraube dafür die 4 Innensechskantschrauben (33) und Schnorrscheiben (32) mit einem Inbus SW6 von dem Antriebsmodul ab. Lege den Adapterblock nun zur Seite und schraube die beiden M8 Madenschrauben (34) aus dem Motor. Hierbei kann noch etwas feuchtes Silikon an den Schraubenenden sein. Keine Sorge, die Dämpfe davon sind nicht giftig, sondern nur ungefährlicher Essig. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc36563e-f65c-4398-96b6-b943f7afa59e" width="500" />
+  <img src="https://github.com/user-attachments/assets/bc36563e-f65c-4398-96b6-b943f7afa59e" width="500" loading="lazy" />
 </p>
 
 Schraube nun die Madenschrauben, wie im folgenden Bild gezeigt, in die beiden untersten Bohrungen des Motors, sodass sie etwas tiefer als die Motoroberfläche liegen. Nimm dir nun den Adapterblock und schraube ihn über die übrigen Bohrungen im Motor fest. Ziehe hierbei die Schrauben mit einem Drehmoment von 15 Nm an. Falls du keinen Drehmomentschlüssel hast, ziehe die Schrauben nach Gefühl ordentlich, aber auf keinen Fall zu stark, da sonst das Gewinde beschädigt wird und dann der Motor getauscht werden muss.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="550" />
+  <img src="https://github.com/user-attachments/assets/391ccbfe-9d31-40d5-a84d-c687affaa50b" width="550" loading="lazy" />
 </p>
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es in die Motorhalterung (20). Die mitgelieferte M8x100 Außensechskantschraube (22) ist für die obere Bohrung und die M8x90 Außensechskantschraube (21) für die untere Bohrung.    
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="550" />
+  <img src="https://github.com/user-attachments/assets/1d88c276-18cb-4818-9385-f324de1caab4" width="550" loading="lazy" />
 </p>
 
 Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. Zur vollständigen Anbindung der Motorhalterung muss jetzt noch die vordere Abstützung, so wie in der folgenden Abbildung dargestellt, befestigt werden. 
@@ -240,7 +240,7 @@ Tausche nun den Kettenschlauchhalter, der links neben der Motorwelle eingespannt
 Tausche nun den Kettenschlauchhalter, der links neben der Motorwelle eingespannt sitzt, mit dem, der deinem Kit beiliegt (47). Nach dem Tausch sollte die Fläche (48) unten sitzen. Die Funktion dieses Bauteils ist es, die Kettenschläuche zusammen mit dem Kettenschutz zu halten.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" />
+  <img src="https://github.com/user-attachments/assets/3e7a6c46-9a3f-4984-bb27-202f9c97ffd0" width="500" loading="lazy" />
 </p>
 
 ### **2. Tank Staufach**
@@ -249,19 +249,19 @@ Jetzt, wo das Antriebsmodul heruntergeklappt eingebaut ist, ist der Zeitpunkt ge
 Das Tank Staufach (23) hat einen Kabelkanal, durch welchen das Hauptkabel (24) vom Antriebsmodul zur Sitzbank und das SR50 Rücklicht- & Blinkerkabel geführt wird. Während du das Tank Staufach in seine Position bringst, führe die beiden Kabel so in den Kabelkanal, dass der Stecker des Hauptkabels (25) in dem dafür vorgesehenen Platz sitzt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="600" />
+  <img src="https://github.com/user-attachments/assets/8da4ca18-8b1e-4ba2-b33a-c946efcbde37" width="600" loading="lazy" />
 </p>
 
 Sobald das Tank Staufach an seiner Position sitzt, kannst durch die unteren beiden Bohrungen des Staufachs die 2x M6 Schrauben (26) & 4x Unterlegscheiben (27) mit den 2x M6 Muttern (28) locker anbringen und das Tank Staufach vorläufig fixieren. Nimm dir die beiden Gasdruckdämpfer (29) und führe die Gewindebolzen durch die oberen beiden Anschraubpunkte und schraube die Muttern mit Unterlegscheiben auf. Hierbei ist es wichtig, dass im ausgefahrenen Zustand die beiden schwarzen Gasdruckbehälter nach unten und der Metallschaft nach oben zeigen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27464caa-3321-4ba0-a25f-50c0ea576ad1" width="500" />
+  <img src="https://github.com/user-attachments/assets/27464caa-3321-4ba0-a25f-50c0ea576ad1" width="500" loading="lazy" />
 </p>
 
 Schraube nun den Motorabdeckung Haken (53) mit den beiden M4 Schrauben und Muttern am Tank Staufach fest, damit die Originale SR50 Motorabdeckung weiterhin eingehakt werden kann.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6fa3ba98-d2a7-4028-bd82-bc4ded67c650" width="500" />
+  <img src="https://github.com/user-attachments/assets/6fa3ba98-d2a7-4028-bd82-bc4ded67c650" width="500" loading="lazy" />
 </p>
 
 
@@ -274,7 +274,7 @@ Nun kannst du das Antriebsmodul hochklappen und  die vordere Abstützung der SR5
 Damit unser Antriebsmodul in die SR50 passt, wird diese mit den 2x Motorhalterung-Adapterblechen (30) an die Rahmenaufnahme (41) angebracht. Dafür benötigst du zusätzlich 2x M8x70 Sechskanschraube (35), 2x M8 Sechskantmutter (36), 2x M8x20x1,25 Unterlegscheibe (37), 1x M8x24x2 Unterlegscheibe (38), 2x M8x6 Distanzscheibe (39) und 1x M8x12,5 Distanzscheibe (40).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/768e845c-35df-4120-b747-83bb37a18b02" width="500" />
+  <img src="https://github.com/user-attachments/assets/768e845c-35df-4120-b747-83bb37a18b02" width="500" loading="lazy" />
 </p>
 
 ### **3. Kette & Ritzeltausch**
@@ -290,13 +290,13 @@ Es wird wieder Zeit für die Handschuhe! Suche das Kettenschloss an der verbaute
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34cc3743-73a9-4da5-bb01-20d2ad6b17f3" width="500" />
+  <img src="https://github.com/user-attachments/assets/34cc3743-73a9-4da5-bb01-20d2ad6b17f3" width="500" loading="lazy" />
 </p>
 
 Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c30bcc2-07da-4d5b-b500-d3728711fbd7" width="500" />
+  <img src="https://github.com/user-attachments/assets/1c30bcc2-07da-4d5b-b500-d3728711fbd7" width="500" loading="lazy" />
 </p>
 
 Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben. 
@@ -305,7 +305,7 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 Jetzt sind alle Arbeiten am Antriebsmodul abgeschlossen, daher kannst du jetzt die Trittbretter wieder an die SR50 anbringen. Bringe davor bei dem linken Trittbrett den beigelegten transparenten Kantenschutz (51) an die Blechkante an, die auf die Phasenkabel des Antriebsmoduls drückt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59cba14d-3f23-47c7-95f8-7fdf10f3bd54" width="500" />
+  <img src="https://github.com/user-attachments/assets/59cba14d-3f23-47c7-95f8-7fdf10f3bd54" width="500" loading="lazy" />
 </p>
 
 
@@ -336,7 +336,7 @@ Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wi
 Bei den /1 Modellen muss das mitgelieferte Relais so wie im Schaltplan gezeigt angeschlossen werden. Falls hier die Kabellänge nicht ausreicht, tausche die Seiten der beiden Steckverbinder am Leitungsverbinder. Das Relais ist notwendig, da die Bremslichtlogik bei den /1 Modellen invertiert ist und 12V anstelle von Masse schaltet. Schraube das Relais (49) an dem linken Anschraubpunkt (50) auf mittlerer Höhe des Elektronikbereichs der SR fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="500" />
+  <img src="https://github.com/user-attachments/assets/8835b156-81e4-48f2-a294-e8a327b83170" width="500" loading="lazy" />
 </p>
 
 Damit das originale SR50 Zündschloss nicht mehr verwendet werden muss, haben wir dir das Tacho- & Standlichtkabel mitgeliefert (Rot). Um dieses anzuschließen, musst du den Scheinwerfer entfernen. Schraube dafür die Schraube an der unteren linken Seite des Scheinwerfers ein paar Umdrehungen raus, sodass sich die Lampenmaske abnehmen lässt. Hake nun die Federspannung oben am Scheinwerfer aus und bewege den Scheinwerfer vorsichtig so heraus, dass du an die Kontakte der Lampenfassung kommst. Hier verbindest du das Tacho- & Standlichtkabel mit mit dem Kontakt, an dem das grau/rote Kabel anschließt. Dieses steckst du anschließend auf die freie Fahne an den gleichen Kontakt. Das andere Ende des Tacho- & Standlichtkabels führst du zur Hupe und verbindest es dort mit dem Kontakt, an dem das schwarz/gelbe Kabel anliegt. Hier steckst du das schwarz gelbe Kabel in Anschluss wieder auf den gleichen Kontakt an die  freie Fahne des Tacho- & Standlichtkabels.
@@ -369,7 +369,7 @@ Bei der SR50N muss der Lenkerlichtschalter an der rechten Seite des Lenkers ausg
 Die Armaturen (38)  mit Taster, Ladestandsanzeige und Zündschloss müssen anstelle des Chokes und der dazugehörigen Abdeckung angebracht werden. Schraube diesen dafür ab und bringe die mitgelieferte Armatur an der selben Stelle an
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88a9a855-00a2-4585-84b3-71b005fbff8f" width="400" />
+  <img src="https://github.com/user-attachments/assets/88a9a855-00a2-4585-84b3-71b005fbff8f" width="400" loading="lazy" />
 </p>
 
 Führe  zuletzt das Kabel unter oder durch die Armaturenabdeckung in den Elektronikbereich entlang und leite es zum Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. 
@@ -393,13 +393,13 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Nun kannst du die SR50 Staufachabdeckung (41), welche zur Aufnahme der Sitzbank dient, am Tank Staufach festschrauben. Dafür benötigst du 4x M6 Unterlegscheibe (42) und 4x M6 Mutter (42). Führe die 4 Bolzen durch die dafür vorgesehenen Bohrungen in dem Tank Staufach und verschraube sie mit den Unterlegscheiben und Muttern. Ziehe diese erst locker an und versuche dann die Staufachabdeckung herunterzuklappen und schaue, ob der Schlosshaken in das Schloss einrasten würde. Sollte dies nicht der Fall sein, korrigiere die Position der Staufachabdeckung in dem Tank Staufach bis die Orientierung stimmt und ziehe dann fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="500" />
+  <img src="https://github.com/user-attachments/assets/2aa687cb-c2cc-43dc-9ce1-c11b444fae6a" width="500" loading="lazy" />
 </p>
 
 Als letztes müssen noch die Stoßdämpfer an der Staufachabdeckung festgeschraubt werden. Führe dafür die Gewindestücke der Gasdruckfedern (44) in die Aufnahmepunkte des Staufachabdeckung und schraube diese dort mit 2x M6 Unterlegscheibe (45) und 2x M6 Mutter (46) fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="440" />
+  <img src="https://github.com/user-attachments/assets/910367a6-71f5-4bb1-a6b3-10f2317503d0" width="440" loading="lazy" />
 </p>
 
 Nun kannst du das erste Mal die Staufachabdeckung schließen. drücke es dafür am hinteren Ende mit Kraft in die Schlossaufnahme. Jetzt sollte es klicken und im Schloss eingerastet sein. Sollte sich hier der Haken nicht im Schloss einrasten, überprüfe noch einmal die Positionierung des Staufachs. Diese kannst du über Lösen der Schrauben um ein paar mm vor und zurück verschieben. 
@@ -413,7 +413,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" />
+  <img src="https://github.com/user-attachments/assets/a7a7a58d-46f6-40a8-94f5-076f47900b9e" width="400" loading="lazy" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.

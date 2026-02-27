@@ -117,7 +117,7 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" />
+  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" loading="lazy" />
 </p>
 
 
@@ -183,7 +183,7 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" />
+  <img src="https://github.com/user-attachments/assets/afdfc5d1-e739-43e2-99e0-ad53ebfa4746" width="500" loading="lazy" />
 </p>
 
 
@@ -204,14 +204,14 @@ Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Ke
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" />
+  <img src="https://github.com/user-attachments/assets/cf5957f3-03eb-45e0-b7d9-3eb158e285b7" width="400" loading="lazy" />
 </p>
 
 Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13c78985-795b-4719-a658-3f991196ccda" width="700" />
+  <img src="https://github.com/user-attachments/assets/13c78985-795b-4719-a658-3f991196ccda" width="700" loading="lazy" />
 </p>
 
 Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben.
@@ -230,7 +230,7 @@ Die Armatureneinheit bestehend aus Zündschloss (14) und Taster (15) wird an der
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e2119084-17cc-459c-9b04-c3a3fc77cd7f" width="700" />
+  <img src="https://github.com/user-attachments/assets/e2119084-17cc-459c-9b04-c3a3fc77cd7f" width="700" loading="lazy" />
 </p>
 
 ### 4. Gaszug
@@ -239,7 +239,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47a1d52a-a043-487c-84a1-bdac1f482267" width="700" />
+  <img src="https://github.com/user-attachments/assets/47a1d52a-a043-487c-84a1-bdac1f482267" width="700" loading="lazy" />
 </p>
 
 Drehe dafür den Vergaserkolben (19) wie im Bild gezeigt, so dass die Nut (29)  zum Hinterreifen zeigt. Im Zylinder (20) ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (18) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.<br>
@@ -276,7 +276,7 @@ Jetzt kannst du das originale Zündschloss auf die Stellung mit dem Scheinwerfer
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmoduls und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremskontaktkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce077e52-2847-462c-9068-741e6dc084f2" width="600" />
+  <img src="https://github.com/user-attachments/assets/ce077e52-2847-462c-9068-741e6dc084f2" width="600" loading="lazy" />
 </p>
 
 
@@ -294,14 +294,14 @@ Schraube nun auch die Tankschraube (25) ab. Der Tank kann entsprechend der unter
 Wenn dein Rahmenobergurt keine erhöhte Tankauflagefläche hat, benötigst du zwischen Rahmenobergurt und Vorderer Aufnahme die mitgelieferte Distanzscheibe mit der Kennzeichnung “6 mm”. Hat dein Fahrzeug einen Bananentank, solltest du die Distanzscheibe “12 mm” zwischen der vorderen Aufnahme und dem Tank verwenden. Diese dient beim Bananentank nur einer besseren Fahrzeugoptik. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7d4af84-0254-46aa-8d38-c4f49da27c64" width="600" />
+  <img src="https://github.com/user-attachments/assets/e7d4af84-0254-46aa-8d38-c4f49da27c64" width="600" loading="lazy" />
 </p>
 
 Die hintere Aufnahme (28) wird an den anderen zwei Befestigungspunkten der originalen Sitzbank angeschraubt.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa1de136-e281-4ea4-b01c-fc0f5bcfd95b" width="600" />
+  <img src="https://github.com/user-attachments/assets/aa1de136-e281-4ea4-b01c-fc0f5bcfd95b" width="600" loading="lazy" />
 </p>
 
 Nun wird einmal probehalber die Sitzbank aufgelegt, damit sich die vordere Aufnahme und der Tank an die richtige Stelle verschieben. Hake dafür zuerst die Sitzbank in die hintere Aufnahme (28) ein und lass dann das vordere Ende der Sitzbank auf die vordere Aufnahme (26) absinken. Ob die Sitzbank richtig positioniert ist, kannst du überprüfen, indem du den Schließzylinder der Sitzbank mit dem Schlüssel drehst und rein drückst. Wenn der Schließzylinder sich nicht bis zum Einrasten reindrücken lässt, ist die Sitzbank noch nicht tief genug auf die Aufnahme geschoben.

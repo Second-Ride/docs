@@ -1,7 +1,7 @@
 # Anleitung zur Elektrifizierung der Simson Vogelserie SR4-2, SR4-2/1, SR4-4
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c197c2a5-6d8b-4fc0-b3ba-48dad91443f8" width="700" />
+  <img src="https://github.com/user-attachments/assets/c197c2a5-6d8b-4fc0-b3ba-48dad91443f8" width="700" loading="lazy" />
 </p>
 
 !!! info "Info"
@@ -195,13 +195,13 @@ M8: 24 Nm<br>
 Bevor du das Antriebsmodul in deinen Vogel einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="740" />
+  <img src="https://github.com/user-attachments/assets/f096db5b-bc97-41cb-96df-351b05c0176b" width="740" loading="lazy" />
 </p>
 
 Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung” aufgeführt sind und baue diese nach folgender Abb. zusammen. Drehe die M8 Mutter nur 2-3 volle Umdrehungen auf die M8x70 Außensechskantschraube.  Lasse dabei die zwei M6 Muttern noch weg und lege die vormontierte M5x Motoranbindung zur Seite.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73214222-0b4d-43c4-892c-baf824ed57e4" width="700" />
+  <img src="https://github.com/user-attachments/assets/73214222-0b4d-43c4-892c-baf824ed57e4" width="700" loading="lazy" />
 </p>
 
 
@@ -209,14 +209,14 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="570" />
+  <img src="https://github.com/user-attachments/assets/f968a853-17f8-4cec-8c7f-0da5afe0bef7" width="570" loading="lazy" />
 </p>
 
 Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
 Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst sie wie in der folgenden Abb. dargestellt so, dass die 1 dicke Unterlegscheibe innerhalb der oberen Motorlagerblechen sitzt und die dünneren außerhalb. Je nach Zustand der originalen Haltebleche kann auf die innere Unterlegscheibe verzichtet werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="500" />
+  <img src="https://github.com/user-attachments/assets/44f6162a-65a9-4d6c-9f05-23cf703722c0" width="500" loading="lazy" />
 </p>
 
 
@@ -224,7 +224,7 @@ Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstän
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="570" />
+  <img src="https://github.com/user-attachments/assets/525b44bd-c0d8-4278-86ec-219bdbabe34e" width="570" loading="lazy" />
 </p>
 
 
@@ -237,7 +237,7 @@ Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben 
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="500" />
+  <img src="https://github.com/user-attachments/assets/2d9b4898-913e-417e-83b2-c8d3d5603c97" width="500" loading="lazy" />
 </p>
 
 
@@ -245,7 +245,7 @@ Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Ke
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6a567d5-69f4-4bd5-b935-8b2a7496f5ab" width="700" />
+  <img src="https://github.com/user-attachments/assets/e6a567d5-69f4-4bd5-b935-8b2a7496f5ab" width="700" loading="lazy" />
 </p>
 
 Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben.Nun müssen hier die mitgelieferten 2x Kettenschlauchadapter verwendet werden. Drücke dazu die Kettenschlauchadapter mit dem schmaleren Ende vorran in die Kettenschläuche bis diese merklich einrasten. Jetzt kannst du den Kettenschlauch montieren.
@@ -277,7 +277,7 @@ Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das or
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmodul und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremskontaktkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fadbd8a1-ac1d-479d-af87-7414b73f89aa" width="600" />
+  <img src="https://github.com/user-attachments/assets/fadbd8a1-ac1d-479d-af87-7414b73f89aa" width="600" loading="lazy" />
 </p>
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
@@ -290,7 +290,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst, um den Kreuzschlitz der Madenschrauben nicht zu beschädigen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="790" />
+  <img src="https://github.com/user-attachments/assets/e8fcfad2-7994-41a5-ab3a-b5d5d3008f8a" width="790" loading="lazy" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen der Lampenhaube und Lenkerrohr und leite es zur Unterseite des Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen.
@@ -306,19 +306,19 @@ Da der Habicht einen recht langen Tank hat, muss vor der Montage der Sitzbank de
 Nun erfolgt die Anbringung der vorderen und hinteren Aufnahme, die in deine Sitzbank greifen und diese ans Fahrzeug befestigen. Entferne  nun die beiden oberen Schrauben des Gepäckträgers und löse die unteren, sodass der Gepäckträger locker sitzt.  Schraube die hintere Sitzbank Auflage (30) ab und lege sie beiseite. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4891a9e6-d473-4f07-b437-3d8e365bc0eb" width="600" />
+  <img src="https://github.com/user-attachments/assets/4891a9e6-d473-4f07-b437-3d8e365bc0eb" width="600" loading="lazy" />
 </p>
 
 Schraube nun den Gepäckträgerbügel verkehrt herum auf den Gepäckträger und kontere die Schrauben, wie in folgender Abb. dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="500" />
+  <img src="https://github.com/user-attachments/assets/83539881-da0b-43bd-8bb2-7c6cadd22c0c" width="500" loading="lazy" />
 </p>
 
 Nun nimm dir die beiseite gelegte hintere Sitzbank Auflage (30) und schraube die hintere Aufnahme wie abgebildet fest. Achte hierbei darauf, dass die Gewindestangen zentral in den großen Bohrungen liegen. Das ist wichtig, damit deine Sitzbank später ordentlich auf die Aufnahmen passt. Wenn die Position stimmt, ziehe die Muttern ordentlich fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="500" />
+  <img src="https://github.com/user-attachments/assets/973e93ac-26b3-4428-bcb3-68d55f6514b7" width="500" loading="lazy" />
 </p>
 
 
@@ -327,26 +327,26 @@ Ziehe nun alle Schraubverbindungen ordentlich fest.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6d282fc-fab0-4c98-ab2d-32d991b624c4" width="600" />
+  <img src="https://github.com/user-attachments/assets/d6d282fc-fab0-4c98-ab2d-32d991b624c4" width="600" loading="lazy" />
 </p>
 
 Bevor du jetzt die Vordere Aufnahme montierst, nimm dir den transparenten Kantenschutz und montiere ihn über die vorderste Kante des Auschnittes unter der Sitzbank, um hier den Lack vor dem Haken der Vorderen Aufnahme zu schützen. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e4bdf89-b240-467b-b9af-b555e27a9278" width="600" />
+  <img src="https://github.com/user-attachments/assets/8e4bdf89-b240-467b-b9af-b555e27a9278" width="600" loading="lazy" />
 </p>
 
 Nimm dir nun die vordere Aufnahme und unten abgebildete Komponenten. Hake die Vordere Aufnahme unter dem vorderen Blech des Sitzbankausschnittes ein und führe gleichzeitig die beiden Gewindebolzen durch die beiden vorderen Löcher der Sitzbankauflage.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da177fe5-f8e3-436e-a2c8-baae8f4a2b2a" width="600" />
+  <img src="https://github.com/user-attachments/assets/da177fe5-f8e3-436e-a2c8-baae8f4a2b2a" width="600" loading="lazy" />
 </p>
 
 Schraube nun die vordere Aufnahme mit den Unterlegscheiben und Muttern lose an. Setze die Sitzbank auf, sodass sie mit allen Gummipuffern auf der Fahrzeugkarosserie aufliegt und sich gut schließen lässt. Achte nun darauf, dass die vordere Aufnahme so im Schloss sitzt, dass sie nach vorne möglichst wenig Spiel hat, wie in der folgenden Abbildung dargestellt.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6673bcfa-598d-410d-ac28-96e2528a3655" width="600" />
+  <img src="https://github.com/user-attachments/assets/6673bcfa-598d-410d-ac28-96e2528a3655" width="600" loading="lazy" />
 </p>
 
 Hebe nun vorsichtig die Sitzbank aus dem Schloss, ohne die Position der vorderen Aufnahme zu verschieben und ziehe diese in genau dieser Position an.
@@ -363,7 +363,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="500" />
+  <img src="https://github.com/user-attachments/assets/49128aeb-4253-4366-9848-f909d04923ae" width="500" loading="lazy" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.
