@@ -43,7 +43,7 @@ On drive modules with serial numbers #00038 to #00192, you will find the update 
 Remove the cable cover from the drive module by unscrewing the M4 cylinder head screw (1) on the right side. You need a 3 mm Allen key for this. If your cable cover has an oval cutout on the top left in the driving direction, then underneath it hides a second M4 cylinder head screw, which only needs to be loosened one turn to remove the cover.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" />
+  <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" loading="lazy" />
 </p>
 
 ##### 1.2.2. Identify the diagnostic cable
@@ -64,14 +64,14 @@ Remove the rubber cap and connect the supplied USB cable. Important: Make sure t
    Under “Drive Module / Günter”, select the desired firmware version and click on “Connect”.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/263f4fd9-54f9-4818-91ee-71439bb3a486" width="500" />
+  <img src="https://github.com/user-attachments/assets/263f4fd9-54f9-4818-91ee-71439bb3a486" width="500" loading="lazy" />
 </p>
 
 ### 5. Establish connection:  
    A window will open, offering you the option to choose from different devices. Select the STM32… and confirm with “Connect” at the bottom right.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48619cba-1325-434a-9ad0-f54f5b51cba6" width="500" />
+  <img src="https://github.com/user-attachments/assets/48619cba-1325-434a-9ad0-f54f5b51cba6" width="500" loading="lazy" />
 </p>
 
 ### 6. Start firmware update:  
@@ -79,7 +79,7 @@ Remove the rubber cap and connect the supplied USB cable. Important: Make sure t
    Now click on “Execute update” and let the process run completely.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6f56cae-6cbb-4822-a888-f3f000b02b1b" width="500" />
+  <img src="https://github.com/user-attachments/assets/b6f56cae-6cbb-4822-a888-f3f000b02b1b" width="500" loading="lazy" />
 </p>
 
 ### 7. Finish:  
@@ -97,7 +97,7 @@ You can find the app version at the bottom of the app when you tap the info icon
 1. Connect the seat bench or the BT module to your laptop with a USB-C cable via the USB-C port next to the Second Ride logo. The USB-C port on the BT module/seat bench should now light up.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" />
+  <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" loading="lazy" />
 </p>
 
 2. Open Web Update Tool: → Use only with Google Chrome or Edge.
@@ -106,7 +106,7 @@ You can find the app version at the bottom of the app when you tap the info icon
    Under “Update Seat Bench & BT Module”, select the appropriate firmware version from the dropdown menu and click Connect. The firmware “Gisela V4 Base Version” only contains the basic functionality without any Bluetooth functions. Therefore, select the other available firmware.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" />
+  <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" loading="lazy" />
 </p>
 
 4. Establish connection:  
@@ -114,14 +114,14 @@ You can find the app version at the bottom of the app when you tap the info icon
    Select this and click “Connect”.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" />
+  <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" loading="lazy" />
 </p>
 
 5. Start firmware update:  
    After a short loading time, the following window should appear.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" />
+  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" loading="lazy" />
 </p>
 
    Before clicking on “Install Gisela V4”, make sure the cable connection is stable – an interruption can cause damage.  

@@ -1,7 +1,7 @@
 # Second Ride App & Updates
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c09abfb1-d620-44f7-be86-b7b039f1bf0d" width="500" />
+  <img src="https://github.com/user-attachments/assets/c09abfb1-d620-44f7-be86-b7b039f1bf0d" width="500" loading="lazy" />
 </p>
 
 
@@ -38,7 +38,7 @@ The app and update tool work with the following conversion kits:
 If your seat bench has a USB-C port directly next to the main connector, then it already has a BT module integrated. To use it, you only need to perform the seat bench update. How this works is explained in the chapter “Update Process”.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="500" />
+  <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="500" loading="lazy" />
 </p>
 
 
@@ -98,13 +98,13 @@ Take a photo of or note the 5-digit BT module ID on the side of your BT module. 
 Open the left side cover and remove the upper hole cover of the central housing section. This cover is no longer needed and can be set aside. Then loosen the nut at the ground point in the heart box and remove it together with all ring cable lugs and washers. Next, open the right side cover. Hold the bolt of the ground point and loosen the nut on the left side. Remove this nut along with the washer and lock washer. Remove the bolt and replace it with the M6x50 screw (1). Now reinstall all previously removed parts and cables in reverse order and close the right side cover. Screw on a new M6 nut (2), followed by a washer (3), about 20 mm onto the end of the screw.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed6e013c-6bb6-4144-8f52-4295f0b91efe" width="500" />
+  <img src="https://github.com/user-attachments/assets/ed6e013c-6bb6-4144-8f52-4295f0b91efe" width="500" loading="lazy" />
 </p>
 
 Slide the BT module with its eyelet onto the screw, followed by the second washer and the nut. Ensure that the BT module’s button points in the driving direction. The module must not protrude beyond the heart box (4), so that the side cover can later fit back on properly.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4a3f473-6898-439f-8d9e-5d2a5d2d39db" width="500" />
+  <img src="https://github.com/user-attachments/assets/f4a3f473-6898-439f-8d9e-5d2a5d2d39db" width="500" loading="lazy" />
 </p>
 
 Once the desired position is reached, hold the rear nut (2) with a 10mm wrench and tighten the front nut with a 10mm socket at 6 Nm. To mount the cable, continue with section 4.  
@@ -114,7 +114,7 @@ Once the desired position is reached, hold the rear nut (2) with a 10mm wrench a
 Loosen the wing nut on the engine tunnel and remove it. Slide the BT module from the front, starting before the cross brace (1), between the frame tubes (2) to the back until it reaches the corrugated tube (3). Make sure the button points in the driving direction and the logo faces upwards. For fastening, pull one cable tie through the upper (4) and then through the lower tab of the module, then place them around the adjacent frame tube (2). For a secure fit, all cable ties should be positioned behind the cross brace (1).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/32c05847-3fa7-453c-befa-6f1a0a01522b" width="500" />
+  <img src="https://github.com/user-attachments/assets/32c05847-3fa7-453c-befa-6f1a0a01522b" width="500" loading="lazy" />
 </p>
 
 Once the BT module is in position, tighten all cable ties evenly. To mount the cable, continue with section 4.  
@@ -124,13 +124,13 @@ Once the BT module is in position, tighten all cable ties evenly. To mount the c
 Remove the side panels to gain access to the battery compartment. If the old battery is still installed there, remove it, as the BT module will be mounted in this place. Slide the BT module from the left side into the battery compartment until the eyelet (1) passes the stop (2). Make sure the button faces upward and the logo points backward. For fastening, first pull a cable tie through the tab (3), loop it around the stop (2), and tighten it securely.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/905fa588-8c2f-4d8c-9130-dfc1958f38d5" width="500" />
+  <img src="https://github.com/user-attachments/assets/905fa588-8c2f-4d8c-9130-dfc1958f38d5" width="500" loading="lazy" />
 </p>
 
 Then guide another cable tie through the tabs (4), pull it through the hole in the battery support surface (5), and tighten it as well.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48e161a4-19ac-472a-98e8-0ce0f4b95e62" width="500" />
+  <img src="https://github.com/user-attachments/assets/48e161a4-19ac-472a-98e8-0ce0f4b95e62" width="500" loading="lazy" />
 </p>
 
 To mount the cable, continue with section 4.  
@@ -138,13 +138,13 @@ To mount the cable, continue with section 4.
 Clamping the vehicle into a motorcycle lift and then raising it makes installing the BT module significantly easier. Loosen the wing nut and remove the engine and electrical covers. Under the air guide plate (1) there are two holes (2) in the frame plate.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e07b44b0-cdb4-4e82-acfb-e88cb74c6094" width="500" />
+  <img src="https://github.com/user-attachments/assets/e07b44b0-cdb4-4e82-acfb-e88cb74c6094" width="500" loading="lazy" />
 </p>
 
 Place the BT module as shown with the underside on the frame plate, so that the threads on the underside of the module align with the holes (2) in the plate. A look from below helps to check alignment.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f15e56cf-13cc-40fa-983b-9c34ccc7c79c" width="500" />
+  <img src="https://github.com/user-attachments/assets/f15e56cf-13cc-40fa-983b-9c34ccc7c79c" width="500" loading="lazy" />
 </p>
 
 Now place a spring washer on each M4x10 socket head screw. Insert each screw through one of the holes, screw it into the BT module, and tighten to 3 Nm (hand-tight, not too tight). To install the cable, continue with section 4.  
@@ -153,7 +153,7 @@ Now place a spring washer on each M4x10 socket head screw. Insert each screw thr
 To fasten the BT module behind the mounting plate for the battery (1), press the top of the module against the mounting plate and rest it on the cross brace of the former lead battery holder (2), with the button facing upward. Pass a cable tie through the upper tabs (3), loop them around the cross brace (2), and tighten them securely. Another cable tie is passed through the upper tab (4) and around the mounting plate (1). The last cable tie is passed through the upper and lower tab (5) and fastened to the left tube (6), which connects into the handlebar tube.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6201e6f-8626-4883-a724-073784692ac3" width="500" />
+  <img src="https://github.com/user-attachments/assets/b6201e6f-8626-4883-a724-073784692ac3" width="500" loading="lazy" />
 </p>
 
 Finally, tighten all cable ties evenly to securely fix the module. To install the cable, continue with section 4.  
@@ -175,7 +175,7 @@ On drive modules with serial numbers #00038 to #00192, you will find the update 
 Remove the cable cover from the drive module by unscrewing the M4 cylinder head screw (1) on the right side. You will need a 3 mm Allen key for this. If your cable cover has an oval cutout on the top left in the driving direction, then underneath it hides a second M4 cylinder head screw, which only needs to be loosened one turn to remove the cover.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/857a182d-25e5-4776-9fe4-8d9f7b28565d" width="500" />
+  <img src="https://github.com/user-attachments/assets/857a182d-25e5-4776-9fe4-8d9f7b28565d" width="500" loading="lazy" />
 </p>
 
 ### Identifying the Diagnostic Cable  

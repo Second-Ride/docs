@@ -1,7 +1,7 @@
 # Second Ride E-Kupplung
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce7d9c6e-e9cb-4f70-abea-cebe28039036" />
+  <img src="https://github.com/user-attachments/assets/ce7d9c6e-e9cb-4f70-abea-cebe28039036" loading="lazy" />
 </p>
 
 !!! info "Info"
@@ -95,7 +95,7 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 Beginne damit, die beiden Quadermagneten wie im Bild gezeigt in eines der beiden Füllstücke zu stecken. Lege dafür die Magneten in ihrer Endposition auf eine ferromagnetische Unterlage (zb. ein Stück Blech) und drücke das Füllstück gerade von oben drauf. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42af0d2f-6fc2-45c4-9619-5c432e703fe7" />
+  <img src="https://github.com/user-attachments/assets/42af0d2f-6fc2-45c4-9619-5c432e703fe7" loading="lazy" />
 </p>
 
 Für die meisten Handhebel kommt das metallische Füllstück zum Einsatz. Nur für die alten Handhebel aus gebogenem Blech wird das Kunststofffüllstück verwendet. Drücke bei diesem ebenfalls die Mutter in die hexagonale Aussparung. 
@@ -105,14 +105,14 @@ Führe nun bei einem Standard Handhebel das Füllstück aus Metall in den Schlit
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dcacb023-c184-4de6-b3c0-f23391c75fb0" />
+  <img src="https://github.com/user-attachments/assets/dcacb023-c184-4de6-b3c0-f23391c75fb0" loading="lazy" />
 </p>
 
 Biege eine Öse der Feder (1) leicht auf, führe sie wie gezeigt durch das kleine Loch im Federhalteblech (2) und drücke die Öse wieder zusammen. Nimm die M3-Schraube (3) und schiebe die Bauteile in folgender Reihenfolge auf die Schraube: zuerst eine Unterlegscheibe (4), dann die Feder (1) (Richtung entsprechend dem Foto beachten), die zweite Unterlegscheibe (4) und schließlich die 8 mm Hülse (5). Schraube die Schraube in das Gewinde des Füllstücks (6) ein, wobei die Feder vom Hebel weg (wie roter Strich) zeigt, und lege danach den Handhebel beiseite. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae806de8-19d5-4634-b84b-de88696cce25" />
+  <img src="https://github.com/user-attachments/assets/ae806de8-19d5-4634-b84b-de88696cce25" loading="lazy" />
 </p>
 
 
@@ -123,7 +123,7 @@ Nimm den Reedsensor (7) und kontere beide Muttern (8) am Gewindeende. Stecke das
       Aufgrund des Einschnitts für den Bowdenzug lässt sich der Sensor sehr leicht schräg einschrauben – das ist unbedingt zu vermeiden. Es kann sein, dass sich am Gewindeende Lack oder Pulverbeschichtung befindet. Schneide das Gewinde bei Bedarf frei. Greife zum Einschrauben nur an den gekonterten Muttern oder am        Sensor, nicht am Kabel an, da sonst das Kabel ausreißen könnte.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a36eae26-291f-403a-a45b-6141dc7acdca" />
+  <img src="https://github.com/user-attachments/assets/a36eae26-291f-403a-a45b-6141dc7acdca" loading="lazy" />
 </p>
 
 
@@ -188,13 +188,13 @@ Verbinde das Multimeter mit der Flachsteckhülse und dem weißen einpoligen Stec
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70572ccb-18cd-4d29-8302-e8d69a746f97" />
+  <img src="https://github.com/user-attachments/assets/70572ccb-18cd-4d29-8302-e8d69a746f97" loading="lazy" />
 </p>
 
 | Warnzeichen | Bedeutung  |
 |-------|-------------|
-| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Durch die Montage der E-Kupplung veränderst du das Fahrverhalten. Achte darauf besonders, dass bei leichtem Rollen und Gasstellung des Gasgriffes das Loslassen des Kupplungshebels zu einer abrupten Beschleunigung führt. Stelle sicher, dass du dich erst an dieses neue Verhalten gewöhnst und erst dann am Straßenverkehr teilnimmst**|
-| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Beachte, dass bei Betätigung der E-Kupplung der Motor im Normalfall rekuperiert. Ist der Ladestand des Akkus allerdings >80% oder ist die Temperatur des Akkus außerhalb der Ladelimits, dann ist die Rekuperation ausgeschaltet und das Fahrzeug segelt bei Betätigung der E-Kupplung. Gewöhn dir also nicht daran, die E-Kupplung als Ersatz der Hinterradbremse zu nutzen, da es unerwartet keinen Bremseffekt geben könnte.**|
-| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Durch die Montage der E-Kupplung schaltet der Motor nicht mehr ab, wenn die Bremse betätigt wird, sondern durch die Betätigung des Kupplungsgriffes. Weise jede weitere Person zu diesem Verhalten ein, bevor du sie mit dem Fahrzeug fahren lässt.**|
-| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" /> | **Stelle nach der Montage sicher, dass alle Schraubverbindungen fest angezogen sind und alle Kabelverbindungen gut gesichert sind und nicht durch Lenkbewegungen oder normalen Gebrauch des Fahrzeugs beschädigt werden.**|
-| <img width="60" height="70" alt="pano-4" src="https://github.com/user-attachments/assets/6928edeb-e4ee-4df8-a955-02d98a470508" /> | **Bei der Montage der Feder und dem Kupplungshebel herrscht Quetschgefahr. Sei dabei besonders Vorsichtig**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" loading="lazy" /> | **Durch die Montage der E-Kupplung veränderst du das Fahrverhalten. Achte darauf besonders, dass bei leichtem Rollen und Gasstellung des Gasgriffes das Loslassen des Kupplungshebels zu einer abrupten Beschleunigung führt. Stelle sicher, dass du dich erst an dieses neue Verhalten gewöhnst und erst dann am Straßenverkehr teilnimmst**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" loading="lazy" /> | **Beachte, dass bei Betätigung der E-Kupplung der Motor im Normalfall rekuperiert. Ist der Ladestand des Akkus allerdings >80% oder ist die Temperatur des Akkus außerhalb der Ladelimits, dann ist die Rekuperation ausgeschaltet und das Fahrzeug segelt bei Betätigung der E-Kupplung. Gewöhn dir also nicht daran, die E-Kupplung als Ersatz der Hinterradbremse zu nutzen, da es unerwartet keinen Bremseffekt geben könnte.**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" loading="lazy" /> | **Durch die Montage der E-Kupplung schaltet der Motor nicht mehr ab, wenn die Bremse betätigt wird, sondern durch die Betätigung des Kupplungsgriffes. Weise jede weitere Person zu diesem Verhalten ein, bevor du sie mit dem Fahrzeug fahren lässt.**|
+| <img width="60" height="70" alt="pano-1" src="https://github.com/user-attachments/assets/9aa34484-b4ee-4dee-a229-ad1b3ba71dac" loading="lazy" /> | **Stelle nach der Montage sicher, dass alle Schraubverbindungen fest angezogen sind und alle Kabelverbindungen gut gesichert sind und nicht durch Lenkbewegungen oder normalen Gebrauch des Fahrzeugs beschädigt werden.**|
+| <img width="60" height="70" alt="pano-4" src="https://github.com/user-attachments/assets/6928edeb-e4ee-4df8-a955-02d98a470508" loading="lazy" /> | **Bei der Montage der Feder und dem Kupplungshebel herrscht Quetschgefahr. Sei dabei besonders Vorsichtig**|

@@ -1,7 +1,7 @@
 # Accessory: External Charging Port
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" />
+  <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" loading="lazy" />
 </p>
 
 <h2>Requirements</h2>
@@ -76,7 +76,7 @@ All technical data and descriptions contained here were up to date at the time o
 Start by disconnecting the battery pack. Lift the vehicle and make sure the front wheel remains movable, otherwise you cannot access the controller screws. Remove all vehicle parts that are in the way of the installation. On the Schwalbe, these are the cross brace for the leg shield and the motor tunnel, on the SR50 and SR80 the front engine mount. This allows the drive module to be folded down, making installation possible. On SR4-2 and SR4-4 the side panels must be removed. On vehicles with an upper engine mount (KR51, KR51/1, SR4-2, SR4-4), remove the two nuts connecting the M5x engine mount to the drive module.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" />
+  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" loading="lazy" />
 </p>
 
 ### 2. Installation
@@ -84,20 +84,20 @@ Start by disconnecting the battery pack. Lift the vehicle and make sure the fron
 Using the SW4 Allen key, loosen the four button head screws of the motor controller. The lower two screws also have sleeves, which may fall out during removal. Disconnect the large plug at the bottom of the controller (1) and fold the controller with housing to the side so that it only hangs on the three phase cables. Open the contact cover (2) on the back of the controller by removing the two Phillips screws (3).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" />
+  <img src="https://github.com/user-attachments/assets/d4611120-d065-4c8e-be1a-f1c650568955" width="500" loading="lazy" />
 </p>
 
 Loosen the screws at the B+ (red cable) (4) and B- (black cable) (4) terminals. Place the ring terminal of the red cable of the charging adapter (5) onto the screw and screw it back into the thread. Tighten the screw hand-tight and repeat the process with the black cable (5) at the B- terminal.  
 Make sure the cables are close together, otherwise the cable cover cannot be reinstalled.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8665086-adad-48c8-b7ed-dbde068347e6" width="500" />
+  <img src="https://github.com/user-attachments/assets/f8665086-adad-48c8-b7ed-dbde068347e6" width="500" loading="lazy" />
 </p>
 
 Then reinstall the cable cover (2), ensuring that none of the old or new cables are pinched at the outlets. The two new cables must run to the left of the controller plug (1) in the direction of travel and exit from the bottom of the controller. Plug the controller plug (1) back into the controller. Route the charging adapter along the motor and mount it on the left front face of the motor. The protrusion on the back of the charging adapter defines its position by fitting into a groove on the front face (6). The hole for the M8 screw must align exactly with the thread (7) on the front face. Fasten the charging adapter to the motor using the M8 screw and the SW6 Allen key.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a91ef741-c7bc-4244-a5e2-01470a533546" width="500" />
+  <img src="https://github.com/user-attachments/assets/a91ef741-c7bc-4244-a5e2-01470a533546" width="500" loading="lazy" />
 </p>
 
 (... full translated installation steps with images as above ...)

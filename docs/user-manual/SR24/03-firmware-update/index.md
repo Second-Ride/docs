@@ -47,7 +47,7 @@ Bei Antriebsmodulen mit den Seriennummern \#00038 bis \#00192 findet ihr das Upd
 Entferne die Kabelblende vom Antriebsmodul, indem du die M4-Zylinderkopf-Schraube (1) an der rechten Seite abnimmst. Dazu brauchst du einen 3 mm Inbus-Schlüssel. Sollte deine Kabelblende auf der Oberseite links in Fahrtrichtung einen ovalen Ausschnitt haben, dann versteckt sich darunter noch eine zweite M4         -Zylinderkopf-Schraube, welche Du nur eine Umdrehung lösen musst, um die Blende abnehmen zu können.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" />
+  <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" loading="lazy" />
 </p>
 
 ##### 1.1.1 Diagnose-Kabel identifizieren
@@ -69,7 +69,7 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
    Wähle unter „Antriebsmodul / Günter“ die gewünschte Firmware-Version und klicke auf “Verbinden”  
   
    <p align="center">
-  <img src="https://github.com/user-attachments/assets/263f4fd9-54f9-4818-91ee-71439bb3a486" width="500" />
+  <img src="https://github.com/user-attachments/assets/263f4fd9-54f9-4818-91ee-71439bb3a486" width="500" loading="lazy" />
 </p>
 
 
@@ -77,7 +77,7 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
    Nun öffnet sich ein Fenster, welches dir die Option bietet aus verschiedenen Geräten auszuwählen. Wähle das STM32… aus und bestätige mit “Verbinden” unten rechts.  
   
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/48619cba-1325-434a-9ad0-f54f5b51cba6" width="500" />
+  <img src="https://github.com/user-attachments/assets/48619cba-1325-434a-9ad0-f54f5b51cba6" width="500" loading="lazy" />
 </p>
 
 ### 6. Firmware-Update starten:  
@@ -85,7 +85,7 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
    Klicke nun auf “Update ausführen” und lasse den Vorgang vollständig durchlaufen.  
 
    <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6f56cae-6cbb-4822-a888-f3f000b02b1b" width="500" />
+  <img src="https://github.com/user-attachments/assets/b6f56cae-6cbb-4822-a888-f3f000b02b1b" width="500" loading="lazy" />
 </p>
 
 ### 7. Abschluss:  
@@ -104,7 +104,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
 1. Verbinde die Sitzbank bzw. das BT-Modul mit einem USB-C-Kabel über den USB-C Port neben dem Second Ride Logo mit deinem Laptop. Der USB-C Port an dem BT-Modul/Sitzbank sollte jetzt leuchten
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" />
+  <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" loading="lazy" />
 </p>
 
 2. Webupdatetool öffnen: → Nur mit Google Chrome oder Edge verwenden.
@@ -113,7 +113,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
    Wähle unter „Sitzbank & BT-Modul updaten“ die passende Firmware-Version aus dem Dropdown-Menü und drücke auf Verbinden. Die Firmware “Gisela V4 Base Version” enthält nur die Basis-Funktionalität ohne jegliche Bluetooth-Funktionen. Wähle daher die andere verfügbare Firmware aus.  
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" />
+  <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" loading="lazy" />
 </p>
 
 4. Verbindung herstellen:  
@@ -121,7 +121,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
    Wähle diesen aus und klicke auf “Verbinden”.  
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" />
+  <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" loading="lazy" />
 </p>
 
 
@@ -129,7 +129,7 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
    Nach kurzem Laden sollte folgendes Fenster erscheinen.   
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" />
+  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" loading="lazy" />
 </p>
 
    Bevor du nun auf “install Gisela V4” drückst stelle sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
