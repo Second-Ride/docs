@@ -1,6 +1,6 @@
 # Second Ride Conversion Kit SR24 for Simson Duo 4, Duo 4/1, Duo 4/2
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf57031d-42b5-4207-8658-4848b82d0f03" width="700" />
+  <img src="https://github.com/user-attachments/assets/cf57031d-42b5-4207-8658-4848b82d0f03" width="700" loading="lazy" />
 </p>
 
 ## Please keep your packaging!
@@ -193,32 +193,32 @@ M8: 24 Nm<br>
 Before installing the drive module in your Duo 4/1, you must loosen the two upper pan head screws that connect the controller to the drive module at the top front. Now take the two M6x90 screws included in the kit and screw them into the freed holes, leaving a thread overhang of about 10 mm.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a56a5222-2353-45d8-8db3-7d27748fec38" width="700" />
+  <img src="https://github.com/user-attachments/assets/a56a5222-2353-45d8-8db3-7d27748fec38" width="700" loading="lazy" />
 </p>
 
 Now take the parts listed under “M5x Motor Mount” in the scope of delivery and assemble them as shown in the following figure. Screw the M8 nut only 2-3 full turns onto the M8x70 hex bolt. Leave the two M6 nuts aside for now and set the pre-assembled M5x motor mount aside.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d612d17-ed89-49cb-a4b5-451ac28b51e0" width="700" />
+  <img src="https://github.com/user-attachments/assets/6d612d17-ed89-49cb-a4b5-451ac28b51e0" width="700" loading="lazy" />
 </p>
 
 The drive module is mounted on the vehicle in the same way as the original engine. Here too, you should get help from another person. First, place the drive module under the vehicle. Lift the drive module and guide it between the frame mounts (10).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a3ca4bc-7786-40c3-8851-500d4b38d349" width="600" />
+  <img src="https://github.com/user-attachments/assets/8a3ca4bc-7786-40c3-8851-500d4b38d349" width="600" loading="lazy" />
 </p>
 
 The supplied M8x100 hex bolt is for the upper hole in the engine mounting plates. Using a ratchet with extension and 13mm socket, and a 13mm open-end wrench for counter-holding, tighten the nut so that the drive module can still rotate around the bolt axis. You can now rest the drive module in the engine mount.  
 Next, take the pre-assembled M5x motor mount and install it as shown in the figure, so that the thick washer sits inside the upper engine mounting plates and the thinner washers outside. Depending on the condition of the original mounting plates, the inner washer may be omitted.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="300" />
+  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="300" loading="lazy" />
 </p>
 
 Now push the drive module upward so that you can insert the upper thread overhangs of the controller screws into the lower two holes of the M5x motor mount. Screw the M5x motor mount to the drive module with the M6 nuts.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="500" />
+  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="500" loading="lazy" />
 </p>
 
 As a final step, tighten the two M8 nuts of the rear and upper engine mounts firmly. Use a ratchet with extension, 13mm socket, and a 13mm open-end wrench for counter-holding.
@@ -228,25 +228,25 @@ As a final step, tighten the two M8 nuts of the rear and upper engine mounts fir
 To fit our drive module into the Duo 4/2, you must make a small adjustment to our drive module. The adapter block (31) must be rotated 30° along the motor axis.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74cc620c-b064-4e30-869d-560b64336807" width="700" />
+  <img src="https://github.com/user-attachments/assets/74cc620c-b064-4e30-869d-560b64336807" width="700" loading="lazy" />
 </p>
 
 Unscrew the 4 socket head screws (32) and Schnorr washers (33) with a SW6 Allen key from the drive module. Put the adapter block aside and unscrew the two M8 set screws (34) from the motor. There may be some damp silicone on the screw ends—don’t worry, the fumes are not toxic, just harmless vinegar.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2534e9c-175a-43ea-b017-5804c194f184" width="600" />
+  <img src="https://github.com/user-attachments/assets/f2534e9c-175a-43ea-b017-5804c194f184" width="600" loading="lazy" />
 </p>
 
 Now screw the set screws, as shown in the following picture, into the two lowest holes of the motor so that they sit slightly below the motor surface. Take the adapter block and screw it back onto the remaining motor holes. Tighten the screws with a torque of 15 Nm. If you don’t have a torque wrench, tighten them firmly by feel, but not too much, otherwise the threads could be damaged and the motor would have to be replaced.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da6fe9f9-e5a4-4e6b-92b8-f5ff4dcb83db" width="700" />
+  <img src="https://github.com/user-attachments/assets/da6fe9f9-e5a4-4e6b-92b8-f5ff4dcb83db" width="700" loading="lazy" />
 </p>
 
 The drive module is mounted on the vehicle in the same way as the original engine. Again, you should get help from another person. Lift the drive module and guide it between the engine mounting plates (10). The supplied M8x100 hex bolt is for the upper hole, and the M8x90 hex bolt for the lower hole. Using a ratchet with extension and 13mm socket, and a 13mm open-end wrench for counter-holding, tighten both bolts firmly with the supplied M8 nuts. To complete the engine mount, the front support must now be attached as shown in the following figure.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/411e73c7-c2b5-4422-b990-f996c1e8f4c9" width="800" />
+  <img src="https://github.com/user-attachments/assets/411e73c7-c2b5-4422-b990-f996c1e8f4c9" width="800" loading="lazy" />
 </p>
 
 ### 2. Chain
@@ -336,7 +336,7 @@ Now screw the speedometer cable to the newly installed chain guard. The plastic 
 The instrument cluster (13) with button (17), charge indicator (15), and ignition lock (14) must be installed under the original cluster. The instrument panel is fastened with the two large flat-head screws that also hold the original instrument panel. The original panel must be unscrewed if this has not already been done for wiring. Now place the Second Ride instrument panel under the original Duo panel and fasten both together.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7da3cc18-8a8c-4fe8-b2b4-c475de66ad3f" width="600" />
+  <img src="https://github.com/user-attachments/assets/7da3cc18-8a8c-4fe8-b2b4-c475de66ad3f" width="600" loading="lazy" />
 </p>
 
 Finally, route the cable along the handlebar tube to the drive module. There you can connect it with the matching connector and secure it with cable ties to the frame. Both connectors have arrows indicating the correct orientation. Make sure the cable connection allows enough slack for steering.
@@ -346,7 +346,7 @@ Finally, route the cable along the handlebar tube to the drive module. There you
 The instrument cluster (13) with button (17), charge indicator (15), and ignition lock (14) must be installed in place of the starter button on the right side of the handlebar, replacing the electric starter button. Unscrew it and install the supplied cluster in the same spot.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="740" />
+  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="740" loading="lazy" />
 </p>
 
 Finally, route the cable along the handlebar tube to the drive module. There you can connect it with the matching connector and secure it with cable ties to the frame. Both connectors have arrows indicating the correct orientation. Make sure the cable connection allows enough slack for steering.
@@ -358,19 +358,19 @@ Finally, route the cable along the handlebar tube to the drive module. There you
 To mount the battery holder on the bulkhead, take the frame clamp and the mounting plate and loosely screw them to the crossbar of the former lead-acid battery holder as shown below. Apply the edge protector to the inner edge of the frame clamp and place it as shown below over the two upper tubes leading to the handlebar tube. Again, only loosely fasten the two M6 screws with the mounting plate.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="700" />
+  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="700" loading="lazy" />
 </p>
 
 Now take the battery/seat bench and place it upright against the bulkhead while inserting the lock mount of the battery holder into the bottom shell of the battery. If the holder is only loosely screwed to the Duo, it should slide into the correct position. Make sure the battery/seat bench stands upright on the floor of the Duo and rests against the bulkhead with its lower rear edge. Now take the two brackets and place them under the edges of the battery base plate as shown. Mark their positions on the floor so that after removing the battery you can place them back in exactly the same spot. Masking tape works well for this.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="600" />
+  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="600" loading="lazy" />
 </p>
 
 The upper mount should sit in the lock with as little upward play as possible, as shown in the following image.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f12bd0e6-2567-4c44-8929-d57fe7bfc872" width="600" />
+  <img src="https://github.com/user-attachments/assets/f12bd0e6-2567-4c44-8929-d57fe7bfc872" width="600" loading="lazy" />
 </p>
 
 Now tighten the lower nuts of the mount to secure the position. Then tighten the two upper nuts.
@@ -388,7 +388,7 @@ If you have an N1 carburetor, you can now screw the throttle cable including pis
 Which notch the carburetor needle is mounted in, or whether it is missing, no longer matters for the function of the Bowden cable sensor.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a45e3f6b-749d-4a08-a293-f5275c8bd753" width="600" />
+  <img src="https://github.com/user-attachments/assets/a45e3f6b-749d-4a08-a293-f5275c8bd753" width="600" loading="lazy" />
 </p>
 
 To ensure the rotation of the throttle grip is correctly converted into an electrical signal via the Bowden cable, it is important to insert the carburetor piston (22) correctly into the designated cylinder (23) on the drive module. Rotate the carburetor piston as shown in the image so that the groove (29) points to the rear wheel. Inside the cylinder on the same side is a pin that you can feel with your finger. The carburetor piston must be inserted so that the groove slides over the pin. Then screw the carburetor cap (21) onto the cylinder. Make sure the cap is screwed on so far that no gap remains between the cap and the stop.

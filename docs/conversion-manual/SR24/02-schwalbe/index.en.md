@@ -1,6 +1,6 @@
 # Second Ride Conversion Kit SR24 for Simson Schwalbe - KR51/2, KR51/1 & KR51
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" width="700" />
+<img src="https://github.com/user-attachments/assets/6c5b91fe-700a-428c-bed5-70cedc0d544e" width="700" loading="lazy" />
 </p>
 
 ## Please keep your packaging!
@@ -193,7 +193,7 @@ Before you begin disassembly, remove the vehicle's battery to avoid short circui
 The conversion on the Schwalbe is somewhat more complex than on the S50, S51, and S70 models. This is mainly due to the generous fairing, which makes access to the engine, electrical system, and fuel tank difficult. So, it's best to start by removing the engine tunnel.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" width="700" />
+<img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" width="700" loading="lazy" />
 </p>
 
 Next, it's the hood (1)'s turn. To do this, first remove the seat, including the hinge (5). Now remove the five screws that still hold the hood in place: one screw at the top, centered behind the fuel cap (2), two screws that secure the passenger footrests (3), and two at each of the front, lower corners of the hood (4). To be able to remove the hood, you still need to disconnect the cables leading to the taillight. Near the engine, you should find a 3-pin terminal socket with cables leading to the rear. Disconnect the cables from one side of the socket. The hood can now be lifted off. Once the hood is down, you can remove the tank. This is necessary to route the thick cable from the drive module to the seat later and also gives you a lot more storage space.
@@ -217,7 +217,7 @@ In the next step, unscrew the instrument panel and remove the mounting plate (7)
 Next, it's the hood (1). To do this, first remove the seat including the hinge (5). Now remove the five screws that still hold the hood in place: one screw at the top, centered behind the fuel cap (2), two screws that secure the passenger footrests (3), and two at each of the front, lower corners of the hood (4). To remove the hood, you'll need to disconnect the cables leading to the taillight. Near the engine, you should find a 3-pin terminal block with cables leading to the rear. Remove the cables from one side of the block. Now you can lift the hood off. Once the hood is down, you can remove the tank. This is necessary to route the thick cable from the drive module to the seat later and also gives you a lot more storage space.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" />
+<img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" loading="lazy" />
 </p>
 
 ### 4. Exhaust
@@ -261,13 +261,13 @@ M8: 24 Nm
 Before you can install the drive module in your Schwalbe, you must loosen the two upper countersunk head screws that connect the controller to the drive module at the top front of the drive module. Now take the two M6x90 screws included in the kit and screw them into the newly exposed holes, creating a thread projection of approximately 10 mm.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" width="700" />
+<img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" width="700" loading="lazy" />
 </p>
 
 Now take the components listed in the scope of delivery under "M5x Motor Mount" and assemble them according to the following illustration. Screw the M8 nut onto the M8x70 hexagon socket head cap screw by only 2-3 full turns. Leave the two M6 nuts and set the pre-assembled M5x motor mount aside.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e1203ef3-5b85-4926-9d0a-a63e9514623a" width="700" />
+<img src="https://github.com/user-attachments/assets/e1203ef3-5b85-4926-9d0a-a63e9514623a" width="700" loading="lazy" />
 </p>
 
 The drive module is mounted on the vehicle in the same way as the original engine. Here, too, you should get help from another person. First, place the drive module under the vehicle and route the black cable up, as shown in the picture, where the seat will later be. Install the slotted corrugated tube around the cable so that it is protected from the metal edges of the Schwalbe body.
@@ -275,7 +275,7 @@ The drive module is mounted on the vehicle in the same way as the original engin
 Lift the drive module and guide it between the engine mounting plates (10).
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/80f38a51-24bd-4e87-ae69-02ba5bfd312d" width="700" />
+<img src="https://github.com/user-attachments/assets/80f38a51-24bd-4e87-ae69-02ba5bfd312d" width="700" loading="lazy" />
 </p>
 
 The included M8x100 hexagon socket head screw is for the upper hole in the motor mounting plates. Using a ratchet with an extension piece and a 13mm socket, and a 13mm open-end wrench for locking, tighten the nut until the drive module can still rotate around the screw axis. You can now place the drive module in the motor mount.
@@ -283,13 +283,13 @@ The included M8x100 hexagon socket head screw is for the upper hole in the motor
 Next, take the pre-assembled M5x motor mount and install it as shown in the following figure, ensuring that the three thick washers (red) are inside the Schwalbe motor mounting plates and the thinner washers (yellow) are outside. Depending on the condition of the original retaining plates, these may need to be bent straight.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/08e73735-1e52-4b2e-8dd2-fb214e1276b3" width="700" />
+<img src="https://github.com/user-attachments/assets/08e73735-1e52-4b2e-8dd2-fb214e1276b3" width="700" loading="lazy" />
 </p>
 
 Now push the drive module upwards so that the upper thread projections of the controller screws fit into the two lower holes of the M5x motor mount. Screw the M5x motor mount to the drive module using the M6 nuts.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/561895fb-6a99-487a-ac37-a35d6238ba11" width="700" />
+<img src="https://github.com/user-attachments/assets/561895fb-6a99-487a-ac37-a35d6238ba11" width="700" loading="lazy" />
 </p>
 
 As a final step, properly tighten the two M8 nuts on the rear and upper motor mounts. Use a ratchet with an extension, a 13mm socket, and a 13mm open-end wrench for locking.
@@ -304,7 +304,7 @@ The included M8x100 hexagon socket head screw is intended for the upper hole, an
 Using a ratchet with an extension piece, a 13mm socket, and a 13mm open-end wrench for locking, tighten both screws properly with the included M8 nuts.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e2da6e5e-7548-4c83-939d-09c6f7112fcd" width="700" />
+<img src="https://github.com/user-attachments/assets/e2da6e5e-7548-4c83-939d-09c6f7112fcd" width="700" loading="lazy" />
 </p>
 
 ### 2. Chain
@@ -314,13 +314,13 @@ Now remove the chain guard from the drive module by loosening the three M4 screw
 **Caution!** : Do not simply pull the chain out of the chain tube once you have opened it. You can use the old chain to easily install the new one. Connect the new chain to the new master link at one end of the old chain and then pull on the other end of the old chain until the master link reappears. Now open the master link, place the chain over the drive pinion of the drive module, and close it again. You can now pull the rear wheel back and turn the chain tensioner nuts forward for a rough pre-adjustment. For the fine adjustment, start with the right chain tensioner: Turn the chain tensioner nut forward until the chain in the tube has only 2 cm of play up and down. You can test this by squeezing the chain tube at its thinnest point between your thumb and index finger and making an up-and-down motion.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="600" />
+<img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="600" loading="lazy" />
 </p>
 
 Once you're satisfied with the chain tension, you can now move on to the other chain tensioner. Using this chain tensioner, you'll adjust the vehicle's toe. It sounds more complicated than it is. Just make sure both wheels are in line. You can use a long, straight board for this, or simply crouch three steps behind the moped and aim for the front wheel with one eye over the rear wheel.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/72519124-0455-4d84-83e4-c5ac0fe80871" width="700" />
+<img src="https://github.com/user-attachments/assets/72519124-0455-4d84-83e4-c5ac0fe80871" width="700" loading="lazy" />
 </p>
 
 Now check the chain tension again and adjust if necessary. Once both chain tensioners are correctly adjusted, you can tighten the rear axle and nut again. Now all you need to do is screw our chain guard back on. For the KR51/1 and KR51, the two included chain tube adapters must be used. To do this, push the chain tube adapters into the chain tubes with the narrower end first until they click into place. You can now install the chain tube.
@@ -339,7 +339,7 @@ Now reattach the brake cable to the foot brake lever and tighten the rear brake 
 Your rear brake should now work again. After completing the conversion, make sure your rear brake is properly adjusted and braking properly.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="700" />
+<img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="700" loading="lazy" />
 </p>
 
 ### 3. Electrics
@@ -370,7 +370,7 @@ Now you can reattach the ignition switch and the lamp mask and set the original 
 Finally, you need to connect our brake signal cable. This cable tells the drive module whether you're applying the rear brake (or front brake, if you also have a brake contact there). As long as the brake is applied, you can no longer accelerate. Included in the package is an 80cm long black cable with a white connector housing on one end and a flat receptacle (22) on the other. Connect the white connector to the white connector on the underside of the drive module and route the cable along the swing arm to the brake contact (24) on the rear wheel. Remove the original brake signal cable (23), plug in ours, and connect the original one to the extra flag that comes off our cable. We've also included a brake flag for you to screw on in case yours is too corroded or completely missing.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="650" />
+<img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="650" loading="lazy" />
 </p>
 
 We included this function because there is no longer a clutch and therefore no way to disconnect the power transmission if an error occurs with the throttle response. For example, the throttle could get stuck in the open position. Such a scenario is no longer dangerous if you only have to apply the foot brake to cut off the engine's power.
@@ -388,7 +388,7 @@ Due to the use of the DUO speedometer gear, the displayed speed is approximately
 The KR51 controls (13) with button (17), charge indicator (15), and ignition switch (14) must be clamped to the handlebar cover plate using the two control brackets. To do this, carefully slide the controls over the plate facing the rider until they stop. Ensure that the controls are aligned straight and that the plastic set screws in the brackets have a full contact surface. Now screw in the set screws on the control brackets properly. Be careful not to overtighten and damage the Phillips head of the set screws.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="800" />
+<img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="800" loading="lazy" />
 </p>
 
 Finally, thread the cable through the opening between the dashboard and the handlebar tube and route it to the underside of the drive module. There, you can connect it to the appropriate connector and secure the cable to the frame with cable ties. Arrows are printed on both connectors, indicating the correct orientation for connecting them.
@@ -398,7 +398,7 @@ Finally, thread the cable through the opening between the dashboard and the hand
 Instead of the previously removed dashboard, you can now install the dashboard (13) supplied by us, which includes the button (17), charge level indicator (15), and ignition switch (14). To do this, first thread the cable through the opening where the dashboard panel belongs and route it to the underside of the drive module. There, you can connect it to the appropriate connector and secure the cable to the frame with cable ties. Arrows are printed on both connectors to indicate the correct orientation for connecting them.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1535860d-1659-40f9-8623-95915e654d8c" width="500" />
+<img src="https://github.com/user-attachments/assets/1535860d-1659-40f9-8623-95915e654d8c" width="500" loading="lazy" />
 </p>
 
 ### 5. Seat
@@ -406,7 +406,7 @@ Instead of the previously removed dashboard, you can now install the dashboard (
 Before you begin assembling the seat, you must equip the Schwalbe connecting panel with the components listed under Scope of Delivery -> Connecting Panel Rubber Parts. Glue the foam rubber strips to the underside of the connecting panel, as shown below. The foam rubber can also be wrapped around the front radius without creases if you apply it piece by piece and only press the entire thing firmly at the end. We didn't perform this installation ourselves, as the soft foam rubber would have deformed in the packaging and therefore wouldn't fit perfectly on your bike.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="650" />
+<img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="650" loading="lazy" />
 </p>
 
 The subsequent seat installation is easier if the Schwalbe's hood is removed, as it's then much easier to access the nuts on the luggage rack's bolts. However, it can also be done without removing the hood, albeit with a bit of contortion.
@@ -417,19 +417,19 @@ The subsequent seat installation is easier if the Schwalbe's hood is removed, as
 Since the luggage rack holes in the body of the KR51 are offset by 2 cm compared to the KR51/1 and -/2, the position of the luggage rack must be adjusted before installing the seat. To do this, take the necessary components listed under Scope of Delivery > KR51 > Luggage Rack Adapter and have them ready. Now unscrew the luggage rack. Install the luggage rack as shown in the following illustration.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="650" />
+<img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="650" loading="lazy" />
 </p>
 
 Now hook the mounting plate under the front of the hood and screw it onto the hood using the two upper luggage rack mounting points. Use the included 2x KR51 luggage rack spacers for this purpose. Locking the nuts is much easier when the hood is removed, but it also works with the hood installed if you have a long arm and a bit of patience.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8d0e3d9f-69fd-4163-a7d0-6d3c97408042" width="500" />
+<img src="https://github.com/user-attachments/assets/8d0e3d9f-69fd-4163-a7d0-6d3c97408042" width="500" loading="lazy" />
 </p>
 
 Now screw the luggage rack into the protruding slots on the mounting plate. Attach the luggage rack to the original lower luggage rack mounts as shown below.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="650" />
+<img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="650" loading="lazy" />
 </p>
 
 When installing the hood, you just need to make sure that the threaded rods on the mounting plate are inserted into the large holes at the front of the frame. First, loosely screw in all five screws that secure the hood to the vehicle and then tighten them all. Now you can screw one of the included large washers and self-locking nuts onto each threaded rod.
@@ -442,7 +442,7 @@ The seat does not have a passenger strap. Therefore, it is necessary that you ha
 Now you can screw the mounting plate onto the rear of the removed hood on the luggage rack before remounting it on the vehicle. To do this, first remove the two top screws of the luggage rack, if you haven't already done so. Now hook the mounting plate under the metal edge of the hood at the front and then screw the mounting plate back on using the jacking handle. The jacking handle must be screwed on with the handle facing backwards and downwards, otherwise there wouldn't be enough space to hook and unhook the seat. Locking the nuts is much easier when the hood is removed, but it also works with the hood installed if you have a long arm and a bit of patience.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5c4058f9-aaac-44c3-94c5-f420f94904e6" width="500" />
+<img src="https://github.com/user-attachments/assets/5c4058f9-aaac-44c3-94c5-f420f94904e6" width="500" loading="lazy" />
 </p>
 
 When installing the hood, you only need to ensure that the threaded rods on the mounting plate are inserted into the large holes at the front of the frame. First, loosely screw in all five screws that secure the hood to the vehicle and then tighten them all. Now you can screw one of the included large washers and self-locking nuts onto each threaded rod.
@@ -458,7 +458,7 @@ If you have an N1 carburetor, you can now screw the throttle cable, including th
 Which notch the carburetor needle is mounted in, or whether it is missing altogether, no longer plays a role in the function of the Bowden cable sensor.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="650" />
+<img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="650" loading="lazy" />
 </p>
 
 To ensure that the turning of the throttle grip is correctly converted into an electrical signal via the Bowden cable, it is important that you correctly insert the carburetor piston (22) into the designated cylinder (23) on the drive module. To do this, turn the carburetor piston as shown in the picture so that the groove (29) points towards the rear tire. There is a pin on the same side of the cylinder, which you can feel with your finger. The carburetor piston must then be inserted into the cylinder so that the groove is aligned over the pin. You can then screw the carburetor cover (21) onto the cylinder. Make sure the cap is screwed on far enough until no gap is visible between the cap and the stop.

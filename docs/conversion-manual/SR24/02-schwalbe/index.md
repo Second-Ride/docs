@@ -203,7 +203,7 @@ Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kur
 Bei der Schwalbe ist der Umbau etwas aufwendiger als bei den Modellen S50, S51 und S70. Das liegt vor allem an der großzügigen Verkleidung, welche den Zugang zu Motor, Elektrik und Tank erschweren. Fang also am Besten gleich erstmal damit an, den Motortunnel zu entfernen. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" width="700" />
+  <img src="https://github.com/user-attachments/assets/432e9b60-d8bf-43ff-a41b-23b58d831b78" width="700" loading="lazy" />
 </p>
 
 Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Sitzbank inklusive des Scharniers (5). Entferne nun die fünf Schrauben die die Haube noch halten: eine Schraube oben, mittig hinter dem Tankdeckel (2), zwei Schrauben mit denen die Soziusrasten befestigt sind (3), und zwei jeweils an den vorderen, unteren Ecken der Haube (4). Damit du die Haube gleich abnehmen kannst, müssen noch die Kabel, die zum Rücklicht führen, abgeklemmt werden. In der Nähe des Motors solltest du eine 3-polige Klemmbuchse mit Kabeln, die nach hinten führen, finden. Entferne die Kabel von einer Seite der Buchse. Nun kann die Haube herunter gehoben werden. Ist die Haube runter, kannst du den Tank demontieren. Das ist notwendig, um später das dicke Kabel vom Antriebsmodul zur Sitzbank zu leiten und gibt dir außerdem jede Menge mehr Stauraum.
@@ -230,7 +230,7 @@ Schraube im nächsten Schritt das Armaturenblech ab und entnehme das Befestigung
 Als nächstes ist die Haube (1) an der Reihe. Demontiere dafür zunächst die Sitzbank inklusive des Scharniers (5). Entferne nun die fünf Schrauben die die Haube noch halten: eine Schraube oben, mittig hinter dem Tankdeckel (2), zwei Schrauben mit denen die Soziusrasten befestigt sind (3), und zwei jeweils an den vorderen, unteren Ecken der Haube (4). Damit du die Haube gleich abnehmen kannst, müssen noch die Kabel, die zum Rücklicht führen, abgeklemmt werden. In der Nähe des Motors solltest du eine 3-polige Klemmbuchse mit Kabeln, die nach hinten führen, finden. Entferne die Kabel von einer Seite der Buchse. Nun kann die Haube herunter gehoben werden. Ist die Haube runter, kannst du den Tank demontieren. Das ist notwendig, um später das dicke Kabel vom Antriebsmodul zur Sitzbank zu leiten und gibt dir außerdem jede Menge mehr Stauraum.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" />
+  <img src="https://github.com/user-attachments/assets/0ca26bfe-976f-4f26-87cb-9e310fe937e9" width="500" loading="lazy" />
 </p>
 
 ### 4. Auspuff
@@ -280,13 +280,13 @@ M8: 24 Nm<br>
 Bevor du das Antriebsmodul in deine Schwalbe einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" width="700" />
+  <img src="https://github.com/user-attachments/assets/d2727c86-209f-4cba-bbf2-eaab649aa922" width="700" loading="lazy" />
 </p>
 
 Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung” aufgeführt sind und baue diese nach folgender Abb. zusammen. Drehe die M8 Mutter nur 2-3 volle Umdrehungen auf die M8x70 Außensechskantschraube.  Lasse dabei die zwei M6 Muttern noch weg und lege die vormontierte M5x Motoranbindung zur Seite.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1203ef3-5b85-4926-9d0a-a63e9514623a" width="700" />
+  <img src="https://github.com/user-attachments/assets/e1203ef3-5b85-4926-9d0a-a63e9514623a" width="700" loading="lazy" />
 </p>
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug und führe das schwarze Kabel wie im Bild zu sehen hoch, wo später die Sitzbank sein wird. Montiere das geschlitzte Wellrohr um das Kabel, sodass es vor Blechkanten der Schwalbe Karosserie geschützt ist.
@@ -296,7 +296,7 @@ Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10).
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80f38a51-24bd-4e87-ae69-02ba5bfd312d" width="700" />
+  <img src="https://github.com/user-attachments/assets/80f38a51-24bd-4e87-ae69-02ba5bfd312d" width="700" loading="lazy" />
 </p>
 
 Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in den Motorlagerblechen. Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du die Mutter so weit an, dass sich das Antriebsmodul noch um die Achse der Schraube drehen lässt. Nun kannst du das Antriebsmodul in der Motoraufnahme ablegen.
@@ -306,13 +306,13 @@ Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst Sie
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08e73735-1e52-4b2e-8dd2-fb214e1276b3" width="700" />
+  <img src="https://github.com/user-attachments/assets/08e73735-1e52-4b2e-8dd2-fb214e1276b3" width="700" loading="lazy" />
 </p>
 
 Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstände der Controllerschrauben in die unteren beiden Bohrungen der M5x Motoraufnahme geführt bekommst. Schraube mit den M6 Muttern die M5x Motoraufnahme an dem Antriebsmodul fest.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/561895fb-6a99-487a-ac37-a35d6238ba11" width="700" />
+  <img src="https://github.com/user-attachments/assets/561895fb-6a99-487a-ac37-a35d6238ba11" width="700" loading="lazy" />
 </p>
 
 Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Motoraufnahme ordentlich fest, Nutze hierfür  eine Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern.
@@ -329,7 +329,7 @@ Die mitgelieferte M8x100 Außensechskantschraube ist für die obere und die M8x9
 Mithilfe einer Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e2da6e5e-7548-4c83-939d-09c6f7112fcd" width="700" />
+  <img src="https://github.com/user-attachments/assets/e2da6e5e-7548-4c83-939d-09c6f7112fcd" width="700" loading="lazy" />
 </p>
 
 ### 2. Kette
@@ -340,13 +340,13 @@ Entferne nun den Kettenschutz vom Antriebsmodul, indem du die drei M4 Schrauben 
 **Achtung !** : Zieh die Kette nicht einfach aus dem Kettenschlauch, wenn du sie geöffnet hast. Du kannst die alte Kette nutzen, um ganz einfach die neue Kette zu montieren. Verbinde die neue Kette mit dem neuen Kettenschloss an einem Ende der alten Kette und ziehe nun an dem anderen Ende der alten Kette bis das Kettenschloss wieder erscheint. Nun das Kettenschloss wieder öffnen, die Kette über das Antriebsritzel vom Antriebsmodul legen und wieder schließen. Nun kannst du das Hinterrad wieder nach hinten ziehen und die Kettenspannermuttern schon mal für eine grobe Voreinstellung nach vorne drehen. Fange bei der Feineinstellung nun mit dem rechten Kettenspanner an: Drehe die Kettenspannermutter soweit nach vorne, bis die Kette im Schlauch nur noch 2 cm Spiel nach oben und unten hat. Das kannst du testen, indem du den Kettenschlauch an der dünnsten Stelle zwischen Daumen und Zeigefinger zusammen presst und eine Auf-/Ab-Bewegung machst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="600" />
+  <img src="https://github.com/user-attachments/assets/95eef410-5c02-4faf-a0f1-8f3a5bae8316" width="600" loading="lazy" />
 </p>
 
 Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Kettenspanner widmen. Mit diesem Kettenspanner stellst du nun die sogenannte Spur des Fahrzeugs ein. Klingt komplizierter als es ist. Achte einfach darauf, dass beide Räder in einer Linie sind. Dafür kannst du ein langes gerades Brett verwenden oder dich einfach drei Schritte hinter das Moped hocken und mit einem Auge über das Hinterrad das Vorderrad anpeilen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72519124-0455-4d84-83e4-c5ac0fe80871" width="700" />
+  <img src="https://github.com/user-attachments/assets/72519124-0455-4d84-83e4-c5ac0fe80871" width="700" loading="lazy" />
 </p>
 
 Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun also beide Kettenspanner richtig eingestellt, kannst du die Hinterachse und Mutter wieder festziehen. Jetzt brauchst du nur noch unseren Kettenschutz wieder anschrauben. Bei KR51/1 und KR51 müssen hier die mitgelieferten 2x Kettenschlauchadapter verwendet werden. Drücke dazu die Kettenschlauchadapter mit dem schmaleren Ende vorran in die Kettenschläuche bis diese merklich einrasten. Jetzt kannst du den Kettenschlauch montieren.
@@ -367,7 +367,7 @@ Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterra
 Jetzt sollte deine Hinterradbremse wieder funktionieren. Vergewissere dich nach dem vollendeten Umbau, dass deine Hinterradbremse auch gut eingestellt ist und ordentlich bremst.   
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="700" />
+  <img src="https://github.com/user-attachments/assets/5ed94926-a995-4205-91b5-c436ad26670f" width="700" loading="lazy" />
 </p>
 
 ### 3. Elektrik
@@ -403,7 +403,7 @@ Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das or
 Zuletzt musst du noch unser Bremssignalkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebsmoduls und führe das Kabel entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremssignalkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Bremsfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="650" />
+  <img src="https://github.com/user-attachments/assets/c8bc9ed2-c67a-4247-bf88-263dfcb37bdb" width="650" loading="lazy" />
 </p>
 
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen. 
@@ -423,7 +423,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die KR51 Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen über die beiden Armaturenhalter an das Lenkerabdeckungsblech geklemmt werden. Schiebe dafür vorsichtig die Armaturen über das zum Fahrer zeigende Blech Bis zum Anschlag. Schaue, dass die Armatur gerade ausgerichtet ist und dass die Plastik-Madenschrauben in den Haltern eine vollständige Auflagefläche haben. Schraube nun die Madenschrauben der Armaturenhalter ordentlich an. Achte darauf, dass du nicht zu fest anziehst und den Kreuzschlitz der Madenschrauben beschädigst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="800" />
+  <img src="https://github.com/user-attachments/assets/48c5e1fe-85f0-4615-a480-e666324ebe2a" width="800" loading="lazy" />
 </p>
 
 Führe  zuletzt das Kabel durch die Öffnung zwischen dem Armaturenblech und Lenkerrohr und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht,
@@ -434,7 +434,7 @@ welche die richtige Orientierung zum Zusammenstecken anzeigen.
 Anstelle des zuvor demontierten Armaturenblechs, kannst du nun das von uns mitgelieferte Armaturenblech (13) mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) montieren. Führe dafür zuerst das Kabel durch die Öffnung auf die das Armaturenblech gehört, und leite es zur Unterseite des Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1535860d-1659-40f9-8623-95915e654d8c" width="500" />
+  <img src="https://github.com/user-attachments/assets/1535860d-1659-40f9-8623-95915e654d8c" width="500" loading="lazy" />
 </p>
 
 
@@ -443,7 +443,7 @@ Anstelle des zuvor demontierten Armaturenblechs, kannst du nun das von uns mitge
 Bevor du mit der Sitzbankmontage beginnst, musst du das Schwalbe Anschlussblech mit den unter Lieferumfang -> Anschlussblech Gummiteile aufgezählten Bauteilen versehen. Klebe die Moosgummistreifen auf die Unterseite des Anschlussbleches, wie unten dargestellt. Das Moosgummi lässt sich auch faltenfrei um den Radius vorne legen, wenn man es Stück für Stück anlegt und erst zum Schluss das Ganze richtig fest drückt. Wir haben diese Montage nicht bei uns durchgeführt, da das weiche Moosgummi sich sonst in der Verpackung schon verformt hätte und sich dadurch nicht perfekt an dein Fahrzeug anpasst.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="650" />
+  <img src="https://github.com/user-attachments/assets/73f2c780-674d-486a-ba32-1b2dcc5aafb5" width="650" loading="lazy" />
 </p>
 
 Die nachfolgende Sitzbankmontage ist einfacher, wenn die Haube der Schwalbe demontiert ist, da man dann deutlich einfacher an die Muttern der Schrauben des Gepäckträgers kommt. Es geht aber auch mit etwas verrenken ohne die Haubendemontage.
@@ -453,19 +453,19 @@ Die nachfolgende Sitzbankmontage ist einfacher, wenn die Haube der Schwalbe demo
 Da die Gepäckträgerbohrungen in der Karosserie bei der KR51 im Vergleich zur KR51/1 und -/2 um 2cm verschoben sitzen, muss vor der Sitzbankmontage die Position des Gepäckträgers angepasst werden. Nimm dir dafür die notwendigen Bauteile, die unter Lieferumfang  >  KR51  >  Gepäckträgeradapter aufgeführt sind und lege diese bereit.  Schraube nun den Gepäckträger ab. Montiere nun den Gepäckträger vor, so wie in folgender Abb. dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="650" />
+  <img src="https://github.com/user-attachments/assets/b6a8d70f-aebc-47e6-b2dd-2a51cfa24e08" width="650" loading="lazy" />
 </p>
 
 Hake nun das Aufnahmeblech vorne unter die Haube und schraube es über die beiden oberen Gepäckträgeraufnahmepunkte an der Haube fest. Nutze hierfür die mitgelieferten 2xKR51 Abstandshalter Gepäckträger. Das Kontern der Muttern ist deutlich leichter, wenn die Haube demontiert ist, klappt aber auch im montierten Zustand, wenn man einen langen Arm und etwas Geduld hat. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d0e3d9f-69fd-4163-a7d0-6d3c97408042" width="500" />
+  <img src="https://github.com/user-attachments/assets/8d0e3d9f-69fd-4163-a7d0-6d3c97408042" width="500" loading="lazy" />
 </p>
 
 Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeblechs fest. Befestige den Gepäckträger an den originalen unteren Gepäckträgeraufnahmen wie unten abgebildet.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="650" />
+  <img src="https://github.com/user-attachments/assets/a238283b-6d53-4fea-8dea-a0825b57cbe6" width="650" loading="lazy" />
 </p>
 
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
@@ -479,7 +479,7 @@ Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen
 Nun kannst du an der abgebauten Haube hinten am Gepäckträger das Aufnahmeblech  anschrauben, bevor sie dann wieder am Fahrzeug montiert wird. Entferne dafür zuerst die beiden oberen Schrauben des Gepäckträgers, falls nicht schon geschehen. Hake nun das Aufnahmeblech vorne unter die Blechkante der Haube und schraub dann das Aufnahmeblech mit dem Aufbockgriff wieder an. Der Aufbockgriff muss mit dem Griff nach hinten-unten angeschraubt werden, da sonst nicht genügend Platz zum Ein- und Aushaken der Sitzbank wäre. Das Kontern der Muttern ist deutlich leichter, wenn die Haube demontiert ist, klappt aber auch im montierten Zustand, wenn man einen langen Arm und etwas Geduld hat. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c4058f9-aaac-44c3-94c5-f420f94904e6" width="500" />
+  <img src="https://github.com/user-attachments/assets/5c4058f9-aaac-44c3-94c5-f420f94904e6" width="500" loading="lazy" />
 </p>
 
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
@@ -498,7 +498,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="650" />
+  <img src="https://github.com/user-attachments/assets/a06545c0-d022-406e-8e84-a845ad1063da" width="650" loading="lazy" />
 </p>
 
 

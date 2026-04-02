@@ -1,6 +1,6 @@
 # Anleitung zur Elektrifizierung einer Krause Duo 4, Duo 4/1, Duo 4/2 mit SR24 Umbaukit
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf57031d-42b5-4207-8658-4848b82d0f03" width="700" />
+  <img src="https://github.com/user-attachments/assets/cf57031d-42b5-4207-8658-4848b82d0f03" width="700" loading="lazy" />
 </p>
 
 !!! info "Info"
@@ -206,19 +206,19 @@ M8: 24 Nm<br>
 Bevor du das Antriebsmodul in deine Duo 4/1 einbauen kannst, musst du noch die beiden oberen Linsenkopfschrauben lösen, die vorne oben am Antriebsmodul den Controller an das Antriebsmodul anbinden. Nun nimmst du die beiden M6x90 Schrauben, die dem Kit beiliegen und schraubst diese in die freigewordenen Bohrungen, sodass ein Gewindeüberstand von ca. 10 mm entsteht.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a56a5222-2353-45d8-8db3-7d27748fec38" width="700" />
+  <img src="https://github.com/user-attachments/assets/a56a5222-2353-45d8-8db3-7d27748fec38" width="700" loading="lazy" />
 </p>
 
 Nun nimm dir die Bauteile,  die in dem Lieferumfang unter “M5x Motoranbindung” aufgeführt sind und baue diese nach folgender Abb. zusammen. Drehe die M8 Mutter nur 2-3 volle Umdrehungen auf die M8x70 Außensechskantschraube.  Lasse dabei die zwei M6 Muttern noch weg und lege die vormontierte M5x Motoranbindung zur Seite.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d612d17-ed89-49cb-a4b5-451ac28b51e0" width="700" />
+  <img src="https://github.com/user-attachments/assets/6d612d17-ed89-49cb-a4b5-451ac28b51e0" width="700" loading="lazy" />
 </p>
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Lege das Antriebsmodul erstmal unter das Fahrzeug. Hebe das Antriebsmodul an und führe es zwischen die Rahmenaufnahme (10).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a3ca4bc-7786-40c3-8851-500d4b38d349" width="600" />
+  <img src="https://github.com/user-attachments/assets/8a3ca4bc-7786-40c3-8851-500d4b38d349" width="600" loading="lazy" />
 </p>
 
 
@@ -226,13 +226,13 @@ Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung in d
 Anschließend nimmst du dir die vormontierte M5x Motoraufnahme und montierst sie wie in der folgenden Abb. dargestellt so, dass die 1 dicke Unterlegscheibe innerhalb der oberen Motorlagerblechen sitzt und die dünneren außerhalb. Je nach Zustand der originalen Haltebleche kann auf die innere Unterlegscheibe verzichtet werden.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="300" />
+  <img src="https://github.com/user-attachments/assets/8b3327a7-32be-426c-be42-bb3ccca5b837" width="300" loading="lazy" />
 </p>
 
 Nun drücke das Antriebsmodul so nach oben, dass du die oberen Gewindeüberstände der Controllerschrauben in die unteren beiden Bohrungen der M5x Motoraufnahme geführt bekommst. Schraube mit den M6 Muttern die M5x Motoraufnahme an dem Antriebsmodul fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="500" />
+  <img src="https://github.com/user-attachments/assets/43cb4492-331c-4735-88c0-c20b68d2812e" width="500" loading="lazy" />
 </p>
 
 Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Motoraufnahme ordentlich fest, Nutze hierfür  eine Knarre mit Verlängerungsstück, 13er Nuss und einem 13er Maulschlüssel zum Kontern.
@@ -242,26 +242,26 @@ Als letzten Schritt ziehst du die beiden M8 Muttern der hinteren und oberen Moto
 Damit unser Antriebsmodul in die Duo 4/2 passt, musst du eine kleine Anpassung an unserem Antriebsmodul vornehmen. Der Adapterblock (31) muss um 30° entlang der Motorachse versetzt werden. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74cc620c-b064-4e30-869d-560b64336807" width="700" />
+  <img src="https://github.com/user-attachments/assets/74cc620c-b064-4e30-869d-560b64336807" width="700" loading="lazy" />
 </p>
 
 Schraube dafür die 4 Innensechskantschrauben (32) und Schnorrscheiben (33) mit einem Inbus SW6 von dem Antriebsmodul ab. Lege den Adapterblock nun zur Seite und schraube die beiden M8 Madenschrauben (34) aus dem Motor. Hierbei kann noch etwas feuchtes Silikon an den Schraubenenden sein. Keine Sorge, die Dämpfe davon sind nicht giftig, sondern nur ungefährlicher Essig. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2534e9c-175a-43ea-b017-5804c194f184" width="600" />
+  <img src="https://github.com/user-attachments/assets/f2534e9c-175a-43ea-b017-5804c194f184" width="600" loading="lazy" />
 </p>
 
 Schraube nun die Madenschrauben, wie im folgenden Bild gezeigt, in die beiden untersten Bohrungen des Motors, sodass sie etwas tiefer als die Motoroberfläche liegen. Nimm dir nun den Adapterblock und schraube ihn über die übrigen Bohrungen im Motor fest. Ziehe hierbei die Schrauben mit einem Drehmoment von 15 Nm an. Falls du keinen Drehmomentschlüssel hast, ziehe die Schrauben nach Gefühl ordentlich, aber auf keinen Fall zu stark, da sonst das Gewinde beschädigt wird und dann der Motor getauscht werden muss.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da6fe9f9-e5a4-4e6b-92b8-f5ff4dcb83db" width="700" />
+  <img src="https://github.com/user-attachments/assets/da6fe9f9-e5a4-4e6b-92b8-f5ff4dcb83db" width="700" loading="lazy" />
 </p>
 
 Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale Motor. Auch hier solltest du dir wieder Hilfe von einer weiteren Person holen. Hebe das Antriebsmodul an und führe es zwischen die Motorlagerbleche (10). Die mitgelieferte M8x100 Außensechskantschraube ist für die obere Bohrung und die M8x90 Außensechskantschraube für die untere Bohrung.     Mithilfe einer Knarre mit Verlängerungsstück und 13er Nuss und einem 13er Maulschlüssel zum Kontern ziehst du beide Schrauben mit den mitgelieferten M8 Muttern ordentlich an. Zur vollständigen Anbindung der Motorhalterung muss jetzt noch die vordere Abstützung, so wie in der folgenden Abbildung dargestellt, befestigt werden. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/411e73c7-c2b5-4422-b990-f996c1e8f4c9" width="800" />
+  <img src="https://github.com/user-attachments/assets/411e73c7-c2b5-4422-b990-f996c1e8f4c9" width="800" loading="lazy" />
 </p>
 
 ### 2. Kette
@@ -370,7 +370,7 @@ Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffg
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen unter die originale Armatur gesetzt werden. befestigt wird das Armaturenblech mit den beiden großen Schlitzschrauben, die auch das originale Armaturenblech halten. Dafür muss das originale Armaturenblech abgeschraubt werden, falls es nicht schon für die Verkabelung geschehen ist. Führe nun das Second Ride Armaturenblech unter das Originale Duo Armaturenblech und schraube beides zusammen fest.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7da3cc18-8a8c-4fe8-b2b4-c475de66ad3f" width="600" />
+  <img src="https://github.com/user-attachments/assets/7da3cc18-8a8c-4fe8-b2b4-c475de66ad3f" width="600" loading="lazy" />
 </p>
 
 Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Achte hierbei darauf, dass die Kabelverbindung genug Spiel beim Lenken zulässt.
@@ -380,7 +380,7 @@ Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. 
 Die Armaturen (13)  mit Taster (17), Ladestandsanzeige (15) und Zündschloss (14) müssen anstelle des Starterknopfes an der rechten Lenkerseite anstelle des Elektrostartertasters angebracht werden. Schraube diesen dafür ab und bringe die mitgelieferte Armatur an der selben Stelle an
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="740" />
+  <img src="https://github.com/user-attachments/assets/6c8a287f-f82e-49ea-b265-6910d64bcc36" width="740" loading="lazy" />
 </p>
 
 Führe  zuletzt das Kabel am Lenkerrohr entlang und leite es zum Antriebsmodul. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Achte hierbei darauf, dass die Kabelverbindung genug Spiel beim
@@ -391,20 +391,20 @@ Lenken zulässt.
 Um die Akkuaufnahme an der Spritzwand anzubringen, nimm dir die Rahmenklemme und das Aufnahmeblech und schraube sie wie unten dargestellt an die Querstrebe des ehemaligen Bleiakkuhalters lose an. Trage nun den Kantenschutz auf die innere Kante der Rahmenklemme auf und setze diese wie unten dargestellt über die beiden oberen Rohre, die am Lenkerrohr münden. Schraube auch hier die beiden M6 Schrauben nur lose mit dem Aufnahmeblech zusammen. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="700" />
+  <img src="https://github.com/user-attachments/assets/8428d9f4-f646-4df6-a9ac-6a372dcc760a" width="700" loading="lazy" />
 </p>
 
 Nimm dir jetzt den Akku/Sitzbank zur Hand und stelle ihn senkrecht an die Spritzwand, während du die Schlossaufnahme der Akku Aufnahme in die Unterschale des Akkus einführst. Wenn du die Aufnahme nun nur lose an der Duo angeschraubt hast, sollte diese in die richtige Position rutschen. Achte dabei darauf, dass der Akku/Sitzbank wirklich senkrecht auf dem Boden der Duo steht und mit der unteren hinteren Kante an der Spritzwand anliegt. Nimm dir nun die beiden Winkel und setze sie wie folgt unter die beiden Kanten der Akkustandplatte. Markiere dir ihre Position auf der Bodenplatte, sodass du sie nach dem Wegnehmen des Akkus wieder an die genau gleiche Position setzen kannst. Gut geht das Ganze mit Kreppband.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="600" />
+  <img src="https://github.com/user-attachments/assets/2f069fa2-76b4-42cb-a33b-0f811a4bd883" width="600" loading="lazy" />
 </p>
 
 Die obere Aufnahme sollte so im Schloss sitzen, dass Sie nach oben möglichst wenig Spiel hat, wie in der folgenden Abbildung dargestellt.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f12bd0e6-2567-4c44-8929-d57fe7bfc872" width="600" />
+  <img src="https://github.com/user-attachments/assets/f12bd0e6-2567-4c44-8929-d57fe7bfc872" width="600" loading="lazy" />
 </p>
 
 Ziehe nun die unteren Muttern der Aufnahme fest, um die Position zu sichern. Im Anschluss ziehst du die oberen beiden Muttern fest..
@@ -424,7 +424,7 @@ Wenn du einen N1 Vergaser hast, kannst du den Gaszug samt Kolben und Vergaserdec
 In welcher Kerbe die Vergasernadel montiert ist, oder ob diese ganz fehlt, spielt für die Funktion des Bowdenzugsensors keine Rolle mehr.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a45e3f6b-749d-4a08-a293-f5275c8bd753" width="600" />
+  <img src="https://github.com/user-attachments/assets/a45e3f6b-749d-4a08-a293-f5275c8bd753" width="600" loading="lazy" />
 </p>
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, ist es wichtig, dass du den Vergaserkolben (22) richtig in den dafür vorgesehenen Zylinder (23) am Antriebsmodul einsetzt. Drehe dafür den Vergaserkolben wie im Bild gezeigt, so dass die Nut (29) zum Hinterreifen zeigt. Im Zylinder ist auf der gleichen Seite ein Stift vorgesehen, den du mit dem Finger erfühlen kannst. Der Vergaserkolben muss dann so in den Zylinder gesteckt werden, dass die Nut über den Stift geführt wird. Anschließend kannst du den Vergaserdeckel (21) auf den Zylinder schrauben. Achte darauf, dass der Deckel so weit aufgeschraubt wird, bis kein Schlitz mehr zwischen Deckel und Anschlag zu sehen ist.

@@ -20,7 +20,7 @@ Unterstützte Second Ride Umbausätze:
     Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
 
     <p align="center">
-      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="50%" />
+      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="50%" loading="lazy" />
     </p>
 
 ---
