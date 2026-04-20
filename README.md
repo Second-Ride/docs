@@ -1,5 +1,6 @@
 # SecondRide Documentation
 
+
 Dieses repo enthält die offizielle Second-Ride Dokumentation.
 
 ## Live Documentation
