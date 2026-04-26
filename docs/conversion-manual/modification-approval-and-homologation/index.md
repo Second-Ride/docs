@@ -2,6 +2,7 @@
 
 ## Schritt 1: Check dein Moped
 
+- Für MID50: Hast du das System endgültig gedrosselt?
 - Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
 - Beträgt das Kettenspiel ca. 2 cm?
 - Sind alle Kabel ordentlich mit Kabelbindern an Rahmenteilen befestigt? Behindern sie womöglich eine Lenkbewegung oder könnten sie von beweglichen Teilen wie Reifen, Federbeinen, etc. erfasst werden?
@@ -35,20 +36,26 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 - Überprüft wird: 
     - der korrekte Einbau nach Montageanleitung
     - die allgemeine Betriebszustand des Gesamtfahrzeugs
- - Anschließend wird ein Prüfbericht über die Begutachtung angefertigt
+    - für MID50: ob die Drosselung korrekt durchgeführt und endgültig gespeichert wurde
+ - Anschließend wird ein Prüfbericht über die Begutachtung nach §21 StVZO - Technische Änderung (19.2) angefertigt
  - Kosten je nach Aufwand der Prüfer 90 € - 290 €
 
 ### Teilegutachten
 
-Teilegutachten für das Umbaukit SR24 (Das Teilegutachten für MID50 folgt hier bald)
+=== "Teilegutachten für MID50"
 
-<iframe 
-    src="docs/Teilegutachten-SR24-SRZ00746.pdf" 
-    width="100%" 
-    height="450px">
-    Dieser Browser unterstützt keine PDFs. 
-    <a href="docs/Teilegutachten-SR24-SRZ00746.pdf">PDF herunterladen</a>
-</iframe>
+    Das Teilegutachten folgt.
+
+=== "Teilegutachten für SR24"
+
+    <iframe 
+        src="docs/Teilegutachten-SR24-SRZ00746.pdf" 
+        width="100%" 
+        height="450px">
+        Dieser Browser unterstützt keine PDFs. 
+        <a href="docs/Teilegutachten-SR24-SRZ00746.pdf">PDF herunterladen</a>
+    </iframe>
+
 
 ---
 
