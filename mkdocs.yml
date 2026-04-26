@@ -73,6 +73,7 @@ plugins:
     - glightbox:
         draggable: false
     - social:
+        enabled: !ENV [CI, false]
         cards_layout_options:
             background_color: "#111111"
             color: "#E4B854"
@@ -165,7 +166,8 @@ nav:
     - Home: index.md
     - Umbauanleitung:
         #- Übersicht: conversion-manual/index.md
-        - MID50: conversion-manual/MID50/index.md
+        - MID50: 
+            - Schwalbe: conversion-manual/MID50/01-schwalbe/index.md
         - SR24:
             - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
             - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
@@ -175,7 +177,11 @@ nav:
         - "Änderungsabnahme & Zulassung": conversion-manual/modification-approval-and-homologation/index.md
     - Bedienungsanleitung:
         #- Übersicht: user-manual/index.md
-        - MID50: user-manual/MID50/index.md
+        - MID50:
+            - Bedienung: user-manual/MID50/01-bedienung/index.md
+            - Firmware Update: user-manual/MID50/02-firmware-update/index.md
+            - Fehlerbehebung: user-manual/MID50/03-fehlerbehebung/index.md
+            - Warnhinweise: user-manual/MID50/04-warnhinweise/index.md
         - App: user-manual/second-ride-app/index.md
         - SR24: 
             - "Antrieb & Akku": user-manual/SR24/01-drive-unit-and-battery/index.md
