@@ -44,6 +44,11 @@ h1 {
   text-align-last: left; /* letzte Zeile linksbündig */
 }
 
+.md-content p[align="center"] {
+  text-align: center;
+  text-align-last: center;
+}
+
 /* a.md-nav__link {
   color: black;
 } */
