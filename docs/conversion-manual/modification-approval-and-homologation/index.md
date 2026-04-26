@@ -44,7 +44,13 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 
 === "Teilegutachten für MID50"
 
-    Das Teilegutachten folgt.
+    <iframe 
+        src="docs/Teilegutachten-MID50.pdf" 
+        width="100%" 
+        height="450px">
+        Dieser Browser unterstützt keine PDFs. 
+        <a href="docs/Teilegutachten-SR24-SRZ00746.pdf">PDF herunterladen</a>
+    </iframe>
 
 === "Teilegutachten für SR24"
 
