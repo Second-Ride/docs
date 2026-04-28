@@ -54,7 +54,13 @@ Falls dir das nicht weiterhilft, verfolge die Fehlerdiagnose im Folgenden.
 - Prüfe, ob deine Stoßdämpfer die originale Länge haben. Ist das nicht der Fall, kann durch die andere Position der Schwinge die Kette schleifen.
 - Prüfe, ob du die originalen Kettenschläuche und Kettenkasten verwendest und ob die Schläuche korrekt auf dem Kettenkasten montiert sind.
 
-**5. Hilft das alles nichts, oder hast du ein ganz anderes Problem?**
+**5. Der Legal Limit Konfigurator öffnet sich nicht automatisch nach Verbindung mit dem "Second Ride Legal Limits" WLAN.**
+
+- **Mobile Daten deaktivieren:** Schalte mobile Daten (4G/5G) auf deinem Gerät aus, damit der gesamte Datenverkehr über das "Second Ride Legal Limits" WLAN läuft.
+- **Kein anderes WLAN verbunden?** Stelle sicher, dass sich dein Gerät nicht automatisch mit einem anderen WLAN (z.B. deinem Heimnetzwerk) verbunden hat.
+- **Konfigurator manuell öffnen:** Gib folgende Adresse in deinen Browser ein: `192.168.4.1`. Der Legal Limit Konfigurator sollte sich dann öffnen.
+
+**6. Hilft das alles nichts, oder hast du ein ganz anderes Problem?**
 
 Ruf uns an oder schreib in die Discord Gruppe (siehe Nützliche Links in der Umbauanleitung).
 
