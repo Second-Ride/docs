@@ -58,7 +58,7 @@ Falls dir das nicht weiterhilft, verfolge die Fehlerdiagnose im Folgenden.
 
 - **Mobile Daten deaktivieren:** Schalte mobile Daten (4G/5G) auf deinem Gerät aus, damit der gesamte Datenverkehr über das "Second Ride Legal Limits" WLAN läuft.
 - **Kein anderes WLAN verbunden?** Stelle sicher, dass sich dein Gerät nicht automatisch mit einem anderen WLAN (z.B. deinem Heimnetzwerk) verbunden hat.
-- **Konfigurator manuell öffnen:** Gib folgende Adresse in deinen Browser ein: `192.168.4.1`. Der Legal Limit Konfigurator sollte sich dann öffnen.
+- **Konfigurator manuell öffnen:** Gib folgende Adresse in deinen Browser ein: `http://192.168.12.1`. Wichtig: Nutze `http://` (nicht `https://`). Falls dein Browser eine Sicherheitswarnung anzeigt, klicke auf „Weiter zur Seite" bzw. „Continue to site". Der Legal Limit Konfigurator sollte sich dann öffnen.
 
 **6. Hilft das alles nichts, oder hast du ein ganz anderes Problem?**
 

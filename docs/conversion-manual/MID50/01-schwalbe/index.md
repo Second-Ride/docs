@@ -564,7 +564,7 @@ Nach der Montage des Umbaukits, musst du einmalig den Konfigurator zur digitalen
 
     - **Mobile Daten deaktivieren:** Schalte mobile Daten (4G/5G) auf deinem Gerät aus, damit der gesamte Datenverkehr über das "Second Ride Legal Limits" WLAN läuft.
     - **Kein anderes WLAN verbunden?** Stelle sicher, dass sich dein Gerät nicht automatisch mit einem anderen WLAN (z.B. deinem Heimnetzwerk) verbunden hat.
-    - **Konfigurator manuell öffnen:** Gib folgende Adresse in deinen Browser ein: `192.168.4.1`. Der Legal Limit Konfigurator sollte sich dann öffnen.
+    - **Konfigurator manuell öffnen:** Gib folgende Adresse in deinen Browser ein: `http://192.168.12.1`. Wichtig: Nutze `http://` (nicht `https://`). Falls dein Browser eine Sicherheitswarnung anzeigt, klicke auf „Weiter zur Seite" bzw. „Continue to site". Der Legal Limit Konfigurator sollte sich dann öffnen.
 
 4. Folge hier den Schritten, um deinen Antrieb zu kalibrieren. Zuerst wirst du nach deiner maximalen Leistung und maximalen Geschwindigkeit gefragt. Gib hier die maximal erlaubte Geschwindigkeit aus deinen Fahrzeugpapieren ein. Im Falle von Simson ist das in den meisten Fällen 60 km/h.
 
