@@ -40,7 +40,13 @@ h1 {
 
 .md-typeset a,
 .md-typeset a:visited {
+  color: var(--md-typeset-color) !important;
   text-decoration: underline;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: var(--md-accent-fg-color) !important;
 }
 
 /* Text in Blocksatz */
