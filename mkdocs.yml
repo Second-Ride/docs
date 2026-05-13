@@ -166,8 +166,11 @@ nav:
     - Home: index.md
     - Umbauanleitung:
         #- Übersicht: conversion-manual/index.md
-        - MID50: 
+        - MID50:
             - Schwalbe: conversion-manual/MID50/01-schwalbe/index.md
+            - Drosselung:
+                - "Antrieb drosseln": conversion-manual/MID50/throttling/how-to-throttle-your-drive/index.md
+                - "Drosselung prüfen": conversion-manual/MID50/throttling/how-to-check-throttling/index.md
         - SR24:
             - S50/S51: conversion-manual/SR24/01-s50-s51/index.md
             - Schwalbe: conversion-manual/SR24/02-schwalbe/index.md
