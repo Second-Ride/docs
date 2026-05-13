@@ -35,7 +35,12 @@ h1 {
 }
 
 .md-content {
-  --md-typeset-a-color: #31a1f0;
+  --md-typeset-a-color: var(--md-typeset-color);
+}
+
+.md-typeset a,
+.md-typeset a:visited {
+  text-decoration: underline;
 }
 
 /* Text in Blocksatz */

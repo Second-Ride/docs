@@ -2,7 +2,7 @@
 
 ## Schritt 1: Check dein Moped
 
-- Für MID50: Hast du das System endgültig gedrosselt?
+- Für MID50: Hast du das System [endgültig gedrosselt](../MID50/throttling/how-to-throttle-your-drive/index.md)?
 - Hast du alle Schrauben richtig festgezogen? Das Antriebsmodul sollte in der Lagerung kein Spiel haben
 - Beträgt das Kettenspiel ca. 2 cm?
 - Sind alle Kabel ordentlich mit Kabelbindern an Rahmenteilen befestigt? Behindern sie womöglich eine Lenkbewegung oder könnten sie von beweglichen Teilen wie Reifen, Federbeinen, etc. erfasst werden?
