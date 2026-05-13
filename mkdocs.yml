@@ -175,6 +175,8 @@ nav:
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
         - "Änderungsabnahme & Zulassung": conversion-manual/modification-approval-and-homologation/index.md
+    - Technische Abnahme:
+        - MID50: technische-abnahme/index.md
     - Bedienungsanleitung:
         #- Übersicht: user-manual/index.md
         - MID50:
