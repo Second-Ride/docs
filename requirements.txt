@@ -5,5 +5,3 @@ mkdocs-glightbox==0.5.2
 mkdocs-llmstxt
 neoteroi-mkdocs==1.2.0
 mkdocs-material[imaging]
-flask
-github-webhook
