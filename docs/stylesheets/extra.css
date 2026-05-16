@@ -38,15 +38,31 @@ h1 {
   --md-typeset-a-color: var(--md-typeset-color);
 }
 
-.md-typeset a,
-.md-typeset a:visited {
+.md-content .md-typeset a,
+.md-content .md-typeset a:visited {
   color: var(--md-typeset-color) !important;
   text-decoration: underline;
 }
 
-.md-typeset a:hover,
-.md-typeset a:focus {
+.md-content .md-typeset a:hover,
+.md-content .md-typeset a:focus {
   color: var(--md-accent-fg-color) !important;
+}
+
+/* Footer: Links und Social Icons in Gold */
+.md-footer a,
+.md-footer a:visited,
+.md-footer-meta a,
+.md-footer-meta a:visited,
+.md-social__link {
+  color: #DAA520 !important;
+}
+
+.md-footer a:hover,
+.md-footer-meta a:hover,
+.md-social__link:hover {
+  color: #DAA520 !important;
+  opacity: 0.8;
 }
 
 /* Text in Blocksatz */
