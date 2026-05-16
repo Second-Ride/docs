@@ -1,9 +1,11 @@
+// Chatbot temporarily disabled
+/*
 document$.subscribe(function() {
     const script = document.createElement("script");
     script.type = "module";
     script.innerHTML = `
         import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0/dist/web.js';
-        
+
         Typebot.initBubble({
             typebot: "faqs",
             apiHost: "https://bot.second-ride.de",
@@ -15,3 +17,4 @@ document$.subscribe(function() {
     `;
     document.head.appendChild(script);
 });
+*/
