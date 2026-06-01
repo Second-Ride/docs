@@ -134,3 +134,38 @@ You can find the app version at the bottom of the app when you tap the info icon
 When both the drive module and the seat bench/BT module have been updated to the latest firmware, you can use the app as intended and pair your vehicle.  
 
 The next steps for app usage are described in the following chapter.  
+
+## Troubleshooting: Linux (Ubuntu, Fedora, Arch, …)
+
+The update tool uses WebUSB (Günter) and Web Serial (Gisela) – two browser APIs that require explicit USB access permissions on Linux. Without setup, you'll see **"SecurityError: Access denied"** or no device will appear in the browser dialog, even if the cable is correctly connected.
+
+### Step 1: Create udev rules
+
+Open a terminal and run the following commands:
+
+```bash
+sudo tee /etc/udev/rules.d/49-second-ride.rules > /dev/null << 'EOF'
+# Second Ride - Guenter (STM32, DFU mode via WebUSB)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", MODE="0664", TAG+="uaccess"
+
+# Second Ride - Gisela (ESP32-S3, USB-Serial)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", MODE="0660", TAG+="uaccess"
+EOF
+
+sudo udevadm control --reload-rules && sudo udevadm trigger
+```
+
+This creates a configuration file that tells Linux to allow Chrome to access the Second Ride controllers. `TAG+="uaccess"` automatically grants access to the currently logged-in user. Unplug and re-plug the USB cable afterwards — no reboot required.
+
+### Step 2 (Gisela only): Serial group
+
+On most distributions, your user also needs to be a member of the `dialout` group for Chrome to access the serial device:
+
+```bash
+sudo usermod -a -G dialout $USER
+```
+
+Then **log out and back in** for the change to take effect.
+
+!!! info "Note"
+    These instructions apply to systemd-based distributions (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). For distribution-specific group configuration, consult your distribution's documentation — the [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices) provides a good overview.
