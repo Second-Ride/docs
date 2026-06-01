@@ -134,3 +134,37 @@ You can find the app version at the bottom of the app when you tap the info icon
 When both the drive module and the seat bench/BT module have been updated to the latest firmware, you can use the app as intended and pair your vehicle.  
 
 The next steps for app usage are described in the following chapter.  
+
+## Linux Troubleshooting
+
+The update tool uses WebUSB (Günter) and Web Serial (Gisela) — browser APIs that require explicit permission on Linux. Without setup, you'll see **"SecurityError: Access denied"** or no device will appear in the browser dialog.
+
+**Step 1: Create udev rules**
+
+Open a terminal:
+
+```bash
+sudo tee /etc/udev/rules.d/49-second-ride.rules > /dev/null << 'EOF'
+# Second Ride — Günter (STM32, DFU mode via WebUSB)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", MODE="0664", TAG+="uaccess"
+
+# Second Ride — Gisela (ESP32-S3, USB-Serial)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", MODE="0660", TAG+="uaccess"
+EOF
+
+sudo udevadm control --reload-rules && sudo udevadm trigger
+```
+
+Unplug and re-plug the USB cable. No reboot required.
+
+**Step 2 (Gisela only): Serial group**
+
+On most distributions, your user must be in the `dialout` group for Chrome to access the serial device (`/dev/ttyACM*`):
+
+```bash
+sudo usermod -a -G dialout $USER
+```
+
+Then **log out and back in**. The exact group name may differ by distribution — the [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices) has a good overview.
+
+> **Note:** These instructions apply to systemd-based distributions (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Older or non-systemd systems may differ.

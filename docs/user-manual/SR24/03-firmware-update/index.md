@@ -144,3 +144,37 @@ Wenn sowohl das Antriebsmodul als auch das Sitzbank-/BT-Modul auf die aktuelle F
 
 Die nächsten Schritte zur App-Nutzung werden im folgenden Kapitel beschrieben.
 
+
+## Linux-Fehlerbehebung
+
+Das Update-Tool nutzt WebUSB (Günter) und Web Serial (Gisela) — zwei Browser-APIs, für die Linux standardmäßig keine USB-Zugriffsrechte einräumt. Typische Fehlermeldungen: **„SecurityError: Access denied"** oder kein Gerät wird im Browser-Dialog angezeigt.
+
+**Schritt 1: udev-Regeln anlegen**
+
+Terminal öffnen:
+
+```bash
+sudo tee /etc/udev/rules.d/49-second-ride.rules > /dev/null << 'EOF'
+# Second Ride — Günter (STM32, DFU-Modus via WebUSB)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", MODE="0664", TAG+="uaccess"
+
+# Second Ride — Gisela (ESP32-S3, USB-Serial)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", MODE="0660", TAG+="uaccess"
+EOF
+
+sudo udevadm control --reload-rules && sudo udevadm trigger
+```
+
+USB-Kabel danach kurz trennen und wieder anstecken. Kein Neustart nötig.
+
+**Schritt 2 (nur Gisela): Serielle Gruppe**
+
+Auf den meisten Distributionen muss der Benutzer in der Gruppe `dialout` sein, damit Chrome auf das serielle Gerät (`/dev/ttyACM*`) zugreifen kann:
+
+```bash
+sudo usermod -a -G dialout $USER
+```
+
+Danach **einmal ab- und wieder anmelden**. Ob die Gruppe auf deiner Distribution `dialout` oder anders heißt, findest du in der Dokumentation deiner Distribution — eine gute Übersicht bietet die [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices).
+
+> **Hinweis:** Diese Anleitung gilt für systemd-basierte Distributionen (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Ältere oder nicht-systemd-basierte Systeme können abweichen.
