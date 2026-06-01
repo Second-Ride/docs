@@ -144,3 +144,38 @@ Wenn sowohl das Antriebsmodul als auch das Sitzbank-/BT-Modul auf die aktuelle F
 
 Die nächsten Schritte zur App-Nutzung werden im folgenden Kapitel beschrieben.
 
+## Troubleshooting: Linux (Ubuntu, Fedora, Arch, …)
+
+Das Update-Tool nutzt WebUSB (Günter) und Web Serial (Gisela) – zwei Browser-APIs, für die Linux standardmäßig keine USB-Zugriffsrechte einräumt. Typische Fehlermeldungen: **„SecurityError: Access denied"** oder es wird kein Gerät im Browser-Dialog angezeigt, obwohl das Kabel korrekt angeschlossen ist.
+
+### Schritt 1: udev-Regeln anlegen
+
+Öffne ein Terminal und führe folgende Befehle aus:
+
+```bash
+sudo tee /etc/udev/rules.d/49-second-ride.rules > /dev/null << 'EOF'
+# Second Ride — Günter (STM32, DFU-Modus via WebUSB)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", MODE="0664", TAG+="uaccess"
+
+# Second Ride — Gisela (ESP32-S3, USB-Serial)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", MODE="0660", TAG+="uaccess"
+EOF
+
+sudo udevadm control --reload-rules && sudo udevadm trigger
+```
+
+Dieser Befehl erstellt eine Konfigurationsdatei, die Linux mitteilt, dass Chrome auf die Second Ride Steuergeräte zugreifen darf. `TAG+="uaccess"` sorgt dafür, dass der aktuell angemeldete Benutzer automatisch Zugriff erhält. Ziehe das USB-Kabel danach kurz ab und stecke es wieder ein – kein Neustart nötig.
+
+### Schritt 2 (nur Gisela): Serielle Gruppe
+
+Auf den meisten Distributionen muss dein Benutzer außerdem Mitglied der Gruppe `dialout` sein, damit Chrome auf das serielle Gerät zugreifen kann:
+
+```bash
+sudo usermod -a -G dialout $USER
+```
+
+Danach **einmal ab- und wieder anmelden**, damit die Änderung wirksam wird.
+
+!!! info "Hinweis"
+    Diese Anleitung gilt für systemd-basierte Distributionen (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Wie die Gruppenberechtigungen auf deiner Distribution konfiguriert sind, erfährst du in der jeweiligen Dokumentation – eine gute Übersicht bietet die [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices).
+
