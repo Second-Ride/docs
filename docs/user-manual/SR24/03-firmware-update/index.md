@@ -154,10 +154,10 @@ Das Update-Tool nutzt WebUSB (Günter) und Web Serial (Gisela) – zwei Browser-
 
 ```bash
 sudo tee /etc/udev/rules.d/49-second-ride.rules > /dev/null << 'EOF'
-# Second Ride — Günter (STM32, DFU-Modus via WebUSB)
+# Second Ride - Guenter (STM32, DFU-Modus via WebUSB)
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", MODE="0664", TAG+="uaccess"
 
-# Second Ride — Gisela (ESP32-S3, USB-Serial)
+# Second Ride - Gisela (ESP32-S3, USB-Serial)
 SUBSYSTEM=="usb", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", MODE="0660", TAG+="uaccess"
 EOF
 
