@@ -1,29 +1,29 @@
 /* Higher specificity selectors for mkdocs-material 9.7+ */
 :root > * {
-  --md-primary-fg-color:        #2F2F2F;
-  --md-primary-fg-color--light: #DAA520;
-  --md-primary-fg-color--dark:  #34164A;
-  --md-accent-fg-color:         #DAA520;
+  --md-primary-fg-color:        #282828;
+  --md-primary-fg-color--light: #e4b854;
+  --md-primary-fg-color--dark:  #050505;
+  --md-accent-fg-color:         #e4b854;
 }
 
 /* Dark mode (slate scheme) */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:        #2F2F2F;
-  --md-primary-fg-color--light: #DAA520;
-  --md-primary-fg-color--dark:  #34164A;
-  --md-accent-fg-color:         #DAA520;
+  --md-primary-fg-color:        #282828;
+  --md-primary-fg-color--light: #e4b854;
+  --md-primary-fg-color--dark:  #050505;
+  --md-accent-fg-color:         #e4b854;
 }
 
 /* Light mode (default scheme) */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color:        #2F2F2F;
-  --md-primary-fg-color--light: #DAA520;
-  --md-primary-fg-color--dark:  #34164A;
-  --md-accent-fg-color:         #DAA520;
+  --md-primary-fg-color:        #282828;
+  --md-primary-fg-color--light: #e4b854;
+  --md-primary-fg-color--dark:  #050505;
+  --md-accent-fg-color:         #e4b854;
 }
 
 a {
-  color: #daa520;
+  color: #e4b854;
 }
 
 /* a:hover {
@@ -31,7 +31,7 @@ a {
 } */
 
 h1 {
-  color: #daa520;
+  color: #e4b854;
 }
 
 .md-content {
@@ -55,13 +55,13 @@ h1 {
 .md-footer-meta a,
 .md-footer-meta a:visited,
 .md-social__link {
-  color: #DAA520 !important;
+  color: #e4b854 !important;
 }
 
 .md-footer a:hover,
 .md-footer-meta a:hover,
 .md-social__link:hover {
-  color: #DAA520 !important;
+  color: #e4b854 !important;
   opacity: 0.8;
 }
 
@@ -81,7 +81,7 @@ h1 {
 } */
 
 a.md-nav__link--active {
-  --md-typeset-a-color: #DAA520;
+  --md-typeset-a-color: #e4b854;
 }
 
 .md-nav__link {
@@ -93,11 +93,11 @@ a.md-nav__link--active {
 }
 
 a.md-nav__link:hover {
-  color: #daa520;
+  color: #e4b854;
 }
 
 /* label.md-nav__title {
-  color: #daa520;
+  color: #e4b854;
 } */
 
 .video-wrapper {
@@ -130,4 +130,3 @@ a.md-nav__link:hover {
 .md-typeset .md-table-container {
     overflow-x: auto; /* falls Tabelle breiter als Bildschirm */
 }
-
