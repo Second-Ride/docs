@@ -325,7 +325,7 @@ Drehe nun das Antriebsmodul nach oben, so dass die obere Aufnahme der Motoraufna
 
 #### Seitendeckel Adapter anbauen
 
-Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube (8), die das Riemenspannstützblech (9) hält und schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben (11) fest. Schraube zuletzt die Außensechskantschraube (8) des Riemenspannstützbleches (9) fest. Um die von Werk aus eingestellte Riemenspannung nicht zu verändern, lass die M6 Schraube des Riemenspanners festgezogen.
+Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube (8), die das Riemenspannstützblech (9) hält und schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben (11) fest.
 
 <p align="center">
   <img src="images/image5.png" width="500" loading="lazy" />
@@ -363,7 +363,7 @@ Nun kann die Kette auf das Ritzel geschoben werden und die Tachoschnecke des Tac
 
 Im Anschluss muss der Lichtmaschinendeckel angeschraubt werden. Bei der KR51/1 und der KR51 müssen vorher die Kettenschlauchadapter in die Kettenschläuche eingeklipst werden, damit diese korrekt in dem M500 Lichtmaschinendeckel passen.
 
-Nun kann das Tachoritzel des mitgelieferten Tachoantriebs in den Lichtmaschinendeckel eingesetzt werden. Fette zuerst das Ritzel mit dem mitgelieferten Schmierfett an beiden Enden. Setze nun das Tachoritzel mit dem Vierkant nach oben in den Lichtmaschinendeckel und setze die Kunststoffabdeckung bis zum Anschlag ein. Befestige diese dann durch das Eintreiben des Splintes von Außen. Dann kann der Lichtmaschinendeckel mit den Hülsenmuttern montiert werden. Achte dabei darauf, dass die Kettenschläuche richtig in der Aufnahme davon im Lichtmaschinendeckel sitzen.
+Nun kann das Tachoritzel des mitgelieferten Tachoantriebs in den Lichtmaschinendeckel eingesetzt werden. Fette zuerst das Ritzel mit dem mitgelieferten Schmierfett an beiden Enden. Setze nun das Tachoritzel mit dem Vierkant nach oben in den Lichtmaschinendeckel und setze die Kunststoffabdeckung bis zum Anschlag ein. Befestige diese dann durch das Eintreiben des Splintes von Außen. Dann kann der Lichtmaschinendeckel mit den Hülsenmuttern montiert werden und die Tachowelle in dem dafür vorgesehenen Gewinde festgeschraubt werden. So funktioniert dein Originaltacho einfach weiter. Achte  darauf, dass die Kettenschläuche richtig in der Aufnahme davon im Lichtmaschinendeckel sitzen.
 
 Ein ausführliches Anleitungsvideo zur Montage des Tachoantriebs findest du hier:
 
@@ -521,7 +521,7 @@ Anstelle des zuvor demontierten Armaturenblechs, kannst du nun das von uns mitge
 
 Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisches Signal umgewandelt wird, haben wir den UBS - Universalen Bowdenzugsensor entwickelt und dir mitgeliefert. Entferne zunächst den Gaszug aus dem Vergaserkolben, in dem du den Kolben und Deckel zusammen drückst. Dadurch sollte der Gaszug im Kolben herausnehmbar sein. Kolben, Feder und Deckel werden nicht mehr benötigt.
 
-Nimm dir nun den Gaszugsensor und schraube die Kappe ab. Achtung, darunter sitzt eine komprimierte Feder. Beim UBS sind mehrere Stellschrauben und eine härtere Feder dabei, die verschiedene lange Bowdenzugenden und Rückstellkräfte ermöglichen. Die folgenden Kombinationen sollten auf Anhieb funktionieren:
+Nimm dir nun den Gaszugsensor und schraube die Kappe ab. Achtung, darunter sitzt eine komprimierte Feder. Beim UBS sind mehrere Stellschrauben dabei, die verschiedene lange Bowdenzugenden und Rückstellkräfte ermöglichen. Die folgenden Kombinationen sollten auf Anhieb funktionieren:
 
 KR51/2 → M8x25 mit Kontermutter & stärkere Feder
 
