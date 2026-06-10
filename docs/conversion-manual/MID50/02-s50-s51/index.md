@@ -441,10 +441,10 @@ Ziehe zum Schluss an der Tankaufnahme die obere M8 Mutter(10) über der Unterleg
   <img src="images/einbau-rahmen-10.png" width="396" loading="lazy" />
 </p>
 
-Setze nun das linke Akkufach(17) wieder ein und baue es zuerst oben wieder zusammen. Setze dafür die Metallhülse(18) von oben in das Gleitlager(19) ein und führe die Flachkopfschraube(20) von unten ein. Setze von oben die weiße Nylonscheibe(21) auf und schraube die M6 Mutter(22) locker auf. Wiederhole das Gleiche von unten, dort jedoch ohne Nylonscheibe. Achte dabei darauf, dass die Gleithülse in der dafür vorgesehenen Führung sitzt. Ziehe anschließend beide Akkufachgelenke mit ca. 5 Nm fest.
+Setze nun das linke Akkufach(17) wieder ein und baue es zuerst oben wieder zusammen. Setze dafür die Metallhülse(18) von oben in das Gleitlager(19) ein und führe die Flachkopfschraube(20) von unten ein und schraube die M6 Mutter(22) locker auf. Wiederhole das Gleiche von unten. Achte dabei darauf, dass die Gleithülse in der dafür vorgesehenen Führung sitzt. Ziehe anschließend beide Akkufachgelenke mit ca. 5 Nm fest.
 
 <p align="center">
-  <img src="images/einbau-rahmen-11.png" width="421" loading="lazy" />
+  <img src="images/einbau-rahmen-11.png" width="424" loading="lazy" />
 </p>
 
 <p align="center">
