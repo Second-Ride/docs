@@ -32,11 +32,19 @@
 
 === "3D Model"
 
-    Wir überarbeiten gerade diese Daten, bitte komme später noch ein mal wieder
+    <iframe 
+        width="100%" 
+        height="480" 
+        style="border:1px 
+        solid #eeeeee;" 
+        src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/Second-Ride/docs/main/docs/for-developers/vehicle-database/simson/s50-s51/technical-vehicle-docs/S51-scan-mittelrahmen.glb$camera=54.09951,6.31634,-85.95721,5.34919,-20.31723,-1.74013,0.00000,1.00000,0.00000,45.00000$projectionmode=orthographic$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,0$defaultcolor=200,200,200$defaultlinecolor=100,100,100$edgesettings=off,0,0,0,1">
+    </iframe>
+
+    [3D-Model herunterladen :material-download:](technical-vehicle-docs/S51-scan-mittelrahmen.glb){ .md-button .md-button--primary }
 
 === "2D Zeichnung"
 
-    Wir überarbeiten gerade diese Daten, bitte komme später noch ein mal wieder
+    ![Simson S51 Zeichnung](technical-vehicle-docs/simson_s51_abmessungen.png)
     
 ### Bordnetz
 
