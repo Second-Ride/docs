@@ -34,6 +34,11 @@ Nach der Montage des Umbaukits, musst du einmalig den Konfigurator zur digitalen
 
 7. Um mit deinem umgebauten Fahrzeug die Straßenzulassung zu erlangen, ist es zwingend notwendig, die für dein Fahrzeug zulässigen Leistungs- und Geschwindigkeitsgrenzen **endgültig** im System **abzuspeichern**. Öffne dafür den Legal Limit Konfigurator erneut, in dem du Schritt 1. - 3. erneut durchführst. Nachdem sich der Legal Limit Konfigurator geöffnet hat, kannst du die Konfiguration endgültig speichern. dabei wirst du aufgefordert, ein Einmal-Passwort einzugeben. Dieses wurde dir per E-Mail unter dem Betreff **"hier ist das Einmal-Passwort zur Drosselung deines MID50 Kits"** zugesandt. Gib das Passwort ein und speichere die Konfiguration endgültig.
 
+!!! warning "Wichtig: Nach „Vorläufig speichern" nicht ungewollt endgültig speichern"
+    Wenn du im Konfigurator auf **„Vorläufig speichern"** tippst, wirst du aktuell direkt auf den Bildschirm **„Endgültig speichern"** weitergeleitet – und nicht zurück zur Übersicht. Deine vorläufigen Werte sind zu diesem Zeitpunkt bereits im Fahrzeug gespeichert und der Antrieb ist entsprechend begrenzt (hättest du diesen Bildschirm erreicht, wäre das vorläufige Speichern also erfolgreich gewesen).
+
+    **Gehe hier nur dann weiter zum endgültigen Speichern, wenn du das wirklich möchtest** – dieser Schritt ist unumkehrbar. Möchtest du (noch) nicht endgültig speichern, tippe auf **„Abbrechen"**. Du gelangst dann zurück zur Übersicht, wo du oben die gespeicherten Werte (Leistung, Geschwindigkeit, Übersetzung und Abrollumfang) ablesen und so prüfen kannst, ob deine Einstellungen übernommen wurden.
+
 !!! warning "Warnung: Endgültig Speichern kann nicht rückgängig gemacht werden"
     In Ausnahmefällen, wenn zum Beispiel ein Umbaukit in ein neues Fahrzeug gebaut werden soll und damit eine neue Drosselung erforderlich ist, kannst du bei uns ein Einmal-Passwort für deinen Motor erwerben, mit dem einmalig neu gedrosselt werden kann. Wir fordern dann allerdings Nachweise dazu, dass du eine neue Änderungsabnahme anstrebst.
 
