@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+<!--
+  Erlaubt es, einzelne Seiten per Front Matter aus dem Google-Index zu halten:
+
+      ---
+      noindex: true
+      ---
+
+  Gedacht für Platzhalter- und Stub-Seiten (z.B. noch leere Einträge der
+  Fahrzeug-Datenbank). Die Seiten bleiben in der Navigation und für Besucher
+  erreichbar, Google indexiert sie aber nicht. Ohne das erkennt Google die
+  identischen Platzhalter als Duplicate Content und wählt einen fremden
+  Canonical.
+-->
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.meta and page.meta.noindex %}
+    <meta name="robots" content="noindex, follow">
+  {% endif %}
+{% endblock %}

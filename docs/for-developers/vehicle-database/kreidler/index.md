@@ -1,1 +1,5 @@
+---
+noindex: true
+---
+
 Es wurde noch kein Eintrag angelegt. Folge der [Anleitung](/for-developers/vehicle-database/) um einen neuen Eintrag anzulegen.

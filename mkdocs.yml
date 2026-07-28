@@ -1,6 +1,6 @@
 site_name: Second Ride Dokumentation
 site_description: 'Umfassende Dokumentation zu Elektro-Umbaukits von Second Ride'
-site_url: https://docs.second-ride.de/ 
+site_url: https://docs.second-ride.de/
 repo_url: https://github.com/Second-Ride/docs/
 edit_uri: https://github.com/Second-Ride/docs/edit/main/docs
 
@@ -29,6 +29,7 @@ markdown_extensions:
 
 theme:
     name: material
+    custom_dir: overrides
     language: de
     logo: img/Bildmarke_Weiss.svg
     favicon: img/favicon.ico
@@ -228,7 +229,8 @@ nav:
             - Elektronik: for-developers/SR24/circuit-diagram/index.md
             - Software: for-developers/SR24/communication-protocols/index.md
             - Community Erweiterungen: for-developers/SR24/community-extensions/index.md
-    - FAQ: 
+    - FAQ:
+        - "Häufige Fragen": faq/index.md
         - "Bestellungen & Versand": faq/orders-shipping/index.md
         - MID50: faq/mid50/index.md
         - SR24: faq/sr23-sr24/index.md

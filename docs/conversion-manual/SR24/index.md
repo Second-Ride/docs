@@ -1,3 +1,7 @@
+---
+noindex: true
+---
+
 ### Umbauanleitung für die folgenden SR24-Modelle :
 #### - S50/51
 #### - Schwalbe
