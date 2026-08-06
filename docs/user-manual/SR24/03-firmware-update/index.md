@@ -50,47 +50,53 @@ Entferne die Kabelblende vom Antriebsmodul, indem du die M4-Zylinderkopf-Schraub
   <img src="https://github.com/user-attachments/assets/f2d34c5d-6cfd-4838-9ac2-75c5c04d5d5b" width="500" loading="lazy" />
 </p>
 
-##### 1.1.1 Diagnose-Kabel identifizieren
+##### 1.2.2. Diagnose-Kabel identifizieren
 
 Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ihr “Günter” getauft). Von Günter geht ein kurzes Kabel (3) ab, welches nicht weiter verbunden und mit einer Gummikappe abgedeckt ist.
 
 ### 2. USB-Kabel anschließen
 
-<div style="border: 2px solid orange; background-color: #fff8e1; padding: 15px; border-radius: 8px;">
-   Die Batterie darf während des Updates aus Sicherheitsgründen nicht mit dem Antriebsmodul verbunden sein. Stelle sicher, dass die Sitzbank nicht angeschlossen ist.
-</div>
+!!! warning "Achtung"
+    Die Batterie darf während des Updates aus Sicherheitsgründen nicht mit dem Antriebsmodul verbunden sein. Stelle sicher, dass die Sitzbank nicht angeschlossen ist.
 
    Entferne die Gummikappe und schließe das mitgelieferte USB-Kabel an. Wichtig: Achte darauf, dass die Pfeile auf dem männlichen und weiblichen Stecker zueinander zeigen, bevor du sie mit Kraft zusammen schiebst. Schließe das USB Kabel anschließend an deinen PC an.
 
-### 3. [Webupdatetool öffnen](http://Second-ride.de/update):  → Nur mit Google Chrome verwenden.
+### 3. [Webupdatetool öffnen](http://Second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
 
-
-### 4. Firmware auswählen:  
-   Wähle unter „Antriebsmodul / Günter“ die gewünschte Firmware-Version und klicke auf “Verbinden”  
-  
-   <p align="center">
-  <img src="https://github.com/user-attachments/assets/263f4fd9-54f9-4818-91ee-71439bb3a486" width="500" loading="lazy" />
-</p>
-
-
-### 5. Verbindung herstellen:  
-   Nun öffnet sich ein Fenster, welches dir die Option bietet aus verschiedenen Geräten auszuwählen. Wähle das STM32… aus und bestätige mit “Verbinden” unten rechts.  
-  
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/48619cba-1325-434a-9ad0-f54f5b51cba6" width="500" loading="lazy" />
-</p>
-
-### 6. Firmware-Update starten:  
-   Bevor du nun den Updateprozess über “Update ausführen” bestätigst, stelle sicher, dass die Kabelverbindung stabil ist – ein Verbindungsabbruch kann die Elektronik beschädigen.   
-   Klicke nun auf “Update ausführen” und lasse den Vorgang vollständig durchlaufen.  
+### 4. Gerät erkennen:  
+   Klicke im Bereich „Antriebsmodul aktualisieren“ auf „Gerät erkennen“.  
 
    <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6f56cae-6cbb-4822-a888-f3f000b02b1b" width="500" loading="lazy" />
+  <img src="img/geraet_erkennnen.png" width="300" loading="lazy" />
+</p>
+
+### 5. Gerät im Browser auswählen:  
+   Es öffnet sich ein Auswahlfenster deines Browsers. Wähle dort den Eintrag „STM32 BOOTLOADER“ aus und bestätige mit „Verbinden“.  
+
+   <p align="center">
+  <img src="img/guenter_usb_device.png" width="400" loading="lazy" />
+</p>
+
+### 6. Firmware-Variante wählen:  
+   Das Tool erkennt das Antriebsmodul und zeigt dir die verfügbaren Firmware-Varianten an. Wähle die für dein Fahrzeug passende Version aus:
+
+- **Standardversion**: für alle Simson Mopeds
+- **Spezialversion für Duo**: nur für die Simson Duo
+
+!!! warning "Achtung"
+    Das Update startet sofort nach Auswahl der Firmware-Variante. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Verbindungsabbruch kann die Elektronik beschädigen.
+
+<p align="center">
+  <img src="img/guenter_versionswahl.png" width="450" loading="lazy" />
 </p>
 
 ### 7. Abschluss:  
-   Nach erfolgreichem Update erscheint eine Bestätigungsmeldung. unter den beiden blauen Updatebalken.   
+   Nach erfolgreichem Update erscheint eine Bestätigungsmeldung.   
    Nun kannst du das Kabel wieder von dem Diagnosestecker und deinem Laptop trennen.
+
+   <p align="center">
+  <img src="img/guenter_erfolgreich.png" width="450" loading="lazy" />
+</p>
 
 ## Update von Sitzbank / Bluetooth-Modul {#update-von-sitzbank-/-bluetooth-modul}
 
@@ -101,43 +107,45 @@ Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. 
     Verbinde niemals gleichzeitig die Sitzbank und das Antriebsmodul mit deinem Computer über Kabel. Ziehe immer zuerst den Akku-Stecker ab, bevor du dein Laptop mit der Sitzbank oder dem Antriebsmodul verbindest. 
     
 
-1. Verbinde die Sitzbank bzw. das BT-Modul mit einem USB-C-Kabel über den USB-C Port neben dem Second Ride Logo mit deinem Laptop. Der USB-C Port an dem BT-Modul/Sitzbank sollte jetzt leuchten
+### 1. Sitzbank / BT-Modul anschließen
+Verbinde die Sitzbank bzw. das BT-Modul mit einem USB-C-Kabel über den USB-C Port neben dem Second Ride Logo mit deinem Laptop. Der USB-C Port an dem BT-Modul/Sitzbank sollte jetzt leuchten.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" loading="lazy" />
 </p>
 
-2. Webupdatetool öffnen: → Nur mit Google Chrome oder Edge verwenden.
+### 2. [Webupdatetool öffnen](http://Second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
 
-3. Firmware auswählen:  
-   Wähle unter „Sitzbank & BT-Modul updaten“ die passende Firmware-Version aus dem Dropdown-Menü und drücke auf Verbinden. Die Firmware “Gisela V4 Base Version” enthält nur die Basis-Funktionalität ohne jegliche Bluetooth-Funktionen. Wähle daher die andere verfügbare Firmware aus.  
-  
+### 3. Gerät erkennen:  
+   Klicke im Bereich „Sitzbank & BT-Modul updaten“ auf „Gerät erkennen“.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6661c5ee-31d5-40d0-b0bc-c57f402e19b8" width="500" loading="lazy" />
+  <img src="img/geraet_erkennnen.png" width="300" loading="lazy" />
 </p>
 
-4. Verbindung herstellen:  
-   Nun sollte sich ein Fenster öffnen, in dem ein USB Port angezeigt wird (hier blau markiert). Diesen erkennst du daran, dass ein “gekoppelt” daneben steht.    
-   Wähle diesen aus und klicke auf “Verbinden”.  
-  
+### 4. Gerät im Browser auswählen:  
+   Es öffnet sich ein Auswahlfenster deines Browsers. Wähle dort den Eintrag „USB JTAG/serial debug unit“ aus (das ist die Sitzbank bzw. das BT-Modul) und bestätige mit „Verbinden“.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2605475f-150d-4631-b5f4-f1519bebe291" width="500" loading="lazy" />
+  <img src="img/gisela_usb_device.png" width="400" loading="lazy" />
 </p>
 
+### 5. Update installieren:  
+   Das Tool erkennt das Gerät und zeigt dir die neueste verfügbare Firmware-Version an. Klicke auf „Jetzt installieren“.
 
-5. Firmware-Update starten:  
-   Nach kurzem Laden sollte folgendes Fenster erscheinen.   
- 
+!!! warning "Achtung"
+    Nach dem Klick auf „Jetzt installieren“ öffnet sich noch einmal ein Auswahlfenster deines Browsers. Wähle dort das einzige angezeigte Gerät aus, um das Update zu starten – es kann sein, dass es dort anders benannt ist als im vorherigen Auswahlfenster. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42255bed-13c9-417a-913b-fca0c1555864" width="500" loading="lazy" />
+  <img src="img/gisela_installscreen.png" width="450" loading="lazy" />
 </p>
 
-   Bevor du nun auf “install Gisela V4” drückst stelle sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
+### 6. Abschluss:  
+   Nach erfolgreichem Update erscheint eine Bestätigungsmeldung. Jetzt kannst du die USB-C-Verbindung trennen.
 
-   Klicke auf „Installieren“, bestätige das nachfolgende Fenster und lasse den Vorgang vollständig durchlaufen und 
-
-5. Abschluss:  
-    Nach erfolgreichem Update erscheint eine Bestätigungsmeldung. Jetzt kannst du die USB-C Verbindung trennen.
+<p align="center">
+  <img src="img/gisela_erfolgreich.png" width="450" loading="lazy" />
+</p>
 
 Wenn sowohl das Antriebsmodul als auch das Sitzbank-/BT-Modul auf die aktuelle Firmware aktualisiert wurden, kannst du die App wie vorgesehen nutzen und dein Fahrzeug koppeln.
 
@@ -178,4 +186,8 @@ Danach **einmal ab- und wieder anmelden**, damit die Änderung wirksam wird.
 
 !!! info "Hinweis"
     Diese Anleitung gilt für systemd-basierte Distributionen (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Wie die Gruppenberechtigungen auf deiner Distribution konfiguriert sind, erfährst du in der jeweiligen Dokumentation – eine gute Übersicht bietet die [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices).
+
+---
+
+Falls du noch die vorherige Version des Webupdate-Tools vor dir hast, findest du die dazu passende Anleitung hier: [Firmwareupdate mit dem alten Update-Tool](altes-update-tool/index.md).
 
