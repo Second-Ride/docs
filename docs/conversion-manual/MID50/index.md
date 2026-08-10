@@ -6,3 +6,4 @@ noindex: true
 
 #### - Schwalbe
 
+#### - S50/S51/S70
