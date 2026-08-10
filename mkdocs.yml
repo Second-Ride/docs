@@ -170,7 +170,7 @@ nav:
         #- Übersicht: conversion-manual/index.md
         - MID50:
             - Schwalbe: conversion-manual/MID50/01-schwalbe/index.md
-            - S50/S51: conversion-manual/MID50/02-s50-s51/index.md
+            - S50/S51/S70: conversion-manual/MID50/02-s50-s51-s70/index.md
             - Drosselung:
                 - "Antrieb drosseln": conversion-manual/MID50/throttling/how-to-throttle-your-drive/index.md
                 - "Drosselung prüfen": conversion-manual/MID50/throttling/how-to-check-throttling/index.md

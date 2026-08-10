@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "mkdocs",
-      "runtimeExecutable": "C:\\Users\\stefa\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+      "runtimeExecutable": ".venv\\Scripts\\python.exe",
       "runtimeArgs": ["-m", "mkdocs", "serve", "-a", "127.0.0.1:8000"],
       "port": 8000
     }

@@ -2,7 +2,7 @@
 
 ![Simson Schwalbe mit Second Ride MID50 Umbaukit](images/Schwalbe-SR24.png)
 
-<h2>Voraussetzungen</h2>
+## Voraussetzungen
 
 Folgende Teile benötigst du:
 <table>
@@ -41,7 +41,7 @@ Folgende Werkzeuge benötigst du:
   </tr>
 </table>
 
-<h2>Lieferumfang</h2>
+## Lieferumfang
 
 !!! note "Hinweis: Bitte bewahre deine Verpackung auf"
     Im Garantiefall wird die Originalverpackung für den Rückversand benötigt.
@@ -187,7 +187,7 @@ Folgende Werkzeuge benötigst du:
   </tr>
 </table>
 
-<h2>Kleingeschriebenes</h2>
+## Kleingeschriebenes
 
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
 
