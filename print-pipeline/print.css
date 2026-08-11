@@ -1,0 +1,358 @@
+@font-face {
+  font-family: "Nunito";
+  font-weight: 300;
+  src: url("fonts/nunito-300.ttf");
+}
+@font-face {
+  font-family: "Nunito";
+  font-weight: 400;
+  src: url("fonts/nunito-400.ttf");
+}
+@font-face {
+  font-family: "Nunito";
+  font-weight: 700;
+  src: url("fonts/nunito-700.ttf");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-weight: 400;
+  src: url("fonts/opensans-400.ttf");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-weight: 500;
+  src: url("fonts/opensans-500.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  src: url("fonts/montserrat-500.ttf");
+}
+
+@page {
+  size: A4;
+  /* oben grosszuegiger als die Kopfzeile selbst braucht: garantiert Abstand
+     fuer JEDEN Inhaltstyp, der zufaellig ganz oben auf einer neuen Seite
+     landet (Ueberschriften haben zusaetzlich eigenes padding-top, aber
+     normaler Fliesstext/Listenpunkte haben das nicht und lagen sonst direkt
+     an der Kopfzeilenlinie). */
+  /* unten 76pt statt 60pt: der Fusszeilen-Inhalt wird in seiner Margin-Box
+     VERTIKAL ZENTRIERT (nicht oben ausgerichtet -- per Messung bestaetigt:
+     mehr Boxhoehe verteilt sich zur Haelfte auf den Abstand oben zur Border
+     und zur Haelfte auf den Abstand unten zur Seitenkante). Die Seitenzahl
+     sass dadurch nur noch 2pt von der Seitenkante entfernt. +16pt hier
+     bringen ca. +8pt Abstand unten (und nebenbei etwas mehr Luft zwischen
+     Border und erster Fusszeile), ohne Schriftgroesse oder die Abstaende
+     zwischen Border/Zeile1/Zeile2 selbst anzufassen. */
+  margin: 100pt 72pt 76pt 72pt;
+
+  /* border sitzt auf der Margin-Box selbst -- die endet immer EXAKT an der
+     Grenze zum Inhaltsbereich (@page margin-top/-bottom), unabhaengig davon
+     wieviel Platz der eigentliche Kopf-/Fusszeileninhalt braucht. Ohne
+     margin-bottom/-top hier klebt die Linie deshalb IMMER direkt am ersten/
+     letzten Textelement der Seite -- egal wie gross @page margin ist (das
+     verschiebt nur Grenze+Linie gemeinsam, nie den Abstand dazwischen).
+     margin-bottom/-top auf der Margin-Box selbst zieht dagegen nur die
+     Linie zurueck, die Inhaltsgrenze bleibt fix: garantierter Abstand,
+     unabhaengig vom Kopfzeilen-Inhalt (kurzer/langer Kapitelname, 1 oder 2
+     Zeilen). Per Isoliertest bestaetigt (test_header_gap.html). */
+  @top-center {
+    content: element(pageheadRunning);
+    border-bottom: 0.75pt solid #999;
+    margin-bottom: 14pt;
+    width: 100%;
+  }
+  @bottom-center {
+    content: element(pagefootRunning);
+    border-top: 0.75pt solid #999;
+    margin-top: 14pt;
+    width: 100%;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+  font-size: 10pt;
+  line-height: 1;
+  text-align: justify;
+  color: #1a1a1a;
+}
+
+.pagefoot {
+  position: running(pagefootRunning);
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-size: 8pt;
+  color: #666;
+}
+.pagefoot .line1 { display: block; margin: 0 0 14pt 0; }
+.pagefoot .line2 { display: block; }
+.pagefoot .line2::after { content: "Seite " counter(page); }
+
+.pagehead {
+  position: running(pageheadRunning);
+  text-align: center;
+}
+/* break-before/after wirkt auf position:running()-Elemente nicht (per
+   Isoliertest bestaetigt) -- der Seitenumbruch muss auf echtem Fliessinhalt
+   sitzen (h1 unten bzw. .compact), nicht hier. */
+.pagehead img {
+  display: block;
+  margin: 0 auto 2pt auto;
+  width: 20.7pt;
+  height: 23pt;
+}
+.pagehead .name {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  font-size: 9pt;
+  font-weight: 500;
+  margin-bottom: 8pt;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18pt;
+  padding-top: 20pt;
+  margin: 0 0 6pt 0;
+  break-before: page;
+  break-after: avoid;
+}
+h1:first-of-type { break-before: avoid; }
+
+/* --- Ueberschrift + direkt folgende Tabelle/kleinere Ueberschrift ohne
+   Fliesstext dazwischen: niemals trennen (build_full.py glue_headings) --- */
+.keep-together {
+  break-inside: avoid;
+}
+.keep-together.force-break {
+  break-before: page;
+}
+
+/* --- Inhaltsverzeichnis: eigene Seiten, kein anderer Inhalt daneben --- */
+nav.toc {
+  break-after: page;
+}
+nav.toc p {
+  display: flex;
+  align-items: baseline;
+  margin: 3pt 0;
+  break-inside: avoid;
+}
+nav.toc .toc-h1 { font-weight: bold; margin-top: 8pt; }
+nav.toc .toc-h2 { margin-left: 20pt; }
+nav.toc .toc-h3 { margin-left: 38pt; font-size: 9pt; color: #555; }
+nav.toc .toc-link, nav.toc .toc-page { color: inherit; text-decoration: none; white-space: nowrap; }
+nav.toc .toc-fill {
+  flex: 1;
+  margin: 0 4pt;
+  border-bottom: 1pt dotted #999;
+  height: 0;
+  align-self: end;
+}
+nav.toc .toc-page::after { content: target-counter(attr(href), page); }
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16pt;
+  padding-top: 24pt;
+  margin: 0 0 6pt 0;
+  break-after: avoid;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14pt;
+  color: #434343;
+  padding-top: 18pt;
+  margin: 0 0 4pt 0;
+  break-after: avoid;
+}
+/* Seitenfuellstands-Optimierung: H3 nach >50% Fuellstand auf naechste Seite (optimize_pagefill.py) */
+h3.force-break {
+  break-before: page;
+}
+
+h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 12pt;
+  color: #666666;
+  padding-top: 16pt;
+  margin: 0 0 4pt 0;
+  break-after: avoid;
+}
+
+p {
+  margin: 0 0 10pt 0;
+  orphans: 3;
+  widows: 3;
+  break-inside: avoid;
+}
+
+p:has(img) { break-inside: avoid; }
+/* Nur der Text VOR der ERSTEN Bildserie bleibt am Bild kleben. Absichtlich
+   nicht auf p:has(img) selbst angewendet -- sonst verketten sich mehrere
+   Bilder in Folge zu einem unteilbaren Block (siehe FORMAT-RULES.md 10a,
+   derselbe Fehler wie in der Docs-Pipeline, hier per CSS-Aequivalent vermieden). */
+p:not(:has(img)):has(+ p img) { break-after: avoid; }
+li:has(+ p img) { break-after: avoid; }
+
+img {
+  display: block;
+  margin: 6pt auto;
+  max-width: 451.28pt; /* Satzspiegel-Obergrenze; die eigentliche Breite kommt je Bild per inline style von size_images.py (Goldkreis-Erkennung + Aufloesungs-Formel) */
+}
+
+figcaption {
+  font-family: "Nunito", sans-serif;
+  font-size: 9pt;
+  text-align: center;
+}
+
+/* QR-Code-Beschriftung (build_full.py qr_figure) -- deutlich kleiner und
+   direkt unter dem Code, ohne <br>-Zeilenabstand wie bei einer normalen
+   Bildunterschrift. */
+.caption {
+  display: block;
+  font-family: "Nunito", sans-serif;
+  font-size: 7pt;
+  color: #666;
+  text-align: center;
+  margin-top: 2pt;
+  line-height: 1.2;
+}
+
+ul, ol {
+  margin: 0 0 5pt 0;
+  padding-left: 36pt;
+  text-align: justify;
+}
+li { margin-bottom: 3pt; }
+li > ul, li > ol { margin-top: 3pt; }
+
+/* --- Hinweisboxen: MkDocs-Typ bestimmt die Farbe, nicht der Titeltext --- */
+.admonition {
+  padding: 7.2pt 10pt;
+  margin: 10pt 0;
+  border-radius: 2pt;
+  break-inside: avoid;
+}
+.admonition-title {
+  margin: 0 0 4pt 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+}
+.admonition.note, .admonition.info {
+  background: #c9daf8;
+}
+.admonition.tip {
+  background: #d9ead3;
+}
+.admonition.warning, .admonition.danger {
+  background: #fce5cd;
+}
+.admonition.warning > .admonition-title,
+.admonition.danger > .admonition-title {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+}
+.admonition p:last-child { margin-bottom: 0; }
+
+/* --- Checklisten-Tabelle (Lieferumfang): bereits als 2-Spalten-Tabelle in der Quelle --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 6pt 0 10pt 0;
+}
+/* Nicht die ganze Tabelle unteilbar machen (das zwingt eine seitenlange
+   Tabelle als Ganzes auf eine neue Seite und laesst die Ueberschrift allein
+   zurueck) -- nur jede einzelne Zeile darf nicht mitten durch brechen. Kurze
+   Tabellen wie Checklisten sehen dank .checklist{break-inside:avoid} trotzdem
+   weiterhin ungeteilt aus. */
+tr { break-inside: avoid; }
+table td, table th {
+  padding: 5pt;
+  vertical-align: top;
+  border: none;
+}
+table input[type="checkbox"] { margin-right: 4pt; }
+
+/* Warnzeichen-Icon und seine Bezeichnung (Kleingeschriebenes-Legende,
+   Warnhinweise-Tabelle): etwas mehr Luft zwischen Symbol und Text. */
+td:has(img) { padding-right: 14pt; }
+.compact td:has(img) { padding-right: 10pt; }
+
+/* --- Checklisten: umrahmte Box mit Spaltentrenner, echtes Kaestchen-Glyph --- */
+table.checklist {
+  border: 1pt solid #000;
+  break-inside: avoid;
+}
+table.checklist td {
+  padding: 10pt 14pt;
+}
+table.checklist td:last-child {
+  border-left: 1pt solid #000;
+}
+table.checklist input[type="checkbox"] {
+  display: none;
+}
+table.checklist li::before {
+  content: "☐ ";
+}
+table.checklist, table.checklist li {
+  text-align: left;
+}
+
+/* echte Datentabellen (mit thead) bekommen die Kopfzeilen-Formatierung */
+table thead th {
+  background: #666666;
+  color: #ffffff;
+  font-weight: bold;
+}
+table thead { display: table-header-group; } /* Kopfzeile auf jeder Seite wiederholen */
+
+/* --- Echte Datentabellen (kein Checklisten-Grid): sichtbarer Rahmen, FORMAT-RULES.md Abschnitt 8/12 --- */
+table:not(.checklist) {
+  border: 1pt solid #000000;
+}
+table:not(.checklist) td,
+table:not(.checklist) th {
+  border: 0.75pt solid #000000;
+}
+
+/* Rohe <hr>-Trennstriche aus der Quelle sind kein Teil des Druckformats */
+hr { display: none; }
+
+a { color: inherit; text-decoration: none; }
+
+/* --- Kompakte Kapitel: muessen auf einer Seite bleiben (rules.py COMPACT_SCALE,
+   hier staerker als die dort gemessenen 0.72, weil Layout/Zeilenhoehe abweichen --
+   iterativ ermittelt statt uebernommen, siehe fitcheck-Ansatz in FORMAT-RULES.md 10c) */
+.compact {
+  font-size: 0.85em;
+  line-height: 1.25;
+  /* Umbruch auf dem Wrapper selbst: direkt auf dem inneren h1 wird er von
+     WeasyPrint verschluckt, wenn die vorherige Tabelle (break-inside:avoid)
+     bereits natuerlich auf die naechste Seite gerutscht ist. */
+  break-before: page;
+}
+.compact h1 { break-before: avoid; }
+.compact h1 { font-size: 16pt; margin: 0 0 2pt 0; }
+.compact p { margin: 0 0 3pt 0; }
+.compact table td { padding: 1.5pt; }
+/* Legenden-Icons behalten ihre feste Breite -- bewusst nicht mitgestaucht */
+.compact img { width: 39pt !important; max-width: 39pt !important; }
+/* Kopfzeilen-Logo steht jetzt direkt nach der h1, also innerhalb von .compact --
+   von obiger Regel ausnehmen, sonst wird das Logo auf 39x23pt verzerrt. */
+.compact .pagehead img {
+  width: 20.7pt !important;
+  height: 23pt !important;
+  max-width: none !important;
+}
