@@ -146,6 +146,10 @@ mkdocs build
 ```
 Generates static files in `site/` directory.
 
+## PDF-Export
+
+Aus der Doku lässt sich eine druckfertige, fahrzeugspezifische PDF-Anleitung erzeugen (Titelseite, Revisionsseite, Rückseite). Auslösen über GitHub Actions → **PDF Export** → *Run workflow* (Fahrzeug + Revisionsnummer angeben). Details siehe [`print-pipeline/README.md`](print-pipeline/README.md).
+
 ## Support
 
 For questions about SecondRide or this documentation:
