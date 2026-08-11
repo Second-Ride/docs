@@ -1,0 +1,12 @@
+# Build-Artefakte -- nur Quellcode, Assets und Cover-Vorlagen werden versioniert.
+article_full.html
+article_iter.html
+article_final.html
+wrapper_final.html
+wrapper_iter.html
+revision_page.html
+revision_page.pdf
+proto_final.pdf
+proto_final_with_cover.pdf
+iter.pdf
+output/

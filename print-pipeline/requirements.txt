@@ -1,0 +1,5 @@
+weasyprint==69.0
+pymupdf
+numpy
+pillow
+segno

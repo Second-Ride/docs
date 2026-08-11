@@ -1,0 +1,65 @@
+name: PDF Export
+
+on:
+  workflow_dispatch:
+    inputs:
+      vehicle:
+        description: "Fahrzeug"
+        required: true
+        type: choice
+        options:
+          - s50-s51-s70
+          - kr51
+      revision:
+        description: "Revisionsnummer (z.B. 04)"
+        required: true
+        type: string
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: System-Abhaengigkeiten fuer WeasyPrint installieren
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 \
+            libffi-dev shared-mime-info fonts-liberation
+
+      - name: Python-Abhaengigkeiten installieren (MkDocs + Druck-Pipeline)
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r print-pipeline/requirements.txt
+
+      - name: MkDocs-Site bauen
+        run: mkdocs build -d /tmp/site-current
+
+      - name: Druck-PDF bauen
+        env:
+          PRINT_VEHICLE: ${{ inputs.vehicle }}
+          PRINT_REVISION: ${{ inputs.revision }}
+          PRINT_SITE_DIR: /tmp/site-current
+        run: python print-pipeline/release.py
+
+      - name: Release-Metadaten bestimmen
+        id: meta
+        run: |
+          DATE=$(date +%F)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          echo "tag=${{ inputs.vehicle }}-rev${{ inputs.revision }}-$DATE" >> "$GITHUB_OUTPUT"
+
+      - name: GitHub Release erstellen
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.meta.outputs.tag }}
+          name: "${{ inputs.vehicle }} – Revision ${{ inputs.revision }} (${{ steps.meta.outputs.date }})"
+          files: print-pipeline/output/*.pdf
