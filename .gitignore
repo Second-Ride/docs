@@ -50,6 +50,9 @@ site/
 docs/.obsidian/
 .obsidian/
 
+# Lokale Notizdateien
+Open Todos.md
+
 # Docker build context (optional)
 .dockerignore
 
