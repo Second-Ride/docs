@@ -81,8 +81,8 @@ All technical data and descriptions contained herein were up to date at the time
 
 ### 1. Installing the E-Clutch
 
-!!! note "Note"
-     The Duo officially has no clutch, therefore you must purchase the clutch hand lever and assembly **separately**. Installation is significantly easier if the clutch lever is removed beforehand.  
+> [!note] Note
+>  The Duo officially has no clutch, therefore you must purchase the clutch hand lever and assembly **separately**. Installation is significantly easier if the clutch lever is removed beforehand.  
 
 Start by inserting the two rectangular magnets into one of the filler pieces as shown in the picture. To do this, place the magnets in their final position on a ferromagnetic surface (e.g. a piece of sheet metal) and press the filler piece straight down from above.  
 
@@ -106,8 +106,8 @@ Slightly bend open one loop of the spring (1), insert it as shown through the sm
 
 Take the reed sensor (7) and counter both nuts (8) at the threaded end. Slide the spring retaining plate (2) onto the reed sensor thread. Make sure the loop of the spring runs along the spring retaining plate (9). If the thread (officially for the cable tension adjustment screw) is about 13 mm long (10), slide the 5 mm sleeve (11) on. For the other assembly variant (12), omit this sleeve. Then screw the reed sensor into the thread.  
 
-!!! note "Note"
-      Due to the slot for the Bowden cable, the sensor can easily be screwed in crooked – this must be avoided. There may be paint or powder coating on the end of the thread. Clean the thread if necessary. Only grip the sensor by the countered nuts or the sensor body when screwing it in, not by the cable, as this may tear the cable out.  
+> [!note] Note
+>   Due to the slot for the Bowden cable, the sensor can easily be screwed in crooked – this must be avoided. There may be paint or powder coating on the end of the thread. Clean the thread if necessary. Only grip the sensor by the countered nuts or the sensor body when screwing it in, not by the cable, as this may tear the cable out.  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a36eae26-291f-403a-a45b-6141dc7acdca" loading="lazy" />
@@ -139,11 +139,11 @@ Disconnect the white single-pin connector on the brake signal cable under the dr
 Often all permanent 12V contacts are occupied. In this case, unplug the connector from contact no. 30 on the ignition switch and plug it onto the 6.3 mm female spade connector at the end of the blue cable. Then connect the spade connector to the permanent 12V contact.  
 Connect the hollow connector to the reed sensor. Route the black cable along the steering column and the wiring harness under the motor. Disconnect the white single-pin connector on the brake signal cable under the drive module. Connect the single-pin white connector of the black cable to the single-pin white brake signal cable connector. For adjustment of the “friction point,” see chapter “Adjusting the Friction Point.”  
 
-!!! note "Note"
-      When fastening the cable with cable ties to the frame and handlebar, make sure the cable has enough play for steering movements.  
-      It is recommended to keep the brake signal cable connected at the brake contact and store the end at a suitable place in the vehicle.  
-      If for any reason the cable, reed sensor, or magnets of the E-Clutch are damaged/lost, the drive module will think you have activated motor shut-off and will prevent further driving.  
-      In that case, you could reconnect the brake signal cable to the white single-pin connector under the drive module and continue driving.  
+> [!note] Note
+>   When fastening the cable with cable ties to the frame and handlebar, make sure the cable has enough play for steering movements.  
+>   It is recommended to keep the brake signal cable connected at the brake contact and store the end at a suitable place in the vehicle.  
+>   If for any reason the cable, reed sensor, or magnets of the E-Clutch are damaged/lost, the drive module will think you have activated motor shut-off and will prevent further driving.  
+>   In that case, you could reconnect the brake signal cable to the white single-pin connector under the drive module and continue driving.  
 
 ### Adjusting the “Friction Point”
 
@@ -163,9 +163,9 @@ By unscrewing the sensor, this friction point can be moved further forward, or b
 **(Important: The sensor end must not protrude beyond the thread.)**  
 Once you have reached the desired setting, reconnect all cables as before.  
 
-!!! note "Note"
-      The distance between the magnets and the sensor tip is crucial for triggering the reed sensor. The magnet position in the hand lever is fixed, but there are differences between hand levers from different manufacturers (see image). The deeper the magnets sit in the hand lever, the earlier the friction point is reached.  
-      If the sensor is already screwed all the way in, but you want a later friction point, you must use another hand lever in which the filler piece does not sit as deep.  
+> [!note] Note
+>   The distance between the magnets and the sensor tip is crucial for triggering the reed sensor. The magnet position in the hand lever is fixed, but there are differences between hand levers from different manufacturers (see image). The deeper the magnets sit in the hand lever, the earlier the friction point is reached.  
+>   If the sensor is already screwed all the way in, but you want a later friction point, you must use another hand lever in which the filler piece does not sit as deep.  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/70572ccb-18cd-4d29-8302-e8d69a746f97" loading="lazy" />

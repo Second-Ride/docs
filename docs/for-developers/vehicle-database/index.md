@@ -30,8 +30,8 @@ Wir haben bereits für einige Modelle umfassende Daten wie 3D-Scans, Faktentabel
 
 ---
 
-!!! warning "Richtigkeit der Daten und Zeichnungen"
-
-    * **Keine Gewähr für Richtigkeit:** Wir können nicht für die **absolute Richtigkeit** der eingetragenen Daten garantieren.
-    * **Prüfung:** Änderungsvorschläge aus der Community werden lediglich grob auf **Plausibilität** geprüft, eine tiefergehende Verifizierung ist uns nicht möglich.
-    * **3D-Scans:** Auch 3D-Scans könnten unter Umständen nicht absolut maßstabsgetreu sein oder nicht exakt das Fahrzeugmodell im Originalzustand abbilden.
+> [!warning] Richtigkeit der Daten und Zeichnungen
+>
+> * **Keine Gewähr für Richtigkeit:** Wir können nicht für die **absolute Richtigkeit** der eingetragenen Daten garantieren.
+> * **Prüfung:** Änderungsvorschläge aus der Community werden lediglich grob auf **Plausibilität** geprüft, eine tiefergehende Verifizierung ist uns nicht möglich.
+> * **3D-Scans:** Auch 3D-Scans könnten unter Umständen nicht absolut maßstabsgetreu sein oder nicht exakt das Fahrzeugmodell im Originalzustand abbilden.

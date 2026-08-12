@@ -16,12 +16,12 @@ Unterstützte Second Ride Umbausätze:
 - SR24 teilweise ohne weitere Hardware und teilweise nur in Verbindung mit unserem Bluetooth-Modul (siehe nächster Abschnitt)
 - MID50 ist kompatibel
 
-!!! info "So erkennst du ob deine SR24 Sitzbank Bluetooth hat"
-    Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
-
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="50%" loading="lazy" />
-    </p>
+> [!info] So erkennst du ob deine SR24 Sitzbank Bluetooth hat
+> Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
+>
+> <p align="center">
+>   <img src="https://github.com/user-attachments/assets/8226b8b5-b09e-4b40-840c-e7fbd1f63bec" width="50%" loading="lazy" />
+> </p>
 
 ---
 ## Installation der App  
@@ -86,8 +86,8 @@ Nimm dir den Moment und nutze auch hier wieder die Möglichkeit durch ein Tippen
 Die App ermöglicht es dir, Einstellungen an deinem Fahrzeug durchzuführen. Diese unterscheiden sich als Pro Features bzw. Standard Features. Um zu verstehen, welche Funktion die Verstellung dieser Einstellungen haben, nutze bitte das kleine “i” Info Symbol neben dem Parameternamen auf der “Einstellungen”  
 Die Pro Features sind nur verfügbar, wenn auf deiner BT-Sitzbank bzw. BT-Modul Pro freigeschaltet ist. Wie das geht, siehst du im folgenden Abschnitt.
 
-!!! warning "Achtung"
-    Durch das Verstellen von Fahrzeugeinstellungen veränderst du aktiv das Fahrverhalten deines Fahrzeuges. Lies dir vorher den Beschreibungstext des jeweiligen Fahreigenschaften durch und fahre  nach dem Verstellen vorsichtig, um das veränderte Fahrverhalten kennenzulernen. 
+> [!warning] Achtung
+> Durch das Verstellen von Fahrzeugeinstellungen veränderst du aktiv das Fahrverhalten deines Fahrzeuges. Lies dir vorher den Beschreibungstext des jeweiligen Fahreigenschaften durch und fahre  nach dem Verstellen vorsichtig, um das veränderte Fahrverhalten kennenzulernen. 
     
 #### Pro-Features 
 

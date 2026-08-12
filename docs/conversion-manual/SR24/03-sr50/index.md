@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/56e0947d-9a26-4f11-af30-bf1611215053" loading="lazy" />
 </p>
 
-!!! info "Info"
-
-    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+> [!info] Info
+>
+> Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
 
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
@@ -160,8 +160,8 @@ Entferne die beiden Schrauben auf der Rückseite des Luftfilterkastens (10) und 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (14) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann.
 
 
-!!! note "Tipp"
-        Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.     
+> [!note] Tipp
+>     Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.     
  
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube (15) geöffnet werden. 
 
@@ -267,8 +267,8 @@ Schraube nun den Motorabdeckung Haken (53) mit den beiden M4 Schrauben und Mutte
 
 Nun kannst du das Antriebsmodul hochklappen und  die vordere Abstützung der SR50 Motoraufnahme anbringen. Hierbei kann es sein, dass die Schraube des Fußbremshebels im Weg ist. Für das Hochklappen des Antriebsmodul kannst du diese temporär entfernen und nach dem Hochklappen wieder anbringen. Es kann sein, dass beim Hochklappen das Antriebsmodul an der rechten Rahmenseite anliegt und Vibrationen während der Fahrt übertragen würde. Dafür haben wir dir einen 50x50mm großen Moosgummistreifen mitgegeben, den du zwischen das Antriebsmodul und dem SR50 Rahmen positionieren kannst.
 
-!!! warning "Achtung"
-    Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
+> [!warning] Achtung
+> Achte beim Hochklappen des Antriebsmodul, dass der Bremszug zum Hinterrad seitlich an der Motoraufnahme vorbeiläuft und nicht zwischen Antriebsmodul und Motoraufnahme eingeklemmt wird.    
  
 
 Damit unser Antriebsmodul in die SR50 passt, wird diese mit den 2x Motorhalterung-Adapterblechen (30) an die Rahmenaufnahme (41) angebracht. Dafür benötigst du zusätzlich 2x M8x70 Sechskanschraube (35), 2x M8 Sechskantmutter (36), 2x M8x20x1,25 Unterlegscheibe (37), 1x M8x24x2 Unterlegscheibe (38), 2x M8x6 Distanzscheibe (39) und 1x M8x12,5 Distanzscheibe (40).
@@ -349,8 +349,8 @@ Bei diesen Modellen musst du das Massekabel für die Zündspule auf die Klemmenl
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Tachobeleuchtung sowie die anderen Birnen am Tacho zu tauschen. 
 
-!!! tip "Interessant zu wissen"
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
+> [!tip] Interessant zu wissen
+> Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 
 Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Im Paket ist ein 80cm langes schwarzes Kabel mit weißem Steckergehäuse am einen und Flachsteckhülse (22) am anderen Ende beigelegt. Verbinde den weißen Stecker mit dem weißen Stecker auf der Unterseite des Antriebmodul und führe das Kabel zu dem Leitungsverbinder und stecke die Flachsteckhülse an die, für dein Fahrzeug, im Schaltplan definierte Position..
@@ -375,8 +375,8 @@ Die Armaturen (38)  mit Taster, Ladestandsanzeige und Zündschloss müssen anste
 Führe  zuletzt das Kabel unter oder durch die Armaturenabdeckung in den Elektronikbereich entlang und leite es zum Antriebmoduls. Dort kannst du es mit dem passenden Stecker verbinden und das Kabel mit Kabelbindern am Rahmen befestigen. 
 
 
-!!! warning "Achtung"
-    Dabei ist wichtig, dass das Kabel vom Antriebsmodul kommend direkt nach vorne gelegt wird und nicht unten durch,da es sonst zu kurz ist.      
+> [!warning] Achtung
+> Dabei ist wichtig, dass das Kabel vom Antriebsmodul kommend direkt nach vorne gelegt wird und nicht unten durch,da es sonst zu kurz ist.      
  
 
 
@@ -385,8 +385,8 @@ Lenken zulässt.
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter. 
 
 
-!!! warning "Achtung"
-     Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.     
+> [!warning] Achtung
+>  Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.     
 
 ### **6. Akku/ Sitzbank**
 
@@ -424,8 +424,8 @@ Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellsch
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgas geben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
 
 
-!!! warning "Achtung"
-     Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
+> [!warning] Achtung
+>  Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber  [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)
 

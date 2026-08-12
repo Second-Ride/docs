@@ -1,9 +1,9 @@
 # Anleitung zur Elektrifizierung einer Simson Schwalbe KR51/2, KR51/1 & KR51 mit SR24 Umbaukit
 ![Simson Schwalbe mit Second Ride SR24 Umbaukit](img/Schwalbe-SR24.png)
 
-!!! info "Info"
-
-    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+> [!info] Info
+>
+> Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
 
 <h2>Voraussetzungen</h2>
 <table>
@@ -169,8 +169,8 @@
   </tr>
 </table>
 
-!!! tip "Bitte bewahre deine Verpackung auf"
-    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
+> [!tip] Bitte bewahre deine Verpackung auf
+> um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
 
 ## Bevor du mit dem Umbau beginnst
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines  Fahrzeugs unsicher sein, kontaktiere uns gerne.
@@ -239,8 +239,8 @@ Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor
 
 
 
-!!! note "Tipp"
-        Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen. 
+> [!note] Tipp
+>     Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen. 
 
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. 
@@ -249,8 +249,8 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt. 
 
-!!! note "Tipp"
-       Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
+> [!note] Tipp
+>    Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
 
 
 ### 6. Motor
@@ -356,9 +356,9 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 Um den Hinterradbremse- Kabelzug abzustützen, muss nun der Bremszugadapter verbaut werden. Nimm dir dafür die unter Lieferumfang  >  KR51/1, KR51  >  Bremszugadapter aufgeführten Bauteile und montiere den Bremszugadapter auf der rechten Seite des Antriebmoduls.
 
 
-!!! note "Hinweis"
-         Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
-    Somit ist eine Verstellung des Bremszuges weiterhin möglich.
+> [!note] Hinweis
+>      Bei Fahrzeugen mit innenliegendem Bremszug bzw. ohne Einstellschraube am hinteren Bremsschild, wird anstelle der Bremszughülse die mitgelieferte Einstellschraube in das Gewinde des Bremszugblechs geschraubt und der Bremszug dort eingeführt.
+> Somit ist eine Verstellung des Bremszuges weiterhin möglich.
 
 Nimm dir zuerst die Schelle und spreize diese, führe Sie vorsichtig um das Rahmenrohr und schraube das Bremszugblech mit der M8 Schraube, Schnorrscheibe und M8 Mutter lose an. Als nächstes führe die schwarze Bremszughülse über den Bremszug, führe dann das Bremskabel in die geschlitzte Bohrung des Bremszugsblechs wie unten abgebildet. Verriegele nun den Bremszug mit dem Federsplint. Hänge nun den Bremszug im Fußbremshebel ein und richte den Bremszugadapter so aus, dass er 1 cm links neben der Rahmenquerstrebe mit dem Stehbolzen zur Tunnelabdeckungssicherung sitzt. Ziehe nun die M8 Schraube und Mutter ordentlich an.
 Hänge nun den Bremszug wieder in den Fußbremshebel ein und spanne die Hinterradbremse über den Bremszugspanner am Hinterrad. 
@@ -391,11 +391,11 @@ Unter [folgendem Link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnF
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
 
-!!! note "Hinweis"
-        Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
+> [!note] Hinweis
+>     Bei frühen KR51 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
 
-!!! tip "Interessant zu wissen"
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
+> [!tip] Interessant zu wissen
+> Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
@@ -413,8 +413,8 @@ Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit 
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter.
 
 
-!!! warning "Achtung"
-    Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.  
+> [!warning] Achtung
+> Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.  
  
 
 
@@ -470,8 +470,8 @@ Schraube nun den Gepäckträger an den überstehenden Langlöchern des Aufnahmeb
 
 Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen am Aufnahmeblech in die großen Löcher vorne in den Rahmen geführt werden. Schraube wieder alle 5 Schrauben, welche die Haube am Fahrzeug befestigen, erst locker rein und zieh dann im Anschluss alle fest. Nun kannst du jeweils eine der mitgelieferten großen Unterlegscheiben und selbstsichernden Muttern auf die Gewindestangen aufschrauben.
 
-!!! warning "Achtung"
-    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
+> [!warning] Achtung
+> Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
 
 
 #### KR51/2, KR51/1
@@ -486,8 +486,8 @@ Beim Montieren der Haube musst du nun nur darauf achten, dass die Gewindestangen
 
 
 
-!!! warning "Achtung"
-    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
+> [!warning] Achtung
+> Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Aufbockgriff montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.  
 
 
 
@@ -509,8 +509,8 @@ Nun ist es an der Zeit den Gaszug einzustellen. Oben am Gaszug ist eine Stellsch
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximalleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung der Gaszugs immer an derselben Stelle ist.
 
 
-!!! warning "Achtung"
-    Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
+> [!warning] Achtung
+> Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem Youtubekanal 2Radgeber [dem Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)

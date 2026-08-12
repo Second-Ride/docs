@@ -4,9 +4,9 @@
   <img src="https://github.com/user-attachments/assets/8fabef5a-67ad-4798-9a29-ee628a3ae56c" width="500" loading="lazy" />
 </p>
 
-!!! info "Info"
-
-    Der hier beschriebene externe Ladeanschluss ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
+> [!info] Info
+>
+> Der hier beschriebene externe Ladeanschluss ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
 
 <h2>Voraussetzungen</h2>
 <table>
@@ -79,8 +79,8 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 
 ### 1. Vorbereitungen
 
-!!! warning "Achtung"
-    Bevor du loslegst, stelle unbedingt sicher, dass kein Akku am Antriebsmodul bzw. Fahrzeug angeschlossen ist, ansonsten besteht das Risiko eines gesundheitsgefährdenden Stromschlags.. Bitte beachte die Warnhinweise auf Seite 13.
+> [!warning] Achtung
+> Bevor du loslegst, stelle unbedingt sicher, dass kein Akku am Antriebsmodul bzw. Fahrzeug angeschlossen ist, ansonsten besteht das Risiko eines gesundheitsgefährdenden Stromschlags.. Bitte beachte die Warnhinweise auf Seite 13.
 
 Beginne mit dem Abklemmen des Akkupacks. Bocke das Fahrzeug auf und achte darauf, dass das Vorderrad beweglich bleibt, ansonsten kommst du nicht an die Controllerschrauben heran. Entferne alle Fahrzeugteile, die beim Umbau im Weg sind. Bei der Schwalbe sind dies die Querschiene für das Knieblech und der Motortunnel, beim SR50 und SR80 die vordere Motoraufnahme. Dadurch lässt sich das Antriebsmodul herunterklappen, wodurch der Einbau erst möglich wird. Bei SR4-2 und SR4-4 müssen die Seitenbleche demontiert werden. Entferne bei Fahrzeugen mit einer oberen Motoraufnahme (KR51, KR51/1, SR4-2, SR4-4) die beiden Muttern, die die M5x Motoranbindung mit dem Antriebsmodul verbinden.
 
@@ -160,8 +160,8 @@ Montiere den Controller wieder mit den vier neuen M6x90 Schrauben. Bei Modellen 
 Lege das vom Antriebsmodul kommende Kabelende (16) mit dem orangenen O-Ring am Stecker in eine Schlaufe, sodass das Ende nach links zeigt. 
 
 
-!!! warning "Achtung" 
-    Achte beim Zusammenstecken darauf, dass du die beiden Stecker sehr vorsichtig und ohne Gewalt ineinander steckst. Sie müssen so rotiert sein, dass die beiden Pfeile aufeinander zeigen. Achte auch darauf, dass beide Stecker ganz gerade und nicht schief ineinander gesteckt werden. Die einzelnen Kontakte könnten       sonst beschädigt werden. 
+> [!warning] Achtung
+> Achte beim Zusammenstecken darauf, dass du die beiden Stecker sehr vorsichtig und ohne Gewalt ineinander steckst. Sie müssen so rotiert sein, dass die beiden Pfeile aufeinander zeigen. Achte auch darauf, dass beide Stecker ganz gerade und nicht schief ineinander gesteckt werden. Die einzelnen Kontakte könnten       sonst beschädigt werden. 
 
 Verbinde den Stecker mit dem Gegenstück des externen Ladeanschlusses (18) und drücke die verbundenen Kabel wie gezeigt an den anderen Kabeln vorbei nach unten. Verbinde die beiden übrigen Stecker(17,19) und schiebe dabei die Kabelblende wieder nach unten.
 
@@ -180,9 +180,9 @@ Befestige die Kabelblende, je nach Variante, mit der einen oder den zwei Inbussc
 
 ## Firmware Update
 
-!!! warning "Achtung"
-    Um den Ladeanschluss nutzen zu können, muss Günter (Fahrzeugsteuereinheit) **mindestens** die Firmware VCU_Firmware_V0.4.0.dfu aufgespielt bekommen. 
-    Höhere Versionen werden ebenfalls kompatibel sein.
+> [!warning] Achtung
+> Um den Ladeanschluss nutzen zu können, muss Günter (Fahrzeugsteuereinheit) **mindestens** die Firmware VCU_Firmware_V0.4.0.dfu aufgespielt bekommen. 
+> Höhere Versionen werden ebenfalls kompatibel sein.
 
 Bitte schaue dazu in die Updateanleitung, die entweder bei deinem Kit beilag oder unter [diesem Link](https://www.second-ride.de/docs) unter dem Ordner “Firmware Update” zu finden ist
 
@@ -190,9 +190,9 @@ Bitte schaue dazu in die Updateanleitung, die entweder bei deinem Kit beilag ode
 
 ### 1. Ladevorgang starten
 
-!!! warning "Achtung"
-    Um den Ladevorgang starten zu können, muss die Kappe für den Ladegerätstecker montiert sein, da sonst das Ladegerät nicht erkannt und der Ladeport nicht freigegeben wird. 
-    Außerdem muss das System eingeschaltet sein, damit der Ladeport freigegeben wird und geladen werden kann. 
+> [!warning] Achtung
+> Um den Ladevorgang starten zu können, muss die Kappe für den Ladegerätstecker montiert sein, da sonst das Ladegerät nicht erkannt und der Ladeport nicht freigegeben wird. 
+> Außerdem muss das System eingeschaltet sein, damit der Ladeport freigegeben wird und geladen werden kann. 
 
 Stecke nun das Ladekabel in den Ladeport bis er merklich einrastet. Nun sollte die LED im Taster des Fahrzeugs von dunkel zu mittel-hell zu hell wechseln. Das bedeutet, das Ladegerät lädt nun erfolgreich dein Kit.
 

@@ -1,7 +1,7 @@
 # Anleitung zum Firmwareupdate
-!!! info "Info"
-
-    Der folgende Prozess gilt nur für die Second Ride Umbaukits SR23 und SR24. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
+> [!info] Info
+>
+> Der folgende Prozess gilt nur für die Second Ride Umbaukits SR23 und SR24. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
 
 Seit April 2025 werden alle Komponenten des Umbausatzes mit dem neuen Webupdate-Tool programmiert. Das bisherige Programm „DFU Buddy“ wird nicht mehr verwendet. Mit dem Webupdate-Tool kannst du dein Moped bequem und sicher über den Chrome-Browser aktualisieren: [Link zum Webupdatetool](https://second-ride.de/update)		
 
@@ -23,14 +23,14 @@ Ob ein neues Update verfügbar ist und was sich geändert hat, findest du in der
 
 ## Update vom Antriebsmodul („Günter“) 
 
-!!! warning "Achtung"
-    Verbinde niemals gleichzeitig die Sitzbank und das Antriebsmodul mit deinem Computer über Kabel. Ziehe immer zuerst den Akku-Stecker ab, bevor du deinen Laptop mit der Sitzbank/BT-Modul oder dem Antriebsmodul verbindest.
+> [!warning] Achtung
+> Verbinde niemals gleichzeitig die Sitzbank und das Antriebsmodul mit deinem Computer über Kabel. Ziehe immer zuerst den Akku-Stecker ab, bevor du deinen Laptop mit der Sitzbank/BT-Modul oder dem Antriebsmodul verbindest.
 
-!!! warning "Achtung"
-    Ein Firmware-Update verändert das Fahrverhalten. Es kann zu höherer Beschleunigung, höherer Endgeschwindigkeit, anderem Bremsverhalten, etc. kommen. Sei also bei den ersten Fahrten nach dem Update besonders Aufmerksam und Vorsichtig und verlass Dich nicht auf die bisherige Erfahrung mit dem Antrieb. Ließ Dir        außerdem die Änderungshistorie aufmerksam durch. 
+> [!warning] Achtung
+> Ein Firmware-Update verändert das Fahrverhalten. Es kann zu höherer Beschleunigung, höherer Endgeschwindigkeit, anderem Bremsverhalten, etc. kommen. Sei also bei den ersten Fahrten nach dem Update besonders Aufmerksam und Vorsichtig und verlass Dich nicht auf die bisherige Erfahrung mit dem Antrieb. Ließ Dir        außerdem die Änderungshistorie aufmerksam durch. 
 
-!!! warning "Achtung" 
-    Das Aufspielen der Duo-Firmware auf einem anderen Fahrzeug als der Duo führt dazu, dass die Betriebserlaubnis des Fahrzeugs erlischt. Das gleiche gilt, wenn die Nicht-Duo-Firmware auf der Duo installiert wird. 
+> [!warning] Achtung
+> Das Aufspielen der Duo-Firmware auf einem anderen Fahrzeug als der Duo führt dazu, dass die Betriebserlaubnis des Fahrzeugs erlischt. Das gleiche gilt, wenn die Nicht-Duo-Firmware auf der Duo installiert wird. 
 
 Zunächst muss das Antriebsmodul an deinen PC angeschlossen werden. Gehe dazu wie folgt vor:
 
@@ -56,10 +56,10 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
 
 ### 2. USB-Kabel anschließen
 
-!!! warning "Achtung"
-    Die Batterie darf während des Updates aus Sicherheitsgründen nicht mit dem Antriebsmodul verbunden sein. Stelle sicher, dass die Sitzbank nicht angeschlossen ist.
+> [!warning] Achtung
+> Die Batterie darf während des Updates aus Sicherheitsgründen nicht mit dem Antriebsmodul verbunden sein. Stelle sicher, dass die Sitzbank nicht angeschlossen ist.
 
-   Entferne die Gummikappe und schließe das mitgelieferte USB-Kabel an. Wichtig: Achte darauf, dass die Pfeile auf dem männlichen und weiblichen Stecker zueinander zeigen, bevor du sie mit Kraft zusammen schiebst. Schließe das USB Kabel anschließend an deinen PC an.
+Entferne die Gummikappe und schließe das mitgelieferte USB-Kabel an. Wichtig: Achte darauf, dass die Pfeile auf dem männlichen und weiblichen Stecker zueinander zeigen, bevor du sie mit Kraft zusammen schiebst. Schließe das USB Kabel anschließend an deinen PC an.
 
 ### 3. [Webupdatetool öffnen](http://Second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
 
@@ -83,8 +83,8 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
 - **Standardversion**: für alle Simson Mopeds
 - **Spezialversion für Duo**: nur für die Simson Duo
 
-!!! warning "Achtung"
-    Das Update startet sofort nach Auswahl der Firmware-Variante. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Verbindungsabbruch kann die Elektronik beschädigen.
+> [!warning] Achtung
+> Das Update startet sofort nach Auswahl der Firmware-Variante. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Verbindungsabbruch kann die Elektronik beschädigen.
 
 <p align="center">
   <img src="img/guenter_versionswahl.png" width="450" loading="lazy" />
@@ -103,8 +103,8 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
 Damit die App korrekt funktioniert, muss die Firmware-Version der Sitzbank bzw. des BT-Moduls in der ersten Ziffer mit der App-Version übereinstimmen. Z.b.: Gisela V1.0.0 ist kompatibel mit App V1.1.3. Gisela V1.0.0 ist nicht mit App V2.0.0 kompatibel.  
  Die App-Version findest du in der App unten, wenn du auf das Info-Symbol oben links tippst.
 
-!!! warning "Achtung" 
-    Verbinde niemals gleichzeitig die Sitzbank und das Antriebsmodul mit deinem Computer über Kabel. Ziehe immer zuerst den Akku-Stecker ab, bevor du dein Laptop mit der Sitzbank oder dem Antriebsmodul verbindest. 
+> [!warning] Achtung
+> Verbinde niemals gleichzeitig die Sitzbank und das Antriebsmodul mit deinem Computer über Kabel. Ziehe immer zuerst den Akku-Stecker ab, bevor du dein Laptop mit der Sitzbank oder dem Antriebsmodul verbindest. 
     
 
 ### 1. Sitzbank / BT-Modul anschließen
@@ -133,8 +133,8 @@ Verbinde die Sitzbank bzw. das BT-Modul mit einem USB-C-Kabel über den USB-C Po
 ### 5. Update installieren:  
    Das Tool erkennt das Gerät und zeigt dir die neueste verfügbare Firmware-Version an. Klicke auf „Jetzt installieren“.
 
-!!! warning "Achtung"
-    Nach dem Klick auf „Jetzt installieren“ öffnet sich noch einmal ein Auswahlfenster deines Browsers. Wähle dort das einzige angezeigte Gerät aus, um das Update zu starten – es kann sein, dass es dort anders benannt ist als im vorherigen Auswahlfenster. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
+> [!warning] Achtung
+> Nach dem Klick auf „Jetzt installieren“ öffnet sich noch einmal ein Auswahlfenster deines Browsers. Wähle dort das einzige angezeigte Gerät aus, um das Update zu starten – es kann sein, dass es dort anders benannt ist als im vorherigen Auswahlfenster. Stelle vorher sicher, dass die Kabelverbindung stabil ist – ein Abbruch kann Schäden verursachen.
 
 <p align="center">
   <img src="img/gisela_installscreen.png" width="450" loading="lazy" />
@@ -184,8 +184,8 @@ sudo usermod -a -G dialout $USER
 
 Danach **einmal ab- und wieder anmelden**, damit die Änderung wirksam wird.
 
-!!! info "Hinweis"
-    Diese Anleitung gilt für systemd-basierte Distributionen (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Wie die Gruppenberechtigungen auf deiner Distribution konfiguriert sind, erfährst du in der jeweiligen Dokumentation – eine gute Übersicht bietet die [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices).
+> [!info] Hinweis
+> Diese Anleitung gilt für systemd-basierte Distributionen (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). Wie die Gruppenberechtigungen auf deiner Distribution konfiguriert sind, erfährst du in der jeweiligen Dokumentation – eine gute Übersicht bietet die [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices).
 
 ---
 

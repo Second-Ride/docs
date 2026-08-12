@@ -224,7 +224,9 @@ Next, it's the hood (1). To do this, first remove the seat including the hinge (
 
 Now only the exhaust should be attached to the engine. This is secured to the engine with a large nut, which can be removed with a pipe wrench or a hook wrench.
 
-!!! note "Tip"
+> [!note] Tip
+>
+
 If the manifold nut won't come loose, you can use an old flathead screwdriver and a hammer (preferably rubber or wooden) to tap it into the notches in the manifold nut to loosen it.
 
 The other attachment for the exhaust is at the rear in the form of a pipe clamp. This can be opened by removing the screw.
@@ -233,7 +235,9 @@ The other attachment for the exhaust is at the rear in the form of a pipe clamp.
 
 Before the engine can be removed, the chain must be removed from the drive sprocket. First, remove the alternator cover from the engine. Then loosen both the rear axle nut on the right and the axle on the left. A few turns are sufficient here, as the rear wheel only needs to be moved. You can now screw the small chain tensioner nuts all the way back to the end of the thread. You should now be able to slide the rear wheel forward. Now it's time to lift the greasy chain off the drive sprocket. We've included disposable gloves for this in the package.
 
-!!! note "Tip"
+> [!note] Tip
+>
+
 With the moped jacked up on the center stand, you can now raise the rear wheel by lifting it on the jack handle and then kick it with your foot so that it moves forward 1-2 cm.
 
 ### 6. Engine
@@ -329,7 +333,9 @@ Now check the chain tension again and adjust if necessary. Once both chain tensi
 
 To support the rear brake cable, the brake cable adapter must now be installed. To do this, take the components listed under Scope of delivery > KR51/1, KR51 > Brake cable adapter and mount the brake cable adapter on the right side of the drive module.
 
-!!! note "Note"
+> [!note] Note
+>
+
 For vehicles with an internal brake cable or without an adjustment screw on the rear brake shield, the supplied adjustment screw is screwed into the thread of the brake cable plate instead of the brake cable sleeve, and the brake cable is inserted there.
 This still allows adjustment of the brake cable.
 
@@ -359,10 +365,14 @@ You can find the wiring diagram for your moped at the following link. It shows w
 
 If your vehicle is still equipped with 6V electrical systems, you will need to replace all bulbs, the flasher unit, and possibly the horn with 12V components. Then it's time to replace the headlight bulb and instrument panel bulb in the ignition switch.
 
-!!! note "Note"
+> [!note] Note
+>
+
 Early KR51 models may have a BA20D bulb socket instead of the typical BA15D. To fit 12V bulbs, you'll need to convert to a BA15D socket.
 
-!!! tip "Interesting to know"
+> [!tip] Interesting to know
+>
+
 The 12V bulbs are significantly brighter than the 6V versions, and the horn is also louder at 12V. After the conversion, you'll be safer on the road.
 
 Now you can reattach the ignition switch and the lamp mask and set the original ignition switch to the position with the headlight or "II" symbol (the third clockwise).
@@ -379,7 +389,9 @@ We included this function because there is no longer a clutch and therefore no w
 
 Now screw the speedometer cable onto the newly installed chain guard. The plastic thread for this is in the same place as on the previously removed combustion engine. This way, your original speedometer will simply continue to work.
 
-!!! Warning "Warning"
+> [!warning] Warning
+>
+
 Due to the use of the DUO speedometer gear, the displayed speed is approximately 9% higher than the actual speed. If you're driving at 60 km/h, the speedometer will show just under 66 km/h.
 
 
@@ -434,7 +446,9 @@ Now screw the luggage rack into the protruding slots on the mounting plate. Atta
 
 When installing the hood, you just need to make sure that the threaded rods on the mounting plate are inserted into the large holes at the front of the frame. First, loosely screw in all five screws that secure the hood to the vehicle and then tighten them all. Now you can screw one of the included large washers and self-locking nuts onto each threaded rod.
 
-!!! warning "Caution"
+> [!warning] Caution
+>
+
 The seat does not have a passenger strap. Therefore, it is necessary that you have installed the jacking handle on the luggage rack so that your vehicle can continue to be used for passenger use.
 
 #### KR51/2, KR51/1
@@ -447,7 +461,9 @@ Now you can screw the mounting plate onto the rear of the removed hood on the lu
 
 When installing the hood, you only need to ensure that the threaded rods on the mounting plate are inserted into the large holes at the front of the frame. First, loosely screw in all five screws that secure the hood to the vehicle and then tighten them all. Now you can screw one of the included large washers and self-locking nuts onto each threaded rod.
 
-!!! warning "Warning"
+> [!warning] Warning
+>
+
 The seat does not have a passenger strap. Therefore, you must have the jacking handle installed on the luggage rack so that your vehicle can continue to be used for passenger transport.
 
 
@@ -466,7 +482,9 @@ To ensure that the turning of the throttle grip is correctly converted into an e
 Now it's time to adjust the throttle cable. There's an adjusting screw at the top of the throttle cable for this purpose. When the throttle is turned all the way forward, meaning no throttle is being applied, there should be just no play in the throttle cable housing. You can reduce the play by unscrewing the screw. Later, when the battery is connected, you can check your adjustment:<br>
 If you turn the ignition switch and nothing happens when you accelerate, then the screw is turned out too far. If you can accelerate and there's no play in the housing, then the adjustment is just right. You don't need to worry about the upper stop being incorrect and thus reducing your maximum power, because the stop when you apply full throttle is always the cap, which is always in the same position no matter how you adjust the throttle cable.
 
-!!! warning "Caution"
+> [!warning] Caution
+>
+
 Please be sure to reinstall the rubber cover (20) on the carburetor cover. Otherwise, the sensor may be damaged in rain.
 
 Make sure that your throttle cable and throttle grip have the least possible friction. The throttle grip should snap back completely from the fully open position under spring force alone. If this isn't the case, removing, cleaning, and re-greasing the throttle grip and/or replacing the Bowden cable may help. It's also possible that the rubber of the throttle grip is rubbing against the clamp. Moving the rubber outward on the removed throttle grip tube can help. You can find a video tutorial on throttle grip maintenance on the YouTube channel 2Radgeber [the YouTube channel 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=simson+tips+und+tricks+der+gaszug&&mid=17BCE15188F9E0DF4FF717BCE15188F9E0DF4FF7&FORM=VAMGZC)

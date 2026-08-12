@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/cf57031d-42b5-4207-8658-4848b82d0f03" width="700" loading="lazy" />
 </p>
 
-!!! info "Info"
-
-    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+> [!info] Info
+>
+> Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
 
 ## Bitte bewahre deine Verpackung auf!
 Um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird!
@@ -160,8 +160,8 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
-!!! note "Tipp"
-        Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.    
+> [!note] Tipp
+>     Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.    
   
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. 
@@ -274,12 +274,12 @@ Wenn du mit der Kettenspannung zufrieden bist, kannst du dich nun dem anderen Ke
 Nun muss die Spur eingestellt werden, damit deine Duo auch ordentlich fährt.
 
 
-#### Messen der Spur
+#### 2.1 Messen der Spur
 
 Die Spur wird am Felgenhorn innen in gleicher Höhe über dem Fußboden gemessen.Man misst zuerst mit einem Spurmaß (in sich verschiebbarer Stab oder behelfsmäßig mit zwei aneinander gehaltenen Stäben) in Fahrtrichtung vor der Radachse von rechter zu linker Felge; danach hinter der Radachse in gleicher Höhe über dem Fußboden. Hier muss ein 0 - 1mm Spiel auftreten.
 
 
-#### Einstellen der Spur
+#### 2.2 Einstellen der Spur
 
 Die Spur wird nur am rechten Hinterrad hinter der Steckachse eingestellt. Unter der Voraussetzung, dass das linke Hinterrad in Kettenflucht läuft, die Kette vorschriftsmäßig gespannt ist und alle Schrauben angezogen sind, wird an der rechten Steckdose in gelockerten Zustand durch leichte Hammerschläge die Spur eingestellt. Hammerschläge gegen den Steckachsenkopf in Fahrtrichtung bewirken Vorspurvergrößerung und umgekehrt. Dabei muss die Klemmschraube am Stabilisierungsstab gelockert werden
 
@@ -305,8 +305,8 @@ Unter [folgendem Link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnF
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
 
-!!! tip "Interessant zu wissen"
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+> [!tip] Interessant zu wissen
+> Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
@@ -340,8 +340,8 @@ Unter [folgendem Link](https://drive.google.com/drive/folders/1KnJVBPeOQDE3Jo1bd
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evtl. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen. 
 
 
-!!! tip "Interessant zu wissen"
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+> [!tip] Interessant zu wissen
+> Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigersinn) stellen. 
 
@@ -360,8 +360,8 @@ Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit 
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert dein Originaltacho nun einfach weiter.
 
 
-!!! warning "Achtung"
-    Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.
+> [!warning] Achtung
+> Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho.
 
 
 
@@ -435,8 +435,8 @@ Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann ist die S
 
 
 
-!!! warning "Achtung"
-    Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen. 
+> [!warning] Achtung
+> Montiere bitte unbedingt wieder die Gummiabdeckung (20) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen. 
 
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?&q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&mmscn=mtsc&aps=40&FORM=VRDGAR)

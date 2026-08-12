@@ -1,11 +1,11 @@
 # BT-Modul
-!!! info "Info"
+> [!info] Info
+>
+> Das Bluetooth-Modul ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt. Das MID50 Umbaukit hat die gesamte Funktionalität des BT-Moduls im Akku integriert.
 
-    Das Bluetooth-Modul ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt. Das MID50 Umbaukit hat die gesamte Funktionalität des BT-Moduls im Akku integriert.
-
-!!! warning "Firmware Update erforderlich"
-
-    Um die neue Funktionalität des BT-Moduls nutzen zu können, muss zunächst ein Firmware Update des Antriebsmoduls bzw. des darin enthaltenen Steuergeräts (Günther) durchgeführt werden. Eine Anleitung dazu findest du im Kapitel [Firmware Update](../03-firmware-update/index.md).
+> [!warning] Firmware Update erforderlich
+>
+> Um die neue Funktionalität des BT-Moduls nutzen zu können, muss zunächst ein Firmware Update des Antriebsmoduls bzw. des darin enthaltenen Steuergeräts (Günther) durchgeführt werden. Eine Anleitung dazu findest du im Kapitel [Firmware Update](../03-firmware-update/index.md).
 
 Das BT-Modul ist nur dann notwendig, wenn du eine Sitzbank ohne USB-C Anschluss neben dem Sitzbank Anschluss besitzt.   
 

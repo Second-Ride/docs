@@ -118,7 +118,9 @@ Start by disconnecting all electrical and mechanical connections to the engine. 
 Now only the exhaust should be attached to the engine. This is attached to the engine with a large nut (4), which can be removed with a pipe wrench or a hook wrench. 
 
 
-!!! note "Tip"
+> [!note] Tip
+>
+
  If the manifold nut won't come off, you can use an old slotted screwdriver and a hammer (preferably made of rubber or wood) to knock it into the notches in the manifold nut and loosen it.
 
 
@@ -131,7 +133,9 @@ The other attachment of the exhaust is at the rear in the form of a pipe clamp. 
 
 Before the engine can be removed, the chain must be removed from the drive sprocket.  First remove the alternator cover from the engine. Then loosen both the nut on the rear axle on the right and the quick-release axle on the left. A few turns are sufficient here, as the rear wheel only needs to be moved. You can now screw the small nuts of the chain tensioner all the way back to the end of the thread. It should now be possible to move the rear wheel forwards.
 
-!!! note "Tip"
+> [!note] Tip
+>
+
  If the moped is jacked up on the main stand, you can now make the rear wheel float by lifting it by the frame upper belt and kicking the rear wheel with your foot so that it comes 1-2 cm forward.
 
 
@@ -144,7 +148,9 @@ Now it's time to lift the greasy chain off the drive sprocket. We have included 
 The motor is now ready to be removed. It is screwed into the motor bearing plates (10) with two long M8 screws. It can be fiddly to lift the motor out. Assistance from a second person can be very helpful at this stage. Loosen the nuts and try to pull the screws out of the holes. It helps to lift the motor slightly. When both bolts are out, the engine should usually still be hanging in the bearing by itself. By lifting the motor now, you can remove it from the bearing. Congratulations! Your Simson is no longer an internal combustion vehicle.
 
 
-!!! tip "Interesting to know"
+> [!tip] Interesting to know
+>
+
  Karl Clauss Dietel, chief developer of the S50, told us in an e-mail that he had deliberately designed the moped to be so open. This would make it easier to change the drive if better drives became available thanks to new technologies. Thank you for your foresight! Prof. Dietel died on 02.01.2022. He had a decisive influence on product design in the East - whether it was cars, mopeds or radios. For this he was awarded the highest German design prize.     
  
 
@@ -180,7 +186,9 @@ The drive module is mounted on the vehicle in the same way as the original engin
 
 
 
-!!! note "Tip"
+> [!note] Tip
+>
+
  If there was a snag when lifting the motor out of the bracket, then it is likely that inserting the drive module will also be difficult again. you have the following options to simplify assembly:<br>
  ➜ Check whether the inner distance at the height of the lower hole is greater than or equal to 71 mm. If this is not the case, you will make installation easier if you widen the plates beforehand. To do this, first loosen the carriage bolt at the bottom of the retaining plates (11). Insert a threaded rod (M8 or smaller) 
  through one of the lower holes, attach a washer, two nuts and another washer, and then insert the threaded rod through the other lower hole. Now you can use the two nuts to widen the plates until they are 71-73 mm apart when relaxed.
@@ -213,7 +221,9 @@ Now check the chain tension again and correct it if necessary. If both chain ten
 Now screw the speedometer cable to the chain guard you have just fitted. The plastic thread for this is in the same place as on the previously dismantled combustion engine. Your original speedometer (16) will now simply continue to work.
 
 
-!!! warning "Warning"
+> [!warning] Warning
+>
+
  Due to the use of the DUO speedometer gearbox, the displayed speed is approx. 9% higher than the actual speed. If you are driving at 60 km/h, the speedometer will show almost 66 km/h.
 
 
@@ -242,7 +252,9 @@ Now it is time to adjust the throttle cable. There is an adjusting screw for thi
 If you press the ignition switch and nothing happens when you accelerate, then the screw was turned out too far. If it is possible to accelerate and there is no play on the cover, then the setting is exactly right. You don't need to worry that the upper stop could be wrong and you will have reduced maximum power, as the stop at full throttle is always the cover, which is always in the same place every time the throttle cable is adjusted.
 
 
-!!! warning "Warning"
+> [!warning] Warning
+>
+
  Please be sure to refit the rubber cover (17) on the carburetor cover. Otherwise the sensor may be damaged in the rain.
 
 Make sure that your throttle cable and throttle twist grip have the lowest possible frictional resistance. The throttle grip should snap back completely from the maximum open position using the spring force alone. If this is not the case, it helps to remove the throttle twist grip, clean and re-grease it and/or replace the Bowden cable. It is also possible that the rubber of the throttle twist grip is rubbing against the clamping piece. It helps to push the rubber on the dismantled throttle grip tube outwards. You can find video instructions for throttle twist grip maintenance on the [Youtube channel 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=gasdrehgriff+maintain+and+install&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&FORM=VAMGZC)
@@ -261,7 +273,9 @@ Under [this link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRG
 
 If your vehicle is still equipped with 6V electrics, you will need to replace all bulbs and the flasher unit with 12V components.
 
-!!! tip "Interesting to know"
+> [!tip] Interesting to know
+>
+
  The 12V bulbs are significantly brighter than the 6V versions and the horn is also louder with 12V. After the conversion you will be safer on the road. 
 
 Now you can set the original ignition switch to the position with the headlight or “II” symbol (the third in the clockwise direction).<br>
@@ -284,7 +298,9 @@ Now place the seat bench on it once as a test so that the front mount and the ta
 The front mount and the tank are now correctly aligned. Unlock the seat again, remove it again in the opposite order to that in which it was fitted and tighten the screws of the front mount (25) (27).
 
 
-!!! warning "Warning"
+> [!warning] Warning
+>
+
  The seat does not have a retaining strap for a passenger. It is therefore necessary that you have fitted the support bracket (8) to the luggage rack so that your vehicle can continue to be used for pillion riding.
 
 
