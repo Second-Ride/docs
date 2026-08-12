@@ -26,7 +26,7 @@ SCRATCH = Path(__file__).parent
 # MkDocs-Quellseite dafuer existiert (AIY z.B. hat noch keine).
 VEHICLES = {
     "s50-s51-s70": {
-        "chapter": ("conversion-manual/MID50/02-s50-s51", -1, None),
+        "chapter": ("conversion-manual/MID50/02-s50-s51-s70", -1, None),
         "cover": "cover-s50-s51-s70.pdf",
         "label": "S50/S51/S70",
     },
