@@ -4,6 +4,10 @@ Solltest du Probleme bei der Inbetriebnahme deines Umbausatzes haben, findest du
 
 [second-ride.de/fehlerbehebung](https://www.second-ride.de/fehlerbehebung)
 
+<p align="center">
+  <img src="images/qr-fehlerbehebung.png" width="250" loading="lazy" />
+</p>
+
 ## Status LEDs Antriebsmodul
 
 An der linken Seite des Antriebsmoduls befinden sich drei LEDs. Von links nach rechts haben sie folgende Bedeutung:

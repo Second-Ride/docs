@@ -176,17 +176,54 @@ Bitte keinen Hochdruckreiniger und keine chemischen Reinigungsmittel zum Reinige
 
 ## Riemen Wartung und Tausch
 
+<!-- Link vorübergehend ausgeblendet
 <div><a href="https://second-ride.de/riemenanleitung-als-video?utm_source=anleitung">Unter diesem Link findest du das folgende Kapitel als Videoanleitung.</a></div>
+-->
 
-!!! warning "Warnung Zuerst Akkus entfernen"
-    Für folgende Schritte müssen alle Akkus aus dem System entfernt sein und der Schlüssel gezogen sein, um ein Drehen des Antriebs während der Wartung des Systems zu verhindern.
+> [!warning] Warnung Zuerst Akkus entfernen
+> Für folgende Schritte müssen alle Akkus aus dem System entfernt sein und der Schlüssel gezogen sein, um ein Drehen des Antriebs während der Wartung des Systems zu verhindern.
 
 Der Riemen des MID50 Antriebmoduls ist ein Verschleißteil, welches in einem Wartungsintervall präventiv getauscht werden muss, damit ein Versagen auf der Straße nicht zum Liegenbleiben führt.
 
-!!! warning "Riementauschintervall"
-    Nach 5000 km sollte der Riemen getauscht werden, um ein Versagen auf der Straße zu vermeiden.
+> [!warning] Riementauschintervall
+> Nach 5000 km sollte der Riemen getauscht werden, um ein Versagen auf der Straße zu vermeiden.
 
-### Riemenwechsel
+Es gibt zwei Versionen des Riemenspanners, die sich im Riemenwartungsprozess unterscheiden. Du erkennst sie an dem Ausschnitt(1) an der gezeigten Stelle:
+
+> [!info] Hinweis
+> Wenn dein Riemenspanner an dieser Stelle keinen Ausschnitt(1) aufweist, dann folge bitte den Riemenwechselanweisungen im Abschnitt [Riemenwechsel Alt](#riemenwechsel-alt).
+>
+> <p align="center">
+>   <img src="images/riemenspanner-unterscheidung.png" width="300" loading="lazy" />
+> </p>
+
+### Riemenwechsel Neu
+
+Um den Riemen (1) zu wechseln, musst du zuerst den Seitendeckel des Antriebsmoduls abschrauben. Darunter sitzt der Riementrieb. Sobald dieser frei ist, ist der Riemenspanner (2) zu entfernen. Das machst du, indem du die M5 Mutter (3) am Riemenspanner und dann die zentrale Schraube (5) des Riemenspanners löst.
+
+<p align="center">
+  <img src="images/image36.png" width="500" loading="lazy" />
+</p>
+
+
+
+Jetzt solltest du den Riemenspanner abnehmen können. Um den Riemen nun entfernen zu können, beginne ihn an der gezeigten Stelle (6) herauszunehmen.
+
+<p align="center">
+  <img src="images/image44.png" width="500" loading="lazy" />
+</p>
+
+Setze nun den neuen Riemen so ein, wie er auch im Antriebsmodul verläuft. Achte dabei darauf, dass du ihn nicht zu sehr biegst oder gar knickst, sonst können die Carbonzugstränge im Riemen brechen, was zum frühzeitigen Versagen des Riemens führen würde. Sobald der Riemen richtig in den Riemenscheiben sitzt, kannst du den Riemenspanner wieder an seine ursprüngliche Position setzen und die zentrale Schraube (5) des Riemenspanners sowie die M5 Mutter (3) einschrauben. Drehe diese fest und drehe sie dann eine halbe bis Ganze Umdrehung zurück, so dass der Riemenspanner gerade so widerstandsfrei schwenkbar ist.
+
+Nimm nun den Riemenspannschlüssel (8) wie unten dargestellt und spanne diesen, bis der Zeiger auf der Skala auf Stufe 3 zeigt. Achte hierbei darauf, nur die vier Finger in den vorgesehenen Vertiefungen zu nutzen. **Auflegen des Daumens verfälscht die Messung.**
+
+Halte die Spannung und ziehe die M5 Mutter (3) mit 5 Nm an. Im Anschluss kannst du den Riemenspannschlüssel (8) abnehmen und nun die zentrale Schraube (5) des Riemenspanners mit 8 Nm festziehen.
+
+<p align="center">
+  <img src="images/image9.png" width="500" loading="lazy" />
+</p>
+
+### Riemenwechsel Alt
 
 Um den Riemen (1) zu wechseln, musst du zuerst den Seitendeckel des Antriebsmoduls abschrauben. Darunter sitzt der Riementrieb. Sobald dieser frei ist, ist der Riemenspanner (2) zu entfernen. Das machst du, indem du die M5 Mutter (3) und dann den Gewindestift (4) am Riemenspanner und dann die zentrale Schraube (5) des Riemenspanners löst.
 

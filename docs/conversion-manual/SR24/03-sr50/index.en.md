@@ -157,8 +157,8 @@ Remove the two screws on the back of the air filter box (10) and take it out. Un
 
 At this point, the exhaust should be the only part still attached to the engine. It is fastened to the engine with a large nut (14), which can be removed using a pipe wrench or hook wrench.
 
-!!! note "Tip"
-    If the exhaust nut is stuck, you can loosen it by placing an old flathead screwdriver into the notches and tapping it with a rubber or wooden hammer.
+> [!note] Tip
+> If the exhaust nut is stuck, you can loosen it by placing an old flathead screwdriver into the notches and tapping it with a rubber or wooden hammer.
 
 The rear part of the exhaust is secured by a pipe clamp. This can be opened by removing screw (15).
 
@@ -277,8 +277,8 @@ Now screw the motor cover hook (53) onto the tank storage compartment using the 
 
 You can now fold up the drive module and install the front support of the SR50 engine mount. The brake pedal screw may get in the way here. For folding up the drive module, you can temporarily remove it and reinstall afterward. It may also happen that when folding up, the drive module rests against the right side of the frame and would transmit vibrations while riding. For this, we have included a 50x50mm foam strip, which you can place between the drive module and the SR50 frame.
 
-!!! warning "Attention"
-    When folding up the drive module, make sure that the rear brake cable runs alongside the engine mount and does not get pinched between the drive module and the mount.
+> [!warning] Attention
+> When folding up the drive module, make sure that the rear brake cable runs alongside the engine mount and does not get pinched between the drive module and the mount.
 
 To fit our drive module into the SR50, it is attached with the 2x motor mount adapter plates (30) to the frame mount (41). For this, you will also need:  
 2x M8x70 hex screws (35), 2x M8 hex nuts (36), 2x M8x20x1.25 washers (37), 1x M8x24x2 washer (38), 2x M8x6 spacers (39), and 1x M8x12.5 spacer (40).
@@ -370,8 +370,8 @@ On these models, you must move the ground cable for the ignition coil to the ter
 If your vehicle is still equipped with 6V electrics, you must replace all bulbs, the flasher relay, and possibly the horn with 12V components.  
 Now is the time to change the headlight bulb, tachometer lighting, and the other bulbs in the tachometer.
 
-!!! tip "Good to know"
-    The 12V bulbs are significantly brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
+> [!tip] Good to know
+> The 12V bulbs are significantly brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
 
 Finally, you must plug in our brake contact cable. With this cable, the drive module detects whether you operate the rear brake (or also the front brake if it has a brake contact).  
 As long as the brake is applied, it will not be possible to accelerate.  
@@ -398,17 +398,17 @@ Unscrew and remove these, then install the supplied instrument cluster in the sa
 Finally, route the cable under or through the instrument cover into the electronics section and lead it to the drive module.  
 There you can connect it with the matching connector and secure the cable to the frame with zip ties.
 
-!!! warning "Attention"
-    It is important that the cable from the drive module is routed directly forward and not underneath, otherwise it will be too short.
+> [!warning] Attention
+> It is important that the cable from the drive module is routed directly forward and not underneath, otherwise it will be too short.
 
 Both connectors have arrows indicating the correct orientation for connection.  
 Ensure that the cable connection allows enough slack for steering movement.  
 Now screw the speedometer cable to the newly installed chain guard. The plastic thread for this is located in the same place as on the removed combustion engine.  
 This way, your original speedometer continues to function.
 
-!!! warning "Attention"
-    Due to the use of the DUO speedometer drive, the indicated speed is about 9% higher than the actual speed.  
-    At 60 km/h, the speedometer will show just under 66 km/h.
+> [!warning] Attention
+> Due to the use of the DUO speedometer drive, the indicated speed is about 9% higher than the actual speed.  
+> At 60 km/h, the speedometer will show just under 66 km/h.
 
 ### **6. Battery / Seat Bench**
 
@@ -461,8 +461,8 @@ Later, when the battery is connected, you can check your adjustment:
 - If throttle input is possible and there is no play on the sheath, then the adjustment is correct.  
 You don’t need to worry that the upper stop could be wrong and reduce maximum power, because at full throttle the stop is always the cap itself, which is the same regardless of cable adjustment.
 
-!!! warning "Attention"
-    Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor could be damaged by rain.
+> [!warning] Attention
+> Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor could be damaged by rain.
 
 Make sure that your throttle cable and grip have the least possible friction.  
 The throttle grip should return fully to the closed position by spring force alone from the fully open position.  

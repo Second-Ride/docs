@@ -4,9 +4,9 @@
   <img src="https://github.com/user-attachments/assets/ce7d9c6e-e9cb-4f70-abea-cebe28039036" loading="lazy" />
 </p>
 
-!!! info "Info"
-
-    Die hier beschriebene E-Kupplung ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
+> [!info] Info
+>
+> Die hier beschriebene E-Kupplung ist nur für die Second Ride Umbaukits SR23 und SR24 bestimmt. Die Umbaukits SR23 und SR24 werden nicht länger produziert und wurden durch das MID50 Umbaukit ersetzt.
 
 <h2>Voraussetzungen</h2>
 <table>
@@ -89,8 +89,8 @@ Alle hier enthaltenen technischen Daten und Beschreibungen waren zum Zeitpunkt d
 
 ### 1. Montage E-Kupplung
 
-!!! note "Hinweis"
-     Der Duo hat offiziell keine Kupplung, daher musst du den Kupplungshandhebel samt Armatur **separat erwerben**. Der Einbau wird erheblich vereinfacht, wenn der Kupplungshebel vorher ausgebaut wurde. 
+> [!note] Hinweis
+>  Der Duo hat offiziell keine Kupplung, daher musst du den Kupplungshandhebel samt Armatur **separat erwerben**. Der Einbau wird erheblich vereinfacht, wenn der Kupplungshebel vorher ausgebaut wurde. 
 
 Beginne damit, die beiden Quadermagneten wie im Bild gezeigt in eines der beiden Füllstücke zu stecken. Lege dafür die Magneten in ihrer Endposition auf eine ferromagnetische Unterlage (zb. ein Stück Blech) und drücke das Füllstück gerade von oben drauf. 
 
@@ -119,8 +119,8 @@ Biege eine Öse der Feder (1) leicht auf, führe sie wie gezeigt durch das klein
 Nimm den Reedsensor (7) und kontere beide Muttern (8) am Gewindeende. Stecke das Federhalteblech (2) auf das Reedsensorgewinde. Achte darauf, dass die Öse der Feder vor dem Federhalteblech entlang verläuft (9). Sollte das Gewinde (offiziell für die Einstellschraube der Bowdenzugspannung) etwa 13 mm lang sein (10), stecke die 5 mm Hülse (11) auf. Lasse diese Hülse bei der anderen Armaturvariante (12) weg. Schraube dann den Reedsensor in das Gewinde ein. 
 
 
-!!! note "Hinweis"
-      Aufgrund des Einschnitts für den Bowdenzug lässt sich der Sensor sehr leicht schräg einschrauben – das ist unbedingt zu vermeiden. Es kann sein, dass sich am Gewindeende Lack oder Pulverbeschichtung befindet. Schneide das Gewinde bei Bedarf frei. Greife zum Einschrauben nur an den gekonterten Muttern oder am        Sensor, nicht am Kabel an, da sonst das Kabel ausreißen könnte.
+> [!note] Hinweis
+>   Aufgrund des Einschnitts für den Bowdenzug lässt sich der Sensor sehr leicht schräg einschrauben – das ist unbedingt zu vermeiden. Es kann sein, dass sich am Gewindeende Lack oder Pulverbeschichtung befindet. Schneide das Gewinde bei Bedarf frei. Greife zum Einschrauben nur an den gekonterten Muttern oder am        Sensor, nicht am Kabel an, da sonst das Kabel ausreißen könnte.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a36eae26-291f-403a-a45b-6141dc7acdca" loading="lazy" />
@@ -160,9 +160,9 @@ Oft sind alle Dauer-12V-Kontakte belegt. Ziehe in diesem Fall zum Beispiel den S
 Verbinde den Hohlstecker mit dem Reedsensor. Lege das schwarze Kabel entlang der Lenksäule und des Kabelstrangs unter den Motor. Löse den weißen, einpoligen Stecker am Bremssignalkabel unter dem Antriebsmodul. Verbinde den einpoligen weißen  Stecker des schwarzen Kabels mit dem einpoligem, weißen Bremssignalkabel Stecker. Für die Einstellung des „Schleifpunktes“ siehe Kapitel “Schleifpunkt einstellen”.
 
 
-!!! note "Hinweis"
-      Achte bei der Befestigung des Kabels mit Kabelbindern am Rahmen und Lenker darauf, dass das Kabel ausreichend Spielraum für Lenkbewegungen hat. 
-      Es empfiehlt sich, das Bremssignalkabel am Bremskontakt angeschlossen zu lassen und das Ende an einer passenden Stelle im Fahrzeug zu verstauen. Solltest du aus einem Grund das Kabel, den Reedsensor oder die Magneten der E-Kupplung beschädigen/verlieren, wird das Antriebsmodul denken, dass du die                    Motorabschaltung aktiviert hast und eine Weiterfahrt dementsprechend verhindern. In dem Fall könntest du das Bremssignalkabel dann unten am einpoligen weißen Stecker unter dem Antriebsmodul anschließen und weiterfahren.
+> [!note] Hinweis
+>   Achte bei der Befestigung des Kabels mit Kabelbindern am Rahmen und Lenker darauf, dass das Kabel ausreichend Spielraum für Lenkbewegungen hat. 
+>   Es empfiehlt sich, das Bremssignalkabel am Bremskontakt angeschlossen zu lassen und das Ende an einer passenden Stelle im Fahrzeug zu verstauen. Solltest du aus einem Grund das Kabel, den Reedsensor oder die Magneten der E-Kupplung beschädigen/verlieren, wird das Antriebsmodul denken, dass du die                    Motorabschaltung aktiviert hast und eine Weiterfahrt dementsprechend verhindern. In dem Fall könntest du das Bremssignalkabel dann unten am einpoligen weißen Stecker unter dem Antriebsmodul anschließen und weiterfahren.
 
 
 
@@ -183,8 +183,8 @@ Schraube den Sensor so weit es geht in das Gewinde und stecke die Kabel wieder a
 Verbinde das Multimeter mit der Flachsteckhülse und dem weißen einpoligen Stecker und stelle es auf Durchgangsprüfung. Für die folgende Messung muss der Stecker wieder geschlossen werden. Wenn der Sensor bis zum Ende im Gewinde ist, stellt das den spätesten "Schleifpunkt" dar. Dieser lässt sich mit dem Multimeter ermitteln. Im Normalzustand sollte das Multimeter einen Durchgang messen (viele Geräte piepen hier). Wenn du langsam am Kupplungshandhebel ziehst, wird das Piepen an einer bestimmten Stelle aufhören – das ist der Schleifpunkt. Durch Herausdrehen des Sensors kann dieser Schleifpunkt weiter nach vorne verschoben werden, oder durch Hineindrehen nach hinten **(Wichtig: Das Sensorende darf nicht über das Gewinde hinausragen)**. Wenn du die gewünschte Einstellung erreicht hast, schließe alle Kabel wie zuvor an.
 
 
-!!! note "Hinweis"
-      Der Abstand zwischen den Magneten und dem Sensorende ist entscheidend für das Auslösen des Reedsensors. Die Magnetposition im Handhebel ist unveränderlich, allerdings gibt es Unterschiede zwischen den Handhebeln aller Hersteller, siehe Bild. Je tiefer die Magnete im Handhebel sitzen, desto früher wird der           Schleifpunkt erreicht. Sollte der Sensor bereits bis zum Gewindeende eingeschraubt sein, aber ein späterer Schleifpunkt gewünscht werden, muss ein anderer Handhebel verwendet werden, in dem das Füllstück nicht so tief sitzt.
+> [!note] Hinweis
+>   Der Abstand zwischen den Magneten und dem Sensorende ist entscheidend für das Auslösen des Reedsensors. Die Magnetposition im Handhebel ist unveränderlich, allerdings gibt es Unterschiede zwischen den Handhebeln aller Hersteller, siehe Bild. Je tiefer die Magnete im Handhebel sitzen, desto früher wird der           Schleifpunkt erreicht. Sollte der Sensor bereits bis zum Gewindeende eingeschraubt sein, aber ein späterer Schleifpunkt gewünscht werden, muss ein anderer Handhebel verwendet werden, in dem das Füllstück nicht so tief sitzt.
 
 
 <p align="center">

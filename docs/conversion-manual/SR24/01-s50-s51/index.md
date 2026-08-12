@@ -2,9 +2,9 @@
 
 ![Simson S51 mit Second Ride SR24 Umbaukit](img/S51-SR24.png)
 
-!!! info "Info"
-
-    Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
+> [!info] Info
+>
+> Die Second Ride Umbaukits SR23 und SR24 werden nicht länger produziert und wurden vom MID50 Umbaukit abgelöst.
 
  <h3>Voraussetzungen</h3>
 <table>
@@ -91,8 +91,8 @@
   </tr>
 </table>
 
-!!! tip "Bitte bewahre deine Verpackung auf"
-    um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
+> [!tip] Bitte bewahre deine Verpackung auf
+> um Ressourcen zu sparen, falls doch mal ein Rückversand notwendig wird. 
 
 ## Bevor du mit dem Umbau beginnst
 Der Verwendungszweck des Umbaukits ist der Umbau der oben genannten Simson Modelle gemäß der vorliegenden Montageanleitung, sowie deren Nutzung im Straßenverkehr gemäß der Bedienungsanleitung. Bitte habe Verständnis dafür, dass wir uns bei der Entwicklung des Umbausatzes nach dem Originalzustand der erwähnten Simson Modelle gerichtet haben. Bei Umbauten mit Bauteilen, die nicht dem Original entsprechen, oder Veränderung der Originalteile durch einen Unfall, Verschleiß, oder beabsichtigte Modifikationen können wir nicht gewährleisten, dass das Umbaukit fehlerfrei und sicher funktioniert, bzw. sich überhaupt einbauen lässt. Solltest du dir bezüglich deines Fahrzeugs unsicher sein, kontaktiere uns gerne.
@@ -127,8 +127,8 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter (4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann. 
 
 
-!!! note "Tipp"
-     Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+> [!note] Tipp
+>  Wenn sich die Krümmermutter nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am Besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
 
 
 
@@ -140,8 +140,8 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden.  Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. 
 
 
-!!! note "Tipp"
-      Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
+> [!note] Tipp
+>   Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt. 
 
 
 
@@ -153,8 +153,8 @@ Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. 
 Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben in den Motorlagerblechen (10) verschraubt. Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Wenn beide Schrauben raus sind, sollte der Motor in der Regel von selbst noch in der Lagerung hängen. Indem du den Motor jetzt anhebst, kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Dein Moped ist nun kein Verbrennungsfahrzeug mehr.
 
 
-!!! tip "Interessant zu wissen"
-    Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
+> [!tip] Interessant zu wissen
+> Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.     
  
 
 ### **5. Lenker-Anbauteile**
@@ -188,10 +188,10 @@ Das Antriebsmodul ist in gleicher Weise am Fahrzeug gelagert wie der originale M
 
 
 
-!!! note "Tipp"
-       Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
-     ➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner)  
-     durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
+> [!note] Tipp
+>    Wenn es schon beim Herausheben des Motors aus der Halterung gehakt hat, dann ist es wahrscheinlich, dass das Einsetzen des Antriebsmodul auch wieder schwierig wird. du hast folgende Möglichkeite die Montage zu vereinfachen:<br>
+>  ➜ Prüfe, ob der innere Abstand auf Höhe der unteren Bohrung größer oder gleich 71 mm ist. Wenn das nicht der Fall ist, machst du dir die Montage leichter, wenn du die Bleche vorher aufweitest. Löse dafür zuerst die Schlosserschraube unten an den Halteblechen (11). Stecke eine Gewindestange (M8 oder kleiner)  
+>  durch eine der unteren Bohrungen, bringe eine Unterlegscheibe, zwei Muttern und eine weitere Unterlegscheibe an, und führe die Gewindestange anschließend durch die andere untere Bohrung. Nun kannst du mit den zwei Muttern die Bleche weiten bis sie im entspannten Zustand 71-73 mm Abstand voneinander haben.
 
 Überprüfe in jedem Fall nach der Montage des Antriebsmoduls, dass alle 4 Schrauben des Adapterblocks (9) sowohl auf der Fahrzeugseite als auch auf der Motorseite ausreichend fest angeschraubt sind.
 
@@ -221,8 +221,8 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 Schraube nun die Tachowelle an den eben montierten Kettenschutz. Das Kunststoffgewinde dafür befindet sich an der gleichen Stelle wie beim zuvor demontierten Verbrennermotor. So funktioniert nun dein Originaltacho (16) nun einfach weiter.
 
 
-!!! warning "Achtung"
-    Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
+> [!warning] Achtung
+> Aufgrund der Verwendung des DUO Tachogetriebes, liegt die angezeigt Geschwindigkeit bei ca. 9% über der eigentlichen Geschwindigkeit. Fährst du 60 km/h stehen dann knapp 66 km/h auf dem Tacho. 
 
 
 
@@ -251,8 +251,8 @@ Nun ist es an der Zeit den Gaszug einzustellen. Unter der Gummiabdeckung (17) is
 Betätigst du das Zündschloss und beim Gasgeben passiert nichts, dann war die Schraube zu weit heraus gedreht. Wenn das Gas geben möglich ist und kein Spiel auf der Hülle ist, dann ist die Einstellung genau richtig. du brauchst keine Sorge zu haben, dass der obere Anschlag falsch sein könnte und du dadurch verminderte Maximaleistung hast, da der Anschlag beim Vollgasgeben immer der Deckel ist, welcher bei jeder Einstellung des Gaszugs immer an derselben Stelle ist.
 
 
-!!! warning "Achtung"
-    Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
+> [!warning] Achtung
+> Montiere bitte unbedingt wieder die Gummiabdeckung (17) auf dem Vergaserdeckel. Ansonsten kann der Sensor bei Regen zu Schaden kommen.
 
 Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswiderstand haben. Der Gasgriff sollte allein mit der Federkraft aus der maximal offenen Stellung vollständig zurückschnappen. Ist das nicht der Fall, hilft es den Gasdrehgriff abzubauen, zu reinigen und neu zu fetten und/oder den Bowdenzug zu ersetzen. Es kann auch sein, dass das Gummi des Gasdrehgriffs am Klemmstück reibt. Dagegen hilft es, das Gummi am demontierten Gasgriffrohr nach außen zu verschieben. Eine Videoanleitung rund um die Gasdrehgriffwartung findest du auf dem [Youtubekanal 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&FORM=VAMGZC)
 
@@ -268,8 +268,8 @@ Unter [diesem link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAw
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen und den Blinkgeber gegen 12V Komponenten austauschen. 
 
-!!! tip "Interessant zu wissen"
-    Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
+> [!tip] Interessant zu wissen
+> Die 12 V Glühbirnen sind deutlich heller als die 6 V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen. 
 
 Jetzt kannst du das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. “II”-Symbol (die dritte im Uhrzeigesinn) stellen.<br>
 
@@ -283,8 +283,9 @@ Zuletzt musst du noch unser Bremskontaktkabel anstecken. Mithilfe von diesem Kab
 Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
 
-!!! warning "Achtung"
-    Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br> 
+> [!warning] Achtung
+> Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br> 
+
 Sollte das bei dir der Fall sein, verbinde einfach den Stecker (22) mit einem der 4 freien roten 12V Versorgungsstecker, die vom Antriebsmodul kommen, um das Antriebsmodul freizuschalten. Damit in Zukunft die Motorabschaltung mittels Bremslichterkennung funktioniert, melde dich bitte bei support@second-ride.de und frage nach dem “S51/1 Bremslichtkabelsatz”. Das schicken wir dir dann umsonst zu.
 
 ### 6. Sitzbank
@@ -308,8 +309,8 @@ Nun wird einmal probehalber die Sitzbank aufgelegt, damit sich die vordere Aufna
 Jetzt sind die vordere Aufnahme und der Tank korrekt ausgerichtet. Schließe die Sitzbank wieder auf, nimm sie entgegen der Reihenfolge des Aufsetzens wieder ab und ziehe die Schrauben der vorderen Aufnahme (25) (27) fest an.
 
 
-!!! warning "Achtung"
-    Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Stützbügel (8) montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.
+> [!warning] Achtung
+> Die Sitzbank hat keinen Halteriemen für einen Beifahrer. Daher ist es notwendig, dass du am Gepäckträger den Stützbügel (8) montiert hast, damit dein Fahrzeug weiterhin für den Soziusbetrieb verwendet werden darf.
 
 
 Nun kannst du die Sitzbank wieder für deine erste Funktionsprüfung auf dem Fahrzeug montieren. Vergiss nur dieses Mal nicht, das orange Kabel nach dem Einhaken hinten in den entsprechenden Stecker in der Sitzbank zu stecken.

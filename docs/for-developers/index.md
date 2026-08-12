@@ -49,11 +49,11 @@ Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, f
 - Anschließen oder paralleles Schalten von Fremdakkus
 - Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen
 
-!!! warning
-
-    Wir freuen uns sehr über deinen Beitrag zur Weiterentwicklung von Second Ride. Bitte sei dir jedoch bewusst, dass du mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nimmst:
-
-    1. Erlöschen der Haftung bzw. Garantie
-    2. Erlöschen der Betriebserlaubnis
-    3. Erhebliche Risiken für Personen und Sachgüter
-    4. Pflicht, Risiken und Warnungen transparent aufzuzeigen
+> [!warning]
+>
+> Wir freuen uns sehr über deinen Beitrag zur Weiterentwicklung von Second Ride. Bitte sei dir jedoch bewusst, dass du mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nimmst:
+>
+> 1. Erlöschen der Haftung bzw. Garantie
+> 2. Erlöschen der Betriebserlaubnis
+> 3. Erhebliche Risiken für Personen und Sachgüter
+> 4. Pflicht, Risiken und Warnungen transparent aufzuzeigen

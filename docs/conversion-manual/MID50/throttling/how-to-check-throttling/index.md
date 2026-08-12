@@ -41,13 +41,13 @@ Halten Sie den **pulsierenden Taster gedrückt**. Nach ca. 5 Sekunden wechselt d
 
 Öffnen Sie auf Ihrem Endgerät die **WLAN-Einstellungen** und verbinden Sie sich mit dem Netzwerk:
 
-!!! info ""
-    Netzwerkname: **SR Legal Limits**
+> [!info]
+> Netzwerkname: **SR Legal Limits**
 
 Ein Passwort ist nicht erforderlich. Sobald die Verbindung hergestellt ist, öffnet sich der **Legal Limit Konfigurator** automatisch in Ihrem Browser.
 
-!!! tip "Konfigurator öffnet sich nicht automatisch?"
-    Geben Sie folgende Adresse in Ihren Browser ein: http://192.168.12.1. Wichtig: Nutzen Sie http:// (nicht https://). Falls Ihr Browser eine Sicherheitswarnung anzeigt, klicken Sie auf „Weiter zur Seite" bzw. „Continue to site". Der Legal Limit Konfigurator sollte sich dann öffnen.
+> [!tip] Konfigurator öffnet sich nicht automatisch?
+> Geben Sie folgende Adresse in Ihren Browser ein: http://192.168.12.1. Wichtig: Nutzen Sie http:// (nicht https://). Falls Ihr Browser eine Sicherheitswarnung anzeigt, klicken Sie auf „Weiter zur Seite" bzw. „Continue to site". Der Legal Limit Konfigurator sollte sich dann öffnen.
 
 ### Schritt 4: Status „Endgültig gespeichert" prüfen
 
@@ -65,8 +65,8 @@ Der entscheidende Prüfschritt ist die Verifikation, ob die Konfiguration **endg
   <img src="images/Antrieb nicht endgültig gedrosselt.png" width="400" loading="lazy" alt="Ansicht des Konfigurators bei noch nicht endgültig gespeicherter Konfiguration" />
 </p>
 
-!!! danger "Achtung: Konfiguration nicht endgültig gespeichert"
-    Wenn der Konfigurator anzeigt, dass die Konfiguration **noch nicht endgültig gespeichert** wurde, darf die Änderungsabnahme **nicht erteilt** werden. Der Fahrzeughalter muss zunächst die Konfiguration endgültig speichern und das Fahrzeug erneut zur Abnahme vorstellen.
+> [!danger] Achtung: Konfiguration nicht endgültig gespeichert
+> Wenn der Konfigurator anzeigt, dass die Konfiguration **noch nicht endgültig gespeichert** wurde, darf die Änderungsabnahme **nicht erteilt** werden. Der Fahrzeughalter muss zunächst die Konfiguration endgültig speichern und das Fahrzeug erneut zur Abnahme vorstellen.
 
 ### Schritt 5: Konfigurierte Werte und Kalibrierung prüfen
 
@@ -83,8 +83,8 @@ Zur physischen Verifikation der Übersetzung und des Abrollumfangs auf **„Kali
   <img src="images/Kalibrierung prüfen 10.png" width="400" loading="lazy" alt="Button: Kalibrierung überprüfen" />
 </p>
 
-!!! warning "Wichtig: Fahrer muss aufgesessen sein"
-    Die Messung muss mit aufgesessenem Fahrer durchgeführt werden, damit der Abrollumfang unter realen Bedingungen erfasst wird.
+> [!warning] Wichtig: Fahrer muss aufgesessen sein
+> Die Messung muss mit aufgesessenem Fahrer durchgeführt werden, damit der Abrollumfang unter realen Bedingungen erfasst wird.
 
 Der Konfigurator führt selbsterklärend durch den Prozess:
 

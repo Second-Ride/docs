@@ -46,6 +46,13 @@ site/
 *.swp
 *.swo
 
+# Obsidian vault (local editing setup, personal per machine)
+docs/.obsidian/
+.obsidian/
+
+# Lokale Notizdateien
+Open Todos.md
+
 # Docker build context (optional)
 .dockerignore
 

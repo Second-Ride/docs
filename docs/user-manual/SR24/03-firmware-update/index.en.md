@@ -18,14 +18,14 @@ You can find out if a new update is available and what has changed in the [Firmw
 
 ## Updating the Drive Module (“Günter”)
 
-!!! warning "Caution"
-    Never connect the seat bench and the drive module to your computer via cable at the same time. Always disconnect the battery plug first before connecting your laptop to the seat bench/BT module or the drive module.
+> [!warning] Caution
+> Never connect the seat bench and the drive module to your computer via cable at the same time. Always disconnect the battery plug first before connecting your laptop to the seat bench/BT module or the drive module.
 
-!!! warning "Caution"
-    A firmware update changes the driving behavior. It can lead to higher acceleration, higher top speed, different braking behavior, etc. So be especially attentive and careful during the first rides after the update and do not rely on your previous experience with the drive. Also read the changelog carefully.
+> [!warning] Caution
+> A firmware update changes the driving behavior. It can lead to higher acceleration, higher top speed, different braking behavior, etc. So be especially attentive and careful during the first rides after the update and do not rely on your previous experience with the drive. Also read the changelog carefully.
 
-!!! warning "Caution"
-    Installing Duo firmware on a vehicle other than the Simson Duo voids the operating license of the vehicle. The same applies if the non-Duo firmware is installed on the Simson Duo.
+> [!warning] Caution
+> Installing Duo firmware on a vehicle other than the Simson Duo voids the operating license of the vehicle. The same applies if the non-Duo firmware is installed on the Simson Duo.
 
 First, the drive module must be connected to your PC. Proceed as follows:
 
@@ -91,8 +91,8 @@ Remove the rubber cap and connect the supplied USB cable. Important: Make sure t
 For the app to work correctly, the firmware version of the seat bench or BT module must match the app version in the first digit. Example: Gisela V1.0.0 is compatible with App V1.1.3. Gisela V1.0.0 is not compatible with App V2.0.0.  
 You can find the app version at the bottom of the app when you tap the info icon at the top left.  
 
-!!! warning "Caution"
-    Never connect the seat bench and the drive module to your computer via cable at the same time. Always disconnect the battery plug first before connecting your laptop to the seat bench or the drive module.
+> [!warning] Caution
+> Never connect the seat bench and the drive module to your computer via cable at the same time. Always disconnect the battery plug first before connecting your laptop to the seat bench or the drive module.
 
 1. Connect the seat bench or the BT module to your laptop with a USB-C cable via the USB-C port next to the Second Ride logo. The USB-C port on the BT module/seat bench should now light up.  
 
@@ -167,5 +167,5 @@ sudo usermod -a -G dialout $USER
 
 Then **log out and back in** for the change to take effect.
 
-!!! info "Note"
-    These instructions apply to systemd-based distributions (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). For distribution-specific group configuration, consult your distribution's documentation — the [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices) provides a good overview.
+> [!info] Note
+> These instructions apply to systemd-based distributions (Ubuntu ≥ 20.04, Fedora, openSUSE, Arch, …). For distribution-specific group configuration, consult your distribution's documentation — the [Arch Wiki: udev](https://wiki.archlinux.org/title/Udev#Allowing_regular_users_to_use_devices) provides a good overview.

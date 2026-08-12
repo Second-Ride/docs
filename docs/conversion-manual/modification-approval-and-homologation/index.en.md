@@ -41,8 +41,8 @@
 - An inspection report according to §21 StVZO – Technical modification (19.2) will be issued  
 - Costs: billed according to inspector effort: previous experience ranges €90 – €290  
 
-!!! note "Note":
-    For many inspectors, the electric conversion of mopeds is something completely new and requires extra familiarization, which not all are willing to do. To avoid wasting time or money, we recommend this approach: First check our map to see if you can find an experienced inspector near you. If not, contact an inspector near you by phone and explain your plan. You will quickly find out how the inspector reacts. If you have a bad feeling, better go to the next one! Please help the next person by completing the survey under the same link afterward. If you have questions about registration, we and the Second Ride Community on Discord are happy to help!  
+> [!note] Note
+> For many inspectors, the electric conversion of mopeds is something completely new and requires extra familiarization, which not all are willing to do. To avoid wasting time or money, we recommend this approach: First check our map to see if you can find an experienced inspector near you. If not, contact an inspector near you by phone and explain your plan. You will quickly find out how the inspector reacts. If you have a bad feeling, better go to the next one! Please help the next person by completing the survey under the same link afterward. If you have questions about registration, we and the Second Ride Community on Discord are happy to help!  
 
 ## Step 3. Update of the vehicle registration at the responsible registration authority
 

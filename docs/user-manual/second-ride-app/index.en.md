@@ -200,8 +200,8 @@ To connect your vehicle with your smartphone, please first download the Second R
 
 [Google Play Store Link](http://www.second-ride.de/app-android)  
 
-!!! warning "Caution"  
-    Make sure you are using the latest version of the app. This is the only way to ensure that all functions work reliably.  
+> [!warning] Caution
+> Make sure you are using the latest version of the app. This is the only way to ensure that all functions work reliably.  
 
 ### First Connection Setup  
 
@@ -250,8 +250,8 @@ Take a moment and again use the option to tap the individual parameter names to 
 The app allows you to adjust settings on your vehicle. These are divided into Pro Features and Standard Features. To understand what changing these settings does, please use the small “i” info symbol next to the parameter name in “Settings”.  
 Pro Features are only available if Pro is unlocked on your BT seat bench or BT module. How this works is explained in the following section.  
 
-!!! warning "Caution"  
-    By changing vehicle settings, you actively alter the driving behavior of your vehicle. Read the description of the respective driving property beforehand and drive carefully after making adjustments to get used to the changed behavior.  
+> [!warning] Caution
+> By changing vehicle settings, you actively alter the driving behavior of your vehicle. Read the description of the respective driving property beforehand and drive carefully after making adjustments to get used to the changed behavior.  
 
 ### Unlocking Pro Features  
 

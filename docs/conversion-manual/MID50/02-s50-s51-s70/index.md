@@ -40,8 +40,8 @@ Folgende Werkzeuge benötigst du:
 
 ## Lieferumfang
 
-!!! note "Hinweis: Bitte bewahre deine Verpackung auf"
-    Im Garantiefall wird die Originalverpackung für den Rückversand benötigt.
+> [!note] Hinweis: Bitte bewahre deine Verpackung auf
+> Im Garantiefall wird die Originalverpackung für den Rückversand benötigt.
 
 <h4>Alle Varianten</h4>
 <table>
@@ -217,8 +217,8 @@ Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. 
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter(4) befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann.
 
-!!! tip "Tipp: Wenn die Krümmermutter sich nicht lösen will"
-    Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+> [!tip] Tipp: Wenn die Krümmermutter sich nicht lösen will
+> Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden. Die Auspuffstrebe(7) kannst du gleich mit entfernen. Dafür einfach oben am hinteren Federbein die Schraube demontieren, die Auspuffstrebe entfernen und das Federbein wieder mit dem Rahmenobergurt und der Obergurtstützstrebe verschrauben.
 
@@ -226,8 +226,8 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden. Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben.
 
-!!! tip "Tipp: Kette entspannen"
-    Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt.
+> [!tip] Tipp: Kette entspannen
+> Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Rahmenobergurt das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt.
 
 Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt.
 
@@ -235,15 +235,15 @@ Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. 
 
 Nun ist der Motor bereit, entfernt zu werden. Dieser ist mit zwei langen M8 Schrauben in den Motorlagerblechen(10) verschraubt. Es kann fummelig sein, den Motor herauszuheben. Unterstützung von einer zweiten Person kann jetzt sehr hilfreich sein. Löse die Muttern und versuche die Schrauben aus den Bohrungen zu ziehen. Es hilft, den Motor dabei etwas anzuheben. Wenn beide Schrauben raus sind, sollte der Motor in der Regel von selbst noch in der Lagerung hängen. Indem du den Motor jetzt anhebst, kannst du ihn aus der Lagerung herausnehmen. Glückwunsch! Dein Moped ist nun kein Verbrennungsfahrzeug mehr.
 
-!!! tip "Interessant zu wissen"
-    Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.
+> [!tip] Interessant zu wissen
+> Karl Clauss Dietel, Chef-Entwickler der S50, teilte uns in einer E-Mail mit, dass er das Moped absichtlich so offen gestaltet hatte. So wäre ein Wechsel des Antriebs einfacher, sollten mal bessere Antriebe durch neue Technologien zur Verfügung stehen. Danke für Ihre Voraussicht! Herr Prof. Dietel verstarb am 02.01.2022. Er prägte das Produktdesign des Ostens maßgeblich - ob Auto, Moped oder Radio. Dafür wurde er mit dem höchsten deutschen Designpreis ausgezeichnet.
 
 ### 5. Lenker-Anbauteile
 
 Am Lenker kannst du nun den linken Handhebel sowie den Kupplungs- und Starter-Bowdenzug demontieren.
 
-!!! tip "Tipp: Kupplungshebel und Choke-Hebel aufbewahren"
-    Bewahre den Kupplungshebel und den Choke-Hebel inkl. ihrer Bowdenzüge auf. Second Ride plant eine E-Kupplung und einen E-Choke anzubieten, mit denen sich zum Beispiel Rekuperation oder Fahrmodi über die Originalhebel steuern lassen.
+> [!tip] Tipp: Kupplungshebel und Choke-Hebel aufbewahren
+> Bewahre den Kupplungshebel und den Choke-Hebel inkl. ihrer Bowdenzüge auf. Second Ride plant eine E-Kupplung und einen E-Choke anzubieten, mit denen sich zum Beispiel Rekuperation oder Fahrmodi über die Originalhebel steuern lassen.
 
 ### 6. Sitzbank & Tank
 
@@ -254,8 +254,8 @@ Um den Tank abzunehmen, schraube die M8 Tankschraube heraus und hebe diesen nach
 
 Baue zunächst die Seitendeckel ab und lege sie beiseite. Als nächstes muss der Herzkasten ausgebaut werden, dokumentiere und baue dafür die Elektronik und den Herzkasten wie folgt aus:
 
-!!! warning "Hinweis: Kabelverbindungen dokumentieren"
-    Fotografiere alle Kabelverbindungen am Zündschloss(1), Blinkgeber(2) und Mehrfachverbinder(3), bevor du sie löst. Markiere doppelte Kabelfarben zusätzlich mit den mitgelieferten Kabeletiketten, damit sie später nicht verwechselt werden. Lege den Vorbau-Kabelstrang nach vorne und den Heck-Kabelstrang nach hinten, damit sie beim Einbau nicht beschädigt werden. Sorgfältig dokumentierte Kabelanschlüsse ersparen beim Zusammenstecken viel Ärger und Fehlersuche.
+> [!warning] Hinweis: Kabelverbindungen dokumentieren
+> Fotografiere alle Kabelverbindungen am Zündschloss(1), Blinkgeber(2) und Mehrfachverbinder(3), bevor du sie löst. Markiere doppelte Kabelfarben zusätzlich mit den mitgelieferten Kabeletiketten, damit sie später nicht verwechselt werden. Lege den Vorbau-Kabelstrang nach vorne und den Heck-Kabelstrang nach hinten, damit sie beim Einbau nicht beschädigt werden. Sorgfältig dokumentierte Kabelanschlüsse ersparen beim Zusammenstecken viel Ärger und Fehlersuche.
 
 <p align="center">
   <img src="images/herzkasten-kabelverbindungen.png" width="500" loading="lazy" />
@@ -273,7 +273,7 @@ M8: 24 Nm<br>
 
 ### 1. Antriebsmodul Montage
 
-#### Motorhalter montieren
+#### 1.1 Motorhalter montieren
 
 Zuerst muss der Motorhalter in der Motoraufnahme der S50/S51/S70 montiert werden. Nimm dir dafür die M8x100 Außensechskantschraube(1) und lege die Unterlegscheibe auf. Führe die M8 Schraube durch die obere Bohrung der Motoraufnahme auf der Kettenseite. Schiebe nun in dieser Reihenfolge folgende Bauteile auf die Schraube auf: Distanzhülse kurz(2), Motorhalteblech(3), Distanzhülse lang(4), Motorhalteblech(3), Distanzhülse kurz(2). Stoße dann mit der Schraube durch das zweite Rahmenblech und drehe die M8 Mutter(5) auf die Schraube und drehe diese locker bis zum Anschlag auf. Nun muss die zweite M8x100 Schraube(1) durch die untere Bohrung in der Motoraufnahme auf Kettenseite, dann durch das rechte Motorhalteblech, durch die zweite Distanzhülse lang, durch das linke Motorhalteblech und dann durch die linke Motoraufnahme. Im Anschluss muss dann die M8 Mutter aufgeschraubt werden.
 
@@ -281,7 +281,7 @@ Zuerst muss der Motorhalter in der Motoraufnahme der S50/S51/S70 montiert werden
   <img src="../01-schwalbe/images/image20.png" width="500" loading="lazy" />
 </p>
 
-#### Antriebsmodul einhängen
+#### 1.2 Antriebsmodul einhängen
 
 Stelle das Antriebsmodul erstmal unter das Fahrzeug und führe die Kabel zwischen die beiden Rahmenrohre hoch. Schiebe nun das Antriebsmodul mit dem unteren Anschraubpunkt zwischen die Motorhaltebleche, die du zuvor montiert hast. Schiebe die M8x85 Schraube mit Unterlegscheibe von Kettenseite durch die Motorhaltebleche und durch den unteren Aufnahmepunkt des Antriebsmoduls. Sichere das Ganze mit der M8 Mutter.
 
@@ -289,11 +289,11 @@ Stelle das Antriebsmodul erstmal unter das Fahrzeug und führe die Kabel zwische
   <img src="../01-schwalbe/images/image41.png" width="500" loading="lazy" />
 </p>
 
-!!! warning "Wichtig: Kabel korrekt verlegen"
-    Achte beim Einhängen des Antriebsmoduls auf die richtige Kabelführung:
-
-    - Das **dicke Hauptkabel mit Wellrohr** (Hauptschlagader) muss zwischen der Simson Motorhalterung und dem MID50 Motorhalter nach **links herausgeführt** werden, damit es später korrekt in den Akkuherzkasten verlegt werden kann.
-    - Die **3 Signalkabel** müssen **nach oben** zwischen Rahmenrohr und der Hülse des MID50 Motorhalters hochverlegt werden, damit sie später im Akkuherzkasten korrekt angeschlossen werden können.
+> [!warning] Wichtig: Kabel korrekt verlegen
+> Achte beim Einhängen des Antriebsmoduls auf die richtige Kabelführung:
+>
+> - Das **dicke Hauptkabel mit Wellrohr** (Hauptschlagader) muss zwischen der Simson Motorhalterung und dem MID50 Motorhalter nach **links herausgeführt** werden, damit es später korrekt in den Akkuherzkasten verlegt werden kann.
+> - Die **3 Signalkabel** müssen **nach oben** zwischen Rahmenrohr und der Hülse des MID50 Motorhalters hochverlegt werden, damit sie später im Akkuherzkasten korrekt angeschlossen werden können.
 
 <p align="center">
   <img src="images/kabelverlegung-antriebsmodul.png" width="500" loading="lazy" />
@@ -305,7 +305,7 @@ Drehe nun das Antriebsmodul nach oben, so dass die obere Aufnahme der Motoraufna
   <img src="../01-schwalbe/images/image50.png" width="500" loading="lazy" />
 </p>
 
-#### Seitendeckel Adapter anbauen
+#### 1.3 Seitendeckel Adapter anbauen
 
 Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube(8), die das Riemenspannstützblech(9) hält und schiebe den Kupplungsdeckeladapter(10) zwischen das Riemenspannstützblech(9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben(11) fest. 
 
@@ -319,7 +319,7 @@ Nimm nun das Adapterblech für den rechten Seitendeckel(12) und schraube dieses 
   <img src="../01-schwalbe/images/image17.png" width="500" loading="lazy" />
 </p>
 
-#### Seitendeckel anbringen
+#### 1.4 Seitendeckel anbringen
 
 Nun kann die Kette auf das Ritzel geschoben werden und die Tachoschnecke des Tachoantriebs auf die Abtriebswelle gesteckt und durch die Spange gesichert werden.
 
@@ -355,7 +355,7 @@ Prüfe nun nochmal die Kettenspannung und korrigiere gegebenenfalls. Sind nun al
 
 ### 3. Akkuherzkasten
 
-#### Vorbereitung des Akkuherzkastens
+#### 3.1 Vorbereitung des Akkuherzkastens
 
 Schraube zunächst das Zubehörpanel ab, indem du die drei schwarzen Torx-Schrauben(1) entfernst. Schraube anschließend die obere und untere Akkufachverschraubung(2) ab und entnehme das linke Akkufach(3). Nimm dann die obere und untere Brustbeinversteifung(4) ab, indem du die Torx-Schrauben löst.
 
@@ -371,12 +371,24 @@ Schraube zunächst das Zubehörpanel ab, indem du die drei schwarzen Torx-Schrau
   <img src="images/akkuherzkasten-vorbereiten-3.png" width="556" loading="lazy" />
 </p>
 
-#### Einbau in den Rahmen
+Bei Verwendung in der S51 muss der Griff auf die andere Seite des Akkus ummontiert werden, da der Akku dort in einer um ca. 180° gedrehten Orientierung verwendet wird.
+
+Demontiere die Griffabdeckungen(1) mit einem Schlitzschraubenzieher o.Ä. Schraube die 4x M4 Torx Schrauben(2) heraus und montiere den Griff(3) dann auf der hier gezeigten Position in den 4 Schraubpunkten in der Akkuwand.
+
+<p align="center">
+  <img src="images/griff-ummontieren-demontage.png" width="500" loading="lazy" />
+</p>
+
+<p align="center">
+  <img src="images/griff-ummontieren-position.png" width="500" loading="lazy" />
+</p>
+
+#### 3.2 Einbau in den Rahmen
 
 Entferne die Schraube und Mutter, die den Obergurt(1) vorne an den Rahmen anbinden.
 
-!!! warning "Achtung"
-    Um ein Abknicken des Obergurts(1) und ein Wegknicken des Hinterrads nach hinten zu vermeiden, setzt du die beigelegte M8x80 Schraube(2) mit M8 Unterlegscheibe zusammen mit der oberen Brustbeinversteifung(3) von links ein und treibst damit die alte Schraube mit einem Hammer heraus. Die neue Schraube schiebt sich dabei direkt an die Stelle der alten.
+> [!warning] Achtung
+> Um ein Abknicken des Obergurts(1) und ein Wegknicken des Hinterrads nach hinten zu vermeiden, setzt du die beigelegte M8x80 Schraube(2) mit M8 Unterlegscheibe zusammen mit der oberen Brustbeinversteifung(3) von links ein und treibst damit die alte Schraube mit einem Hammer heraus. Die neue Schraube schiebt sich dabei direkt an die Stelle der alten.
 
 <p align="center">
   <img src="images/einbau-rahmen-01.png" width="525" loading="lazy" />
@@ -384,8 +396,8 @@ Entferne die Schraube und Mutter, die den Obergurt(1) vorne an den Rahmen anbind
 
 Als Nächstes montierst du die beigelegten Sechskantmuffen locker am Fahrzeug. Sie bilden die Anschraubpunkte, an denen der Akkuherzkasten später mit den Rahmenlaschen verbunden wird. Setze am oberen Anschraubpunkt von rechts die M6x35 Distanzmuffe mit Gewinde(4) ein und kontere sie von links mit der M6x18 Distanzmuffe(5). Schraube an dieser Stelle gleich die obere Brustbeinversteifung(3) mit der M6x12 Flachkopfschraube(6) mit an. Setze danach am unteren Anschraubpunkt von rechts die M6x25 Distanzmuffe mit Gewinde(7) ein und kontere sie von links mit der M6x30 Distanzmuffe(8). Drehe alle Schraubverbindungen zunächst nur so weit ein, dass sie sich in den Langlöchern noch verschieben lassen. Das ist wichtig, damit du den Akkuherzkasten später ausrichten kannst.
 
-!!! tip "Tipp"
-    Drehe alle Schraubverbindungen handfest an und dann eine halbe bis ganze Umdrehung wieder zurück. So stellst du sicher, dass sich der Akkuherzkasten beim Ausrichten noch bewegen lässt.
+> [!tip] Tipp
+> Drehe alle Schraubverbindungen handfest an und dann eine halbe bis ganze Umdrehung wieder zurück. So stellst du sicher, dass sich der Akkuherzkasten beim Ausrichten noch bewegen lässt.
 
 <p align="center">
   <img src="images/einbau-rahmen-02.png" width="446" loading="lazy" />
@@ -399,8 +411,8 @@ Bereite nun den Tankaufnahmepunkt vor. Schraube den M8x60 Gewindestift(9) mit de
 
 Setze jetzt den Akkuherzkasten(12) in den Rahmen ein und schraube den M8x60 Gewindestift(9) so weit durch, dass er etwa 10 mm in den Akkuherzkasten hineinragt. Drehe danach die untere M8 Mutter(13) von unten so weit hoch, bis die Oberseite des Akkuherzkastens am Rahmenobergurt(1) anliegt.
 
-!!! warning "Achtung"
-    Drehe die Mutter wirklich nur von Hand hoch. Wird sie in diesem Schritt zu weit eingeschraubt, verbiegt sich die Oberseite des Akkuherzkastens.
+> [!warning] Achtung
+> Drehe die Mutter wirklich nur von Hand hoch. Wird sie in diesem Schritt zu weit eingeschraubt, verbiegt sich die Oberseite des Akkuherzkastens.
 
 <p align="center">
   <img src="images/einbau-rahmen-04.png" width="445" loading="lazy" />
@@ -422,8 +434,8 @@ Lege nun die EDU Signalkabel entlang dem Rahmenrohr nach oben. Setze die M6x12 S
 
 Setze nun die M6x12 Flachkopfschrauben(6) an den Rahmenlaschenanschraubpunkten locker ein, sodass sie fast vollständig eingeschraubt sind.
 
-!!! tip "Tipp"
-    Drehe sie handfest an und dann eine Umdrehung wieder zurück.
+> [!tip] Tipp
+> Drehe sie handfest an und dann eine Umdrehung wieder zurück.
 
 <p align="center">
   <img src="images/einbau-rahmen-08.png" width="429" loading="lazy" />
@@ -459,19 +471,19 @@ Als Nächstes können das Zubehörpanel(23) und die Rahmenrohrabdeckung(24) wied
   <img src="images/einbau-rahmen-13.png" width="472" loading="lazy" />
 </p>
 
-!!! tip "Tipp"
-    Ziehe die Kunststoffschrauben nur leicht handfest an, um das Gewinde nicht zu beschädigen.
+> [!tip] Tipp
+> Ziehe die Kunststoffschrauben nur leicht handfest an, um das Gewinde nicht zu beschädigen.
 
 Zum Schluss montierst du die Seitendeckeladapter. Schraube den oberen Seitendeckeladapter(26) oben an und den unteren Seitendeckeladapter(27) unten von der Innenseite des Akkufachs an. Nutze dafür jeweils die M5x16 Schraube. Hänge den Seitendeckel anschließend unten ein und ziehe ihn oben von außen mit der M5x16 Flachkopfschraube fest. Auf der Seite des Schlosses wird zusätzlich die M6 Unterlegscheibe benötigt, um den großen Ausschnitt im Seitendeckel abzudecken.
 
-!!! note "Hinweis"
-    Die Seitendeckeladapter sind keine Pflicht, wir empfehlen sie jedoch zu montieren. Sie verbessern die Stabilität des Akkufachs sowie das Gefühl beim Öffnen und Schließen.
+> [!note] Hinweis
+> Die Seitendeckeladapter sind keine Pflicht, wir empfehlen sie jedoch zu montieren. Sie verbessern die Stabilität des Akkufachs sowie das Gefühl beim Öffnen und Schließen.
 
 <p align="center">
   <img src="images/einbau-rahmen-14.png" width="434" loading="lazy" />
 </p>
 
-#### Elektronik montieren
+#### 3.3 Elektronik montieren
 
 Klipse zunächst den Mehrfachverbinderhalter(1) aus, klipse den Mehrfachverbinder in den Halter ein und lege beides beiseite.
 
@@ -493,8 +505,8 @@ Führe nun die Hauptschlagader(2) in den Akkuherzkasten ein. Lege sie wie gezeig
   <img src="images/elektronik-04.png" width="465" loading="lazy" />
 </p>
 
-!!! warning "Wichtig: Kabelschuhe korrekt anschließen"
-    Die Kabelschuhe müssen so sitzen, dass die Kontaktflächen sicher übereinander liegen und keine Isolierung zwischen die Kontaktflächen gerät. Die Kabel sollten in verschiedene Richtungen abstehen und nicht exakt übereinander liegen.
+> [!warning] Wichtig: Kabelschuhe korrekt anschließen
+> Die Kabelschuhe müssen so sitzen, dass die Kontaktflächen sicher übereinander liegen und keine Isolierung zwischen die Kontaktflächen gerät. Die Kabel sollten in verschiedene Richtungen abstehen und nicht exakt übereinander liegen.
 
 Baue nun den originalen Kabelbaum wieder ein. Schraube zunächst das Zündschloss(11) fest und klipse den Blinkgeber(12) ein, während du den Mehrfachverbinder(13) noch lose lässt. Führe danach den Kabelbaum ein, indem du den hinteren von hinten durch die Gummitülle auf die Oberseite des Akkuherzkastens und den vorderen von vorne am Rahmenrohr entlang zum Zündschloss(11) und Mehrfachverbinder(13) führst. Schließe anschließend alle Kabelverbindungen anhand deiner zuvor gemachten Fotos wieder an und sichere sie mit Kabelbindern. Schraube zuletzt das Massekabel des Simson Kabelbaums sowie das Massekabel des 12V DCDC-Wandlers(14) mit ihren Ringkabelschuhen an der oberen M6x10 Flachkopfschraube(15) fest, die den Masse-Sammelpunkt des originalen Herzkastens ersetzt.
 
@@ -503,44 +515,45 @@ Baue nun den originalen Kabelbaum wieder ein. Schraube zunächst das Zündschlos
 </p>
 
 Als Nächstes verbindest du das „EDU AUX Cable" vom Antriebsmodul mit dem mitgelieferten „AUX DCDC-Brake Cable". Stecke die beiden zusammen und verschraube die Steckersicherung.
-
 Verbinde nun die 4 roten Kabel des Second Ride 12V Kabels mit dem Zündschloss an folgenden Kontakten:
 
 **59, 59B, 30, unbeschrifteter Dreifachstecker**
 
 Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
-
 Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser System hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
 
 <div style="text-align: center;"><a href="https://second-ride.de/schaltplaene?utm_source=anleitung">Hier geht es zu den Schaltplänen</a></div>
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen.
 
-!!! info "Info: Vorteil 12V gegenüber 6V Beleuchtung"
-    Die 12V Glühbirnen sind deutlich heller als die 6V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+> [!info] Info: Vorteil 12V gegenüber 6V Beleuchtung
+> Die 12V Glühbirnen sind deutlich heller als die 6V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. „II"-Symbol (die dritte im Uhrzeigersinn) stellen.
 
 Zuletzt musst du noch das Motorabschaltungskabel anstecken. Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben.
 
-!!! info "Info: Was das Motorabschaltungskabel macht"
-    Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
+> [!info] Info: Was das Motorabschaltungskabel macht
+> Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
-!!! tip "Tipp: Externer Bremslichtschalter für mehr Zuverlässigkeit"
-    Der originale Bremslichttaster von Simson befindet sich in der Nabe des Hinterrads. Dort ist er nur sehr schwer einstellbar und zusätzlich bauartbedingt unzuverlässig. Wir empfehlen stark einen externen Bremslichtschalter nachzurüsten und Bremslicht und Motorabschaltung daran anzuschließen.
+> [!tip] Tipp: Externer Bremslichtschalter für mehr Zuverlässigkeit
+> Der originale Bremslichttaster von Simson befindet sich in der Nabe des Hinterrads. Dort ist er nur sehr schwer einstellbar und zusätzlich bauartbedingt unzuverlässig. Wir empfehlen stark einen externen Bremslichtschalter nachzurüsten und Bremslicht und Motorabschaltung daran anzuschließen.
 
 Führe das schwarze einadrige Motorabschaltungskabel entlang der Schwinge zum Bremskontakt am Hinterrad oder zu dem externen Bremslichtschalter. Entferne dort das originale Bremssignalkabel, stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Nutze die Kabelbinder, um das Motorabschaltungskabel an der Schwinge entlang zu führen, so dass es nicht durch deren Auf- und Ab-Bewegung beschädigt werden kann.
 
-!!! warning "Achtung"
-    Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br>
-    Sollte das bei dir der Fall sein, lasse das Motorabschaltungskabel erst mal unangeschlossen und verstaue es gut. Damit in Zukunft die Motorabschaltung mittels Bremslichterkennung funktioniert, melde dich bitte bei support@second-ride.de und frage nach dem „S51/1 Bremslichtkabelsatz".
+> [!warning] Achtung
+> Wenn du eine S51/1 hast, dann kann es sein, dass dein Bremslicht invertiert funktioniert. Das bedeutet, dass das Bremslicht im ausgeschalteten Zustand mit Masse verbunden ist und wenn es eingeschaltet wird, der Bremslichtschalter den zweiten Kontakt des Bremslichtes mit 12V verbindet.<br>
+> Sollte das bei dir der Fall sein, lasse das Motorabschaltungskabel erst mal unangeschlossen und verstaue es gut. Damit in Zukunft die Motorabschaltung mittels Bremslichterkennung funktioniert, melde dich bitte bei support@second-ride.de und frage nach dem „S51/1 Bremslichtkabelsatz".
 
-#### Akkuherzkasten Bedienung
+#### 3.4 Akkuherzkasten Bedienung
+
+> [!warning] Diebstahlschutz bei nur einem Akku
+> Fährst du ohne Seitendeckel und mit nur einem Akku, setze den Akku immer in das **rechte** Akkufach. Ist der Akku im linken Akkufach ist der Schließmechanismus frei zugänglich. Unbefugte könnten den Akkuherzkasten damit entriegeln und den Akku entnehmen.
 
 Öffne die Steckerklappe(2), indem du das Schloss(1) im Uhrzeigersinn drehst.
 
-!!! warning "Achtung"
-    Zu starkes Drehen entgegen dem Uhrzeigersinn kann das Schloss beschädigen.
+> [!warning] Achtung
+> Zu starkes Drehen entgegen dem Uhrzeigersinn kann das Schloss beschädigen.
 
 <p align="center">
   <img src="images/akkufach-bedienung-01.png" width="347" loading="lazy" />
@@ -560,8 +573,8 @@ Mit dem Akkufachgriff(4) öffnest du das Akkufach. Anschließend kannst du den A
 
 Um den Akku im Herzkasten zu verriegeln, muss das Akkufach vollständig geschlossen sein. Bewege dann den Hebel(3) nach unten, bis die Stecker spürbar einrasten und der Verriegelungsmechanismus mit einem hörbaren Klick bestätigt.
 
-!!! warning "Achtung"
-    Arbeite dich an die zum Einrasten nötige Kraft langsam heran, denn das kann etwas Kraft erfordern. Zu viel Gewalt kann jedoch den Mechanismus beschädigen. Möchte der Hebel nicht in seine Endstellung, blockiert wahrscheinlich an anderer Stelle etwas oder der Akku sitzt falsch. Achte unbedingt darauf, dass die Steckerklappe wirklich in der Verriegelung hängt. Das kannst du mit einem leichten Anheben des Hebels(3) kontrollieren.
+> [!warning] Achtung
+> Arbeite dich an die zum Einrasten nötige Kraft langsam heran, denn das kann etwas Kraft erfordern. Zu viel Gewalt kann jedoch den Mechanismus beschädigen. Möchte der Hebel nicht in seine Endstellung, blockiert wahrscheinlich an anderer Stelle etwas oder der Akku sitzt falsch. Achte unbedingt darauf, dass die Steckerklappe wirklich in der Verriegelung hängt. Das kannst du mit einem leichten Anheben des Hebels(3) kontrollieren.
 
 ### 4. Armaturen
 
@@ -579,6 +592,9 @@ Nimm dir nun den Gaszugsensor und schraube die Kappe ab. Achtung, darunter sitzt
 
 Schraube die passende Stellschraube(1) in den Deckel(2) ein und schiebe den Gaszug durch die Stellschraube. Schiebe von der anderen Seite die Feder auf und schiebe nun den Magnetschieber(3) seitlich auf den Gaszug auf, bis dieser in der Mitte dessen sitzt. Jetzt kannst du den Magnetschieber mitsamt Feder in den Bowdenzugsensor einsetzen und den Deckel mit etwas Druck aufdrehen.
 
+> [!warning] Wichtig: Kappe vollständig einschrauben
+> Achte darauf, dass die Gaszugsensorkappe vollständig eingeschraubt ist und kein Spalt darunter zu sehen ist.
+
 <p align="center">
   <img src="../01-schwalbe/images/image35.png" width="500" loading="lazy" />
 </p>
@@ -591,8 +607,8 @@ Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswider
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XWQ3W5QNqvs" title="Youtubekanal 2Radgeber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-!!! warning "Wichtig: Firmwareupdate durchführen"
-    Bitte führe bevor du das umgebaute Fahrzeug benutzt erst ein Firmwareupdate durch. Wie das funktioniert, erfährst du im Kapitel [Firmware Update](../../../user-manual/MID50/02-firmware-update/index.md).
+> [!warning] Wichtig: Firmwareupdate durchführen
+> Bitte führe bevor du das umgebaute Fahrzeug benutzt erst ein Firmwareupdate durch. Wie das funktioniert, erfährst du im Kapitel [Firmware Update](../../../user-manual/MID50/02-firmware-update/index.md).
 
 Die digitale Drosselung deines Antriebs wird im Kapitel [Antrieb drosseln](../throttling/how-to-throttle-your-drive/index.md) beschrieben.
 

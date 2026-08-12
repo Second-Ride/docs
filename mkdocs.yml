@@ -10,6 +10,8 @@ extra_css:
 
 markdown_extensions:
   - admonition
+  - pymdownx.quotes:
+      callouts: true
   - def_list
   - attr_list
   - md_in_html

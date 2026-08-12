@@ -150,8 +150,8 @@ First, all electrical and mechanical connections to the engine must be loosened.
 
 Now only the exhaust should be attached to the engine. It is fastened to the engine with a large nut that can be removed using a pipe wrench or hook wrench.
 
-!!! note "Tip"
-    If the exhaust nut won’t loosen, you can tap it with an old flat-head screwdriver and a hammer (preferably rubber or wood) into the notches of the nut to loosen it.
+> [!note] Tip
+> If the exhaust nut won’t loosen, you can tap it with an old flat-head screwdriver and a hammer (preferably rubber or wood) into the notches of the nut to loosen it.
 
 The other exhaust mount is at the rear in the form of a clamp, which can be opened by removing the screw.
 
@@ -282,8 +282,8 @@ At [this link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRGtM2
 
 If your vehicle is still equipped with 6V electrics, you must replace all bulbs, the flasher relay, and possibly the horn with 12V components. Now is the time to replace the headlight bulb and the dashboard lighting bulb at the ignition switch.
 
-!!! tip "Good to know"
-    The 12V bulbs are much brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
+> [!tip] Good to know
+> The 12V bulbs are much brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
 
 Now you can reinstall the ignition switch and lamp mask, and set the original ignition switch to the headlight or “II” position (the third position clockwise).
 
@@ -311,8 +311,8 @@ At [this link](https://drive.google.com/drive/folders/1KnJVBPeOQDE3Jo1bdCY01oL4j
 
 If your vehicle is still equipped with 6V electrics, you must replace all bulbs, the flasher relay, and possibly the horn with 12V components. Now is the time to replace the headlight bulb and the dashboard lighting bulb at the ignition switch.
 
-!!! tip "Good to know"
-    The 12V bulbs are much brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
+> [!tip] Good to know
+> The 12V bulbs are much brighter than the 6V versions, and the horn is also louder with 12V. After the conversion, you’ll be safer on the road.
 
 Now you can reinstall the ignition switch and lamp mask, and set the original ignition switch to the headlight or “II” position (the third position clockwise).
 
@@ -328,8 +328,8 @@ We designed this function because there is no longer a clutch, and therefore no 
 
 Now screw the speedometer cable to the newly installed chain guard. The plastic thread for this is located in the same place as on the previously removed combustion engine. This way, your original speedometer continues to function.
 
-!!! warning "Attention"
-    Due to the use of the DUO speedometer drive, the indicated speed is about 9% higher than the actual speed. At 60 km/h, the speedometer will show nearly 66 km/h.
+> [!warning] Attention
+> Due to the use of the DUO speedometer drive, the indicated speed is about 9% higher than the actual speed. At 60 km/h, the speedometer will show nearly 66 km/h.
 
 #### Duo 4, Duo 4/1
 
@@ -396,7 +396,7 @@ To ensure the rotation of the throttle grip is correctly converted into an elect
 Now it’s time to adjust the throttle cable. At the top of the throttle cable is an adjustment screw. When the throttle grip is fully turned forward (no throttle), there should be just no play in the cable housing. By turning the screw out, you reduce the play. Later, when the battery is connected, you can check your adjustment:  
 If you turn on the ignition and nothing happens when twisting the throttle, the screw is turned out too far. If throttle works and there is no play in the housing, the adjustment is correct. You don’t need to worry that the upper stop is wrong and reduces max power, because at full throttle the stop is always the cap, which is in the same place regardless of adjustment.
 
-!!! warning "Attention"
-    Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor may be damaged by rain.
+> [!warning] Attention
+> Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor may be damaged by rain.
 
 Ensure that your throttle cable and grip have minimal friction. The grip should snap back to closed from fully open using only spring force. If not, disassemble, clean, and re-grease the grip and/or replace the Bowden cable. Sometimes the rubber of the throttle grip rubs against the clamp. To fix this, shift the rubber outward on the disassembled throttle tube. A video tutorial on throttle grip maintenance can be found on the [YouTube channel 2Radgeber](https://www.bing.com/videos/riverview/relatedvideo?&q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&mmscn=mtsc&aps=40&FORM=VRDGAR).

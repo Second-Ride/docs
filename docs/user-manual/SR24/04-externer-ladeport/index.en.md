@@ -70,8 +70,8 @@ All technical data and descriptions contained here were up to date at the time o
 
 ### 1. Preparations
 
-!!! warning "Caution"
-    Before starting, make absolutely sure that no battery is connected to the drive module or the vehicle, otherwise there is a risk of an electric shock hazardous to health. Please observe the warnings on page 13.
+> [!warning] Caution
+> Before starting, make absolutely sure that no battery is connected to the drive module or the vehicle, otherwise there is a risk of an electric shock hazardous to health. Please observe the warnings on page 13.
 
 Start by disconnecting the battery pack. Lift the vehicle and make sure the front wheel remains movable, otherwise you cannot access the controller screws. Remove all vehicle parts that are in the way of the installation. On the Schwalbe, these are the cross brace for the leg shield and the motor tunnel, on the SR50 and SR80 the front engine mount. This allows the drive module to be folded down, making installation possible. On SR4-2 and SR4-4 the side panels must be removed. On vehicles with an upper engine mount (KR51, KR51/1, SR4-2, SR4-4), remove the two nuts connecting the M5x engine mount to the drive module.
 
@@ -104,9 +104,9 @@ Then reinstall the cable cover (2), ensuring that none of the old or new cables 
 
 ## Firmware Update
 
-!!! warning "Caution"
-    To use the charging port, Günter (Vehicle Control Unit) must have at least firmware VCU_Firmware_V0.4.0.dfu installed.  
-    Higher versions will also be compatible.
+> [!warning] Caution
+> To use the charging port, Günter (Vehicle Control Unit) must have at least firmware VCU_Firmware_V0.4.0.dfu installed.  
+> Higher versions will also be compatible.
 
 Please refer to the update manual that either came with your kit or can be found under [this link](https://www.second-ride.de/docs) in the folder “Firmware Update”.
 
@@ -114,9 +114,9 @@ Please refer to the update manual that either came with your kit or can be found
 
 ### 1. Start Charging
 
-!!! warning "Caution"
-    To start charging, the charging plug cap must be installed, otherwise the charger will not be recognized, and the charging port will not be enabled.  
-    In addition, the system must be switched on so that the charging port is enabled and charging can begin.
+> [!warning] Caution
+> To start charging, the charging plug cap must be installed, otherwise the charger will not be recognized, and the charging port will not be enabled.  
+> In addition, the system must be switched on so that the charging port is enabled and charging can begin.
 
 Now insert the charging cable into the charging port until it audibly clicks into place. The LED on the vehicle’s button should now change from dim to medium bright to bright. This means the charger is now successfully charging your kit.  
 

@@ -43,8 +43,8 @@ Folgende Werkzeuge benötigst du:
 
 ## Lieferumfang
 
-!!! note "Hinweis: Bitte bewahre deine Verpackung auf"
-    Im Garantiefall wird die Originalverpackung für den Rückversand benötigt.
+> [!note] Hinweis: Bitte bewahre deine Verpackung auf
+> Im Garantiefall wird die Originalverpackung für den Rückversand benötigt.
 
 <h4>Alle Varianten</h4>
 <table>
@@ -271,8 +271,8 @@ Entnehme das Befestigungsblech (7), an dem Steuerteil, Leitungsverbinder (8) und
 
 Nun sollte nur noch der Auspuff an dem Motor befestigt sein. Dieser ist am Motor mit einer großen Mutter befestigt, die mit einer Rohrzange oder einem Hakenschlüssel entfernt werden kann.
 
-!!! tip "Tipp: Wenn die Krümmermutter sich nicht lösen will"
-    Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
+> [!tip] Tipp: Wenn die Krümmermutter sich nicht lösen will
+> Wenn die Krümmermutter sich nicht lösen will, kannst du sie mit einem alten Schlitzschraubenzieher und einem Hammer (am besten aus Gummi oder Holz) in die Kerben der Krümmermutter schlagen und sie so lösen.
 
 Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. Diese kann durch Entfernen der Schraube geöffnet werden.
 
@@ -280,8 +280,8 @@ Die andere Befestigung des Auspuffs liegt hinten in Form einer Rohrschelle vor. 
 
 Bevor der Motor entfernt werden kann, muss noch die Kette vom Antriebsritzel genommen werden. Nimm zuerst den Lichtmaschinendeckel vom Motor ab. Löse dann sowohl die Mutter der Hinterachse rechts, als auch die Steckachse links. Ein paar Umdrehungen reichen hier, da das Hinterrad nur verschoben werden muss. Die kleinen Muttern der Kettenspanner kannst du jetzt nach ganz hinten bis zum Ende des Gewindes schrauben. Nun sollte es möglich sein, das Hinterrad nach vorne zu schieben. Nun ist es an der Zeit, die fettige Kette vom Antriebsritzel herunter zu heben. Dafür haben wir dem Paket Einmalhandschuhe beigelegt.
 
-!!! tip "Tipp: Kette entspannen"
-    Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt.
+> [!tip] Tipp: Kette entspannen
+> Wenn das Moped auf dem Hauptständer aufgebockt ist, kannst du nun durch Anheben am Aufbockgriff das Hinterrad zum Schweben bringen und mit dem Fuß gegen das Hinterrad treten, sodass es 1-2 cm nach vorne kommt.
 
 ### 6. Motor
 
@@ -301,7 +301,7 @@ M8: 24 Nm<br>
 
 ### 1. Antriebmodul Montage
 
-#### Motorhalter montieren
+#### 1.1 Motorhalter montieren
 
 Zuerst muss der Motorhalter in der Motoraufnahme der Schwalbe montiert werden. Nimm dir dafür die M8x100 Außensechskantschraube (1) und lege die Unterlegscheibe auf. Führe die M8 Schraube durch die obere Bohrung der Motoraufnahme auf der Kettenseite. Schiebe nun in dieser Reihenfolge folgende Bauteile auf die Schraube auf: Distanzhülse kurz (2), Motorhalteblech (3), Distanzhülse lang (4), Motorhalteblech (3), Distanzhülse kurz (2). Stoße dann mit der Schraube durch das zweite Rahmenblech der Schwalbe und drehe die M8 Mutter (5) auf die Schraube und drehe diese locker bis zum Anschlag auf. Bei KR51/1 und KR51 ist die zweite Motoraufnahme an dem Zylinderkopf, dazu später mehr. Bei KR51/2 muss nun die zweite M8x100 Schraube (1) durch die untere Bohrung in der Motoraufnahme der Schwalbe auf Kettenseite, dann durch das rechte Motorhalteblech, durch die zweite Distanzhülse lang, durch das linke Motorhalteblech und dann durch die linke Motoraufnahme der Schwalbe. Im Anschluss muss dann die M8 Mutter aufgeschraubt werden.
 
@@ -309,7 +309,7 @@ Zuerst muss der Motorhalter in der Motoraufnahme der Schwalbe montiert werden. N
   <img src="images/image20.png" width="500" loading="lazy" />
 </p>
 
-#### Antriebsmodul einhängen
+#### 1.2 Antriebsmodul einhängen
 
 Stelle das Antriebsmodul erstmal unter das Fahrzeug und führe die Kabel zwischen die beiden Rahmenrohre hoch. Schiebe nun das Antriebsmodul mit dem unteren Anschraubpunkt zwischen die Motorhaltebleche, die du zuvor montiert hast. Schiebe die M8x85 Schraube mit Unterlegscheibe von Kettenseite durch die Motorhaltebleche und durch den unteren Aufnahmepunkt des Antriebsmoduls. Sichere das Ganze mit der M8 Mutter.
 
@@ -323,7 +323,7 @@ Drehe nun das Antriebsmodul nach oben, so dass die obere Aufnahme der Motoraufna
   <img src="images/image50.png" width="500" loading="lazy" />
 </p>
 
-#### Seitendeckel Adapter anbauen
+#### 1.3 Seitendeckel Adapter anbauen
 
 Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube (8), die das Riemenspannstützblech (9) hält und schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben (11) fest.
 
@@ -337,7 +337,7 @@ Nimm nun das Adapterblech für den rechten Seitendeckel (12) und schraube diesen
   <img src="images/image17.png" width="500" loading="lazy" />
 </p>
 
-#### Zylinder und Zylinderkopf montieren
+#### 1.4 Zylinder und Zylinderkopf montieren
 
 Nun kann der Zylinderkopf angebracht werden, der bei der KR51 und KR51/1 für die zweite Motoranbindung des Antriebsmoduls benötigt wird. Dafür müssen die M5 Nutmuttern (13) mit den Gewindestangen (14) versehen werden und in die Nuten im Flansch des Motors eingesetzt werden. Bei KR51/2 muss nicht zwangsläufig ein Zylinder oder Zylinderkopf verbaut werden.
 
@@ -353,7 +353,7 @@ Bei der KR51/1 und KR51 kann nun das Antriebsmodul so positioniert werden, dass 
   <img src="images/image23.png" width="500" loading="lazy" />
 </p>
 
-#### Seitendeckel anbringen
+#### 1.5 Seitendeckel anbringen
 
 Nun kann die Kette auf das Ritzel geschoben werden und die Tachoschnecke des Tachoantriebs auf die Abtriebswelle gesteckt und durch die Spange gesichert werden.
 
@@ -371,7 +371,7 @@ Ein ausführliches Anleitungsvideo zur Montage des Tachoantriebs findest du hier
   <iframe width="700" height="394" src="https://www.youtube.com/embed/lcTrvHQQLhc" frameborder="0" allowfullscreen></iframe>
 </p>
 
-#### Bremszugadapter montieren (KR51 und KR51/1)
+#### 1.6 Bremszugadapter montieren (KR51 und KR51/1)
 
 Bei KR51 und KR51/1 muss der Bremszugadapter montiert werden, wenn kein originaler Lichtmaschinendeckel verbaut wird. Dafür muss die obere Hülsenmutter des Lichtmaschinendeckels entfernt werden. An diesem Punkt wird der Bremszugadapter montiert. Führe dafür die M5x30 Hülsenmutter (23) durch die obere Bohrung des Bremszugbleches (24) und stecke die beiden Unterlegscheiben (25) auf. Führe nun die Hülsenmutter in den Anschraubpunkt des Lichtmaschinendeckels und schraube diese dort fest.
 
@@ -440,8 +440,8 @@ Bevor du die Muttern fest ziehst, müssen die 6-poligen Signalkabel "System Com"
   <img src="images/image31.png" width="500" loading="lazy" />
 </p>
 
-!!! note "Hinweis: Hier könnten in Zukunft weitere MID50 Akkus verbunden werden"
-    Das MID50 System ist um weitere Akkus oder Zubehör, wie z.B. einen externen Ladeanschluss, erweiterbar. Dafür haben wir diese Sammelpunkte vorgesehen. Dort werden in Zukunft diese zusätzlichen Komponenten angeschlossen. Um neben den Leistungsanschlüssen auch die Kommunikation zu verbinden, müssen die 6-poligen Signalkabel verbunden werden.
+> [!note] Hinweis: Hier könnten in Zukunft weitere MID50 Akkus verbunden werden
+> Das MID50 System ist um weitere Akkus oder Zubehör, wie z.B. einen externen Ladeanschluss, erweiterbar. Dafür haben wir diese Sammelpunkte vorgesehen. Dort werden in Zukunft diese zusätzlichen Komponenten angeschlossen. Um neben den Leistungsanschlüssen auch die Kommunikation zu verbinden, müssen die 6-poligen Signalkabel verbunden werden.
 
 Bevor die Muttern endgültig festgezogen werden können, stelle sicher, dass die Kabel nirgends gequetscht werden, an keiner scharfen Kante anliegen und durch die dafür vorgesehenen Aussparungen rechts und links am Akkuträger hindurchlaufen.
 
@@ -455,11 +455,11 @@ Als nächstes musst du noch das "EDU AUX Cable" Kabel vom Antriebsmodul mit dem 
 
 Jetzt bietet es sich an, das Motorabschaltungskabel anzustecken.
 
-!!! info "Info: Was das Motorabschaltungskabel macht"
-    Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
+> [!info] Info: Was das Motorabschaltungskabel macht
+> Mithilfe von diesem Kabel erfährt das Antriebsmodul, ob du die Hinterradbremse (oder auch Vorderradbremse, wenn du dort auch einen Bremskontakt hast) betätigst. Solange die Bremse betätigt ist, ist es dann nicht mehr möglich, Gas zu geben. Wir haben diese Funktion vorgesehen, weil es keine Kupplung mehr gibt und somit keine Möglichkeit mehr, die Kraftübertragung zu trennen, wenn ein Fehler mit der Gasannahme auftritt. Zum Beispiel könnte der Gasgriff auf offener Stellung hängen bleiben. Ein solches Szenario stellt keine Gefahr mehr dar, wenn man nur die Fußbremse betätigen muss, um die Leistung des Motors wegzunehmen.
 
-!!! tip "Tipp: Externer Bremslichtschalter für mehr Zuverlässigkeit"
-    Der originale Bremslichttaster von Simson befindet sich in der Nabe des Hinterrads. Dort ist er nur sehr schwer einstellbar und zusätzlich bauartbedingt unzuverlässig. Wir empfehlen stark einen externen Bremslichtschalter nachzurüsten und Bremslicht und Motorabschaltung daran anzuschließen.
+> [!tip] Tipp: Externer Bremslichtschalter für mehr Zuverlässigkeit
+> Der originale Bremslichttaster von Simson befindet sich in der Nabe des Hinterrads. Dort ist er nur sehr schwer einstellbar und zusätzlich bauartbedingt unzuverlässig. Wir empfehlen stark einen externen Bremslichtschalter nachzurüsten und Bremslicht und Motorabschaltung daran anzuschließen.
 
 Das Kabel ist Teil des "AUX DCDC-Brake Cable" Kabels, welches du vorher schon angeschlossen hast. Nimm das lange schwarze Kabel und führe es entlang der Schwinge zum Bremskontakt (24) am Hinterrad. Entferne dort das originale Bremssignalkabel (23), stecke unseres auf und verbinde das originale mit der Extra-Fahne, welche von unserem Kabel abgeht. Wir haben dir noch eine Kontaktfahne zum Anschrauben beigelegt, falls deine zu stark korrodiert ist oder komplett fehlt. Nutze die Kabelbinder, um wie auch das originale Bremskontaktkabel das Motorabschaltungskabel an der Schwinge entlang zu führen, so dass es nicht durch dessen Auf- und Ab-Bewegung beschädigt werden kann.
 
@@ -499,11 +499,11 @@ Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort i
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen. Dann ist jetzt der Zeitpunkt gekommen, um die Scheinwerferbirne und Armaturenbeleuchtungsbirne am Zündschloss zu tauschen.
 
-!!! note "Hinweis: Spezielle Birnenfassung bei KR51 und KR51/1"
-    Bei frühen KR51 und KR51/1 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
+> [!note] Hinweis: Spezielle Birnenfassung bei KR51 und KR51/1
+> Bei frühen KR51 und KR51/1 Modellen kann es sein, dass statt der typischen BA15D eine andere Birnenfassung BA20D verbaut ist. Damit dort 12V-Birnen passen, muss auf eine BA15D Fassung umgerüstet werden.
 
-!!! info "Info: Vorteil 12V gegenüber 6V Beleuchtung"
-    Die 12V Glühbirnen sind deutlich heller als die 6V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
+> [!info] Info: Vorteil 12V gegenüber 6V Beleuchtung
+> Die 12V Glühbirnen sind deutlich heller als die 6V Versionen und auch die Hupe ist mit 12V lauter. Nach dem Umbau bist du also sicherer unterwegs auf den Straßen.
 
 Jetzt kannst du das Zündschloss und die Lampenmaske wieder anbringen und das originale Zündschloss auf die Stellung mit dem Scheinwerfer- bzw. "II"-Symbol (die dritte im Uhrzeigersinn) stellen.
 
@@ -529,6 +529,9 @@ KR51/1 → M8x10 ohne Kontermutter & stärkere Feder
 
 Schraube die passende Stellschraube (1) in den Deckel (2) ein und schiebe den Gaszug durch die Stellschraube. Schiebe von der anderen Seite die Feder auf und schiebe nun den Magnetschieber (3) seitlich auf den Gaszug auf, bis dieser in der Mitte dessen sitzt. Jetzt kannst du den Magnetschieber mitsamt Feder in den Bowdenzugsensor einsetzen und den Deckel mit etwas Druck aufdrehen.
 
+> [!warning] Wichtig: Kappe vollständig einschrauben
+> Achte darauf, dass die Gaszugsensorkappe vollständig eingeschraubt ist und kein Spalt darunter zu sehen ist.
+
 <p align="center">
   <img src="images/image35.png" width="500" loading="lazy" />
 </p>
@@ -543,7 +546,7 @@ Achte darauf, dass dein Gaszug und Gasdrehgriff geringstmöglichen Reibungswider
 
 Montiere zum Schluss wieder den Motortunnel. Hierbei kann es je nach dem Zustand deiner Schwalbe sein, dass der Motortunnel nicht an dem Motordeckel vorbei passt, da der Spalt dort kleiner geworden ist. Hier empfiehlt es sich, das Gummiteil und die Schraube an der Stelle zu entfernen.
 
-!!! warning "Wichtig: Firmwareupdate durchführen"
-    Bitte führe bevor du das umgebaute Fahrzeug benutzt erst ein Firmwareupdate durch. Wie das funktioniert, erfährst du im Kapitel "Firmware Update".
+> [!warning] Wichtig: Firmwareupdate durchführen
+> Bitte führe bevor du das umgebaute Fahrzeug benutzt erst ein Firmwareupdate durch. Wie das funktioniert, erfährst du im Kapitel "Firmware Update".
 
 Die digitale Drosselung deines Antriebs wird im Kapitel [Antrieb drosseln](../throttling/how-to-throttle-your-drive/index.md) beschrieben.

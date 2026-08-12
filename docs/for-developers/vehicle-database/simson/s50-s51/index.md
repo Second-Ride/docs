@@ -1,8 +1,8 @@
 # Simson S50 / S51
 
-!!! success "Von Second Ride freigegeben"
-
-    Das MID50 Umbaukit für Simson S50/S51 ist fertig entwickelt und im [Shop](https://second-ride.de/shop) verfügbar.
+> [!success] Von Second Ride freigegeben
+>
+> Das MID50 Umbaukit für Simson S50/S51 ist fertig entwickelt und im [Shop](https://second-ride.de/shop) verfügbar.
 
 === "Foto vor der Elektrifizierung"
 

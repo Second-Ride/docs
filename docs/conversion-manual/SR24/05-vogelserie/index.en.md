@@ -131,8 +131,8 @@ First, disconnect all electrical and mechanical connections on the engine. Unscr
 
 Now only the exhaust should still be attached to the engine. It is fastened to the engine with a large nut that can be removed with a pipe wrench or hook wrench.
 
-!!! note "Tip"
-    If the exhaust nut won’t come loose, you can tap it loose by striking the notches of the nut with an old flat screwdriver and a hammer (preferably rubber or wooden).
+> [!note] Tip
+> If the exhaust nut won’t come loose, you can tap it loose by striking the notches of the nut with an old flat screwdriver and a hammer (preferably rubber or wooden).
 
 The other fastening of the exhaust is located at the rear in the form of a clamp, which can be opened by removing the screw.
 
@@ -140,8 +140,8 @@ The other fastening of the exhaust is located at the rear in the form of a clamp
 
 Before the engine can be removed, the chain must be taken off the drive sprocket. First, remove the alternator cover from the engine. Then loosen both the nut of the rear axle on the right and the axle bolt on the left. A few turns are enough, as the rear wheel only needs to be moved. You can now screw the small nuts of the chain tensioners all the way to the back, to the end of the thread. Now it should be possible to push the rear wheel forward. It is now time to lift the greasy chain off the drive sprocket. We included disposable gloves in the package for this purpose.
 
-!!! note "Tip"
-    If the moped is on the center stand, you can lift it slightly using the lifting handle and tap the rear wheel forward with your foot so it moves 1–2 cm.
+> [!note] Tip
+> If the moped is on the center stand, you can lift it slightly using the lifting handle and tap the rear wheel forward with your foot so it moves 1–2 cm.
 
 ### 4. Engine
 
@@ -232,8 +232,8 @@ Under [this link](https://drive.google.com/drive/folders/1UddQeI-xHepiVfpnFqAwRG
 
 If your vehicle is still equipped with 6V electrics, you must replace all bulbs, the flasher relay, and possibly the horn with 12V components. Now is the right time to replace the headlight bulb and the dashboard illumination bulb at the ignition switch.
 
-!!! tip "Good to know"
-    The 12V bulbs are significantly brighter than the 6V versions, and the horn is louder with 12V as well. After conversion, you’ll be safer on the road.
+> [!tip] Good to know
+> The 12V bulbs are significantly brighter than the 6V versions, and the horn is louder with 12V as well. After conversion, you’ll be safer on the road.
 
 Now you can reinstall the ignition switch and the lamp mask, and set the original ignition switch to the position with the headlight or “II” symbol (the third clockwise).
 
@@ -307,8 +307,8 @@ Loosely screw the front mount with washers and nuts. Place the seat bench on so 
 
 Carefully lift the seat bench out of the lock without shifting the position of the front mount and tighten it in exactly this position.
 
-!!! warning "Warning"
-    The seat bench does not have a passenger strap. Therefore, it is necessary that you mount the lifting handle on the luggage rack so that your vehicle can still be used for two-up riding.
+> [!warning] Warning
+> The seat bench does not have a passenger strap. Therefore, it is necessary that you mount the lifting handle on the luggage rack so that your vehicle can still be used for two-up riding.
 
 ### 6. Throttle Cable
 
@@ -325,7 +325,7 @@ To ensure that turning the throttle grip is properly converted into an electrica
 Now it’s time to adjust the throttle cable. At the top of the throttle cable, there is an adjustment screw. When the throttle grip is turned fully forward (no throttle), there should be just no play in the throttle cable housing. By unscrewing the adjuster, you reduce the play. Later, when the battery is connected, you can check your adjustment:  
 If you turn the ignition key and nothing happens when you twist the throttle, the screw is turned out too far. If throttle input works and there is no play in the housing, then the setting is just right. You don’t need to worry about the upper stop being incorrect or reducing maximum power, since at full throttle the stop is always the cap, which is the same in every throttle cable setting.
 
-!!! warning "Warning"
-    Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor could be damaged by rain.
+> [!warning] Warning
+> Be sure to reinstall the rubber cover (20) on the carburetor cap. Otherwise, the sensor could be damaged by rain.
 
 Make sure that the throttle cable and grip have the least possible friction. The throttle grip should snap back completely from the fully open position using only spring force. If this is not the case, it may help to disassemble, clean, and re-grease the throttle grip and/or replace the Bowden cable. It is also possible that the rubber of the throttle grip is rubbing against the clamp piece. In this case, slide the rubber outward on the disassembled throttle grip tube. A video tutorial on throttle grip maintenance can be found on the [2Radgeber YouTube channel](https://www.bing.com/videos/riverview/relatedvideo?&q=gasdrehgriff+warten+und+montieren&&mid=9816A85961D8BA4C28EC9816A85961D8BA4C28EC&mmscn=mtsc&aps=40&FORM=VRDGAR).
