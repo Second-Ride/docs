@@ -2,8 +2,8 @@
 
 Die Firmware ist die Software, mit der dein Fahrzeug entscheidet, wie es beschleunigt, bremst, lädt, welchen Ladestand es dir anzeigt und so weiter. Wir sind ständig dabei, dieses Verhalten zu verbessern und wollen dich an diesen Verbesserungen teilhaben lassen. Daher zeigen wir dir hier nun Schritt für Schritt, wie du eine neue Firmware auf deinem Second Ride Umbausatz installierst.
 
-!!! warning "Warnhinweis: Vorsicht nach Firmwareupdate"
-    Ein Firmware-Update verändert das Fahrverhalten. Es kann zu höherer Beschleunigung, anderem Bremsverhalten, sensiblerer Gasannahme etc. kommen. Sei also bei den ersten Fahrten nach dem Update besonders aufmerksam und vorsichtig und verlass dich nicht auf die bisherige Erfahrung mit dem Antrieb. Lies dir außerdem die Änderungshistorie am Ende dieses Dokuments aufmerksam durch. 
+> [!warning] Warnhinweis: Vorsicht nach Firmwareupdate
+> Ein Firmware-Update verändert das Fahrverhalten. Es kann zu höherer Beschleunigung, anderem Bremsverhalten, sensiblerer Gasannahme etc. kommen. Sei also bei den ersten Fahrten nach dem Update besonders aufmerksam und vorsichtig und verlass dich nicht auf die bisherige Erfahrung mit dem Antrieb. Lies dir außerdem die Änderungshistorie am Ende dieses Dokuments aufmerksam durch. 
 
 
 ## 1. Aktivieren des Konfigurationsmodus
@@ -16,9 +16,13 @@ Das Firmwareupdate läuft über eine Bluetooth-Verbindung, daher haben wir ein B
 
 [update.second-ride.de](https://update.second-ride.de)
 
+<p align="center">
+  <img src="images/qr-update-second-ride-de.png" width="250" loading="lazy" />
+</p>
+
 ## 3. Durchführung des Firmwareupdates
 
 Alle Akkus und Antriebsmodule haben eigenständige Steuergeräte, welche jeweils geupdated werden müssen. Die Reihenfolge spielt hier keine Rolle. Wichtig ist nur, dass das Firmwareupdate für alle Einheiten durchgeführt wird. Folge dafür einfach den Anweisungen auf der Website.
 
-!!! warning "Warnhinweis"
-    Lasse das System während des Software-Updates eingeschaltet. Ansonsten kann es zu Schäden an der Elektronik kommen.
+> [!warning] Warnhinweis
+> Lasse das System während des Software-Updates eingeschaltet. Ansonsten kann es zu Schäden an der Elektronik kommen.
