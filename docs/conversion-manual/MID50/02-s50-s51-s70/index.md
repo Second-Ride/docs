@@ -210,7 +210,7 @@ Bevor du mit der Demontage beginnst, entferne die Batterie des Fahrzeugs, um Kur
 Zuerst werden alle elektrischen und mechanischen Verbindungen am Motor gelöst. Stell sicher, dass der Benzinhahn zugedreht ist und zieh den Schlauch vom Vergaser ab. Den verbleibenden Treibstoff im Tank kannst du nun mit dem Schlauch in ein geeignetes Gefäß (z.B. Benzinkanister) ablassen. Löse die Schelle der Ansaugmuffe und zieh diese vom Vergaser ab. Schraube den Gas-(2) und Starter-Bowdenzug(1) vom Vergaser ab, hänge den Kupplungszug aus der Halterung am Motorblock(5) und drehe die Tachowelle aus der Halterung(6). Entferne nun noch den Zündkerzenstecker(3) und das Massekabel vom Motorblock. Entferne den linken Herzkastendeckel, um die von der Lichtmaschine kommenden Kabel abstecken und entfernen zu können.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e76c6f2a-b173-416a-9c8b-149207d86b6b" width="600" loading="lazy" />
+  <img src="images/motoranschluesse-demontage.jpg" width="600" loading="lazy" />
 </p>
 
 ### 2. Auspuff
@@ -581,7 +581,7 @@ Um den Akku im Herzkasten zu verriegeln, muss das Akkufach vollständig geschlos
 Die Armatureneinheit bestehend aus Zündschloss(14) und Taster(15) wird an der vorderen linken M6 Schraube der Lenkerauflage befestigt. Die Ladestandsanzeige(13) sollte zuerst an das Halterungsblech geschraubt und der rechteckige Stecker vom Zündschloss an der Rückseite eingesteckt werden. In der Pappschachtel der Ladestandsanzeige sind Unterlegscheiben und Muttern zur Befestigung am Blech beigelegt. Dann kann das Halterungsblech analog zum Tacho an der linken Stoßdämpferschraube befestigt werden. Stecke nun den schwarzen Stecker, welcher vom Zündschloss kommt, in die Ladestandsanzeige. Das lange Kabel vom Zündschloss kannst du entlang des Rahmens unter dem Tank hindurch in zu dem Herzkasten führen. Auf der Rückseite des Antriebsmoduls kommt ein Kabel mit passendem Stecker heraus. Führe es in den Herzkasten und verbinde die Stecker dort. Auf beiden Steckern sind Pfeile aufgebracht, welche die richtige Orientierung zum Zusammenstecken anzeigen. Befestige die Kabel sicher am Rahmen mithilfe der mitgelieferten Kabelbinder. Achte darauf, dass bei vollem Lenkeinschlag in beide Richtungen das Kabel nicht gezerrt wird oder es sogar das Lenken behindert.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e2119084-17cc-459c-9b04-c3a3fc77cd7f" width="700" loading="lazy" />
+  <img src="images/armaturen-verkabelung.jpg" width="700" loading="lazy" />
 </p>
 
 ### 5. Gaszug
