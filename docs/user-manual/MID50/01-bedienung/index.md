@@ -168,6 +168,13 @@ Zum Abschließen einfach den Zündschlüssel nach links drehen und herausziehen.
 
 ---
 
+## Wattiefe
+
+> [!warning] Antriebsmodul nicht ins Wasser eintauchen
+> Fahre nicht durch Pfützen oder Wasserstellen, die tiefer sind als die Unterseite des Antriebsmoduls. Das Antriebsmodul muss sich zu jeder Zeit oberhalb der Wasseroberfläche befinden. Andernfalls kann es zur Beschädigung des Antriebs kommen.
+
+---
+
 ## Reinigung
 
 Bitte keinen Hochdruckreiniger und keine chemischen Reinigungsmittel zum Reinigen des umgebauten Fahrzeugs benutzen. Verwende am Besten einfach einen nassen Lappen und Seife bzw. Fit-Wasser ;).
@@ -175,10 +182,6 @@ Bitte keinen Hochdruckreiniger und keine chemischen Reinigungsmittel zum Reinige
 ---
 
 ## Riemen Wartung und Tausch
-
-<!-- Link vorübergehend ausgeblendet
-<div><a href="https://second-ride.de/riemenanleitung-als-video?utm_source=anleitung">Unter diesem Link findest du das folgende Kapitel als Videoanleitung.</a></div>
--->
 
 > [!warning] Warnung Zuerst Akkus entfernen
 > Für folgende Schritte müssen alle Akkus aus dem System entfernt sein und der Schlüssel gezogen sein, um ein Drehen des Antriebs während der Wartung des Systems zu verhindern.

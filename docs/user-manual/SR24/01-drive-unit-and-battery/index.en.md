@@ -191,6 +191,13 @@ When lifting (loading, etc.), never lift by seat bench or drive module. Use lugg
 
 ---
 
+## Fording Depth
+
+> [!warning] Do not submerge the drive module
+> Do not ride through puddles or water deeper than the underside of the drive module. The drive module must remain above the water surface at all times. Otherwise, the drive may be damaged.
+
+---
+
 ## Cleaning
 
 Do not use pressure washer or harsh chemicals. Use damp cloth and mild soap.
