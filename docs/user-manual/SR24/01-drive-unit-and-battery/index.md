@@ -213,6 +213,13 @@ Wenn du das Fahrzeug mal anheben musst, z.B. zum Aufbocken oder Einladen in eine
 
 ---
 
+## Wattiefe
+
+> [!warning] Antriebsmodul nicht ins Wasser eintauchen
+> Fahre nicht durch Pfützen oder Wasserstellen, die tiefer sind als die Unterseite des Antriebsmoduls. Das Antriebsmodul muss sich zu jeder Zeit oberhalb der Wasseroberfläche befinden. Andernfalls kann es zur Beschädigung des Antriebs kommen.
+
+---
+
 ## Reinigung
 
 Bitte keinen Hochdruckreiniger und keine chemischen Reinigungsmittel zum Reinigen des umgebauten Fahrzeugs benutzen. Verwende am Besten einfach einen nassen Lappen und Seife bzw. Fit-Wasser ;). 
