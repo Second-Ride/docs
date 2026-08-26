@@ -294,9 +294,12 @@ TEILEGUTACHTEN_H3_RE = re.compile(r'<h3 id="teilegutachten">.*?</h3>\s*')
 
 
 def remove_teilegutachten(text):
-    """Teilegutachten MID50 + SR24 sollen nicht im Druck erscheinen
-    (Nutzer-Feedback) -- ganzer Abschnitt inkl. Ueberschrift raus, da beide
-    Tabs die einzigen Inhalte darunter waren."""
+    """Der Tab-Umschalter mit den Teilegutachten-PDFs (Web-Interaktion) soll
+    nicht als kaputt aussehender Fliesstext im Druck landen -- ganzer
+    Abschnitt inkl. Ueberschrift raus, da beide Tabs die einzigen Inhalte
+    darunter waren. Das Teilegutachten MID50 selbst wird stattdessen als
+    eigenstaendiges, amtliches PDF ans Ende des Dokuments gehaengt (siehe
+    assemble_final.py)."""
     m = TEILEGUTACHTEN_H3_RE.search(text)
     if not m:
         return text
@@ -677,16 +680,39 @@ def rebalance_checklists(text):
     return TABLE_RE.sub(rebalance, text)
 
 
-def wrap_compact(text):
-    # Grenze ist ausschliesslich das naechste h1 -- die Kopfzeilen-Vorlage
-    # dieses Kapitels selbst steht jetzt DIREKT NACH seiner eigenen h1 (siehe
-    # inject_pageheads) und darf hier nicht mehr als Stopp-Marker dienen,
-    # sonst wird nur die Ueberschrift, nicht der Kapitelinhalt gestaucht.
-    for cid in COMPACT_CHAPTERS:
-        m = re.search(rf'<h1 id="{cid}">.*?(?=<h1\b|$)', text, re.S)
-        if m:
-            text = text[:m.start()] + '<div class="compact">' + m.group(0) + "</div>" + text[m.end():]
-    return text
+CHAPTER_BOUNDARY_RE = re.compile(r'<h1\b[^>]*>.*?(?=<h1\b|$)', re.S)
+CHAPTER_ID_RE = re.compile(r'<h1 id="([^"]*)"')
+
+
+def wrap_chapters(text):
+    """Jedes Kapitel (durch h1 abgegrenzt) in einen Wrapper-Div packen, der
+    den Seitenumbruch traegt -- direkt auf der h1 wird break-before:page von
+    WeasyPrint verschluckt, wenn das vorherige Element (z.B. eine Tabelle mit
+    break-inside:avoid) bereits von selbst auf die naechste Seite gerutscht
+    ist, statt durch einen erzwungenen Umbruch (siehe print.css). Das erste
+    Kapitel bleibt unverpackt: es folgt direkt auf das Inhaltsverzeichnis
+    (das schon break-after:page hat), ein zusaetzlicher Umbruch waere hier
+    eine leere Seite.
+
+    Grenze ist ausschliesslich das naechste h1 -- die Kopfzeilen-Vorlage
+    dieses Kapitels selbst steht jetzt DIREKT NACH seiner eigenen h1 (siehe
+    inject_pageheads) und darf hier nicht als Stopp-Marker dienen, sonst wird
+    nur die Ueberschrift, nicht der Kapitelinhalt mitverpackt."""
+    matches = list(CHAPTER_BOUNDARY_RE.finditer(text))
+    if not matches:
+        return text
+    out = [text[:matches[0].start()]]
+    for i, m in enumerate(matches):
+        segment = m.group(0)
+        if i == 0:
+            out.append(segment)
+            continue
+        cid_m = CHAPTER_ID_RE.match(segment)
+        cls = "chapter-start"
+        if cid_m and cid_m.group(1) in COMPACT_CHAPTERS:
+            cls += " compact"
+        out.append(f'<div class="{cls}">{segment}</div>')
+    return "".join(out)
 
 
 # Eine Ueberschrift, der ohne jeden Fliesstext direkt eine Tabelle oder eine
@@ -824,7 +850,7 @@ def main():
     # innerhalb von .compact und wird von dessen "img { width:39pt }"-Regel
     # mitgetroffen (verzerrtes Logo bei Kleingeschriebenes).
     text = inject_pageheads(text)
-    text = wrap_compact(text)
+    text = wrap_chapters(text)
     text = glue_headings(text)
     text = glue_text_to_image(text)
     text = glue_image_pairs(text)
