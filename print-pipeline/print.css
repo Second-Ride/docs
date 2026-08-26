@@ -119,10 +119,23 @@ h1 {
   font-size: 18pt;
   padding-top: 20pt;
   margin: 0 0 6pt 0;
-  break-before: page;
   break-after: avoid;
 }
-h1:first-of-type { break-before: avoid; }
+
+/* Kapitelanfang: der Umbruch sitzt auf dem Wrapper-Div (build_full.py
+   wrap_chapters), nicht direkt auf der h1 -- WeasyPrint verschluckt
+   break-before auf der h1 sonst zuverlaessig, wenn das vorherige Element
+   (z.B. eine Tabelle mit break-inside:avoid) bereits von selbst auf die
+   naechste Seite gerutscht ist, statt durch einen erzwungenen Umbruch. Das
+   erste Kapitel bleibt in build_full.py unverpackt (folgt direkt auf das
+   Inhaltsverzeichnis, das schon break-after:page hat), daher kein
+   Sonderfall hier noetig. */
+.chapter-start {
+  break-before: page;
+}
+.chapter-start h1 {
+  break-before: avoid;
+}
 
 /* --- Ueberschrift + direkt folgende Tabelle/kleinere Ueberschrift ohne
    Fliesstext dazwischen: niemals trennen (build_full.py glue_headings) --- */
@@ -335,15 +348,14 @@ a { color: inherit; text-decoration: none; }
 /* --- Kompakte Kapitel: muessen auf einer Seite bleiben (rules.py COMPACT_SCALE,
    hier staerker als die dort gemessenen 0.72, weil Layout/Zeilenhoehe abweichen --
    iterativ ermittelt statt uebernommen, siehe fitcheck-Ansatz in FORMAT-RULES.md 10c) */
+/* Der Seitenumbruch kommt jetzt generell von .chapter-start (siehe oben) --
+   .compact steht immer zusammen mit .chapter-start auf demselben Div
+   (build_full.py wrap_chapters) und ist hier nur noch fuer die gestauchte
+   Optik zustaendig. */
 .compact {
   font-size: 0.85em;
   line-height: 1.25;
-  /* Umbruch auf dem Wrapper selbst: direkt auf dem inneren h1 wird er von
-     WeasyPrint verschluckt, wenn die vorherige Tabelle (break-inside:avoid)
-     bereits natuerlich auf die naechste Seite gerutscht ist. */
-  break-before: page;
 }
-.compact h1 { break-before: avoid; }
 .compact h1 { font-size: 16pt; margin: 0 0 2pt 0; }
 .compact p { margin: 0 0 3pt 0; }
 .compact table td { padding: 1.5pt; }
