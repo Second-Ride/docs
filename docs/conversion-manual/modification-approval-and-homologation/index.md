@@ -67,6 +67,9 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
 
 ## Schritt 3: Betriebserlaubnis bei Zulassungsbehörde aktualisieren
 
+> [!info] Hinweis
+> Das Teilegutachten findest du am Ende der Anleitung.
+
 - Benötigt: oben genannter Prüfbericht, Teilegutachten, gültige Fahrzeugpapiere
 - Die gültigen Papiere werden mit “ungültig” entwertet
 - Ausstellung neuer Papiere mit der Antriebsart “Elektro”
