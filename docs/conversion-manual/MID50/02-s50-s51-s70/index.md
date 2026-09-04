@@ -307,7 +307,7 @@ Drehe nun das Antriebsmodul nach oben, so dass die obere Aufnahme der Motoraufna
 
 #### 1.3 Seitendeckel Adapter anbauen
 
-Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube(8), die das Riemenspannstützblech(9) hält und schiebe den Kupplungsdeckeladapter(10) zwischen das Riemenspannstützblech(9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben(11) fest. 
+Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Hier musst du den Kupplungsdeckeladapter wirklich parallel aufsetzen, um ihn unter das Riemenspannstützblech schieben zu können. Schraube diesen mit den drei Senkkopfschrauben (11) fest.
 
 <p align="center">
   <img src="../01-schwalbe/images/image5.png" width="500" loading="lazy" />
