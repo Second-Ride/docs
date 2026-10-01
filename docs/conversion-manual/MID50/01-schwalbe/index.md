@@ -323,21 +323,7 @@ Drehe nun das Antriebsmodul nach oben, so dass die obere Aufnahme der Motoraufna
   <img src="images/image50.png" width="500" loading="lazy" />
 </p>
 
-#### 1.3 Seitendeckel Adapter anbauen
-
-Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), entferne die M5 Außensechskantschraube (8), die das Riemenspannstützblech (9) hält und schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Schraube diesen mit den drei Senkkopfschrauben (11) fest.
-
-<p align="center">
-  <img src="images/image5.png" width="500" loading="lazy" />
-</p>
-
-Nimm nun das Adapterblech für den rechten Seitendeckel (12) und schraube diesen am Antriebsmodul fest. Nutze dafür die 8x Senkkopfschraube (11) und ziehe sie der Reihenfolge nach fest.
-
-<p align="center">
-  <img src="images/image17.png" width="500" loading="lazy" />
-</p>
-
-#### 1.4 Zylinder und Zylinderkopf montieren
+#### 1.3 Zylinder und Zylinderkopf montieren
 
 Nun kann der Zylinderkopf angebracht werden, der bei der KR51 und KR51/1 für die zweite Motoranbindung des Antriebsmoduls benötigt wird. Dafür müssen die M5 Nutmuttern (13) mit den Gewindestangen (14) versehen werden und in die Nuten im Flansch des Motors eingesetzt werden. Bei KR51/2 muss nicht zwangsläufig ein Zylinder oder Zylinderkopf verbaut werden.
 
@@ -353,6 +339,20 @@ Bei der KR51/1 und KR51 kann nun das Antriebsmodul so positioniert werden, dass 
   <img src="images/image23.png" width="500" loading="lazy" />
 </p>
 
+#### 1.4 Seitendeckel Adapter anbauen
+
+Nachdem das Antriebsmodul im Fahrzeug sitzt, können die Seitendeckel Adapter angebracht werden. Für die linke Seite (in Fahrtrichtung), schiebe den Kupplungsdeckeladapter (10) zwischen das Riemenspannstützblech (9) und Antriebsmodul, bis die Montagepunkte beider übereinstimmen. Hier musst du den Kupplungsdeckeladapter wirklich parallel aufsetzen, um ihn unter das Riemenspannstützblech schieben zu können. Schraube diesen mit den drei Senkkopfschrauben (11) fest.
+
+<p align="center">
+  <img src="images/image5.png" width="500" loading="lazy" />
+</p>
+
+Nimm nun das Adapterblech für den rechten Seitendeckel (12) und schraube diesen am Antriebsmodul fest. Nutze dafür die 8x Senkkopfschraube (11) und ziehe sie der Reihenfolge nach fest.
+
+<p align="center">
+  <img src="images/image17.png" width="500" loading="lazy" />
+</p>
+
 #### 1.5 Seitendeckel anbringen
 
 Nun kann die Kette auf das Ritzel geschoben werden und die Tachoschnecke des Tachoantriebs auf die Abtriebswelle gesteckt und durch die Spange gesichert werden.
@@ -361,7 +361,11 @@ Nun kann die Kette auf das Ritzel geschoben werden und die Tachoschnecke des Tac
   <img src="images/image4.png" width="500" loading="lazy" />
 </p>
 
-Im Anschluss muss der Lichtmaschinendeckel angeschraubt werden. Bei der KR51/1 und der KR51 müssen vorher die Kettenschlauchadapter in die Kettenschläuche eingeklipst werden, damit diese korrekt in dem M500 Lichtmaschinendeckel passen.
+Im Anschluss muss der M500 Lichtmaschinendeckel(2) angeschraubt werden. Bei der KR51/1 und der KR51 müssen vorher die Kettenschlauchadapter(1) in die Kettenschläuche eingeklipst werden, damit diese korrekt an den M500 Lichtmaschinendeckel(2) passen.
+
+<p align="center">
+  <img src="images/Kettenschlauchadapter.png" width="500" loading="lazy" />
+</p>
 
 Nun kann das Tachoritzel des mitgelieferten Tachoantriebs in den Lichtmaschinendeckel eingesetzt werden. Fette zuerst das Ritzel mit dem mitgelieferten Schmierfett an beiden Enden. Setze nun das Tachoritzel mit dem Vierkant nach oben in den Lichtmaschinendeckel und setze die Kunststoffabdeckung bis zum Anschlag ein. Befestige diese dann durch das Eintreiben des Splintes von Außen. Dann kann der Lichtmaschinendeckel mit den Hülsenmuttern montiert werden und die Tachowelle in dem dafür vorgesehenen Gewinde festgeschraubt werden. So funktioniert dein Originaltacho einfach weiter. Achte  darauf, dass die Kettenschläuche richtig in der Aufnahme davon im Lichtmaschinendeckel sitzen.
 
@@ -373,7 +377,7 @@ Ein ausführliches Anleitungsvideo zur Montage des Tachoantriebs findest du hier
 
 #### 1.6 Bremszugadapter montieren (KR51 und KR51/1)
 
-Bei KR51 und KR51/1 muss der Bremszugadapter montiert werden, wenn kein originaler Lichtmaschinendeckel verbaut wird. Dafür muss die obere Hülsenmutter des Lichtmaschinendeckels entfernt werden. An diesem Punkt wird der Bremszugadapter montiert. Führe dafür die M5x30 Hülsenmutter (23) durch die obere Bohrung des Bremszugbleches (24) und stecke die beiden Unterlegscheiben (25) auf. Führe nun die Hülsenmutter in den Anschraubpunkt des Lichtmaschinendeckels und schraube diese dort fest.
+Bei KR51 und KR51/1 muss der Bremszugadapter montiert werden, wenn kein originaler Lichtmaschinendeckel verbaut wird. Dafür muss die obere Hülsenmutter des Lichtmaschinendeckels entfernt werden. An diesem Punkt wird der Bremszugadapter montiert. Führe dafür die M5x30 Hülsenmutter (23) durch die obere Bohrung des Bremszugbleches (24) und stecke die <u>BEIDEN</u> Unterlegscheiben (25) zwischen Adapter und Seitendeckel auf. Führe nun die Hülsenmutter in den Anschraubpunkt des Lichtmaschinendeckels und schraube diese dort fest.
 
 <p align="center">
   <img src="images/image29.png" width="300" loading="lazy" />
