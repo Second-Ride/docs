@@ -5,3 +5,5 @@ mkdocs-glightbox==0.5.2
 mkdocs-llmstxt
 neoteroi-mkdocs==1.2.0
 mkdocs-material[imaging]
+# pymdownx.quotes (Callouts in mkdocs.yml) fehlt in 10.16, der Server baut mit 10.21.2
+pymdown-extensions==10.21.2
