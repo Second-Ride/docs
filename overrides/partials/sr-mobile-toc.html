@@ -1,0 +1,29 @@
+{#-
+  Inhaltsverzeichnis im Seitenfluss, nur auf schmalen Bildschirmen (theme.css
+  blendet es ab 960px aus, dort steht es rechts). Zwei Ebenen, aufklappbar.
+  Die Druck-Pipeline entfernt es beim Herauslösen des Artikels
+  (print-pipeline/build_full.py, MOBILE_TOC_RE).
+-#}
+{% set toc = page.toc %}
+{% if toc | first is defined and "<h1" in page.content and toc | length == 1 %}
+  {% set toc = (toc | first).children %}
+{% endif %}
+{% if toc | first is defined %}
+  <details class="sr-mobile-toc">
+    <summary>Auf dieser Seite</summary>
+    <ol class="sr-mobile-toc__list">
+      {% for item in toc %}
+        <li>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+          {% if item.children %}
+            <ol>
+              {% for child in item.children %}
+                <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+              {% endfor %}
+            </ol>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  </details>
+{% endif %}

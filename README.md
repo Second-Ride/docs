@@ -146,6 +146,17 @@ mkdocs build
 ```
 Generates static files in `site/` directory.
 
+### Design
+
+Die Doku nutzt Material for MkDocs mit eigenem Design, angelehnt an second-ride.de (Schrift, Farben und Icons wie im Shop, aber als technisches Nachschlagewerk):
+
+- `docs/stylesheets/theme.css`: das gesamte Design, hell und dunkel, mit Erklärungen der Regeln am Dateianfang
+- `overrides/`: eigene Templates für Header, Footer, Startseite, 404 und das Inhaltsverzeichnis auf dem Handy, dazu die Lucide-Icons unter `overrides/.icons/`
+- `docs/javascripts/theme.js`: Hell/Dunkel-Schalter (folgt dem System, bis jemand umschaltet), die abhakbaren Teilelisten (Häkchen bleiben pro Gerät gespeichert), Schließen der Suche bei Klick daneben und das Gleiten zu Kapiteln innerhalb einer Seite
+- `hooks/sr_content.py`: zeichnet beim Bauen Schrittnummern, Positionsnummern wie (1), LED-Emojis und Werte wie `M8x100` oder `24 Nm` aus; das Markdown bleibt unverändert
+
+Die englischen Übersetzungen (`*.en.md`) werden über `exclude_docs` in `mkdocs.yml` nicht mitgebaut, bis die Mehrsprachigkeit aktiviert wird.
+
 ## PDF-Export
 
 Aus der Doku lässt sich eine druckfertige, fahrzeugspezifische PDF-Anleitung erzeugen (Titelseite, Revisionsseite, Rückseite). Auslösen über GitHub Actions → **PDF Export** → *Run workflow* (Fahrzeug + Revisionsnummer angeben). Details siehe [`print-pipeline/README.md`](print-pipeline/README.md).

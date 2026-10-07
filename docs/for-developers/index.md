@@ -49,7 +49,7 @@ Zu guter Letzt müssen wir uns auch noch davor schützen, für Schadensfälle, f
 - Anschließen oder paralleles Schalten von Fremdakkus
 - Weitere Änderungen, die sicherheitsrelevante Komponenten betreffen
 
-> [!warning]
+> [!warning] Eigene Änderungen auf eigenes Risiko
 >
 > Wir freuen uns sehr über deinen Beitrag zur Weiterentwicklung von Second Ride. Bitte sei dir jedoch bewusst, dass du mit eigenen Änderungen an Soft- oder Hardware folgende Punkte in Kauf nimmst:
 >

@@ -1,0 +1,84 @@
+{#-
+  Startseite als Verzeichnis: kurzer Kopf (Eyebrow, Titel, Einleitung),
+  darunter je Bereich der Doku ein gerahmter Block mit Titel, Kurztext und
+  den Unterbereichen als Links, dann der Text aus docs/index.md.
+
+  Titel, Einleitung und Kurztexte stehen im Front Matter von docs/index.md
+  (hero_title, hero_intro, sections). Bereiche und Unterbereiche kommen aus
+  der Navigation in mkdocs.yml.
+-#}
+{% extends "main.html" %}
+{% set sr_tab_icons = {
+  "conversion-manual": "lucide/wrench",
+  "user-manual": "lucide/book-open",
+  "for-developers": "lucide/code-xml",
+  "faq": "lucide/circle-question-mark",
+} %}
+{% macro first_page(nav_item) -%}
+  {%- if nav_item.children -%}
+    {{- first_page(nav_item.children | first) -}}
+  {%- else -%}
+    {{- nav_item.url -}}
+  {%- endif -%}
+{%- endmacro %}
+{% block content %}
+  <section class="sr-home-hero">
+    <p class="sr-eyebrow">Second Ride Dokumentation</p>
+    <h1 class="sr-home-hero__title">{{ page.meta.hero_title | d(config.site_name) }}</h1>
+    {% if page.meta.hero_intro %}
+      <p class="sr-home-hero__intro">{{ page.meta.hero_intro }}</p>
+    {% endif %}
+  </section>
+
+  {% if page.meta.vehicles %}
+    <h2 class="sr-home-label">Umbauanleitung nach Fahrzeug</h2>
+    <div class="sr-vehicles">
+      {% for vehicle in page.meta.vehicles %}
+        <a class="sr-vehicle" href="{{ vehicle.url | url }}">
+          <img class="sr-vehicle__image" src="{{ vehicle.image | url }}" alt="" loading="lazy">
+          <span class="sr-vehicle__text">
+            <span class="sr-vehicle__title">{{ vehicle.title }}</span>
+            <span class="sr-vehicle__meta">{{ vehicle.meta }}</span>
+          </span>
+        </a>
+      {% endfor %}
+    </div>
+    {% if page.meta.vehicles_sr24 %}
+      <p class="sr-vehicles__more">
+        {{ page.meta.vehicles_sr24.label }}:
+        {% for link in page.meta.vehicles_sr24.links %}
+          <a href="{{ link.url | url }}">{{ link.title }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+  {% endif %}
+
+  <h2 class="sr-home-label">Alle Bereiche</h2>
+  <div class="sr-home-cards">
+    {% for nav_item in nav.items if not nav_item.is_homepage %}
+      {% set url = first_page(nav_item) %}
+      {% set section = url.split("/") | first %}
+      <section class="sr-home-card">
+        <h2 class="sr-home-card__title">
+          {% include ".icons/" ~ sr_tab_icons.get(section, "lucide/file-text") ~ ".svg" %}
+          <a href="{{ url | url }}">{{ nav_item.title }}</a>
+        </h2>
+        {% if page.meta.sections and page.meta.sections[section] %}
+          <p class="sr-home-card__text">{{ page.meta.sections[section] }}</p>
+        {% endif %}
+        {% if nav_item.children %}
+          <ul class="sr-home-card__links">
+            {% for child in nav_item.children[:5] %}
+              <li><a href="{{ first_page(child) | url }}">{{ child.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </section>
+    {% endfor %}
+  </div>
+
+  <div class="sr-home-body">
+    {% include "partials/actions.html" %}
+    {{ page.content }}
+  </div>
+{% endblock %}

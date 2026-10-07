@@ -18,4 +18,32 @@
   {% if page and page.meta and page.meta.noindex %}
     <meta name="robots" content="noindex, follow">
   {% endif %}
+  <!-- Nunito Sans liegt wie auf der Website selbst gehostet, ohne Anfrage an
+       Google. Vorgeladen wird nur der lateinische Grundschnitt. -->
+  <link rel="preload" href="{{ 'assets/fonts/nunito-sans-latin-full-normal.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+{% endblock %}
+
+<!-- Die Tabs stehen im Header (partials/header.html), nicht in einer eigenen
+     Leiste darunter. -->
+{% block tabs %}{% endblock %}
+
+<!-- Wie Materials partials/content.html (9.7.1), dazu direkt unter dem
+     Seitentitel das mobile Inhaltsverzeichnis (partials/sr-mobile-toc.html). -->
+{% block content %}
+  {% include "partials/tags.html" %}
+  {% include "partials/actions.html" %}
+  {% set hide_toc = page.meta and page.meta.hide and "toc" in page.meta.hide %}
+  {% if "<h1" not in page.content %}
+    <h1>{{ page.title | d(config.site_name, true) }}</h1>
+    {% if not hide_toc %}{% include "partials/sr-mobile-toc.html" %}{% endif %}
+    {{ page.content }}
+  {% else %}
+    {% set parts = page.content.split("</h1>", 1) %}
+    {{ parts[0] }}</h1>
+    {% if not hide_toc %}{% include "partials/sr-mobile-toc.html" %}{% endif %}
+    {{ parts[1] }}
+  {% endif %}
+  {% include "partials/source-file.html" %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
 {% endblock %}

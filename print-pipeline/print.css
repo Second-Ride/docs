@@ -271,6 +271,10 @@ li > ul, li > ol { margin-top: 3pt; }
 .admonition.warning, .admonition.danger {
   background: #fce5cd;
 }
+/* Gefahr eigene Stufe, im selben Farbsatz wie die anderen Boxen */
+.admonition.danger {
+  background: #f4cccc;
+}
 .admonition.warning > .admonition-title,
 .admonition.danger > .admonition-title {
   font-family: "Nunito", sans-serif;
@@ -368,3 +372,9 @@ a { color: inherit; text-decoration: none; }
   height: 23pt !important;
   max-width: none !important;
 }
+
+/* --- Auszeichnung aus hooks/sr_content.py --- */
+/* Werte wie M8x25 oder 24 Nm nicht umbrechen; Schrittnummern, Positions-
+   nummern und LED-Punkte bleiben im Druck schlichter Text bzw. der Punkt
+   aus replace_status_emoji. */
+.sr-val { white-space: nowrap; }

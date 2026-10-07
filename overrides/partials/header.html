@@ -1,0 +1,101 @@
+{#-
+  Header einer technischen Doku, in den Farben und Formen von second-ride.de:
+  oben angedockt über die volle Breite, hell. In der ersten Zeile links die
+  Wortbildmarke, in der Mitte die Suche, rechts Theme-Schalter und GitHub.
+  Darunter die Bereiche der Doku als Nav-Pills wie im Header der Website
+  (apps/astro/src/components/SiteHeader.astro im Website-Monorepo).
+
+  Vorlage: material/templates/partials/header.html aus mkdocs-material 9.7.1.
+  Bei einem Update von Material dort vergleichen.
+-#}
+<header class="md-header sr-header" data-md-component="header">
+  <nav class="md-header__inner sr-header__inner" aria-label="{{ lang.t('header') }}">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo sr-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      <img class="sr-logo__mark sr-logo__mark--black" src="{{ 'assets/brand/bildmarke-black.svg' | url }}" alt="" width="78" height="93">
+      <img class="sr-logo__mark sr-logo__mark--gold" src="{{ 'assets/brand/bildmarke-gold.svg' | url }}" alt="" width="78" height="93">
+      <img class="sr-logo__wordmark sr-logo__wordmark--black" src="{{ 'assets/brand/logo-sr-black.svg' | url }}" alt="" width="366" height="94">
+      <img class="sr-logo__wordmark sr-logo__wordmark--gold" src="{{ 'assets/brand/logo-sr-gold.svg' | url }}" alt="" width="366" height="94">
+      <span class="sr-logo__label">Docs</span>
+    </a>
+
+    {#- Auf dem Handy hat die Mitte keine Breite: Materials Suche liegt dann
+        als Vollbild über der Seite und wird über die Lupe rechts geöffnet. -#}
+    <div class="sr-header__search">
+      {% if "material/search" in config.plugins %}
+        {% set search = config.plugins["material/search"] | attr("config") %}
+        {% if search.enabled %}
+          {% include "partials/search.html" %}
+        {% endif %}
+      {% endif %}
+    </div>
+
+    <div class="sr-header__actions">
+      {% if "material/search" in config.plugins %}
+        {% set search = config.plugins["material/search"] | attr("config") %}
+        {% if search.enabled %}
+          <label class="md-header__button md-icon sr-search-toggle" for="__search" title="{{ lang.t('search.placeholder') }}">
+            {% set icon = config.theme.icon.search or "material/magnify" %}
+            {% include ".icons/" ~ icon ~ ".svg" %}
+          </label>
+        {% endif %}
+      {% endif %}
+
+      {#- Rückweg in den Shop, Ziel wie im Footer -#}
+      <a href="https://second-ride.de/de/shop" class="md-header__button sr-shop" aria-label="Shop" title="Zum Shop von Second Ride">
+        {% include ".icons/lucide/shopping-bag.svg" %}
+        <span class="sr-shop__label">Shop</span>
+      </a>
+
+      {% if config.theme.palette %}
+        {% if not config.theme.palette is mapping %}
+          {% include "partials/palette.html" %}
+          {#- Vor Materials eigenem Palette-Skript: legt fest, welches Schema
+              es gleich anwendet. Siehe javascripts/theme.js. -#}
+          <script>
+            (function () {
+              var theme = null;
+              try { theme = localStorage.getItem("sr-theme"); } catch (e) { /* Speicher gesperrt */ }
+              if (theme !== "light" && theme !== "dark") {
+                theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+              }
+              var inputs = document.querySelectorAll("[data-md-component=palette] input");
+              var scheme = theme === "dark" ? "slate" : "default";
+              for (var i = 0; i < inputs.length; i++) {
+                var input = inputs[i];
+                if (input.getAttribute("data-md-color-scheme") !== scheme) continue;
+                __md_set("__palette", {
+                  index: i,
+                  color: {
+                    media: input.getAttribute("data-md-color-media"),
+                    scheme: scheme,
+                    primary: input.getAttribute("data-md-color-primary"),
+                    accent: input.getAttribute("data-md-color-accent")
+                  }
+                });
+              }
+            })();
+          </script>
+        {% endif %}
+      {% endif %}
+      {% if not config.theme.palette is mapping %}
+        {% include "partials/javascripts/palette.html" %}
+      {% endif %}
+
+      {% if config.repo_url %}
+        <a href="{{ config.repo_url }}" class="md-header__button md-icon sr-repo" title="{{ lang.t('source') }}" target="_blank" rel="noopener">
+          {% set icon = config.theme.icon.repo or "fontawesome/brands/git-alt" %}
+          {% include ".icons/" ~ icon ~ ".svg" %}
+        </a>
+      {% endif %}
+
+      <label class="md-header__button md-icon sr-menu-toggle" for="__drawer" title="{{ lang.t('nav') }}">
+        {% set icon = config.theme.icon.menu or "material/menu" %}
+        {% include ".icons/" ~ icon ~ ".svg" %}
+      </label>
+    </div>
+  </nav>
+
+  {% if "navigation.tabs" in features %}
+    {% include "partials/tabs.html" %}
+  {% endif %}
+</header>

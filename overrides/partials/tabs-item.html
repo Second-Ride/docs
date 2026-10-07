@@ -1,0 +1,48 @@
+{#-
+  Ein Bereich der Doku als Nav-Pill wie im Header der Website: links ein
+  Icon-Slot (Lucide, Strichstärke 1.75), rechts das Label. Das Icon hängt am
+  obersten Ordner der Seite, auf die der Tab zeigt; ein neuer Bereich ohne
+  Eintrag hier bekommt das Dokument-Icon.
+
+  Die Startseite bekommt keine Pill: dorthin führt die Wortbildmarke, wie auf
+  der Website.
+
+  Vorlage: material/templates/partials/tabs-item.html aus mkdocs-material 9.7.1.
+-#}
+{% set sr_tab_icons = {
+  "conversion-manual": "lucide/wrench",
+  "user-manual": "lucide/book-open",
+  "for-developers": "lucide/code-xml",
+  "faq": "lucide/circle-question-mark",
+} %}
+{% macro render_link(page, ref) %}
+  {% set section = page.url.split("/") | first %}
+  {% set class = "md-tabs__item" %}
+  {% if ref.active %}
+    {% set class = class ~ " md-tabs__item--active" %}
+  {% endif %}
+  {% if page.is_homepage %}
+    {% set class = class ~ " md-tabs__item--home" %}
+  {% endif %}
+  <li class="{{ class }}">
+    <a href="{{ page.url | url }}" class="md-tabs__link sr-pill"{% if ref.active %} aria-current="page"{% endif %}>
+      <span class="sr-pill__slot" aria-hidden="true">
+        {% include ".icons/" ~ sr_tab_icons.get(section, "lucide/file-text") ~ ".svg" %}
+      </span>
+      <span class="sr-pill__label">{{ ref.title }}</span>
+    </a>
+  </li>
+{% endmacro %}
+{% macro render(nav_item, ref) %}
+  {% set ref = ref or nav_item %}
+  {% if nav_item.children %}
+    {% set first = nav_item.children | first %}
+    {% if first.children %}
+      {{ render(first, ref) }}
+    {% else %}
+      {{ render_link(first, ref) }}
+    {% endif %}
+  {% else %}
+    {{ render_link(nav_item, ref) }}
+  {% endif %}
+{% endmacro %}

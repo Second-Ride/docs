@@ -4,9 +4,20 @@ site_url: https://docs.second-ride.de/
 repo_url: https://github.com/Second-Ride/docs/
 edit_uri: https://github.com/Second-Ride/docs/edit/main/docs
 
+# Die englischen Übersetzungen (*.en.md) werden ohne Mehrsprachigkeit nicht
+# mitgebaut: Sie hängen an keiner Navigation und landeten sonst in der
+# deutschen Suche (rund ein Drittel aller Treffer). Bei Bedarf i18n-Plugin
+# unten aktivieren und diese Zeile entfernen.
+exclude_docs: |
+  *.en.md
+
+# Technische Auszeichnung beim Bauen (Schrittnummern, Positionsnummern,
+# LED-Punkte, Werte); das Markdown bleibt unverändert. Siehe Datei.
+hooks:
+  - hooks/sr_content.py
+
 extra_css:
-    - stylesheets/extra.css
-    - stylesheets/neoteroi-cards.css
+    - stylesheets/theme.css
 
 markdown_extensions:
   - admonition
@@ -15,8 +26,10 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
-  - neoteroi.cards
   #- meta
+  - toc:
+      permalink: "#"
+      permalink_title: Link zu diesem Abschnitt
   - footnotes
   - pymdownx.tabbed:
       alternate_style: true
@@ -27,6 +40,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
         
 
 theme:
@@ -35,8 +51,32 @@ theme:
     language: de
     logo: img/Bildmarke_Weiss.svg
     favicon: img/favicon.ico
-    font:
-        text: Figtree
+    # Nunito Sans wie auf der Website, selbst gehostet (stylesheets/theme.css)
+    font: false
+    # Lucide wie auf der Website (overrides/.icons/lucide), Strichstärke 1.75
+    icon:
+        menu: lucide/menu
+        search: lucide/search
+        close: lucide/x
+        top: lucide/arrow-up
+        edit: lucide/square-pen
+        view: lucide/eye
+        repo: fontawesome/brands/github
+        previous: lucide/arrow-left
+        next: lucide/arrow-right
+        admonition:
+            note: lucide/pencil-line
+            abstract: lucide/clipboard-list
+            info: lucide/info
+            tip: lucide/lightbulb
+            success: lucide/check
+            question: lucide/circle-question-mark
+            warning: lucide/triangle-alert
+            failure: lucide/x
+            danger: lucide/octagon-alert
+            bug: lucide/bug
+            example: lucide/flask-conical
+            quote: lucide/quote
     features:
         - navigation.footer
         - navigation.instant
@@ -45,6 +85,7 @@ theme:
         - navigation.tracking
         - navigation.tabs
         - navigation.tabs.sticky
+        - toc.follow
         - navigation.top
         - content.tabs.link
         - content.action.edit
@@ -53,47 +94,48 @@ theme:
         #- i18n
    
 
+    # Hell zuerst, wie die Website. Welche Palette gilt, entscheidet
+    # javascripts/theme.js: die gespeicherte Wahl, sonst das System.
     palette:
-        #primary: custom
-        # Palette toggle for dark mode
-        - media: "(prefers-color-scheme: dark)"
-          primary: custom
-          accent: custom
-          scheme: slate
-          toggle:
-            icon: material/brightness-5
-            name: Switch to light mode
-
-        # Palette toggle for light mode
         - media: "(prefers-color-scheme: light)"
           primary: custom
           accent: custom
           scheme: default
           toggle:
-            icon: material/brightness-2
-            name: Switch to dark mode
+            icon: lucide/moon
+            name: Dunkles Design
+
+        - media: "(prefers-color-scheme: dark)"
+          primary: custom
+          accent: custom
+          scheme: slate
+          toggle:
+            icon: lucide/sun
+            name: Helles Design
 plugins:
     - glightbox:
         draggable: false
-        background: "#2F2F2F"
+        # Freisteller mit transparentem Hintergrund im Viewer auf Weiß, Fotos ohne Schatten
+        background: white
+        shadow: false
     - social:
         enabled: !ENV [CI, false]
         cards_layout_options:
-            background_color: "#111111"
+            background_color: "#050505"
             color: "#E4B854"
-            font_family: Figtree
+            font_family: Nunito Sans
     - search
     - llmstxt:
         full_output: llms-full.txt
         sections:
           Umbauanleitung:
-            - conversion-manual/**/*.md
+            - conversion-manual/**/index.md
           Bedienungsanleitung:
-            - user-manual/**/*.md
+            - user-manual/**/index.md
           Für Entwickler:
-            - for-developers/**/*.md
+            - for-developers/**/index.md
           FAQ:
-            - faq/**/*.md
+            - faq/**/index.md
      #-i18n:
        #docs_structure: suffix
        #languages:
@@ -140,17 +182,27 @@ plugins:
 
         
 extra:
+  # Reihenfolge, Links und Logos wie in der Fußzeile der Website
+  # (packages/config/src/site.ts, SOCIAL_LINKS und SOCIAL_ICON_PATHS)
   social:
-    - icon: fontawesome/brands/facebook-f
-      link: https://www.facebook.com/secondridegmbh
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/second_ride_/
-    - icon: fontawesome/brands/youtube
+    - icon: sr/youtube
+      name: YouTube
       link: https://www.youtube.com/@second-ride
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/invite/jbWrdN6NK7
-    - icon: fontawesome/brands/linkedin
+    - icon: sr/facebook
+      name: Facebook
+      link: https://www.facebook.com/secondridegmbh
+    - icon: sr/linkedin
+      name: LinkedIn
       link: https://de.linkedin.com/company/second-ride
+    - icon: sr/instagram
+      name: Instagram
+      link: https://www.instagram.com/second_ride_/
+    - icon: sr/tiktok
+      name: TikTok
+      link: https://www.tiktok.com/@second.ride
+    - icon: sr/discord
+      name: Discord
+      link: https://discord.com/invite/jbWrdN6NK7
   analytics:
     provider: google
     property: G-YZJB651WB8
@@ -238,6 +290,7 @@ nav:
         - SR24: faq/sr23-sr24/index.md
 
 extra_javascript:
+  - javascripts/theme.js
   - javascripts/typebot.js
 
 

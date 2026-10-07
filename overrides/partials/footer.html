@@ -1,0 +1,125 @@
+{#-
+  Fußzeile im Stil von second-ride.de (SiteFooter.astro im Website-Monorepo):
+  schwarzes Band mit der goldenen Wortbildmarke, Linkspalten mit Titeln in
+  Versalien, Social-Icons und einer Zeile mit den rechtlichen Links.
+
+  Darüber, noch auf der Seite, die Weiter/Zurück-Karten der Doku.
+
+  Vorlage: material/templates/partials/footer.html aus mkdocs-material 9.7.1.
+-#}
+{% set sr_site = "https://second-ride.de" %}
+{% set sr_website_links = [
+  ("E-Mopeds", sr_site ~ "/de/fahrzeuge"),
+  ("Umbaukits", sr_site ~ "/de/moped-elektro-umbausatz"),
+  ("Probefahrt buchen", sr_site ~ "/de/probefahrt-buchen"),
+  ("Shop", sr_site ~ "/de/shop"),
+  ("Blog", sr_site ~ "/de/blog"),
+  ("Kontakt", sr_site ~ "/de/kontakt"),
+] %}
+{% set sr_legal_links = [
+  ("Impressum", sr_site ~ "/impressum"),
+  ("Datenschutz", sr_site ~ "/datenschutz"),
+] %}
+{% macro first_page(nav_item) -%}
+  {%- if nav_item.children -%}
+    {{- first_page(nav_item.children | first) -}}
+  {%- else -%}
+    {{- nav_item.url | url -}}
+  {%- endif -%}
+{%- endmacro %}
+<footer class="md-footer sr-footer">
+  {% if "navigation.footer" in features %}
+    {% if page.previous_page or page.next_page %}
+      {% if page.meta and page.meta.hide %}
+        {% set hidden = "hidden" if "footer" in page.meta.hide %}
+      {% endif %}
+      <nav class="md-footer__inner md-grid sr-pager" aria-label="{{ lang.t('footer') }}" {{ hidden }}>
+        {% if page.previous_page %}
+          {% set direction = lang.t("footer.previous") %}
+          <a href="{{ page.previous_page.url | url }}" class="md-footer__link md-footer__link--prev sr-pager__card" aria-label="{{ direction }}: {{ page.previous_page.title | e }}">
+            <span class="sr-pager__icon" aria-hidden="true">
+              {% set icon = config.theme.icon.previous or "material/arrow-left" %}
+              {% include ".icons/" ~ icon ~ ".svg" %}
+            </span>
+            <span class="sr-pager__text">
+              <span class="sr-pager__direction">{{ direction }}</span>
+              <span class="sr-pager__title">{{ page.previous_page.title }}</span>
+            </span>
+          </a>
+        {% endif %}
+        {% if page.next_page %}
+          {% set direction = lang.t("footer.next") %}
+          <a href="{{ page.next_page.url | url }}" class="md-footer__link md-footer__link--next sr-pager__card" aria-label="{{ direction }}: {{ page.next_page.title | e }}">
+            <span class="sr-pager__text">
+              <span class="sr-pager__direction">{{ direction }}</span>
+              <span class="sr-pager__title">{{ page.next_page.title }}</span>
+            </span>
+            <span class="sr-pager__icon" aria-hidden="true">
+              {% set icon = config.theme.icon.next or "material/arrow-right" %}
+              {% include ".icons/" ~ icon ~ ".svg" %}
+            </span>
+          </a>
+        {% endif %}
+      </nav>
+    {% endif %}
+  {% endif %}
+
+  <div class="md-footer-meta sr-footer__band">
+    <div class="sr-footer__inner">
+      <div class="sr-footer__top">
+        <a href="{{ nav.homepage.url | url }}" class="sr-footer__logo" aria-label="{{ config.site_name }}">
+          <img src="{{ 'assets/brand/logo-sr-gold.svg' | url }}" alt="" width="366" height="94">
+        </a>
+
+        <nav class="sr-footer__cols" aria-label="{{ lang.t('footer') }}">
+          <div class="sr-footer__col">
+            <h4 class="sr-footer__title">Dokumentation</h4>
+            <div class="sr-footer__group">
+              <ul class="sr-footer__list">
+                {% for nav_item in nav.items if not nav_item.is_homepage %}
+                  <li><a href="{{ first_page(nav_item) }}" class="sr-footer__link">{{ nav_item.title }}</a></li>
+                {% endfor %}
+              </ul>
+              {% if config.extra.social %}
+                <ul class="sr-footer__socials">
+                  {% for social in config.extra.social %}
+                    <li>
+                      <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name | e }}" aria-label="{{ social.name | e }}" class="sr-footer__social">
+                        {% include ".icons/" ~ social.icon ~ ".svg" %}
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="sr-footer__col">
+            <h4 class="sr-footer__title">Second Ride</h4>
+            <ul class="sr-footer__list">
+              {% for label, href in sr_website_links %}
+                <li><a href="{{ href }}" class="sr-footer__link">{{ label }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </nav>
+      </div>
+
+      <div class="sr-footer__legal">
+        <nav class="sr-footer__legal-links" aria-label="Rechtliches">
+          {% for label, href in sr_legal_links %}
+            <a href="{{ href }}" class="sr-footer__legal-link">{{ label }}</a>
+            <span class="sr-footer__legal-separator" aria-hidden="true">|</span>
+          {% endfor %}
+          {% if config.extra.consent %}
+            <a href="#__consent" class="sr-footer__legal-link">Cookie-Einstellungen</a>
+            <span class="sr-footer__legal-separator" aria-hidden="true">|</span>
+          {% endif %}
+          {% if config.repo_url %}
+            <a href="{{ config.repo_url }}" class="sr-footer__legal-link" target="_blank" rel="noopener">Diese Doku auf GitHub</a>
+          {% endif %}
+        </nav>
+      </div>
+    </div>
+  </div>
+</footer>

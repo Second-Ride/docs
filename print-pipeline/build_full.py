@@ -608,6 +608,11 @@ def size_image(m):
 # -- per-chapter extraction -------------------------------------------------
 ARTICLE_RE = re.compile(r'<article class="md-content__inner[^"]*">(.*?)</article>', re.S)
 BUTTON_RE = re.compile(r'<a[^>]*class="md-content__button[^>]*>.*?</a>', re.S)
+# Permalink-Anker (¶) an den Ueberschriften der Webseite: im Druck sinnlos, und
+# build_toc/inject_pageheads uebernaehmen sonst das ¶ in Titel und Kopfzeilen.
+HEADERLINK_RE = re.compile(r'<a class="headerlink"[^>]*>.*?</a>', re.S)
+# Inhaltsverzeichnis fuer schmale Bildschirme (overrides/partials/sr-mobile-toc.html)
+MOBILE_TOC_RE = re.compile(r'<details class="sr-mobile-toc">.*?</details>', re.S)
 SRC_ATTR_RE = re.compile(r'\b(src|href)="([^"]+)"')
 
 
@@ -626,6 +631,8 @@ def extract_chapter(rel_path, shift, title_override):
     assert m, f"kein <article> in {rel_path}"
     body = m.group(1)
     body = BUTTON_RE.sub("", body)
+    body = HEADERLINK_RE.sub("", body)
+    body = MOBILE_TOC_RE.sub("", body)
     body = re.sub(r'<h1[^>]*id="([^"]*)"[^>]*>(.*?)</h1>', r'<h1 id="\1">\2</h1>', body, count=1)
 
     page_url = f"file://{SITE / rel_path}/"

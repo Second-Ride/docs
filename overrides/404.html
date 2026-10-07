@@ -1,0 +1,24 @@
+{#-
+  Deutsche 404-Seite statt Materials "404 - Not found": ein Satz mit
+  Hinweis auf die Suche und die Bereiche der Doku als Links.
+-#}
+{% extends "main.html" %}
+{% macro first_page(nav_item) -%}
+  {%- if nav_item.children -%}
+    {{- first_page(nav_item.children | first) -}}
+  {%- else -%}
+    {{- nav_item.url -}}
+  {%- endif -%}
+{%- endmacro %}
+{% block content %}
+  <h1>Seite nicht gefunden</h1>
+  <p>
+    Diese Seite gibt es nicht oder nicht mehr. Nutze die Suche oben oder
+    starte in einem der Bereiche:
+  </p>
+  <ul class="sr-404-links">
+    {% for nav_item in nav.items if not nav_item.is_homepage %}
+      <li><a href="{{ first_page(nav_item) | url }}">{{ nav_item.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}

@@ -4,8 +4,27 @@
     {
       "name": "mkdocs",
       "runtimeExecutable": ".venv\\Scripts\\python.exe",
-      "runtimeArgs": ["-m", "mkdocs", "serve", "-a", "127.0.0.1:8000"],
+      "runtimeArgs": [
+        "-m",
+        "mkdocs",
+        "serve",
+        "-a",
+        "127.0.0.1:8000"
+      ],
       "port": 8000
+    },
+    {
+      "name": "mkdocs-mac",
+      "runtimeExecutable": "venv/bin/python",
+      "runtimeArgs": [
+        "-m",
+        "mkdocs",
+        "serve",
+        "-a",
+        "127.0.0.1:8010",
+        "--livereload"
+      ],
+      "port": 8010
     }
   ]
 }
