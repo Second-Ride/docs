@@ -15,6 +15,7 @@ exclude_docs: |
 # LED-Punkte, Werte); das Markdown bleibt unverändert. Siehe Datei.
 hooks:
   - hooks/sr_content.py
+  - hooks/llms_bot.py
 
 extra_css:
     - stylesheets/theme.css

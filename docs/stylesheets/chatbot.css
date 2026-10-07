@@ -1,0 +1,136 @@
+/*
+ * Chat-Button und Chat-Fenster im Look der Doku.
+ *
+ * Der Typebot-Bubble sitzt in einem Shadow-DOM. docs/javascripts/typebot.js
+ * hängt diese Datei dort als <link> ein; nur so greifen die Regeln. Die
+ * Variablen --sr-* aus theme.css werden in den Shadow-DOM vererbt, deshalb
+ * folgt der Chat dem Hell/Dunkel-Schalter der Doku ohne eigene Logik. Die
+ * Fallbacks hinter den Variablen gelten nur, falls theme.css nicht geladen ist.
+ *
+ * Typebot setzt viele Werte als Inline-Stil, daher überall !important.
+ */
+
+/* ── Button ───────────────────────────────────────────────────────────── */
+
+.fixed > button {
+  border-radius: 8px !important;
+  background-color: var(--sr-btn-bg, #282828) !important;
+  color: var(--sr-btn-fg, #ffffff) !important;
+  box-shadow: var(--sr-shadow-float, 0 1px 2px rgb(0 0 0 / 0.06), 0 8px 24px rgb(0 0 0 / 0.1)) !important;
+  scale: none !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.fixed > button:hover {
+  background-color: var(--sr-btn-bg-hover, #050505) !important;
+}
+
+.fixed > button:focus-visible {
+  outline: 2px solid var(--sr-gold, #e4b854);
+  outline-offset: 2px;
+}
+
+/* Typebot färbt das Icon per Inline-Fill; so folgt es der Buttonfarbe auch im Dunkelmodus */
+.fixed > button svg[style*="fill"] {
+  fill: currentColor !important;
+}
+
+/* ── Fenster ──────────────────────────────────────────────────────────── */
+
+.fixed > div[part="bot"] {
+  border-radius: 8px !important;
+  border: 1px solid var(--sr-border, rgb(5 5 5 / 0.1));
+  background-color: var(--sr-page, #ffffff) !important;
+  box-shadow: var(--sr-shadow-float, 0 1px 2px rgb(0 0 0 / 0.06), 0 8px 24px rgb(0 0 0 / 0.1)) !important;
+}
+
+.typebot-container {
+  --typebot-container-bg-color: var(--sr-page, #ffffff) !important;
+  background-color: var(--sr-page, #ffffff) !important;
+  color: var(--sr-text-strong, #050505) !important;
+  font-family: var(--md-text-font, "Nunito Sans Variable"), system-ui, sans-serif !important;
+  font-size: var(--sr-fs-ui, 0.7rem);
+}
+
+.typebot-container input,
+.typebot-container textarea,
+.typebot-container button {
+  font-family: inherit !important;
+}
+
+/* ── Nachrichten ──────────────────────────────────────────────────────── */
+
+/* Bot: ruhige Fläche wie die Hinweisboxen der Doku */
+.typebot-host-bubble {
+  color: var(--sr-text-strong, #050505) !important;
+}
+
+.typebot-host-bubble > .bubble-typing {
+  background-color: var(--sr-surface-subtle, #f8f8f8) !important;
+  border: 1px solid var(--sr-border, rgb(5 5 5 / 0.1)) !important;
+  border-radius: 6px !important;
+}
+
+/* Links wie im Doku-Text: dunkel mit goldener Linie */
+.typebot-host-bubble a {
+  color: var(--sr-link, #050505) !important;
+  text-decoration: underline !important;
+  text-decoration-color: var(--sr-link-underline, #e4b854) !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 0.2em;
+}
+
+.typebot-host-bubble a:hover {
+  color: var(--sr-link-hover, #8f6609) !important;
+}
+
+/* Nutzer: wie der dunkle Primärbutton der Doku */
+.typebot-guest-bubble {
+  background-color: var(--sr-btn-bg, #282828) !important;
+  color: var(--sr-btn-fg, #ffffff) !important;
+  border: 1px solid transparent !important;
+  border-radius: 6px !important;
+}
+
+/* ── Eingabe ──────────────────────────────────────────────────────────── */
+
+.typebot-input {
+  background-color: var(--sr-search-bg, #ffffff) !important;
+  color: var(--sr-text-strong, #050505) !important;
+  border: 1px solid var(--sr-search-border, rgb(5 5 5 / 0.14)) !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+}
+
+.typebot-input:hover {
+  border-color: var(--sr-search-border-hover, rgb(5 5 5 / 0.28)) !important;
+}
+
+.typebot-input:focus-within {
+  border-color: var(--sr-focus, #050505) !important;
+}
+
+.typebot-input input::placeholder,
+.typebot-input textarea::placeholder {
+  color: var(--sr-text-subtle, rgb(5 5 5 / 0.5)) !important;
+}
+
+.typebot-button {
+  background-color: var(--sr-btn-bg, #282828) !important;
+  border-color: var(--sr-btn-bg, #282828) !important;
+  color: var(--sr-btn-fg, #ffffff) !important;
+  border-radius: 6px !important;
+  font-weight: 600 !important;
+  filter: none !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.typebot-button:hover:not(:disabled) {
+  background-color: var(--sr-btn-bg-hover, #050505) !important;
+  border-color: var(--sr-btn-bg-hover, #050505) !important;
+}
+
+.typebot-button:focus-visible {
+  outline: 2px solid var(--sr-gold, #e4b854);
+  outline-offset: 2px;
+}
