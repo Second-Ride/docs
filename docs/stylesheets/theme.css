@@ -8,8 +8,8 @@
  * vom 04.10.2026.
  *
  * Regeln, die hier überall gelten:
- * - Drei Textgrößen: Lesetext 15px am Desktop, 16px auf dem Handy, immer
- *   mit 24px Zeilenhöhe (auch Listen, Checklisten, Hinweisboxen), 14px
+ * - Drei Textgrößen: 16px Lesetext mit 24px Zeilenhöhe über die ganze
+ *   Spaltenbreite (auch Listen, Checklisten, Hinweisboxen), 14px
  *   Bedienung und Daten (Navigation, Inhaltsverzeichnis, Tabellen,
  *   Code), 12px Beschriftung (Breadcrumb, Fußzeile). Dazu die Überschriften
  *   32, 24 und 20px; h4 und h5 stehen fett in Textgröße.
@@ -92,7 +92,7 @@
   /* Schriftskala (1rem = 20px) */
   --sr-fs-caption: 0.6rem;   /* 12px */
   --sr-fs-ui: 0.7rem;        /* 14px */
-  --sr-fs-body: 0.75rem;     /* 15px, auf dem Handy 16px (unten) */
+  --sr-fs-body: 0.8rem;      /* 16px */
   --sr-lh-body: 1.2rem;      /* 24px */
   --sr-fs-h3: 1rem;          /* 20px */
   --sr-fs-h2: 1.2rem;        /* 24px */
@@ -1216,16 +1216,6 @@ svg[stroke="currentColor"] {
   margin: 0 0 0.8rem;
 }
 
-/* Zeilenlänge: Absätze und Listen höchstens rund 85 Zeichen, Bilder,
-   Tabellen und Boxen behalten die volle Spalte. */
-.md-content__inner > :is(p, ul, ol, dl) {
-  max-width: 40em;
-}
-
-.md-content__inner > p:is([align], :has(> img), :has(> a.glightbox)) {
-  max-width: none;
-}
-
 .md-typeset strong,
 .md-typeset b {
   font-weight: 700;
@@ -2199,6 +2189,21 @@ html .md-typeset details > :last-child {
     background-color: var(--sr-page);
   }
 
+  /* Die Schublade kommt von rechts, dort sitzt der Menüknopf */
+  [dir="ltr"] .md-sidebar--primary {
+    right: -12.1rem;
+    left: auto;
+  }
+
+  [dir="ltr"] [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(-12.1rem);
+  }
+
+  /* Der Chat-Button säße sonst unten rechts über dem offenen Menü */
+  body:has(#__drawer:checked) typebot-bubble {
+    visibility: hidden;
+  }
+
   .md-nav--primary .md-nav__title {
     display: flex;
     align-items: center;
@@ -3002,14 +3007,7 @@ html .md-typeset details > :last-child {
   margin-bottom: 0.6rem;
 }
 
-/* Handy: Lesetext 16px, Checklisten mit dem Daumen gut zu treffen */
-@media screen and (max-width: 767px) {
-  :root,
-  [data-md-color-scheme] {
-    --sr-fs-body: 0.8rem; /* 16px */
-  }
-}
-
+/* Handy: Checklisten mit dem Daumen gut zu treffen */
 @media screen and (max-width: 767px) and (pointer: coarse) {
   .md-typeset label.sr-check {
     padding-top: 0.25rem;
