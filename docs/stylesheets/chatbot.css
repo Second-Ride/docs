@@ -26,6 +26,20 @@
   transition: box-shadow 0.3s ease-in-out !important;
 }
 
+/* Weiße Sprechblase mit schwarzer Kontur, damit sie sich vom Gold abhebt.
+   Die Kontur liegt hinter der Füllung (paint-order), so bleibt die Blase
+   gleich groß und nur der äußere Rand ist schwarz. */
+.fixed > button svg[viewBox="0 0 16 16"] {
+  overflow: visible;
+}
+
+.fixed > button svg[viewBox="0 0 16 16"] path {
+  stroke: var(--sr-black, #050505);
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
+}
+
 /* Typebot setzt den Hand-Cursor nicht; auch über dem Icon gilt er */
 .fixed > button * {
   cursor: pointer !important;
