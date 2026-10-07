@@ -12,22 +12,48 @@
 
 /* ── Button ───────────────────────────────────────────────────────────── */
 
+/* Leuchtender Gold-Button wie die Hauptaktion auf second-ride.de: Fläche
+   #FFD269, Schein 0 4px 15px #FFC65D, Radius der Icon-Box (16px). Die
+   Sprechblase ist bewusst weiß. Kein Vergrößern beim Überfahren, der
+   Schein wird nur stärker. */
 .fixed > button {
-  border-radius: 8px !important;
-  background-color: var(--sr-btn-bg, #282828) !important;
-  color: var(--sr-btn-fg, #ffffff) !important;
-  box-shadow: var(--sr-shadow-float, 0 1px 2px rgb(0 0 0 / 0.06), 0 8px 24px rgb(0 0 0 / 0.1)) !important;
+  border-radius: 16px !important;
+  background-color: #ffd269 !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px #ffc65d !important;
   scale: none !important;
-  transition: background-color 0.15s ease !important;
+  cursor: pointer !important;
+  transition: box-shadow 0.3s ease-in-out !important;
 }
 
-.fixed > button:hover {
-  background-color: var(--sr-btn-bg-hover, #050505) !important;
+/* Weiße Sprechblase mit schwarzer Kontur, damit sie sich vom Gold abhebt.
+   Die Kontur liegt hinter der Füllung (paint-order), so bleibt die Blase
+   gleich groß und nur der äußere Rand ist schwarz. */
+.fixed > button svg[viewBox="0 0 16 16"] {
+  overflow: visible;
+}
+
+.fixed > button svg[viewBox="0 0 16 16"] path {
+  stroke: var(--sr-black, #050505);
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
+}
+
+/* Typebot setzt den Hand-Cursor nicht; auch über dem Icon gilt er */
+.fixed > button * {
+  cursor: pointer !important;
+}
+
+@media (hover: hover) {
+  .fixed > button:hover {
+    box-shadow: 0 6px 24px #ffc65d !important;
+  }
 }
 
 .fixed > button:focus-visible {
   outline: 2px solid var(--sr-gold, #e4b854);
-  outline-offset: 2px;
+  outline-offset: 4px;
 }
 
 /* Typebot färbt das Icon per Inline-Fill; so folgt es der Buttonfarbe auch im Dunkelmodus */
@@ -59,6 +85,12 @@
 }
 
 /* ── Nachrichten ──────────────────────────────────────────────────────── */
+
+/* Erste Nachricht: oben so viel Luft wie links (12px). Typebot setzt
+   über dem Verlauf 40px. */
+.typebot-chat-view {
+  padding-top: 12px !important;
+}
 
 /* Bot: ruhige Fläche wie die Hinweisboxen der Doku */
 .typebot-host-bubble {

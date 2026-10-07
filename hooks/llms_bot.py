@@ -156,7 +156,8 @@ def _clean(markdown, page_url, site_url):
 
 def on_page_markdown(markdown, page, config, files):
     src = page.file.src_uri
-    if _section_of(src) is None:
+    # Englische Übersetzungen nie aufnehmen, auch wenn sie mitgebaut werden
+    if _section_of(src) is None or src.endswith(".en.md"):
         return None
     title = page.title
     h1 = re.search(r"^#[ \t]+(.+?)[ \t]*$", markdown, re.M)

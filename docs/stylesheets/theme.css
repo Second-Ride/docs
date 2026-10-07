@@ -8,8 +8,9 @@
  * vom 04.10.2026.
  *
  * Regeln, die hier überall gelten:
- * - Drei Textgrößen: 16px Lesetext (auch Listen, Checklisten, Hinweisboxen),
- *   14px Bedienung und Daten (Navigation, Inhaltsverzeichnis, Tabellen,
+ * - Drei Textgrößen: 16px Lesetext mit 24px Zeilenhöhe über die ganze
+ *   Spaltenbreite (auch Listen, Checklisten, Hinweisboxen), 14px
+ *   Bedienung und Daten (Navigation, Inhaltsverzeichnis, Tabellen,
  *   Code), 12px Beschriftung (Breadcrumb, Fußzeile). Dazu die Überschriften
  *   32, 24 und 20px; h4 und h5 stehen fett in Textgröße.
  * - Drei Gewichte: 450 Text, 600 hervorgehobene Bedienung (aktiv, Gruppen,
@@ -92,7 +93,7 @@
   --sr-fs-caption: 0.6rem;   /* 12px */
   --sr-fs-ui: 0.7rem;        /* 14px */
   --sr-fs-body: 0.8rem;      /* 16px */
-  --sr-lh-body: 1.3rem;      /* 26px */
+  --sr-lh-body: 1.2rem;      /* 24px */
   --sr-fs-h3: 1rem;          /* 20px */
   --sr-fs-h2: 1.2rem;        /* 24px */
   --sr-fs-h1: 1.6rem;        /* 32px */
@@ -302,6 +303,16 @@
 /* Ein Mechanismus für Ankersprünge: Abstand unter dem Header */
 html {
   scroll-padding-top: calc(var(--sr-header-h) + 16px);
+}
+
+/* Mit Maus und Trackpad federt die Seite an den Enden nicht nach, sonst
+   ließe sich die Kopfzeile oben herunterziehen. Auf Touch-Geräten bleibt
+   das Verhalten des Systems, dort hängt "Ziehen zum Aktualisieren" daran. */
+@media (pointer: fine) {
+  html,
+  body {
+    overscroll-behavior-y: none;
+  }
 }
 
 /* Die Tokens stehen auch am body ([data-md-color-scheme]); Änderungen je
@@ -882,6 +893,22 @@ svg[stroke="currentColor"] {
   }
 }
 
+/* Höhe der klebenden Seitenleisten aus der tatsächlichen Lage, gemessen von
+   javascripts/theme.js; Materials eigene Rechnung geht wegen des
+   Hochziehens oben auf der Seite 32px zu kurz aus. Bis das Skript misst,
+   gilt die Höhe für den Seitenanfang. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--secondary .md-sidebar__scrollwrap {
+    height: var(--sr-scrollwrap-h, calc(100vh - var(--sr-header-h) - 1.6rem - 16px)) !important;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    height: var(--sr-scrollwrap-h, calc(100vh - var(--sr-header-h) - 1.6rem - 16px)) !important;
+  }
+}
+
 .md-top {
   top: calc(var(--sr-header-h) + 16px);
   min-height: 1.6rem;
@@ -1187,16 +1214,6 @@ svg[stroke="currentColor"] {
 
 .md-typeset p {
   margin: 0 0 0.8rem;
-}
-
-/* Zeilenlänge: Absätze und Listen höchstens rund 85 Zeichen, Bilder,
-   Tabellen und Boxen behalten die volle Spalte. */
-.md-content__inner > :is(p, ul, ol, dl) {
-  max-width: 40em;
-}
-
-.md-content__inner > p:is([align], :has(> img), :has(> a.glightbox)) {
-  max-width: none;
 }
 
 .md-typeset strong,
@@ -1659,16 +1676,18 @@ html .md-typeset details > :last-child {
  * Klassen sr-checklist und sr-check; die Inline-Abstände aus dem Markdown
  * werden überstimmt.
  */
-/* Gleiche Größe, Zeilenhöhe und Stärke wie der Fließtext. Material setzt
-   Tabellenzellen auf 400, deshalb das Gewicht ausdrücklich. */
+/* Gleiche Größe und Stärke wie der Fließtext, Zeilen etwas enger wie in
+   einer Stückliste (--sr-lh-check, auf Touch-Geräten wie der Fließtext).
+   Material setzt Tabellenzellen auf 400, deshalb das Gewicht ausdrücklich. */
 .md-typeset table.sr-checklist {
+  --sr-lh-check: 1.1rem; /* 22px */
   table-layout: fixed;
-  margin: 0.2rem 0 1.2rem;
+  margin: 0.2rem 0 0.8rem;
   border: 0;
   border-radius: 0;
   font-size: var(--sr-fs-body);
   font-weight: 450;
-  line-height: var(--sr-lh-body);
+  line-height: var(--sr-lh-check);
 }
 
 .md-typeset table.sr-checklist td {
@@ -1711,11 +1730,11 @@ html .md-typeset details > :last-child {
   }
 }
 
-/* Kästchen bündig mit dem Text darüber, 2px Luft je Zeile */
+/* Kästchen bündig mit dem Text darüber, 24px pro Zeile */
 .md-typeset label.sr-check {
   position: relative;
   display: block;
-  padding: 0.1rem 0 0.1rem 1.2rem;
+  padding: 0.05rem 0 0.05rem 1.2rem;
   cursor: pointer;
 }
 
@@ -1753,7 +1772,7 @@ html .md-typeset details > :last-child {
 
 .md-typeset label.sr-check > input[type="checkbox"] {
   position: absolute;
-  top: calc(0.1rem + (var(--sr-lh-body) - 0.7rem) / 2);
+  top: calc(0.05rem + (var(--sr-lh-check) - 0.7rem) / 2);
   left: 0;
   margin: 0;
 }
@@ -2168,6 +2187,21 @@ html .md-typeset details > :last-child {
 @media screen and (max-width: 76.234375em) {
   .md-sidebar--primary {
     background-color: var(--sr-page);
+  }
+
+  /* Die Schublade kommt von rechts, dort sitzt der Menüknopf */
+  [dir="ltr"] .md-sidebar--primary {
+    right: -12.1rem;
+    left: auto;
+  }
+
+  [dir="ltr"] [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(-12.1rem);
+  }
+
+  /* Der Chat-Button säße sonst unten rechts über dem offenen Menü */
+  body:has(#__drawer:checked) typebot-bubble {
+    visibility: hidden;
   }
 
   .md-nav--primary .md-nav__title {
@@ -2819,41 +2853,28 @@ html .md-typeset details > :last-child {
 /* ── Touch-Stufe: Werkstatt mit Daumen oder Handschuh ─────────────────── */
 
 /*
- * Auf Geräten ohne Maus wird der Text eine Stufe größer und jede
- * Trefferfläche mindestens 40 bis 44px hoch, ohne die Kopfzeile aufzublähen.
+ * Auf Geräten ohne Maus wird jede Trefferfläche mindestens 40 bis 44px
+ * hoch, ohne die Kopfzeile aufzublähen. Die Schrift bleibt wie am Desktop:
+ * Fließtext, Listen, Checklisten und Hinweisboxen in 16px.
  */
 @media (pointer: coarse) {
-  :root,
-  [data-md-color-scheme] {
-    --sr-fs-body: 0.85rem; /* 17px */
-    --sr-lh-body: 1.4rem;  /* 28px */
-  }
-
-  .md-typeset .admonition > .admonition-title::before,
-  .md-typeset details > summary::before {
-    top: 0.1rem;
-    width: 1rem;
-    height: 1rem;
-  }
-
-  .md-typeset .admonition > .admonition-title,
-  .md-typeset details > summary {
-    padding-left: 1.4rem;
+  .md-typeset table.sr-checklist {
+    --sr-lh-check: var(--sr-lh-body);
   }
 
   .md-typeset label.sr-check {
-    padding: 0.3rem 0 0.3rem 1.4rem; /* 40px pro Zeile */
+    padding: 0.4rem 0 0.4rem 1.3rem; /* 40px pro Zeile */
   }
 
   .md-typeset label.sr-check > input[type="checkbox"] {
-    top: calc(0.3rem + (var(--sr-lh-body) - 0.85rem) / 2);
-    width: 0.85rem;
-    height: 0.85rem;
+    top: calc(0.4rem + (var(--sr-lh-check) - 0.8rem) / 2);
+    width: 0.8rem;
+    height: 0.8rem;
   }
 
   .md-typeset input[type="checkbox"]::before {
-    width: 0.55rem;
-    height: 0.55rem;
+    width: 0.5rem;
+    height: 0.5rem;
   }
 
   .md-typeset .md-button,
@@ -2902,6 +2923,99 @@ html .md-typeset details > :last-child {
   :root,
   [data-md-color-scheme] {
     --sr-header-h: 105px;
+  }
+}
+
+/* ── Dichte ───────────────────────────────────────────────────────────── */
+
+/*
+ * Eng gesetzt wie ein Nachschlagewerk: Absätze, Überschriften, Listen,
+ * Bilder, Hinweisboxen und Checklisten. Steht am Ende, damit es die
+ * Grundregeln oben überstimmt.
+ */
+.md-typeset p {
+  margin-bottom: 0.6rem;
+}
+
+.md-typeset h2 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.3rem;
+}
+
+@media screen and (min-width: 768px) {
+  .md-typeset h2 {
+    margin-top: 1.8rem;
+  }
+}
+
+.md-typeset h3 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.md-typeset h4 {
+  margin-top: 0.9rem;
+  margin-bottom: 0.2rem;
+}
+
+.md-typeset h1 + h2,
+.md-typeset h2 + h3,
+.md-typeset h3 + h4 {
+  margin-top: 0.6rem;
+}
+
+.md-typeset ul,
+.md-typeset ol {
+  margin-bottom: 0.6rem;
+}
+
+.md-typeset li {
+  margin-bottom: 0.1rem;
+}
+
+.md-typeset p[align="center"] {
+  margin: 0.6rem 0;
+}
+
+.md-typeset .admonition,
+.md-typeset details:not(.sr-mobile-toc) {
+  margin: 0.8rem 0;
+  padding: 0.5rem 0.7rem;
+}
+
+/* Checklisten: Material legt um jede Tabelle einen Rahmen mit 1em Abstand
+   oben und unten; für Checklisten gilt der Abstand einer Liste. */
+.md-typeset .md-typeset__scrollwrap:has(table.sr-checklist) {
+  margin-top: 0.2rem;
+  margin-bottom: 0.6rem;
+}
+
+.md-typeset .md-typeset__scrollwrap:has(table.sr-checklist) .md-typeset__table {
+  margin-bottom: 0;
+}
+
+.md-typeset .md-typeset__scrollwrap table.sr-checklist {
+  margin: 0;
+}
+
+/* Als Block, damit sein Abstand mit dem der folgenden Überschrift
+   zusammenfällt */
+.md-typeset .sr-checklist-reset {
+  display: flex;
+  width: fit-content;
+  margin-bottom: 0.6rem;
+}
+
+/* Handy: Checklisten mit dem Daumen gut zu treffen */
+@media screen and (max-width: 767px) and (pointer: coarse) {
+  .md-typeset label.sr-check {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .md-typeset label.sr-check > input[type="checkbox"] {
+    top: calc(0.25rem + (var(--sr-lh-check) - 0.8rem) / 2);
   }
 }
 
