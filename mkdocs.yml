@@ -17,6 +17,7 @@ hooks:
   - hooks/sr_content.py
   - hooks/sr_consent_embeds.py
   - hooks/llms_bot.py
+  - hooks/sr_assets.py
 
 extra_css:
     - stylesheets/theme.css
