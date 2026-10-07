@@ -304,6 +304,16 @@ html {
   scroll-padding-top: calc(var(--sr-header-h) + 16px);
 }
 
+/* Mit Maus und Trackpad federt die Seite an den Enden nicht nach, sonst
+   ließe sich die Kopfzeile oben herunterziehen. Auf Touch-Geräten bleibt
+   das Verhalten des Systems, dort hängt "Ziehen zum Aktualisieren" daran. */
+@media (pointer: fine) {
+  html,
+  body {
+    overscroll-behavior-y: none;
+  }
+}
+
 /* Die Tokens stehen auch am body ([data-md-color-scheme]); Änderungen je
    Bildschirm oder Eingabegerät deshalb an beiden Stellen setzen. */
 @media screen and (min-width: 60em) {
@@ -879,6 +889,22 @@ svg[stroke="currentColor"] {
 @media screen and (min-width: 76.25em) {
   .md-sidebar--primary {
     margin-top: -1.6rem;
+  }
+}
+
+/* Höhe der klebenden Seitenleisten aus der tatsächlichen Lage, gemessen von
+   javascripts/theme.js; Materials eigene Rechnung geht wegen des
+   Hochziehens oben auf der Seite 32px zu kurz aus. Bis das Skript misst,
+   gilt die Höhe für den Seitenanfang. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--secondary .md-sidebar__scrollwrap {
+    height: var(--sr-scrollwrap-h, calc(100vh - var(--sr-header-h) - 1.6rem - 16px)) !important;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    height: var(--sr-scrollwrap-h, calc(100vh - var(--sr-header-h) - 1.6rem - 16px)) !important;
   }
 }
 
@@ -2819,41 +2845,24 @@ html .md-typeset details > :last-child {
 /* ── Touch-Stufe: Werkstatt mit Daumen oder Handschuh ─────────────────── */
 
 /*
- * Auf Geräten ohne Maus wird der Text eine Stufe größer und jede
- * Trefferfläche mindestens 40 bis 44px hoch, ohne die Kopfzeile aufzublähen.
+ * Auf Geräten ohne Maus wird jede Trefferfläche mindestens 40 bis 44px
+ * hoch, ohne die Kopfzeile aufzublähen. Die Schrift bleibt wie am Desktop:
+ * Fließtext, Listen, Checklisten und Hinweisboxen in 16px.
  */
 @media (pointer: coarse) {
-  :root,
-  [data-md-color-scheme] {
-    --sr-fs-body: 0.85rem; /* 17px */
-    --sr-lh-body: 1.4rem;  /* 28px */
-  }
-
-  .md-typeset .admonition > .admonition-title::before,
-  .md-typeset details > summary::before {
-    top: 0.1rem;
-    width: 1rem;
-    height: 1rem;
-  }
-
-  .md-typeset .admonition > .admonition-title,
-  .md-typeset details > summary {
-    padding-left: 1.4rem;
-  }
-
   .md-typeset label.sr-check {
-    padding: 0.3rem 0 0.3rem 1.4rem; /* 40px pro Zeile */
+    padding: 0.35rem 0 0.35rem 1.3rem; /* 40px pro Zeile */
   }
 
   .md-typeset label.sr-check > input[type="checkbox"] {
-    top: calc(0.3rem + (var(--sr-lh-body) - 0.85rem) / 2);
-    width: 0.85rem;
-    height: 0.85rem;
+    top: calc(0.35rem + (var(--sr-lh-body) - 0.8rem) / 2);
+    width: 0.8rem;
+    height: 0.8rem;
   }
 
   .md-typeset input[type="checkbox"]::before {
-    width: 0.55rem;
-    height: 0.55rem;
+    width: 0.5rem;
+    height: 0.5rem;
   }
 
   .md-typeset .md-button,
@@ -2902,6 +2911,81 @@ html .md-typeset details > :last-child {
   :root,
   [data-md-color-scheme] {
     --sr-header-h: 105px;
+  }
+}
+
+/* ── Handy: dichter gesetzt ───────────────────────────────────────────── */
+
+/*
+ * Auf schmalen Bildschirmen Fließtext 16px mit 24px Zeilenhöhe wie auf der
+ * Website und alle Abstände rund ein Viertel enger: Absätze, Überschriften,
+ * Listen, Bilder, Hinweisboxen und Checklisten. Steht am Ende, damit es die
+ * Grundregeln oben überstimmt.
+ */
+@media screen and (max-width: 767px) {
+  :root,
+  [data-md-color-scheme] {
+    --sr-lh-body: 1.2rem; /* 24px */
+  }
+
+  .md-typeset p {
+    margin-bottom: 0.6rem;
+  }
+
+  .md-typeset h2 {
+    margin-top: 1.6rem;
+    margin-bottom: 0.6rem;
+    padding-bottom: 0.3rem;
+  }
+
+  .md-typeset h3 {
+    margin-top: 1.2rem;
+    margin-bottom: 0.3rem;
+  }
+
+  .md-typeset h4 {
+    margin-top: 0.9rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .md-typeset h1 + h2,
+  .md-typeset h2 + h3,
+  .md-typeset h3 + h4 {
+    margin-top: 0.6rem;
+  }
+
+  .md-typeset ul,
+  .md-typeset ol {
+    margin-bottom: 0.6rem;
+  }
+
+  .md-typeset li {
+    margin-bottom: 0.1rem;
+  }
+
+  .md-typeset p[align="center"] {
+    margin: 0.6rem 0;
+  }
+
+  .md-typeset .admonition,
+  .md-typeset details:not(.sr-mobile-toc) {
+    margin: 0.8rem 0;
+    padding: 0.5rem 0.7rem;
+  }
+
+  .md-typeset table.sr-checklist {
+    margin: 0.2rem 0 0.8rem;
+  }
+}
+
+@media screen and (max-width: 767px) and (pointer: coarse) {
+  .md-typeset label.sr-check {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .md-typeset label.sr-check > input[type="checkbox"] {
+    top: calc(0.25rem + (var(--sr-lh-body) - 0.8rem) / 2);
   }
 }
 

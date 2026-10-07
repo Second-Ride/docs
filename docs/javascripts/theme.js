@@ -349,3 +349,59 @@
     document.addEventListener("DOMContentLoaded", watch);
   }
 })();
+
+/*
+ * Höhe der Seitenleisten (Navigation links, Inhaltsverzeichnis rechts).
+ *
+ * Material rechnet die Höhe aus dem Abstand über dem Hauptbereich und zieht
+ * unten noch einmal den oberen Innenabstand ab. Weil theme.css die Leisten
+ * um diesen Abstand hochzieht (sonst wandern sie beim Scrollen erst mit),
+ * endeten die Listen oben auf der Seite 64px über dem Bildschirmrand, wie
+ * von einem weißen Kasten abgedeckt. Hier gilt die tatsächliche Lage: vom
+ * Anfang der Liste bis 16px über den Bildschirmrand oder, wenn der Footer
+ * schon im Bild ist, bis 16px über das Ende des Hauptbereichs. theme.css
+ * setzt den Wert (--sr-scrollwrap-h) nur, wo die Leisten kleben.
+ */
+(function () {
+  var GAP = 16;
+  var queued = false;
+
+  function update() {
+    queued = false;
+    var main = document.querySelector(".md-main");
+    if (!main) return;
+    var bottom = Math.min(window.innerHeight, main.getBoundingClientRect().bottom) - GAP;
+    var wraps = document.querySelectorAll(".md-sidebar__scrollwrap");
+    for (var i = 0; i < wraps.length; i++) {
+      var height = Math.max(0, bottom - wraps[i].getBoundingClientRect().top);
+      wraps[i].style.setProperty("--sr-scrollwrap-h", height + "px");
+    }
+  }
+
+  function queue() {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(update);
+  }
+
+  window.addEventListener("scroll", queue, { passive: true });
+  window.addEventListener("resize", queue);
+
+  // Nachladende Bilder verlängern die Seite, das verschiebt das Ende
+  var observer = "ResizeObserver" in window ? new ResizeObserver(queue) : null;
+
+  function watch() {
+    var main = document.querySelector(".md-main");
+    if (observer) {
+      observer.disconnect();
+      if (main) observer.observe(main);
+    }
+    queue();
+  }
+
+  if (window.document$ && typeof window.document$.subscribe === "function") {
+    window.document$.subscribe(watch);
+  } else {
+    document.addEventListener("DOMContentLoaded", watch);
+  }
+})();
