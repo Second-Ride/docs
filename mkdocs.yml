@@ -21,6 +21,7 @@ hooks:
 
 extra_css:
     - stylesheets/theme.css
+    - stylesheets/feedback.css
 
 markdown_extensions:
   - admonition
@@ -211,6 +212,14 @@ extra:
   # Seiten. GA4 lädt die Engine erst nach Einwilligung in Statistik.
   ga4_property: G-YZJB651WB8
   consent_script: https://second-ride.de/consent.js
+  # Rückmeldung am Seitenende (overrides/partials/feedback.html).
+  # Ohne `endpoint` gibt es nur einen Link, der bei GitHub ein vorausgefülltes
+  # Issue öffnet. Mit `endpoint` ein Formular ohne GitHub-Konto, das der Worker
+  # aus feedback-worker/ entgegennimmt (Einrichtung dort in der README):
+  #   endpoint: /api/feedback
+  feedback:
+    issues_url: https://github.com/Second-Ride/docs/issues
+    label: doku-feedback
   generator: false
 
 copyright: >
@@ -292,5 +301,6 @@ extra_javascript:
   - javascripts/theme.js
   - javascripts/consent-embeds.js
   - javascripts/typebot.js
+  - javascripts/feedback.js
 
 
