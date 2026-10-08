@@ -10,6 +10,10 @@ Die Firmware ist die Software, mit der dein Fahrzeug entscheidet, wie es beschle
 
 Schalte dein MID50 System ein und halte den Armaturentaster 5 Sekunden lang gedrückt, sobald dieser anfängt zu pulsieren. Ob die Aktivierung des Konfigurationsmodus erfolgreich war, erkennst du an folgendem Blinkmuster: Doppelblinken, dann kurze Pause, dann wieder Doppelblinken, …
 
+<p align="center">
+  <img src="images/konfigurationsmodus-aktivieren.gif" width="420" loading="lazy" />
+</p>
+
 ## 2. update.second-ride.de aufrufen
 
 Das Firmwareupdate läuft über eine Bluetooth-Verbindung, daher haben wir ein Browser-basiertes Updatetool entwickelt, mit dem das Firmwareupdate bequem funktioniert. Rufe dafür den folgenden Link an einem PC oder Laptop auf:
