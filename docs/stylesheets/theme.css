@@ -3056,6 +3056,135 @@ html .md-typeset details > :last-child {
   }
 }
 
+/* ── Externe Einbettungen (Einwilligung) ──────────────────────────────── */
+
+/* Rahmen und Platzhalter für iframes, die erst nach Einwilligung in Marketing
+   laden (hooks/sr_consent_embeds.py, javascripts/consent-embeds.js). Die
+   Consent-Engine setzt `src` und die Klasse consent-embed--marketing-accepted.
+   Gleiche Gestalt wie auf second-ride.de (consent-embed.css). */
+
+.md-typeset .consent-embed {
+  position: relative;
+  width: 100%;
+  height: var(--sr-embed-height, 24rem);
+  min-height: 16rem;
+  overflow: hidden;
+  margin: 1em 0;
+  border: 1px solid rgb(5 5 5 / 0.18);
+  border-radius: 0.5rem;
+  background: var(--sr-black);
+  color: #ffffff;
+}
+
+.md-typeset .consent-embed--centered {
+  margin-inline: auto;
+}
+
+.md-typeset .consent-embed__iframe {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0 !important;
+}
+
+.md-typeset .consent-embed__optout {
+  position: absolute;
+  inset: 0;
+  display: block;
+  background: color-mix(in srgb, var(--sr-black) 94%, white);
+}
+
+.md-typeset .consent-embed--marketing-accepted .consent-embed__optout {
+  display: none;
+}
+
+.md-typeset .consent-embed__placeholder {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.md-typeset .consent-embed__eyebrow {
+  margin: 0;
+  color: var(--sr-gold);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.md-typeset .consent-embed__body {
+  max-width: 34rem;
+  margin: 0;
+  color: rgb(255 255 255 / 0.78);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+.md-typeset .consent-embed__button {
+  appearance: none;
+  min-height: 2.75rem;
+  border: 1px solid var(--sr-gold);
+  border-radius: 0.5rem;
+  background: var(--sr-gold);
+  color: var(--sr-black);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.625rem 1rem;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-typeset .consent-embed__button:hover {
+  background: transparent;
+  color: var(--sr-gold);
+}
+
+.md-typeset .consent-embed__button:focus-visible,
+.md-typeset .consent-embed__settings-button:focus-visible {
+  outline: 2px solid var(--sr-gold);
+  outline-offset: 3px;
+}
+
+/* Nach der Einwilligung: kleiner Knopf oben links, um sie zu ändern. */
+.md-typeset .consent-embed__settings-button {
+  appearance: none;
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 2;
+  display: none;
+  max-width: calc(100% - 1.5rem);
+  border: 1px solid color-mix(in srgb, var(--sr-gold) 70%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--sr-black) 78%, transparent);
+  color: var(--sr-light);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0.625rem 0.875rem;
+  text-align: left;
+}
+
+.md-typeset .consent-embed--marketing-accepted .consent-embed__settings-button {
+  display: inline-flex;
+}
+
+.md-typeset .consent-embed__settings-button:hover {
+  border-color: var(--sr-gold);
+  background: var(--sr-black);
+  color: var(--sr-gold);
+}
+
 /* ── Bewegung ─────────────────────────────────────────────────────────── */
 
 @media (prefers-reduced-motion: reduce) {

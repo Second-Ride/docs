@@ -15,6 +15,7 @@ exclude_docs: |
 # LED-Punkte, Werte); das Markdown bleibt unverändert. Siehe Datei.
 hooks:
   - hooks/sr_content.py
+  - hooks/sr_consent_embeds.py
   - hooks/llms_bot.py
 
 extra_css:
@@ -204,19 +205,15 @@ extra:
     - icon: sr/discord
       name: Discord
       link: https://discord.com/invite/jbWrdN6NK7
-  analytics:
-    provider: google
-    property: G-YZJB651WB8
-  consent:
-    title: Cookie-Zustimmung
-    description: >-
-      Wir verwenden Cookies, um die Wirksamkeit unserer Dokumentation zu messen und festzustellen, ob
-      du findest, wonach du suchst. Mit deiner Zustimmung hilfst du uns,
-      unsere Dokumentation zu verbessern.
+  # Cookie-Banner und Einwilligung kommen von second-ride.de (/consent.js, siehe
+  # overrides/main.html), nicht von Material. Die Entscheidung gilt auf beiden
+  # Seiten. GA4 lädt die Engine erst nach Einwilligung in Statistik.
+  ga4_property: G-YZJB651WB8
+  consent_script: https://second-ride.de/consent.js
   generator: false
 
 copyright: >
-  <a href="#__consent">Cookie Einstellungen</a> <br>
+  <a href="https://second-ride.de/cookies" data-consent-renew>Cookie Einstellungen</a> <br>
   <a href="https://second-ride.de/impressum">Impressum</a>
 
 nav:
@@ -292,6 +289,7 @@ nav:
 
 extra_javascript:
   - javascripts/theme.js
+  - javascripts/consent-embeds.js
   - javascripts/typebot.js
 
 
