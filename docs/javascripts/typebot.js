@@ -24,10 +24,12 @@
  */
 (function () {
   var started = false;
-  var cssUrl = new URL(
-    "../stylesheets/chatbot.css",
-    document.currentScript.src
-  ).href;
+  // Gleiche Versionsnummer wie dieses Skript (?v=, hooks/sr_assets.py),
+  // damit nach einem Deploy kein altes chatbot.css aus dem Cache kommt
+  var scriptUrl = new URL(document.currentScript.src);
+  var css = new URL("../stylesheets/chatbot.css", scriptUrl);
+  css.search = scriptUrl.search;
+  var cssUrl = css.href;
 
   function styleBubble() {
     var tries = 0;
@@ -143,7 +145,7 @@
           apiHost: "https://bot.second-ride.de",
           theme: {
             // Nur Rückfall, falls chatbot.css nicht lädt.
-            button: { backgroundColor: "#282828", iconColor: "#ffffff" },
+            button: { backgroundColor: "#FFD269", iconColor: "#ffffff" },
             chatWindow: { backgroundColor: "#ffffff" },
           },
         });
