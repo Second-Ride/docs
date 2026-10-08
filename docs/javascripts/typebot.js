@@ -9,9 +9,10 @@
  * also mit externen Diensten. Deshalb startet er erst, wenn der Besucher in
  * der Cookie-Einwilligung (second-ride.de/consent.js) Marketing erlaubt hat.
  * Bis dahin zeigt die Seite einen eigenen Button im selben Look; ein Klick
- * erklärt, was fehlt, und öffnet die Cookie-Einstellungen. Nach der
- * Einwilligung wird der Button durch den echten Chat ersetzt, nach einem
- * Widerruf wieder zurück.
+ * sagt, was fehlt ("Du musst die Cookies akzeptieren ..."), und hat direkt
+ * einen "Akzeptieren"-Button (consent-accept.js). Danach startet der Chat und
+ * öffnet sich gleich. Nach der Einwilligung wird der Button durch den echten
+ * Chat ersetzt, nach einem Widerruf wieder zurück.
  *
  * Wird nur einmal pro Seitenaufruf gestartet. Dank navigation.instant lädt
  * Material Seiten ohne Neuladen nach; ein Start pro Seitenwechsel würde
@@ -53,14 +54,14 @@
     de: {
       open: "Chat öffnen",
       title: "Chat gesperrt",
-      body: "Der Chat lädt Inhalte von externen Diensten (jsDelivr, bot.second-ride.de). Dafür brauchen wir deine Einwilligung in Marketing-Cookies.",
-      cta: "Cookie-Einstellungen öffnen",
+      body: "Du musst die Cookies akzeptieren, um den Chat nutzen zu können.",
+      cta: "Akzeptieren",
     },
     en: {
       open: "Open chat",
       title: "Chat blocked",
-      body: "The chat loads content from external services (jsDelivr, bot.second-ride.de). For that we need your consent to marketing cookies.",
-      cta: "Open cookie settings",
+      body: "You have to accept cookies to use the chat.",
+      cta: "Accept",
     },
   };
   var CHAT_ICON =
@@ -69,6 +70,8 @@
     '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>';
 
   var gate = null;
+  // Wer im gesperrten Chat "Akzeptieren" drückt, will chatten: nach dem Start öffnen.
+  var openAfterStart = false;
 
   function texts() {
     return document.documentElement.lang.toLowerCase().indexOf("en") === 0 ? TEXTS.en : TEXTS.de;
@@ -101,12 +104,14 @@
     var body = document.createElement("p");
     body.className = "sr-chat-gate__body";
     body.textContent = t.body;
-    // Ohne Engine (second-ride.de nicht erreichbar) bleibt es ein normaler Link.
-    var cta = document.createElement("a");
+    var cta = document.createElement("button");
+    cta.type = "button";
     cta.className = "sr-chat-gate__cta";
-    cta.href = "https://second-ride.de/cookies";
-    cta.setAttribute("data-consent-renew", "");
     cta.textContent = t.cta;
+    cta.addEventListener("click", function () {
+      openAfterStart = true;
+      if (window.SRConsentAccept && !window.SRConsentAccept(CATEGORY)) openAfterStart = false;
+    });
     panel.append(title, body, cta);
 
     var button = document.createElement("button");
@@ -150,6 +155,12 @@
           },
         });
         styleBubble();
+        if (openAfterStart) {
+          openAfterStart = false;
+          setTimeout(function () {
+            module.default.open();
+          }, 300);
+        }
       })
       .catch(function () {
         // Der Chat ist optional: ohne CDN bleibt die Doku voll nutzbar.

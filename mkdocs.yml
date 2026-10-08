@@ -299,6 +299,7 @@ nav:
 
 extra_javascript:
   - javascripts/theme.js
+  - javascripts/consent-accept.js
   - javascripts/consent-embeds.js
   - javascripts/typebot.js
   - javascripts/feedback.js
