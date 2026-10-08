@@ -3185,6 +3185,100 @@ html .md-typeset details > :last-child {
   color: var(--sr-gold);
 }
 
+/* ── Chat ohne Einwilligung ───────────────────────────────────────────── */
+
+/* Ersatz für den Typebot-Button, solange Marketing nicht erlaubt ist
+   (javascripts/typebot.js). Gleicher Look wie der echte Button
+   (stylesheets/chatbot.css): Gold-Fläche, Schein, weiße Sprechblase. */
+.sr-chat-gate {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+  font-family: var(--md-text-font, "Nunito Sans Variable"), system-ui, sans-serif;
+}
+
+.sr-chat-gate__button {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  border: 0;
+  border-radius: 16px;
+  background: #ffd269;
+  box-shadow: 0 4px 15px #ffc65d;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.sr-chat-gate__button svg {
+  width: 28px;
+  height: 28px;
+}
+
+@media (hover: hover) {
+  .sr-chat-gate__button:hover {
+    box-shadow: 0 6px 24px #ffc65d;
+  }
+}
+
+.sr-chat-gate__button:focus-visible,
+.sr-chat-gate__cta:focus-visible {
+  outline: 2px solid var(--sr-gold);
+  outline-offset: 4px;
+}
+
+.sr-chat-gate__panel {
+  width: min(320px, calc(100vw - 40px));
+  padding: 16px;
+  border: 1px solid var(--sr-border);
+  border-radius: 8px;
+  background: var(--sr-page);
+  color: var(--sr-text-strong);
+  box-shadow: var(--sr-shadow-float);
+}
+
+.sr-chat-gate__panel[hidden] {
+  display: none;
+}
+
+.sr-chat-gate__title {
+  margin: 0 0 4px;
+  font-size: var(--sr-fs-ui);
+  font-weight: 700;
+}
+
+.sr-chat-gate__body {
+  margin: 0 0 12px;
+  color: var(--sr-text);
+  font-size: var(--sr-fs-ui);
+  line-height: 1.5;
+}
+
+.sr-chat-gate__cta {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border-radius: 6px;
+  background: var(--sr-btn-bg, #282828);
+  color: var(--sr-btn-fg, #ffffff);
+  font-size: var(--sr-fs-ui);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media print {
+  .sr-chat-gate {
+    display: none;
+  }
+}
+
 /* ── Bewegung ─────────────────────────────────────────────────────────── */
 
 @media (prefers-reduced-motion: reduce) {
