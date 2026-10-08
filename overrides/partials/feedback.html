@@ -1,0 +1,48 @@
+{#-
+  Rückmeldung am Seitenende. Ersetzt Materials eigenes partials/feedback.html
+  ("War diese Seite hilfreich?"), das hier ohnehin nie angezeigt wurde.
+
+  Mit `extra.feedback.endpoint` in mkdocs.yml gibt es ein Formular, das über
+  den Worker in feedback-worker/ ein GitHub-Issue anlegt (kein Konto nötig).
+  Ohne Endpunkt bleibt ein Link, der ein Issue mit ausgefülltem Titel bei
+  GitHub öffnet. Das Skript dazu ist docs/javascripts/feedback.js.
+
+  Einzelne Seiten ohne den Block: `feedback: false` im Front Matter.
+-#}
+{% set fb = config.extra.feedback %}
+{% if fb and page and page.file and not (page.meta and page.meta.feedback is false) %}
+  {% set issue_title = "Rückmeldung: " ~ page.title %}
+  {% set issue_body = "Seite: " ~ page.canonical_url ~ "\nDatei: docs/" ~ page.file.src_uri ~ "\n\nWas fällt dir auf?\n" %}
+  {% set fallback = fb.issues_url ~ "/new?title=" ~ (issue_title | urlencode) ~ "&body=" ~ (issue_body | urlencode) ~ "&labels=" ~ (fb.label | d("") | urlencode) %}
+  <section class="sr-feedback" data-sr-feedback
+           data-endpoint="{{ fb.endpoint | d('') }}"
+           data-title="{{ page.title }}"
+           data-src="{{ page.file.src_uri }}"
+           data-fallback="{{ fallback }}"
+           data-issues-url="{{ fb.issues_url }}">
+    <h2 class="sr-feedback__title">Rückmeldung zu dieser Seite</h2>
+    {% if fb.endpoint %}
+      <p>Fehler gefunden, etwas unklar oder eine Idee? Schreib uns kurz, was dir auffällt. Dafür brauchst du kein Konto.</p>
+      <form class="sr-feedback__form" novalidate>
+        <div class="sr-feedback__field">
+          <label for="sr-feedback-message">Was fällt dir auf?</label>
+          <textarea id="sr-feedback-message" name="message" rows="5" minlength="10" maxlength="2000" required></textarea>
+        </div>
+        <div class="sr-feedback__field">
+          <label for="sr-feedback-name">Dein Name (optional)</label>
+          <input id="sr-feedback-name" name="name" type="text" maxlength="60" autocomplete="name">
+        </div>
+        {# Honigtopf: Menschen sehen das Feld nicht, Bots füllen es aus #}
+        <div class="sr-feedback__hp" aria-hidden="true">
+          <label>Website <input name="website" type="text" tabindex="-1" autocomplete="off"></label>
+        </div>
+        <p class="sr-feedback__hint">Deine Rückmeldung wird als öffentliches GitHub-Issue gespeichert, auch der Name. Bitte schreibe keine privaten Daten hinein.</p>
+        <button type="submit" class="md-button md-button--primary sr-feedback__submit">Rückmeldung senden</button>
+        <p class="sr-feedback__status" role="status" aria-live="polite"></p>
+      </form>
+    {% else %}
+      <p>Fehler gefunden, etwas unklar oder eine Idee? Sag uns, was dir auffällt. Der Link öffnet bei GitHub eine Meldung, die schon mit dem Titel dieser Seite ausgefüllt ist. Dafür brauchst du ein kostenloses GitHub-Konto.</p>
+      <p><a class="md-button md-button--primary" href="{{ fallback }}" target="_blank" rel="noopener">Rückmeldung bei GitHub schreiben</a></p>
+    {% endif %}
+  </section>
+{% endif %}
