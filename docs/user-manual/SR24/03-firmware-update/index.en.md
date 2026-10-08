@@ -58,7 +58,7 @@ Now you have found the Vehicle Control Unit (2) (we affectionately named it “G
 
 Remove the rubber cap and connect the supplied USB cable. Important: Make sure the arrows on the male and female connectors align before pushing them together firmly. Then connect the USB cable to your PC.
 
-### 3. [Open the Web Update Tool](http://Second-ride.de/update): → Use only with Google Chrome.
+### 3. [Open the Web Update Tool](https://second-ride.de/update): → Use only with Google Chrome.
 
 ### 4. Select firmware:  
    Under “Drive Module / Günter”, select the desired firmware version and click on “Connect”.  

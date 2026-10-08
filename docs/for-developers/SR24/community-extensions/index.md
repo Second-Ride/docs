@@ -1,5 +1,5 @@
 # Community Erweitungen für SR23 und SR24 Umbaukits
-Es gibt bereits viele tolle Erweiterungen für SR23 und SR24 Umbaukits, die aus der Community entwickelt wurden. Bisher wurden diese nur auf [unserem Discord-Server](second-ride.de/community-gast) dokumentiert. Wir bitten die Verantwortlichen in der Community ihre Projekte hier zur besseren Übersicht zu dokumentieren.
+Es gibt bereits viele tolle Erweiterungen für SR23 und SR24 Umbaukits, die aus der Community entwickelt wurden. Bisher wurden diese nur auf [unserem Discord-Server](https://second-ride.de/community-gast) dokumentiert. Wir bitten die Verantwortlichen in der Community ihre Projekte hier zur besseren Übersicht zu dokumentieren.
 
 ## Touchdisplay in den Armaturen
 ![Touchdisplay in den Armaturen](touchdisplay-armaturen.jpg)

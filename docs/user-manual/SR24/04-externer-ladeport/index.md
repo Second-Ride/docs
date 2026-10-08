@@ -184,7 +184,7 @@ Befestige die Kabelblende, je nach Variante, mit der einen oder den zwei Inbussc
 > Um den Ladeanschluss nutzen zu können, muss Günter (Fahrzeugsteuereinheit) **mindestens** die Firmware VCU_Firmware_V0.4.0.dfu aufgespielt bekommen. 
 > Höhere Versionen werden ebenfalls kompatibel sein.
 
-Bitte schaue dazu in die Updateanleitung, die entweder bei deinem Kit beilag oder unter [diesem Link](https://www.second-ride.de/docs) unter dem Ordner “Firmware Update” zu finden ist
+Wie du die Firmware aktualisierst, steht in der [Anleitung zum Firmwareupdate](../03-firmware-update/index.md).
 
 ## Bedienung des externen Ladeadapters
 

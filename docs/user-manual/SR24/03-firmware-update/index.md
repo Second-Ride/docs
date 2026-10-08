@@ -21,6 +21,14 @@ Je nach Ausstattung deines Umbausatzes betrifft das ein oder zwei Geräte:
 
 Ob ein neues Update verfügbar ist und was sich geändert hat, findest du in der [Änderungshistorie - Firmware](https://docs.google.com/document/d/16SFpTpeRKDW-OlozgDFcO0iHk5q1t2Q6hK-TyoXaMT0/edit?usp=sharing).
 
+## Seriennummer bereithalten
+
+Das Webupdate-Tool fragt als Erstes nach deiner Seriennummer. Such sie am besten vorher heraus:
+
+- Die Nummer ist in den Adapterblock eingraviert, das Aluminium-Bauteil zwischen Motor und Rahmen, dort wo früher der Verbrennungsmotor saß. Sie besteht aus einem „A“ oder „#“ und fünf Ziffern, zum Beispiel A00457 oder #00667.
+- Ist der Adapterblock verdeckt eingebaut, steht die Nummer auch auf dem Aufkleber, der dem Antriebsmodul beiliegt.
+- Findest du sie gar nicht, kannst du stattdessen die Nummer unter der Sitzbank verwenden. Sie beginnt mit „S“ oder „#“ und hat fünf Ziffern.
+
 ## Update vom Antriebsmodul („Günter“) 
 
 > [!warning] Achtung
@@ -61,7 +69,7 @@ Nun hast du die Vehicle Control Unit (2) gefunden (Wir haben sie aus Liebe zu ih
 
 Entferne die Gummikappe und schließe das mitgelieferte USB-Kabel an. Wichtig: Achte darauf, dass die Pfeile auf dem männlichen und weiblichen Stecker zueinander zeigen, bevor du sie mit Kraft zusammen schiebst. Schließe das USB Kabel anschließend an deinen PC an.
 
-### 3. [Webupdatetool öffnen](http://Second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
+### 3. [Webupdatetool öffnen](https://second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
 
 ### 4. Gerät erkennen:  
    Klicke im Bereich „Antriebsmodul aktualisieren“ auf „Gerät erkennen“.  
@@ -114,7 +122,7 @@ Verbinde die Sitzbank bzw. das BT-Modul mit einem USB-C-Kabel über den USB-C Po
   <img src="https://github.com/user-attachments/assets/272cd4d2-0535-4927-8e30-e2f53e4c697e" width="500" loading="lazy" />
 </p>
 
-### 2. [Webupdatetool öffnen](http://Second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
+### 2. [Webupdatetool öffnen](https://second-ride.de/update):  → Funktioniert nur mit Google Chrome (oder anderen Chromium-Browsern wie Edge).
 
 ### 3. Gerät erkennen:  
    Klicke im Bereich „Sitzbank & BT-Modul updaten“ auf „Gerät erkennen“.
