@@ -14,6 +14,21 @@
   Canonical.
 -->
 {% block extrahead %}
+  <!-- Cookie-Einwilligung von second-ride.de: Banner, Entscheidung (Cookie
+       sr_consent auf .second-ride.de, gilt auf Website und Doku) und Laden von
+       GA4 erst nach Einwilligung in Statistik. Muss synchron und vor allen
+       anderen Skripten laufen. Fällt second-ride.de aus, bleibt alles
+       Optionale gesperrt (ohne Entscheidung gilt nur "notwendig"). -->
+  <script>
+    window.SecondRideConsentConfig = {
+      ga4: "{{ config.extra.ga4_property }}",
+      embedPrefixes: [
+        "https://3dviewer.net/embed.html",
+        "https://lucid.app/documents/embedded/"
+      ]
+    };
+  </script>
+  <script src="{{ config.extra.consent_script }}"></script>
   {{ super() }}
   {% if page and page.meta and page.meta.noindex %}
     <meta name="robots" content="noindex, follow">

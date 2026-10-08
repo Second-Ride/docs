@@ -3056,6 +3056,229 @@ html .md-typeset details > :last-child {
   }
 }
 
+/* ── Externe Einbettungen (Einwilligung) ──────────────────────────────── */
+
+/* Rahmen und Platzhalter für iframes, die erst nach Einwilligung in Marketing
+   laden (hooks/sr_consent_embeds.py, javascripts/consent-embeds.js). Die
+   Consent-Engine setzt `src` und die Klasse consent-embed--marketing-accepted.
+   Gleiche Gestalt wie auf second-ride.de (consent-embed.css). */
+
+.md-typeset .consent-embed {
+  position: relative;
+  width: 100%;
+  height: var(--sr-embed-height, 24rem);
+  min-height: 16rem;
+  overflow: hidden;
+  margin: 1em 0;
+  border: 1px solid rgb(5 5 5 / 0.18);
+  border-radius: 0.5rem;
+  background: var(--sr-black);
+  color: #ffffff;
+}
+
+.md-typeset .consent-embed--centered {
+  margin-inline: auto;
+}
+
+.md-typeset .consent-embed__iframe {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0 !important;
+}
+
+.md-typeset .consent-embed__optout {
+  position: absolute;
+  inset: 0;
+  display: block;
+  background: color-mix(in srgb, var(--sr-black) 94%, white);
+}
+
+.md-typeset .consent-embed--marketing-accepted .consent-embed__optout {
+  display: none;
+}
+
+.md-typeset .consent-embed__placeholder {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.md-typeset .consent-embed__eyebrow {
+  margin: 0;
+  color: var(--sr-gold);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.md-typeset .consent-embed__body {
+  max-width: 34rem;
+  margin: 0;
+  color: rgb(255 255 255 / 0.78);
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+.md-typeset .consent-embed__button {
+  appearance: none;
+  min-height: 2.75rem;
+  border: 1px solid var(--sr-gold);
+  border-radius: 0.5rem;
+  background: var(--sr-gold);
+  color: var(--sr-black);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.625rem 1rem;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.md-typeset .consent-embed__button:hover {
+  background: transparent;
+  color: var(--sr-gold);
+}
+
+.md-typeset .consent-embed__button:focus-visible,
+.md-typeset .consent-embed__settings-button:focus-visible {
+  outline: 2px solid var(--sr-gold);
+  outline-offset: 3px;
+}
+
+/* Nach der Einwilligung: kleiner Knopf oben links, um sie zu ändern. */
+.md-typeset .consent-embed__settings-button {
+  appearance: none;
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 2;
+  display: none;
+  max-width: calc(100% - 1.5rem);
+  border: 1px solid color-mix(in srgb, var(--sr-gold) 70%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--sr-black) 78%, transparent);
+  color: var(--sr-light);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0.625rem 0.875rem;
+  text-align: left;
+}
+
+.md-typeset .consent-embed--marketing-accepted .consent-embed__settings-button {
+  display: inline-flex;
+}
+
+.md-typeset .consent-embed__settings-button:hover {
+  border-color: var(--sr-gold);
+  background: var(--sr-black);
+  color: var(--sr-gold);
+}
+
+/* ── Chat ohne Einwilligung ───────────────────────────────────────────── */
+
+/* Ersatz für den Typebot-Button, solange Marketing nicht erlaubt ist
+   (javascripts/typebot.js). Gleicher Look wie der echte Button
+   (stylesheets/chatbot.css): Gold-Fläche, Schein, weiße Sprechblase. */
+.sr-chat-gate {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+  font-family: var(--md-text-font, "Nunito Sans Variable"), system-ui, sans-serif;
+}
+
+.sr-chat-gate__button {
+  display: grid;
+  place-items: center;
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  border: 0;
+  border-radius: 16px;
+  background: #ffd269;
+  box-shadow: 0 4px 15px #ffc65d;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.sr-chat-gate__button svg {
+  width: 28px;
+  height: 28px;
+}
+
+@media (hover: hover) {
+  .sr-chat-gate__button:hover {
+    box-shadow: 0 6px 24px #ffc65d;
+  }
+}
+
+.sr-chat-gate__button:focus-visible,
+.sr-chat-gate__cta:focus-visible {
+  outline: 2px solid var(--sr-gold);
+  outline-offset: 4px;
+}
+
+.sr-chat-gate__panel {
+  width: min(320px, calc(100vw - 40px));
+  padding: 16px;
+  border: 1px solid var(--sr-border);
+  border-radius: 8px;
+  background: var(--sr-page);
+  color: var(--sr-text-strong);
+  box-shadow: var(--sr-shadow-float);
+}
+
+.sr-chat-gate__panel[hidden] {
+  display: none;
+}
+
+.sr-chat-gate__title {
+  margin: 0 0 4px;
+  font-size: var(--sr-fs-ui);
+  font-weight: 700;
+}
+
+.sr-chat-gate__body {
+  margin: 0 0 12px;
+  color: var(--sr-text);
+  font-size: var(--sr-fs-ui);
+  line-height: 1.5;
+}
+
+.sr-chat-gate__cta {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border-radius: 6px;
+  background: var(--sr-btn-bg, #282828);
+  color: var(--sr-btn-fg, #ffffff);
+  font-size: var(--sr-fs-ui);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media print {
+  .sr-chat-gate {
+    display: none;
+  }
+}
+
 /* ── Bewegung ─────────────────────────────────────────────────────────── */
 
 @media (prefers-reduced-motion: reduce) {

@@ -111,10 +111,8 @@
             <a href="{{ href }}" class="sr-footer__legal-link">{{ label }}</a>
             <span class="sr-footer__legal-separator" aria-hidden="true">|</span>
           {% endfor %}
-          {% if config.extra.consent %}
-            <a href="#__consent" class="sr-footer__legal-link">Cookie-Einstellungen</a>
-            <span class="sr-footer__legal-separator" aria-hidden="true">|</span>
-          {% endif %}
+          <a href="https://second-ride.de/cookies" class="sr-footer__legal-link" data-consent-renew>Cookie-Einstellungen</a>
+          <span class="sr-footer__legal-separator" aria-hidden="true">|</span>
           {% if config.repo_url %}
             <a href="{{ config.repo_url }}" class="sr-footer__legal-link" target="_blank" rel="noopener">Diese Doku auf GitHub</a>
           {% endif %}
