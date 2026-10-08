@@ -522,7 +522,7 @@ Verbinde nun die 4 roten Kabel des Second Ride 12V Kabels mit dem Zündschloss a
 Du musst übrigens keine Sicherung mehr verwenden, da die Spannungsversorgung im Falle eines Kurzschlusses automatisch abschaltet, bis der Kurzschluss wieder aufgehoben wird.
 Unter folgendem Link findest du den für dein Moped passenden Schaltplan. Dort ist abgebildet, welche Komponenten entfernt werden können. Du musst keine Sorge haben, etwas falsch zu machen. Unser System hat einen Kurzschlussschutz, sodass lediglich das Licht solange nicht angeht, bis du den Fehler behoben hast.
 
-<div style="text-align: center;"><a href="https://second-ride.de/schaltplaene?utm_source=anleitung">Hier geht es zu den Schaltplänen</a></div>
+<div style="text-align: center;"><a href="https://second-ride.de/schaltplaene?utm_source=anleitung#s50-s51-und-s70">Hier geht es zu den Schaltplänen</a></div>
 
 Falls dein Fahrzeug noch mit 6V Elektrik ausgestattet ist, musst du alle Glühbirnen, den Blinkgeber und evt. die Hupe gegen 12V Komponenten austauschen.
 
