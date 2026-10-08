@@ -18,6 +18,7 @@ hooks:
   - hooks/sr_consent_embeds.py
   - hooks/llms_bot.py
   - hooks/sr_assets.py
+  - hooks/redirects.py
 
 extra_css:
     - stylesheets/theme.css
@@ -212,6 +213,39 @@ extra:
   ga4_property: G-YZJB651WB8
   consent_script: https://second-ride.de/consent.js
   generator: false
+  # Weiterleitungen für umgezogene Doku-Seiten, umgesetzt in hooks/redirects.py.
+  # Schlüssel: alte Seite, Wert: neue Seite der Doku oder fremde Adresse. Gedruckte
+  # Anleitungen, Mails und Forenbeiträge verweisen noch auf die alten Adressen.
+  redirect_maps:
+    # Ordnerumbenennungen im Sommer 2025 (Umbauanleitung, customer-manual, instruction-manual)
+    Umbauanleitung/SR24/01-s50-s51/index.md: conversion-manual/SR24/01-s50-s51/index.md
+    Umbauanleitung/SR24/02-schwalbe/index.md: conversion-manual/SR24/02-schwalbe/index.md
+    Umbauanleitung/SR24/03-sr50/index.md: conversion-manual/SR24/03-sr50/index.md
+    Umbauanleitung/SR24/04-duo/index.md: conversion-manual/SR24/04-duo/index.md
+    Umbauanleitung/SR24/05-vogelserie/index.md: conversion-manual/SR24/05-vogelserie/index.md
+    umbauanleitung/SR24/01-s50-s51/index.md: conversion-manual/SR24/01-s50-s51/index.md
+    umbauanleitung/SR24/02-schwalbe/index.md: conversion-manual/SR24/02-schwalbe/index.md
+    umbauanleitung/SR24/03-sr50/index.md: conversion-manual/SR24/03-sr50/index.md
+    umbauanleitung/SR24/04-duo/index.md: conversion-manual/SR24/04-duo/index.md
+    umbauanleitung/SR24/05-vogelserie/index.md: conversion-manual/SR24/05-vogelserie/index.md
+    instruction-manual/SR24/01-drive-unit-and-battery/index.md: user-manual/SR24/01-drive-unit-and-battery/index.md
+    customer-manual/SR24/01-drive-unit-and-battery/index.md: user-manual/SR24/01-drive-unit-and-battery/index.md
+    customer-manual/SR24/02-app/index.md: user-manual/second-ride-app/index.md
+    customer-manual/SR24/03-update/index.md: user-manual/SR24/03-firmware-update/index.md
+    customer-manual/SR24/03-updates/index.md: user-manual/SR24/03-firmware-update/index.md
+    customer-manual/SR24/04-externer-ladeport/index.md: user-manual/SR24/04-externer-ladeport/index.md
+    customer-manual/SR24/05-electric-clutch/index.md: user-manual/SR24/05-electric-clutch/index.md
+    customer-manual/modification-approval-and-homologation/index.md: conversion-manual/modification-approval-and-homologation/index.md
+    # Umbenennungen im November 2025
+    user-manual/SR24/02-app/index.md: user-manual/second-ride-app/index.md
+    user-manual/SR24/03-update/index.md: user-manual/SR24/03-firmware-update/index.md
+    user-manual/SR24/06-bt-module/index.md: user-manual/SR24/02-bt-module/index.md
+    user-manual/modification-approval-and-homologation/index.md: conversion-manual/modification-approval-and-homologation/index.md
+    # Umbenennungen 2026
+    technische-abnahme/index.md: conversion-manual/MID50/throttling/how-to-check-throttling/index.md
+    conversion-manual/MID50/02-s50-s51/index.md: conversion-manual/MID50/02-s50-s51-s70/index.md
+    # Frühere leere Seite, auf die alte QR-Codes der Community-Einladung zeigen können
+    second-ride.de/community-gast.md: https://second-ride.de/community-gast
 
 copyright: >
   <a href="https://second-ride.de/cookies" data-consent-renew>Cookie Einstellungen</a> <br>
@@ -233,6 +267,7 @@ nav:
             - SR50: conversion-manual/SR24/03-sr50/index.md
             - Duo: conversion-manual/SR24/04-duo/index.md
             - Vogelserie: conversion-manual/SR24/05-vogelserie/index.md
+        - "12V Schaltpläne": conversion-manual/12v-wiring-diagrams/index.md
         - "Änderungsabnahme & Zulassung": conversion-manual/modification-approval-and-homologation/index.md
     - Bedienungsanleitung:
         #- Übersicht: user-manual/index.md

@@ -49,7 +49,7 @@ Hier ist eine Karte aller technischer Sachverständiger, bei denen andere schon 
         width="100%" 
         height="450px">
         Dieser Browser unterstützt keine PDFs. 
-        <a href="docs/Teilegutachten-SR24-SRZ00746.pdf">PDF herunterladen</a>
+        <a href="docs/Teilegutachten-MID50.pdf">PDF herunterladen</a>
     </iframe>
 
 === "Teilegutachten für SR24"

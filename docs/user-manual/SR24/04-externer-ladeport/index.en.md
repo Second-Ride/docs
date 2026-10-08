@@ -108,7 +108,7 @@ Then reinstall the cable cover (2), ensuring that none of the old or new cables 
 > To use the charging port, Günter (Vehicle Control Unit) must have at least firmware VCU_Firmware_V0.4.0.dfu installed.  
 > Higher versions will also be compatible.
 
-Please refer to the update manual that either came with your kit or can be found under [this link](https://www.second-ride.de/docs) in the folder “Firmware Update”.
+How to update the firmware is described in the [firmware update manual](../03-firmware-update/index.en.md).
 
 ## Operation of the External Charging Adapter
 

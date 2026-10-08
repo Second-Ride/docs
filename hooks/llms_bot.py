@@ -12,6 +12,10 @@ Padding, Bild-Platzhalter und HTML-Gerüst. Zusätzlich:
 - Jede Überschrift trägt ihre echte Anker-ID aus dem Inhaltsverzeichnis
   (`[#anker]`), damit der Bot nicht selbst Anker berechnen muss.
 - Relative Links werden zu absoluten URLs.
+- PDF-Viewer (iframe) erscheinen als "(PDF: URL)", Videos als "(Video: URL)".
+- Vorn steht der Abschnitt "ZUSATZWISSEN" aus `chatbot/zusatzwissen.md`, falls
+  die Datei existiert: Hinweise, die auf keiner Seite stehen, zum Beispiel wohin
+  der Bot bei welchem Thema verweist.
 
 Nur Standardbibliothek, damit der Build auf dem Server ohne neue Pakete läuft.
 """
@@ -84,11 +88,18 @@ def _resolve(href, page_url, site_url):
 def _clean(markdown, page_url, site_url):
     text = markdown
 
-    # HTML-Kommentare und Video-Einbettungen
+    # HTML-Kommentare, PDF-Viewer und Video-Einbettungen
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    base = urljoin(site_url, page_url)
+    text = re.sub(
+        r"<iframe\b[^>]*?src=\"([^\"]+?\.pdf)\"[^>]*>.*?</iframe>",
+        lambda m: f"\n(PDF: {urljoin(base, m.group(1).strip())})\n",
+        text,
+        flags=re.S | re.I,
+    )
     text = re.sub(
         r"<iframe[^>]*?src=\"([^\"]+)\"[^>]*>\s*</iframe>",
-        r"\n(Video: \1)\n",
+        lambda m: f"\n(Video: {urljoin(base, m.group(1).strip())})\n",
         text,
         flags=re.S | re.I,
     )
@@ -98,8 +109,9 @@ def _clean(markdown, page_url, site_url):
     text = re.sub(r"!\[[^\]]*\]\([^)]*\)(\{[^}]*\})?", "", text)
     text = re.sub(r"<img\b[^>]*>", "", text, flags=re.I)
 
-    # Attributlisten wie {: .class }
+    # Attributlisten wie {: .class } und Icon-Kürzel wie :material-download:
     text = re.sub(r"\{:?\s*[.#][^}]*\}", "", text)
+    text = re.sub(r"[ \t]*:(?:material|fontawesome|octicons|simple)-[a-z0-9-]+:", "", text)
 
     # Links in HTML zu Markdown
     text = re.sub(
@@ -187,6 +199,15 @@ def on_page_content(content, page, config, files):
     return None
 
 
+def _extra_knowledge(config):
+    """Abschnitt "ZUSATZWISSEN" aus chatbot/zusatzwissen.md (leer, wenn es die Datei nicht gibt)."""
+    path = Path(config["config_file_path"]).parent / "chatbot" / "zusatzwissen.md"
+    if not path.is_file():
+        return ""
+    body = re.sub(r"<!--.*?-->", "", path.read_text(encoding="utf-8"), flags=re.S).strip()
+    return f"=== ZUSATZWISSEN ===\n{body}\n" if body else ""
+
+
 def on_post_build(config):
     site_url = config["site_url"] or ""
     blocks = []
@@ -209,9 +230,12 @@ def on_post_build(config):
         "\"=== SEITE: ... ===\", danach Bereich und URL. Hinter jeder "
         "Überschrift steht in eckigen Klammern ihr Anker, zum Beispiel "
         "\"[#details-zum-umbausatz]\". Ein Link auf einen Abschnitt lautet "
-        "URL + \"#\" + Anker.\n"
+        "URL + \"#\" + Anker. Der Abschnitt \"=== ZUSATZWISSEN ===\" enthält "
+        "Hinweise, die auf keiner Seite stehen, zum Beispiel wohin du bei "
+        "welchem Thema verweist.\n"
     )
-    output = header + "\n" + "\n".join(blocks)
+    extra = _extra_knowledge(config)
+    output = header + "\n" + (extra + "\n" if extra else "") + "\n".join(blocks)
     target = Path(config["site_dir"]) / "llms-bot.txt"
     target.write_text(output, encoding="utf-8")
     print(f"INFO    -  llms-bot.txt: {len(blocks)} Seiten, {len(output):,} Zeichen")

@@ -14,7 +14,7 @@ Unterstützte Second Ride Umbausätze:
 - SR22 ist nicht kompatibel, da die Hardware sich deutlich unterscheidet und nicht unterstützt wird
 - SR23 in Verbindung mit unserem Bluetooth-Modul
 - SR24 teilweise ohne weitere Hardware und teilweise nur in Verbindung mit unserem Bluetooth-Modul (siehe nächster Abschnitt)
-- MID50 ist kompatibel
+- MID50: Die App-Unterstützung ist für Frühling 2027 geplant. Bis dahin richtest du das MID50 ohne App über das WLAN des Fahrzeugs ein, siehe [Antrieb drosseln](../../conversion-manual/MID50/throttling/how-to-throttle-your-drive/index.md).
 
 > [!info] So erkennst du ob deine SR24 Sitzbank Bluetooth hat
 > Wenn deine Sitzbank direkt neben dem Hauptstecker einen USB-C Port besitzt, hat deine Sitzbank bereits ein BT-Modul integriert. Um es zu verwenden, musst du nur noch das Sitzbank-Update machen. Wie das geht, siehst du unter dem Kapitel “Updateprozess”.
@@ -41,7 +41,7 @@ Um die Sicherheit deiner Daten und Verbindung zu gewährleisten haben wir einen 
 Halte dafür die Sitzbank ID (unten auf deiner Sitzbank aufgelasert) bzw. die BT-Modul-ID bereit, die auf der Seite deines BT-Moduls steht.
 
 ### Erster Verbindungsaufbau mit MID50: 
-kommt bald
+Die App-Unterstützung für das MID50 ist für Frühling 2027 geplant. Die Anleitung für den ersten Verbindungsaufbau folgt an dieser Stelle zum Start der Unterstützung.
 
 ### Erster Verbindungsaufbau mit SR24 BT-Sitzbank:  
 
@@ -97,7 +97,7 @@ Um die Pro-Features freizuschalten, muss ein 8-stelliger Pro-Code auf der App Se
 
 Wenn du ein BT-Modul inkl. Pro-Code bestellt hast, findest du diesen auf dem beigelegten Lieferschein. Falls du einen Pro-Code in unserem Shop erworben hast, wird er dir per Email zugesandt.
 
-Wenn du noch kein Pro feature gekauft hast, diese aber nutzen möchtest, kannst du deinen persönlichen Pro-Code unter [diesem Link](http://www.second-ride.de/pro-code) erwerben:
+Wenn du noch kein Pro feature gekauft hast, diese aber nutzen möchtest, kannst du deinen persönlichen Pro-Code unter [diesem Link](https://second-ride.de/de/pro-code-fuer-second-ride-app) erwerben:
 
 **Was ist wenn ich zwei Handys habe/ das Handy wechsel / das Fahrzeug wechsle?**
 

@@ -326,7 +326,7 @@ We have supplied you with two red-black cables. Plug the cable with white 2-pin 
 For connecting the flat plug terminals, it’s easier to remove the connector strip by unscrewing the two Phillips screws.  
 Now connect the red cables of the Second Ride cable to the correct contacts on the wiring distributor for your vehicle model. Plugging them in can be a bit tricky due to the insulation, but it is possible with the right technique.  
 At the following link you will find the wiring diagram suitable for your vehicle. It shows which components can be removed. Don’t worry about making mistakes—our drive module has short-circuit protection, so the lights will simply not work until the error is fixed:  
-[Wiring diagrams, technical documents, installation & operating instructions](https://www.second-ride.de/docs)
+[Wiring diagram SR50 (PDF)](https://drive.google.com/file/d/12mWrEk-rlaxjKJQ3HV7UoRUaaKnoxztn/view)
 
 The black wire can be fastened at the left screw point of the ground collection point ().  
 You also no longer need to use a fuse, since the power supply automatically shuts off in the event of a short circuit and only switches back on once the short is cleared.

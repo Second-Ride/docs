@@ -16,8 +16,18 @@ Erzeugt bei jedem `mkdocs build` von `hooks/llms_bot.py` aus den Markdown-Quelle
 - pro Seite Titel mit Navigationspfad (zum Beispiel "Umbauanleitung > MID50 > Schwalbe"), Bereich und echte URL
 - hinter jeder Überschrift der echte Anker (`[#anker]`), damit der Bot Abschnitte korrekt verlinkt
 - ohne Bilder, HTML-Tabellen und Tabellen-Padding
+- PDF-Viewer als "(PDF: URL)", Videos als "(Video: URL)"
+- vorn der Abschnitt "ZUSATZWISSEN" aus `zusatzwissen.md` (siehe unten)
 
 `llms-full.txt` und `/all-docs` bleiben unverändert für andere Nutzer.
+
+## Zusatzwissen: `zusatzwissen.md`
+
+Hinweise für den Bot, die auf keiner Doku-Seite stehen, zum Beispiel wohin er bei welchem Thema verweist (Fehlerbehebungs-Assistent, Kundensupport, Reservierung, Partnerwerkstätten, Probefahrt). Der Hook hängt die Datei beim Bauen vorn an `llms-bot.txt` an, in Typebot ändert sich dafür nichts. Der Inhalt ist damit öffentlich abrufbar, also keine internen Angaben eintragen. Fakten zu Produkten, Preisen und Lieferzeiten gehören in die Doku oder auf die Website, nicht in diese Datei.
+
+## System-Prompt ändern
+
+`system-prompt.txt` ist nur die Vorlage im Repo. Der Bot nutzt den Text, der in Typebot im Block "Create chat completion" steht. Nach jeder Änderung an der Datei den Inhalt dort einfügen (die letzte Zeile `{{FAQs}}` bleibt) und neu veröffentlichen.
 
 ## Design
 

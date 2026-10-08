@@ -157,6 +157,16 @@ Die Doku nutzt Material for MkDocs mit eigenem Design, angelehnt an second-ride.
 
 Die englischen Übersetzungen (`*.en.md`) werden über `exclude_docs` in `mkdocs.yml` nicht mitgebaut, bis die Mehrsprachigkeit aktiviert wird.
 
+### Weiterleitungen alter Adressen
+
+Wird eine Seite umbenannt oder verschoben, stehen ihre alten Adressen weiter in gedruckten Anleitungen, Mails und Foren. Trage die alte Datei deshalb in `mkdocs.yml` unter `extra: redirect_maps:` ein, als `alte/seite/index.md: neue/seite/index.md` oder mit einer fremden Adresse als Ziel. `hooks/redirects.py` schreibt daraus beim Bauen kleine Weiterleitungsseiten und hängt den Anker der alten Adresse an. Der Hook braucht nur die Standardbibliothek, weil der Server beim Deploy keine Pakete installiert.
+
+Kurzlinks wie `second-ride.de/schaltplaene` gehören nicht hierher, sondern in die Weiterleitungen des Shop-Projekts (Vercel, immer als Paar mit `/de/...`).
+
+### Chat-Assistent
+
+Wissensbasis, System-Prompt und das zusätzliche Wissen des Bots stehen in [`chatbot/README.md`](chatbot/README.md).
+
 ## PDF-Export
 
 Aus der Doku lässt sich eine druckfertige, fahrzeugspezifische PDF-Anleitung erzeugen (Titelseite, Revisionsseite, Rückseite). Auslösen über GitHub Actions → **PDF Export** → *Run workflow* (Fahrzeug + Revisionsnummer angeben). Details siehe [`print-pipeline/README.md`](print-pipeline/README.md).

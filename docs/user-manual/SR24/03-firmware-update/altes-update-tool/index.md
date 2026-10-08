@@ -6,7 +6,7 @@
 
 ## Update vom Antriebsmodul („Günter“)
 
-### 1. [Webupdatetool öffnen](http://Second-ride.de/update):  → Nur mit Google Chrome verwenden.
+### 1. [Webupdatetool öffnen](https://second-ride.de/update):  → Nur mit Google Chrome verwenden.
 
 ### 2. Firmware auswählen:  
    Wähle unter „Antriebsmodul / Günter“ die gewünschte Firmware-Version und klicke auf “Verbinden”  
