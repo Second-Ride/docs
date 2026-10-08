@@ -3261,11 +3261,15 @@ html .md-typeset details > :last-child {
 }
 
 .sr-chat-gate__cta {
+  appearance: none;
   display: inline-flex;
   align-items: center;
   min-height: 40px;
   padding: 0 14px;
+  border: 0;
   border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
   background: var(--sr-btn-bg, #282828);
   color: var(--sr-btn-fg, #ffffff);
   font-size: var(--sr-fs-ui);

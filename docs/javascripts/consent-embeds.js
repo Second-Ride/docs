@@ -4,9 +4,11 @@
  * hooks/sr_consent_embeds.py gibt diesen iframes beim Bauen kein `src`, nur
  * `data-consent-src`. Die Consent-Engine von second-ride.de setzt `src` erst
  * nach der Einwilligung in Marketing (und entfernt es beim Widerruf). Dieses
- * Skript setzt jeden solchen iframe in einen Rahmen mit Hinweis und Button,
- * der die Cookie-Einstellungen öffnet (`data-consent-renew`). Die Engine
- * blendet den Hinweis aus, sobald die Einwilligung vorliegt
+ * Skript setzt jeden solchen iframe in einen Rahmen mit Hinweis und
+ * "Akzeptieren"-Button, der direkt die Einwilligung erteilt
+ * (consent-accept.js). Der kleine Knopf oben links öffnet danach die
+ * Cookie-Einstellungen (`data-consent-renew`). Die Engine blendet den
+ * Hinweis aus, sobald die Einwilligung vorliegt
  * (Klasse consent-embed--marketing-accepted, Stil in stylesheets/theme.css).
  *
  * Material lädt Seiten per Instant Navigation nach, daher beobachtet das
@@ -16,14 +18,16 @@
   var TEXTS = {
     de: {
       title: "{service} ist blockiert",
-      body: "Dieser externe Inhalt wird erst geladen, wenn du Marketing-Cookies erlaubst.",
-      cta: "Cookie-Einstellungen öffnen",
+      body: "Du musst die Cookies akzeptieren, um das nutzen zu können.",
+      cta: "Akzeptieren",
+      settings: "Cookie-Einstellungen öffnen",
       generic: "Externer Inhalt",
     },
     en: {
       title: "{service} is blocked",
-      body: "This external content will only load after you allow marketing cookies.",
-      cta: "Open cookie settings",
+      body: "You have to accept cookies to use this.",
+      cta: "Accept",
+      settings: "Open cookie settings",
       generic: "External content",
     },
   };
@@ -78,7 +82,7 @@
     var service = serviceName(iframe.getAttribute("data-consent-src"), t.generic);
     var placeholderTitle = t.title.replace("{service}", service);
 
-    var settings = element("button", "consent-embed__settings-button", t.cta);
+    var settings = element("button", "consent-embed__settings-button", t.settings);
     settings.type = "button";
     settings.setAttribute("data-consent-renew", "");
 
@@ -88,7 +92,9 @@
     placeholder.setAttribute("aria-label", placeholderTitle);
     var cta = element("button", "consent-embed__button", t.cta);
     cta.type = "button";
-    cta.setAttribute("data-consent-renew", "");
+    cta.addEventListener("click", function () {
+      if (window.SRConsentAccept) window.SRConsentAccept("marketing");
+    });
     placeholder.append(
       element("p", "consent-embed__eyebrow", placeholderTitle),
       element("p", "consent-embed__body", t.body),
