@@ -53,14 +53,10 @@ docs/.obsidian/
 # Lokale Notizdateien
 Open Todos.md
 
-# Docker build context (optional)
-.dockerignore
-
-# Server-specific files (deployment infrastructure)
+# Reste des alten Server-Setups. Dockerfile, nginx.conf und .dockerignore
+# gehören seit dem Umzug auf Coolify ins Repo.
 webhook.py
 docker-compose.yml
-Dockerfile
-nginx.conf
 
 # Build output and cache
 site/
