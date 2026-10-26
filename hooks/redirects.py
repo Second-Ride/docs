@@ -14,10 +14,9 @@ Format wie beim Plugin mkdocs-redirects:
 Links und Schlüssel sind Pfade der Markdown-Dateien relativ zu `docs/`. Die
 alte Datei muss es nicht mehr geben, sie darf aber keine bestehende Seite sein.
 
-Warum ein Hook und kein Plugin: rebuild.sh installiert auf dem Server keine
-Pakete aus requirements.txt. Ein fehlendes Plugin würde den Build abbrechen und
-die Live-Seite stehen lassen. Der Hook braucht nur die Standardbibliothek, wie
-llms_bot.py. Wer doch mkdocs-redirects einsetzen will, verschiebt die Tabelle
+Der Hook braucht nur die Standardbibliothek, wie llms_bot.py. Seit dem Build
+per Dockerfile werden Pakete aus requirements.txt bei jedem Deploy installiert;
+wer doch mkdocs-redirects einsetzen will, verschiebt die Tabelle
 unverändert unter `plugins: - redirects: redirect_maps:` und entfernt diesen Hook.
 """
 

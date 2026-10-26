@@ -159,7 +159,7 @@ Die englischen Übersetzungen (`*.en.md`) werden über `exclude_docs` in `mkdocs
 
 ### Weiterleitungen alter Adressen
 
-Wird eine Seite umbenannt oder verschoben, stehen ihre alten Adressen weiter in gedruckten Anleitungen, Mails und Foren. Trage die alte Datei deshalb in `mkdocs.yml` unter `extra: redirect_maps:` ein, als `alte/seite/index.md: neue/seite/index.md` oder mit einer fremden Adresse als Ziel. `hooks/redirects.py` schreibt daraus beim Bauen kleine Weiterleitungsseiten und hängt den Anker der alten Adresse an. Der Hook braucht nur die Standardbibliothek, weil der Server beim Deploy keine Pakete installiert.
+Wird eine Seite umbenannt oder verschoben, stehen ihre alten Adressen weiter in gedruckten Anleitungen, Mails und Foren. Trage die alte Datei deshalb in `mkdocs.yml` unter `extra: redirect_maps:` ein, als `alte/seite/index.md: neue/seite/index.md` oder mit einer fremden Adresse als Ziel. `hooks/redirects.py` schreibt daraus beim Bauen kleine Weiterleitungsseiten und hängt den Anker der alten Adresse an. Der Hook braucht nur die Standardbibliothek.
 
 Kurzlinks wie `second-ride.de/schaltplaene` gehören nicht hierher, sondern in die Weiterleitungen des Shop-Projekts (Vercel, immer als Paar mit `/de/...`).
 
@@ -176,3 +176,9 @@ Aus der Doku lässt sich eine druckfertige, fahrzeugspezifische PDF-Anleitung er
 For questions about SecondRide or this documentation:
 - Browse the [FAQ section](https://docs.second-ride.de/faq/)
 - Contact support through the SecondRide platform
+
+## Deployment
+
+Die Seite läuft auf dem Second-Ride-Server `vibe-deploy` (Hetzner) in Coolify, App `docs` im Projekt "Second Ride", davor Cloudflare. Ein Push auf `main` baut das `Dockerfile`: `mkdocs build --strict`, dann nginx mit `nginx.conf`. `--strict` macht jede Warnung zum Fehler, etwa einen kaputten internen Link. Dann entsteht kein Image, und die laufende Version bleibt. Den Grund zeigt das Build-Log der App in Coolify.
+
+Neue Pakete gehören in `requirements.txt`, sie werden bei jedem Build installiert.
