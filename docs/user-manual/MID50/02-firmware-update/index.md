@@ -29,9 +29,11 @@ Alle Akkus und Antriebsmodule haben eigenständige Steuergeräte, welche jeweils
 
 ## 4. Nach dem Update des Antriebsmoduls
 
-Direkt nach dem Update des Antriebsmoduls bringt das Fahrzeug noch seine Motorsteuerung auf den neuen Stand. Das dauert etwa eine halbe Minute. Dabei blinkt die LED im Armaturentaster schnell, und die Ladestandsanzeige an den Armaturen zeigt den **Fortschritt** statt des Akkustands: Der Zeiger fällt auf null, läuft bis zum Anschlag und fällt dann wieder auf null. Dein Akku hat sich dabei weder entladen noch aufgeladen.
+Bringt ein Update neue Einstellungen für die Motorsteuerung mit, überträgt das Antriebsmodul sie direkt im Anschluss von selbst. Das dauert etwa eine halbe Minute. Solange blinkt die LED im Armaturentaster schnell, und die Ladestandsanzeige an den Armaturen zeigt den **Fortschritt** statt des Akkustands: Der Zeiger fällt auf 0, wandert bis 100 und fällt noch einmal auf 0.
 
-Danach dimmt die LED wieder langsam an und aus, und die Anzeige zeigt wieder den Akkustand. Bei Fahrzeugen der ersten Baureihe bleibt die LED während des Vorgangs dunkel, die Ladestandsanzeige zeigt den Fortschritt trotzdem.
+Fertig ist der Schritt, wenn die LED wieder langsam an und aus dimmt. Die Anzeige zeigt dann wieder den Akkustand. Bei älteren Antriebsmodulen kann die LED während des Schritts dunkel bleiben. Das ist kein Fehler, achte dann auf die Ladestandsanzeige.
 
-> [!warning] Fahrzeug nicht ausschalten
-> Schalte das Fahrzeug in dieser Zeit nicht aus. Passiert es doch, holt es diesen Schritt beim nächsten Einschalten nach und lässt sich bis dahin nicht fahren.
+> [!warning] Nicht ausschalten, kein Gas geben
+> Lass das Fahrzeug eingeschaltet, bis der Schritt fertig ist, und gib in dieser Zeit kein Gas.
+>
+> Wurde es doch ausgeschaltet, beginnt der Schritt beim nächsten Einschalten von vorn. Läuft er auch nach mehreren Versuchen nicht durch, lässt sich das Fahrzeug nicht mehr fahren. Verbinde es dann erneut mit dem [Update-Tool](https://update.second-ride.de) und wähle unter „Service“ den Punkt „Motorsteuerung neu parametrieren“, oder melde dich bei uns.
