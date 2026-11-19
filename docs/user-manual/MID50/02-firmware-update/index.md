@@ -26,3 +26,12 @@ Alle Akkus und Antriebsmodule haben eigenständige Steuergeräte, welche jeweils
 
 > [!warning] Warnhinweis
 > Lasse das System während des Software-Updates eingeschaltet. Ansonsten kann es zu Schäden an der Elektronik kommen.
+
+## 4. Nach dem Update des Antriebsmoduls
+
+Direkt nach dem Update des Antriebsmoduls bringt das Fahrzeug noch seine Motorsteuerung auf den neuen Stand. Das dauert etwa eine halbe Minute. Dabei blinkt die LED im Armaturentaster schnell, und die Ladestandsanzeige an den Armaturen zeigt den **Fortschritt** statt des Akkustands: Der Zeiger fällt auf null, läuft bis zum Anschlag und fällt dann wieder auf null. Dein Akku hat sich dabei weder entladen noch aufgeladen.
+
+Danach dimmt die LED wieder langsam an und aus, und die Anzeige zeigt wieder den Akkustand. Bei Fahrzeugen der ersten Baureihe bleibt die LED während des Vorgangs dunkel, die Ladestandsanzeige zeigt den Fortschritt trotzdem.
+
+> [!warning] Fahrzeug nicht ausschalten
+> Schalte das Fahrzeug in dieser Zeit nicht aus. Passiert es doch, holt es diesen Schritt beim nächsten Einschalten nach und lässt sich bis dahin nicht fahren.

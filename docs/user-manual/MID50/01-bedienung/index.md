@@ -24,6 +24,7 @@ Nachfolgend alle Leuchtzeichen, welche die LED im Armaturentaster anzeigen kann:
 | LED dauerhaft an | Aktiver Fahrbetrieb ohne Fehler. |
 | LED blinkt: 2 s lange an, dann 0,2 s aus, wieder 2 s lange an | Aktiver Fahrbetrieb mit gedrosselter Leistung. |
 | Doppelblinken, kurze Pause, Doppelblinken | Konfigurationsmodus. |
+| LED blinkt schnell, etwa viermal pro Sekunde | Die Motorsteuerung wird nach einem Firmware-Update auf den neuen Stand gebracht. Die Ladestandsanzeige zeigt dabei den Fortschritt, siehe [Firmware Update](../02-firmware-update/index.md#4-nach-dem-update-des-antriebsmoduls). |
 | Nach Drücken des Tasters blinkt die LED drei Mal kurz und ist dann aus | Batterie leer. Bitte aufladen. |
 
 ---
@@ -62,7 +63,7 @@ Wenn die Ladestandsanzeige bei 0% ist, ist der Fahrbetrieb zwar nicht mehr mögl
 
 ## Ladestandsanzeigen
 
-Der Umbausatz verfügt über zwei Ladestandsanzeigen: eine an den Armaturen und eine am Akku. Die Ladestandsanzeige an den Armaturen ist immer aktiv, wenn das Zündschloss betätigt und der Akku angesteckt ist. Die Ladestandsanzeige des Akkus hingegen muss mittels Berührung der linken oberen Ecke der Akkuanzeigenoberfläche angeschaltet werden und schaltet dann nach wenigen Sekunden selbst wieder aus.
+Der Umbausatz verfügt über zwei Ladestandsanzeigen: eine an den Armaturen und eine am Akku. Die Ladestandsanzeige an den Armaturen ist immer aktiv, wenn das Zündschloss betätigt und der Akku angesteckt ist. Die Ladestandsanzeige des Akkus hingegen muss mittels Berührung der linken oberen Ecke der Akkuanzeigenoberfläche angeschaltet werden und schaltet dann nach wenigen Sekunden selbst wieder aus. Direkt nach einem Firmware-Update des Antriebsmoduls zeigt die Anzeige an den Armaturen etwa eine halbe Minute lang den Fortschritt des Updates statt des Akkustands, siehe [Firmware Update](../02-firmware-update/index.md#4-nach-dem-update-des-antriebsmoduls).
 
 ---
 
