@@ -35,5 +35,3 @@ Fertig ist der Schritt, wenn die LED wieder langsam an und aus dimmt. Die Anzeig
 
 > [!warning] Nicht ausschalten, kein Gas geben
 > Lass das Fahrzeug eingeschaltet, bis der Schritt fertig ist, und gib in dieser Zeit kein Gas.
->
-> Wurde es doch ausgeschaltet, beginnt der Schritt beim nächsten Einschalten von vorn. Läuft er auch nach mehreren Versuchen nicht durch, lässt sich das Fahrzeug nicht mehr fahren. Verbinde es dann erneut mit dem [Update-Tool](https://update.second-ride.de) und wähle unter „Service“ den Punkt „Motorsteuerung neu parametrieren“, oder melde dich bei uns.
