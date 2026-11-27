@@ -10,20 +10,53 @@ Solltest du Probleme bei der Inbetriebnahme deines Umbausatzes haben, findest du
 
 ## Status LEDs Antriebsmodul
 
-An der linken Seite des Antriebsmoduls befinden sich drei LEDs. Von links nach rechts haben sie folgende Bedeutung:
+An der linken Seite des Antriebsmoduls befinden sich drei LEDs. Von links nach rechts haben sie folgende Bedeutung.
 
-| | LED 1 – Systemstatus | LED 2 – Status der Drosselung | LED 3 – Error Code |
-|---|---|---|---|
-| **Motorabschaltung aktiv** | 🔴 Rote LED dauerhaft an | | |
-| **Leistungsreduktion aktiv** | 🟡 Gelbe LED blinkt | | |
-| **Inaktiver Fahrzustand** | 🟢 Grüne LED dauerhaft an | | |
-| **Aktiver Fahrzustand** | 🟢 Grüne LED blinkt | | |
-| **Konfigurationsmodus aktiv** | 🟣 Lila LED dauerhaft an | | |
-| **System Legal NICHT gedrosselt** | | 🟡 Gelbe LED dauerhaft an | |
-| **System Legal gedrosselt** | | 🟢 Grüne LED dauerhaft an | |
-| **Error liegt vor** | | | 🔴 Rote LED blinkt mind. einmal. Anzahl des Blinkens zeigt Fehlernummer\*. Anschließend 3 s Pause |
+### LED 1: Systemstatus
 
-\* Eine Tabelle mit Fehlernummern wird demnächst unter [docs.second-ride.de](https://docs.second-ride.de) veröffentlicht.
+| Leuchtmuster | Bedeutung |
+|---|---|
+| 🟢 Grün, dauerhaft an | Inaktiver Fahrzustand |
+| 🟢 Grün, blinkt | Aktiver Fahrzustand |
+| 🟣 Lila, dauerhaft an | Konfigurationsmodus aktiv |
+| 🔵 Cyan, blinkt | Das Antriebsmodul aktualisiert gerade die Motorsteuerung, zum Beispiel nach einem Firmware-Update |
+
+Eine gedrosselte Leistung im Fahrbetrieb wird nicht an LED 1 angezeigt, sondern an der LED des Tasters an der Armatur (siehe [Bedienung](../01-bedienung/index.md)). Eine betätigte Bremse (Motorabschaltung) wird an den Status LEDs nicht angezeigt.
+
+### LED 2: Status der Drosselung
+
+| Leuchtmuster | Bedeutung |
+|---|---|
+| 🟢 Grün, dauerhaft an | System ist legal gedrosselt (Drosselung endgültig gespeichert) |
+| 🟠 Orange, dauerhaft an | System ist NICHT endgültig gedrosselt |
+| Aus | Status ist noch nicht ermittelt, zum Beispiel direkt nach dem Einschalten |
+
+### LED 3: Fehlercode
+
+Liegt kein Fehler vor, ist LED 3 aus. Liegt ein Fehler oder eine Warnung vor, blinkt LED 3 einen Code aus einem Buchstaben und drei Ziffern, zum Beispiel `E402`. Das Muster wiederholt sich nach einer Pause von 3 Sekunden.
+
+1. **Art der Meldung:** ein langes Blinken (ca. 1,5 s).
+    - 🔴 Rot, einmal lang: Fehler (`E`)
+    - 🔴 Rot, zweimal lang: schwerer Fehler (`F`)
+    - 🟡 Gelb, einmal lang: Warnung (`A`)
+2. **Ziffern:** Nach einer kurzen Pause folgt jede Ziffer als Gruppe kurzer Blinkzeichen in derselben Farbe. Die Anzahl der Blinkzeichen entspricht der Ziffer. Zwischen den Gruppen liegt eine kurze Pause.
+    - Ist die mittlere Ziffer eine 0, wird sie ausgelassen. Du siehst dann nur zwei Gruppen.
+    - Eine 0 an erster oder letzter Stelle wird als ein einzelnes, etwas längeres Blinken angezeigt.
+
+Beispiel `E402`: einmal lang rot, Pause, viermal kurz, Pause, zweimal kurz, 3 Sekunden Pause.
+
+Liegen mehrere Meldungen gleichzeitig vor, wird nur eine davon angezeigt. Fehler haben Vorrang vor Warnungen.
+
+| Code | Blinkmuster nach dem langen Blinken | Bedeutung |
+|---|---|---|
+| `E201` | 🔴 2 x kurz, 1 x kurz | Die gespeicherte Konfiguration der Drosselung konnte nicht geladen werden oder ihre Prüfung ist fehlgeschlagen |
+| `E301` | 🔴 3 x kurz, 1 x kurz | Das Antriebsmodul empfängt keine Statusmeldungen der Motorsteuerung |
+| `E401` | 🔴 4 x kurz, 1 x kurz | Keine Verbindung zur Motorsteuerung |
+| `E402` | 🔴 4 x kurz, 2 x kurz | Die Aktualisierung der Motorsteuerung ist fehlgeschlagen |
+| `A101` | 🟡 1 x kurz, 1 x kurz | Der Systemstatus kann nicht ermittelt werden |
+| `A201` | 🟡 2 x kurz, 1 x kurz | Die Konfiguration der Drosselung kann nicht vollständig geprüft werden |
+
+Bleibt eine Meldung nach dem Aus- und Wiedereinschalten bestehen, notiere dir den Code und kontaktiere uns.
 
 ## Sonstige Tipps zur Fehlerbehebung
 
@@ -41,8 +74,8 @@ Falls dir das nicht weiterhilft, verfolge die Fehlerdiagnose im Folgenden.
 
 **3. Die Lichter gehen an, die Taster-LED leuchtet durchgängig, aber es lässt sich kein Gas geben.**
 
-- Leuchtet die erste der drei Status LEDs **rot** auf der linken Seite des Antriebsmoduls? Dann denkt dein Antriebsmodul, dass die Bremse aktiviert ist und gibt den Motor nicht frei.  
-  Falls ja, verbinde eines der roten 12V Kabel des Bordnetzkabels mit dem Ende des mitgelieferten Bremssignalkabels. Nun sollte die rote LED erloschen sein und beim Gas geben sollte der Motor sich anfangen zu drehen. Ist das der Fall, liegt der Fehler bei deinem Fahrzeug, siehe unten für weitere Diagnosen. Sollte die LED weiterhin rot leuchten, liegt es am Antriebsmodul. Bitte kontaktiere uns.
+- Möglicherweise erkennt dein Antriebsmodul eine betätigte Bremse und gibt den Motor deshalb nicht frei. Das wird an den Status LEDs nicht angezeigt.  
+  Um das zu prüfen, verbinde eines der roten 12V Kabel des Bordnetzkabels mit dem Ende des mitgelieferten Bremssignalkabels. Dreht sich der Motor nun beim Gas geben, liegt der Fehler bei deinem Fahrzeug, siehe unten für weitere Diagnosen. Lässt sich weiterhin kein Gas geben, kontaktiere uns bitte.
 - Leuchtet dein Bremslicht, obwohl du nicht bremst? Dann liegt der Fehler bei deinem Bremslichtschalter. Dein Bremslichtschalter ist falsch eingestellt und muss justiert werden, sodass er nur dann schaltet, wenn du tatsächlich die Bremse betätigst. Dafür gibt es bei einem externen Bremslichtschalter eine Einstellschraube. Bei einem innenliegenden Bremslichtschalter musst du das Hinterrad ausbauen und die Kontaktfahne so verbiegen, dass der Kontakt nur hergestellt wird, wenn du bremst.
 - Ist das Bremssignalkabel richtig angeschlossen, wie in der Umbauanleitung im Kapitel *Montage des Umbaukits → Akkuhalterung* beschrieben?
 - Prüfe, ob am Motorabschaltungskabel 12V anliegen, wenn das Fahrzeug eingeschaltet ist und die Bremse NICHT betätigt wird. Wenn keine 12V anliegen, hast du ein Problem mit der Simson Elektrik und das Antriebsmodul empfängt daher das Signal zum Bremsen. Zur Veranschaulichung der korrekten Schaltung des Bremssignalkabels / Motorabschaltungskabels:

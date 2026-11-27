@@ -66,8 +66,7 @@ Folgende Werkzeuge benötigst du:
       <ul style="list-style-type:none; padding-left:0; margin-top:0;">
         <li><input type="checkbox"> 1x Akkuhalterung (2x Gummipuffer, 2x Kantenschutz)</li>
         <li><input type="checkbox"> 1x Bowdenzugsensor</li>
-        <li><input type="checkbox"> 3x Stellschraube</li>
-        <li><input type="checkbox"> 1x Druckfeder</li>
+        <li><input type="checkbox"> 1x Stellschraube (+2 optional, je nach Gaszuglänge)</li>
         <li><input type="checkbox"> 1x Armatur</li>
         <li><input type="checkbox"> 1x Riemenspannschlüssel</li>
         <li><input type="checkbox"> 1x Tachoantrieb für Antriebsritzel Z=14</li>
@@ -527,9 +526,9 @@ Damit das Drehen des Gasdrehgriffs richtig über den Bowdenzug in ein elektrisch
 
 Nimm dir nun den Gaszugsensor und schraube die Kappe ab. Achtung, darunter sitzt eine komprimierte Feder. Beim UBS sind mehrere Stellschrauben dabei, die verschiedene lange Bowdenzugenden und Rückstellkräfte ermöglichen. Die folgenden Kombinationen sollten auf Anhieb funktionieren:
 
-KR51/2 → M8x25 mit Kontermutter & stärkere Feder
+KR51/2 → M8x25 mit Kontermutter
 
-KR51/1 → M8x10 ohne Kontermutter & stärkere Feder
+KR51/1 → M8x10 ohne Kontermutter
 
 Schraube die passende Stellschraube (1) in den Deckel (2) ein und schiebe den Gaszug durch die Stellschraube. Schiebe von der anderen Seite die Feder auf und schiebe nun den Magnetschieber (3) seitlich auf den Gaszug auf, bis dieser in der Mitte dessen sitzt. Jetzt kannst du den Magnetschieber mitsamt Feder in den Bowdenzugsensor einsetzen und den Deckel mit etwas Druck aufdrehen.
 

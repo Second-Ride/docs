@@ -26,12 +26,32 @@ Nachfolgend alle Leuchtzeichen, welche die LED im Armaturentaster anzeigen kann:
 | Doppelblinken, kurze Pause, Doppelblinken | Konfigurationsmodus. |
 | LED blinkt schnell, etwa viermal pro Sekunde | Das Antriebsmodul überträgt nach einem Firmware-Update neue Einstellungen an die Motorsteuerung. Nicht ausschalten und kein Gas geben, siehe [Firmware Update](../02-firmware-update/index.md#4-nach-dem-update-des-antriebsmoduls). |
 | Nach Drücken des Tasters blinkt die LED drei Mal kurz und ist dann aus | Batterie leer. Bitte aufladen. |
+| Nach 4x Tippen des Tasters blinkt die LED 1x | Komfortmodus aktiv (60 % Beschleunigung), siehe [Komfort- & Sportmodus](#komfort-sportmodus). |
+| Nach 4x Tippen des Tasters blinkt die LED 2x | Sportmodus aktiv (volle Beschleunigung), siehe [Komfort- & Sportmodus](#komfort-sportmodus). |
 
 ---
 
 ## Beschleunigen
 
 Im Unterschied zum Fahren mit Verbrennungsmotor, muss keine Kupplung betätigt, nicht geschaltet und kein Kickstarter bedient werden. Beschleunigt wird wie beim originalen Fahrzeug durch das Drehen des Gasdrehgriffs. Beachte, dass der Elektromotor schneller beschleunigt und kleinere Bewegungen am Gasdrehgriff notwendig sind.
+
+---
+
+## Komfort- & Sportmodus
+
+> [!note] Ab Antriebsmodul Firmware V1.2
+> Neue Antriebsmodule werden ab Werk mit der Firmware V1.2 ausgeliefert. Ein Update ist dafür nicht nötig. Hast du ein älteres Antriebsmodul, bekommst du die Funktion über ein [Firmware Update](../02-firmware-update/index.md).
+
+Ab der Antriebsmodul Firmware V1.2 wird der Antrieb mit der Anfahrbeschleunigung des Komfortmodus ausgeliefert. In diesem Modus ist der Antrieb auf 60 % seiner maximalen Beschleunigungsfähigkeit gedrosselt, damit du dich an die Beschleunigung des Elektroantriebs gewöhnen kannst.
+
+Keine Sorge, im Sportmodus kannst du die volle Beschleunigung erleben. Wenn einmal in den jeweiligen Modus gewechselt wurde, speichert das System die Einstellung dauerhaft, auch über das Aus- und Einschalten hinweg.
+
+Um den Modus zu wechseln, tippe 4 Mal hintereinander den Taster der Lenkerarmatur. Wenn der Moduswechsel erfolgreich war, wird das mit einem Tasterblinken bestätigt:
+
+| LED blinkt | Aktiver Modus |
+|---|---|
+| 1x | Komfortmodus (60 % Beschleunigung) |
+| 2x | Sportmodus (volle Beschleunigung) |
 
 ---
 
