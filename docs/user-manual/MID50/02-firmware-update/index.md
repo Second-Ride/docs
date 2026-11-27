@@ -26,3 +26,11 @@ Alle Akkus und Antriebsmodule haben eigenständige Steuergeräte, welche jeweils
 
 > [!warning] Warnhinweis
 > Lasse das System während des Software-Updates eingeschaltet. Ansonsten kann es zu Schäden an der Elektronik kommen.
+
+---
+
+## Änderungshistorie
+
+### Antriebsmodul Firmware V1.2
+
+- Neuer Komfortmodus: Der Antrieb ist ab Werk auf 60 % seiner maximalen Beschleunigung gedrosselt. Mit 4x Tippen auf den Armaturentaster wechselst du in den Sportmodus mit voller Beschleunigung und zurück. Die Einstellung bleibt auch nach dem Ausschalten gespeichert. Details unter [Komfort- & Sportmodus](../01-bedienung/index.md#komfort-sportmodus).
