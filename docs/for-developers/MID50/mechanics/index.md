@@ -4,9 +4,10 @@ Wir haben den MID50 Antrieb und Akku so entwickelt, dass mit einfach zu entwicke
 
 ---
 ## Antriebsmodul
-Das Antriebsmodul gibt es in drei Varianten: 
+Das Antriebsmodul gibt es in vier Varianten: 
 
 - Zylinder +60° und Abtrieb in Fahrtrichtung rechts
+- Zylinder +0° und Abtrieb in Fahrtrichtung rechts
 - Zylinder +0° und Abtrieb in Fahrtrichtung links
 - Zylinder -60° und Abtrieb in Fahrtrichtung links
 

@@ -1,7 +1,7 @@
 <!-- Die Fragen zu Lieferzeit, Liefertermin, Verzögerungen, Zahlung, Storno, Aktionspreisen und Garantie sind eine Spiegelung der FAQ auf https://second-ride.de/de/lp/faq (Stand 08.10.2026, in der Du-Form). Ändert sich der Text dort, bitte hier anpassen, damit sich Website und Doku nicht widersprechen. -->
 
 ## Wie lange dauert es aktuell, bis mein Umbaukit geliefert wird?
-Bei einer Bestellung heute rechnen wir derzeit mit rund 7 bis 8 Monaten (Stand Oktober 2026). Wie lange es bei dir konkret dauert, hängt vom Modell ab: Nicht jedes Bauteil ist für jedes Umbaukit gleich schnell verfügbar. Deshalb kann ein Umbaukit für ein Modell früher fertig sein als eines für ein anderes, auch wenn es später bestellt wurde. Die Lieferzeit wird dir außerdem bei den einzelnen Produkten im [Online-Shop](https://second-ride.de/de/shop) angezeigt.
+Die aktuelle Lieferzeit wird dir tagesaktuell bei den einzelnen Produkten im [Online-Shop](https://second-ride.de/de/shop) angezeigt. Wie lange es bei dir konkret dauert, hängt vom Modell ab: Nicht jedes Bauteil ist für jedes Umbaukit gleich schnell verfügbar. Deshalb kann ein Umbaukit für ein Modell früher fertig sein als eines für ein anderes, auch wenn es später bestellt wurde.
 
 ## Was sagt der Liefertermin in meinem Kundenkonto aus?
 Der Liefertermin ist ein Richtwert für die geplante Fertigstellung. Er stammt aus unserer Produktionsplanung und ändert sich, wenn sich die Verfügbarkeit einzelner Teile ändert. Wir halten ihn so aktuell wie möglich. Du findest ihn im Login-Bereich des Shops. Sobald dein Umbaukit fertig ist und Versand oder Abholung ansteht, benachrichtigen wir dich separat.

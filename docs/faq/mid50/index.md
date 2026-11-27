@@ -26,7 +26,7 @@ Du kannst sowohl die Seitendeckel als auch den Zylinder und den Zylinderkopf wei
 Aktuell noch nicht. Wir arbeiten daran, aber die Kompatibilität ist bisher nicht hergestellt. In Zukunft wollen wir MID50-Akkus an SR23- und SR24-Antrieben ermöglichen, sodass du die Reichweite deines Kits mit MID50-Akkus aufstocken kannst.
 
 ## Welche maximale Leistung ist mit MID50 möglich?
-Maximal sind ca. 14 kW (20 PS) Spitzenleistung und bis zu 2250 U/min an der Abtriebswelle möglich.
+Maximal einstellbar sind bis zu 6 kW (8 PS) je Akku, mit zwei Akkus bis zu 12 kW (16 PS), und bis zu 2250 U/min an der Abtriebswelle. Das sind keine straßenzulässigen Werte: Was auf der Straße zulässig ist, hängt von Fahrzeug und Zulassung ab, siehe [Antrieb drosseln und endgültig speichern](../../conversion-manual/MID50/throttling/how-to-throttle-your-drive/index.md).
 Die Dauerleistung liegt bei ca. 3-4 kW (bei 80 km/h Fahrtwindkühlung bis ca. 5 kW).
 
 ## Wie funktioniert die Drosselung für die Straßenzulassung?
@@ -63,7 +63,7 @@ In dem MID50 Akku sind Lithium Ionen 21700er Rundzellen mit NMC-Kathoden verbaut
 Im Lieferumfang des Second Ride Umbausatzes ist ein Teilegutachten enthalten. Nach erfolgreichem Umbau gehst du zu deinem örtlichen technischen Dienst oder deiner technischen Prüfstelle (TÜV, Dekra, etc.), welche dein Fahrzeug auf allgemeine Fahrtüchtigkeit hin überprüft (beispielsweise: Ist der Umbausatz fachgerecht verbaut, wie ist der allgemeine Fahrzeugzustand?, ...). Der Umbausatz selbst wird technisch nicht getestet - die für eine Zulassung entscheidenden Tests absolvieren wir und werden in dem Mustergutachten offiziell bestätigt. Nach erfolgter Abnahme steht noch ein formaler Vorgang an: der Gang zur örtlichen Zulassungsstelle, zur Aktualisierung der Betriebserlaubnis.
 
 ## Gibt es eine Garantie?
-Für die Gewährleistung gelten die in Deutschland üblichen gesetzlichen Bestimmungen. Second Ride bietet zusätzlich eine Garantie für die Umbausätze von 12 Monaten.
+Für die Gewährleistung gelten die in Deutschland üblichen gesetzlichen Bestimmungen. Second Ride bietet zusätzlich eine Garantie für die Umbausätze von 2 Jahren.
 
 ## Wird es weiterhin SR24 Umbaukits geben?
 Nein, MID50 hat SR24 komplett ersetzt. Wenn du noch ein altes Kit haben willst, frag gerne in der Community nach: [Gehe zu Discord](https://second-ride.de/community-gast)

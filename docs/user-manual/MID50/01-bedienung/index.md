@@ -70,13 +70,13 @@ Der Umbausatz verfügt über zwei Ladestandsanzeigen: eine an den Armaturen und 
 
 Zum Aufladen des Akkus muss dieser dem Fahrzeug entnommen werden und das Ladegerät mit dem Akku und einer normalen Haushaltssteckdose (230 VAC 50-60 Hz) verbunden werden. Die im Ladegerät verbaute/-n LED zeigt dabei den Status an:
 
-| Ladegerät Modell: | 0,4 kW | 1,0 kW |
+| Ladegerät Modell: | 350 W | 1200 W |
 |---|:---:|:---:|
 | **Kein Akku verbunden** | 🟢<br>grüne LED dauerhaft an | 🟢 …1 s… ⚫ …1 s…<br>grüne LED blinkt im 2 s Takt |
 | **Akku lädt** | 🔴<br>rote LED dauerhaft an | 🔴<br>rote LED dauerhaft an |
 | **Akku ist voll oder sperrt das Laden** | 🟢<br>grüne LED dauerhaft an | 🟢<br>grüne LED dauerhaft an |
 
-Auf dem Gehäuse des 1 kW Ladegeräts sind noch für verschiedene Fehlerfälle andere LED-Muster beschrieben.
+Auf dem Gehäuse des 1200 W Ladegeräts sind noch für verschiedene Fehlerfälle andere LED-Muster beschrieben.
 
 Das Laden ist nur in einem Temperaturbereich von 0–45°C möglich. Außerhalb dieses Temperaturbereiches verhindert das Batteriemanagement-System das Laden. Das macht sich insofern bemerkbar, als dass das Ladegerät anzeigt, der Akku sei voll, die Ladestandsanzeige des Akkus dem jedoch widerspricht. Lass den Akku dann einfach angesteckt, er wird von selbst weiter laden, sobald er wieder innerhalb seiner Komfortzone ist.
 
@@ -157,7 +157,7 @@ Damit du also dein Fahrzeug möglichst ohne Einschränkungen nutzen kannst, lohn
 
 1. Im Sommer das Fahrzeug und den Akku in den Schatten stellen
 2. Im Winter das Akkupack bei Raumtemperatur und Ladezustand von 20–50% lagern
-3. Das Aufladen des Akkus (besonders beim 1 kW Ladegerät) nicht direkt vor der Fahrt machen
+3. Das Aufladen des Akkus (besonders beim 1200 W Ladegerät) nicht direkt vor der Fahrt machen
 4. Last beim Fahren gering halten (siehe *Reichweite Maximieren*)
 
 ---

@@ -27,6 +27,7 @@
       <ul style="list-style-type: none; padding-left: 0;">
         <li><input type="checkbox"> 1x Externer Ladeanschluss</li>
         <li><input type="checkbox"> 1x Ladesteckerkappe</li>
+        <li><input type="checkbox"> 1x Steckergehäuse für den Stecker des Ladegeräts</li>
         <li><input type="checkbox"> 2x M6x90 Schrauben</li>
       </ul>
     </td>
