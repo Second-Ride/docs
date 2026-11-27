@@ -46,9 +46,12 @@ site/
 *.swp
 *.swo
 
-# Obsidian vault (local editing setup, personal per machine)
-docs/.obsidian/
-.obsidian/
+# Obsidian vault: Plugins/Einstellungen werden geteilt (wie im Second-Ride-Wiki),
+# nur persoenlicher/maschinenspezifischer Zustand bleibt lokal.
+docs/.obsidian/workspace.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/graph.json
+docs/.obsidian/plugins/obsidian-git/data.json
 
 # Lokale Notizdateien
 Open Todos.md
