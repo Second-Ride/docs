@@ -1,4 +1,4 @@
-<!-- Die Fragen zu Lieferzeit, Liefertermin, Verzögerungen, Zahlung, Storno, Aktionspreisen und Garantie sind eine Spiegelung der FAQ auf https://second-ride.de/de/lp/faq (Stand 08.10.2026, in der Du-Form). Ändert sich der Text dort, bitte hier anpassen, damit sich Website und Doku nicht widersprechen. -->
+<!-- Die Fragen zu Lieferzeit, Liefertermin, Verzögerungen, Zahlung, Storno, Aktionspreisen und Garantie stammen ursprünglich aus der FAQ der Website (Stand 08.10.2026, in der Du-Form). Die Website-Adresse https://second-ride.de/de/lp/faq leitet inzwischen auf die Doku weiter, diese Seite ist damit die Quelle. -->
 
 ## Wie lange dauert es aktuell, bis mein Umbaukit geliefert wird?
 Die aktuelle Lieferzeit wird dir tagesaktuell bei den einzelnen Produkten im [Online-Shop](https://second-ride.de/de/shop) angezeigt. Wie lange es bei dir konkret dauert, hängt vom Modell ab: Nicht jedes Bauteil ist für jedes Umbaukit gleich schnell verfügbar. Deshalb kann ein Umbaukit für ein Modell früher fertig sein als eines für ein anderes, auch wenn es später bestellt wurde.
