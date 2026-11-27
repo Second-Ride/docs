@@ -14,6 +14,10 @@ on:
         description: "Revisionsnummer (z.B. 04)"
         required: true
         type: string
+      notes:
+        description: "Release Notes: Stichpunkte der Aenderungen seit der letzten Revision"
+        required: true
+        type: string
 
 jobs:
   build-pdf:
@@ -64,4 +68,5 @@ jobs:
         with:
           tag_name: ${{ steps.meta.outputs.tag }}
           name: "${{ inputs.vehicle }} – Revision ${{ inputs.revision }} (${{ steps.meta.outputs.date }})"
+          body: ${{ inputs.notes }}
           files: print-pipeline/output/*.pdf

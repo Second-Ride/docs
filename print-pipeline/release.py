@@ -25,6 +25,13 @@ SCRATCH = Path(__file__).parent
 VEHICLE = os.environ.get("PRINT_VEHICLE", "s50-s51-s70")
 REVISION = os.environ.get("PRINT_REVISION", "00")
 
+# Menschenlesbarer Dateiname der finalen PDF (Slash durch Bindestrich ersetzt,
+# da "/" auf jedem gaengigen Dateisystem als Pfadtrenner gilt).
+FILE_LABELS = {
+    "s50-s51-s70": "Montage- und Bedienungsanleitung S50-S51-S70",
+    "kr51": "Montage- und Bedienungsanleitung KR51-2, KR51-1 & KR51",
+}
+
 
 def run(script):
     print(f"\n=== {script} ===")
@@ -58,7 +65,7 @@ def main():
     date_str = os.environ.get("PRINT_CREATED_DATE", datetime.now().date().isoformat())
     out_dir = SCRATCH / "output"
     out_dir.mkdir(exist_ok=True)
-    final_name = f"{VEHICLE}-Rev{REVISION}-{date_str}.pdf"
+    final_name = f"{FILE_LABELS[VEHICLE]} Rev{REVISION} {date_str}.pdf"
     final_path = out_dir / final_name
     (SCRATCH / "proto_final_with_cover.pdf").replace(final_path)
     print(f"\nFertig: {final_path}")
