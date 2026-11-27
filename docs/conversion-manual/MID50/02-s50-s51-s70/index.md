@@ -62,7 +62,7 @@ Folgende Werkzeuge benötigst du:
     <td valign="top" style="padding-right:30px;">
       <ul style="list-style-type:none; padding-left:0; margin-top:0;">
         <li><input type="checkbox"> 1x Bowdenzugsensor</li>
-        <li><input type="checkbox"> 3x Stellschraube</li>
+        <li><input type="checkbox"> 1x Stellschraube (+2 optional, je nach Gaszuglänge)</li>
         <li><input type="checkbox"> 1x Lenkerarmatur</li>
         <li><input type="checkbox"> 1x Ladestandsanzeige</li>
         <li><input type="checkbox"> 1x Ladestandsanzeigenhalter</li>
